@@ -56,8 +56,14 @@ def run_batch(split: str, rows: pd.DataFrame) -> tuple[int, dict]:
         cmd = ['claude', '-p', PROMPT.format(taxonomy=TAXONOMY, n=len(items)), '--model', MODEL,
                '--output-format', 'json', '--no-session-persistence', '--strict-mcp-config',
                '--disallowedTools', *DENY]
-        for attempt in range(3):
+        attempt = 0
+        while attempt < 3:
             p = subprocess.run(cmd, cwd=tmp, capture_output=True, text=True, timeout=1800, stdin=subprocess.DEVNULL)
+            if 'hit your session limit' in p.stdout or 'usage limit' in p.stdout.lower():
+                # subscription window exhausted: wait for reset without spending a retry
+                print('usage limit; sleeping 10 min', time.strftime('%H:%M'), flush=True)
+                time.sleep(600); continue
+            attempt += 1
             try:
                 meta = json.loads(p.stdout); txt = meta['result'].strip()
                 txt = txt[txt.index('['): txt.rindex(']') + 1]
@@ -65,7 +71,7 @@ def run_batch(split: str, rows: pd.DataFrame) -> tuple[int, dict]:
                 break
             except Exception as e:
                 print('batch retry', attempt, type(e).__name__, (p.stdout or p.stderr)[-300:].replace('\n', ' '), flush=True)
-                time.sleep(30 * (attempt + 1))
+                time.sleep(30 * attempt)
         else:
             return 0, {}
     n = 0
