@@ -1,0 +1,9 @@
+data/
+artefacts/
+.venv/
+__pycache__/
+*.pyc
+fetch.log
+files.txt
+comp_pages.md
+submissions/
