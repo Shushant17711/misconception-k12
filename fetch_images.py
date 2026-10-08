@@ -27,7 +27,7 @@ def get(p):
             if os.path.exists(z):
                 zipfile.ZipFile(z).extractall(d); os.remove(z)
             if os.path.exists(local(p)):
-                return True
+                time.sleep(2.5); return True
         except BaseException:
             pass
         time.sleep(min(60, 2 ** a) + random.random())
