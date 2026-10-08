@@ -1,2 +1,4 @@
 time,exp,oof_map3,git,config
 2026-10-08 23:20:24,prior,0.51489,nogit,"{""a_topic"": 1, ""a_q"": 4}"
+2026-10-08,tfidf_gold,0.5408,262bedd,"char_wb 2-5, LR C=10, gold transcripts"
+2026-10-08,tfidf_gold+prior,0.5433,262bedd,log-linear w=0.7

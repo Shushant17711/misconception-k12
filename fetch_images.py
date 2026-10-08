@@ -10,7 +10,7 @@ api = KaggleApi()
 for a in range(12):
     try:
         api.authenticate(); break
-    except Exception as e:
+    except BaseException as e:
         print('auth retry', a, e.__class__.__name__, flush=True); time.sleep(min(300, 15 * 2 ** a))
 paths = [l.split(',')[0] for l in open('files.txt') if any(f'/images/{s}/' in l for s in splits)]
 local = lambda p: 'data/' + p.removeprefix('competition_data/')
@@ -28,7 +28,7 @@ def get(p):
                 zipfile.ZipFile(z).extractall(d); os.remove(z)
             if os.path.exists(local(p)):
                 return True
-        except Exception:
+        except BaseException:
             pass
         time.sleep(min(60, 2 ** a) + random.random())
     print('FAIL', p, flush=True)
