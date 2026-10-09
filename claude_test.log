@@ -1,1 +1,2 @@
-v1-opus: 265 test rows in 34 batches
+v1-opus: 4 test rows in 1 batches
+done 4/4 {'total_cost_usd': 0.19413439999999998, 'duration_ms': 30658, 'num_turns': 6, 'input_tokens': 6, 'output_tokens': 2763, 'cache_read_input_tokens': 36332, 'cache_creation_input_tokens': 16448}
