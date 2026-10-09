@@ -1,1 +1,25 @@
 v1-opus: 2993 test rows in 375 batches
+done 8/2993 {'total_cost_usd': 0.3018034, 'duration_ms': 39352, 'num_turns': 13, 'input_tokens': 8, 'output_tokens': 3895, 'cache_read_input_tokens': 54717, 'cache_creation_input_tokens': 26616}
+done 16/2993 {'total_cost_usd': 0.3292198, 'duration_ms': 43678, 'num_turns': 13, 'input_tokens': 6, 'output_tokens': 4469, 'cache_read_input_tokens': 32839, 'cache_creation_input_tokens': 29156}
+done 24/2993 {'total_cost_usd': 0.33898039999999996, 'duration_ms': 43495, 'num_turns': 14, 'input_tokens': 16, 'output_tokens': 3649, 'cache_read_input_tokens': 120002, 'cache_creation_input_tokens': 30242}
+done 32/2993 {'total_cost_usd': 0.31709, 'duration_ms': 35060, 'num_turns': 11, 'input_tokens': 10, 'output_tokens': 3669, 'cache_read_input_tokens': 56870, 'cache_creation_input_tokens': 29037}
+done 40/2993 {'total_cost_usd': 0.3302954, 'duration_ms': 48582, 'num_turns': 12, 'input_tokens': 8, 'output_tokens': 4759, 'cache_read_input_tokens': 53337, 'cache_creation_input_tokens': 28052}
+done 48/2993 {'total_cost_usd': 0.315549, 'duration_ms': 33809, 'num_turns': 12, 'input_tokens': 10, 'output_tokens': 3291, 'cache_read_input_tokens': 54325, 'cache_creation_input_tokens': 29853}
+done 56/2993 {'total_cost_usd': 0.33412719999999996, 'duration_ms': 43265, 'num_turns': 13, 'input_tokens': 10, 'output_tokens': 4369, 'cache_read_input_tokens': 56776, 'cache_creation_input_tokens': 29419}
+done 64/2993 {'total_cost_usd': 0.3102134, 'duration_ms': 46608, 'num_turns': 11, 'input_tokens': 6, 'output_tokens': 4618, 'cache_read_input_tokens': 32667, 'cache_creation_input_tokens': 26412}
+done 72/2993 {'total_cost_usd': 0.3310982, 'duration_ms': 42111, 'num_turns': 13, 'input_tokens': 8, 'output_tokens': 4350, 'cache_read_input_tokens': 32411, 'cache_creation_input_tokens': 29698}
+done 80/2993 {'total_cost_usd': 0.2888536, 'duration_ms': 37734, 'num_turns': 11, 'input_tokens': 6, 'output_tokens': 4045, 'cache_read_input_tokens': 32608, 'cache_creation_input_tokens': 25176}
+done 88/2993 {'total_cost_usd': 0.32717500000000005, 'duration_ms': 40036, 'num_turns': 11, 'input_tokens': 10, 'output_tokens': 4035, 'cache_read_input_tokens': 57255, 'cache_creation_input_tokens': 29373}
+done 96/2993 {'total_cost_usd': 0.32023779999999996, 'duration_ms': 49076, 'num_turns': 12, 'input_tokens': 6, 'output_tokens': 4939, 'cache_read_input_tokens': 32529, 'cache_creation_input_tokens': 26866}
+done 104/2993 {'total_cost_usd': 0.31696500000000005, 'duration_ms': 32528, 'num_turns': 13, 'input_tokens': 12, 'output_tokens': 3413, 'cache_read_input_tokens': 57165, 'cache_creation_input_tokens': 29653}
+done 112/2993 {'total_cost_usd': 0.3104086, 'duration_ms': 58230, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 4287, 'cache_read_input_tokens': 54703, 'cache_creation_input_tokens': 26712}
+done 120/2993 {'total_cost_usd': 0.3042036, 'duration_ms': 41996, 'num_turns': 11, 'input_tokens': 8, 'output_tokens': 4163, 'cache_read_input_tokens': 53038, 'cache_creation_input_tokens': 26288}
+done 128/2993 {'total_cost_usd': 0.3066128, 'duration_ms': 37654, 'num_turns': 11, 'input_tokens': 8, 'output_tokens': 3856, 'cache_read_input_tokens': 53864, 'cache_creation_input_tokens': 27336}
+done 136/2993 {'total_cost_usd': 0.358119, 'duration_ms': 45339, 'num_turns': 13, 'input_tokens': 10, 'output_tokens': 4576, 'cache_read_input_tokens': 54115, 'cache_creation_input_tokens': 31967}
+done 144/2993 {'total_cost_usd': 0.31129880000000004, 'duration_ms': 44917, 'num_turns': 13, 'input_tokens': 14, 'output_tokens': 3905, 'cache_read_input_tokens': 120674, 'cache_creation_input_tokens': 26126}
+done 152/2993 {'total_cost_usd': 0.32146399999999997, 'duration_ms': 41963, 'num_turns': 12, 'input_tokens': 10, 'output_tokens': 4280, 'cache_read_input_tokens': 54560, 'cache_creation_input_tokens': 28114}
+done 160/2993 {'total_cost_usd': 0.322821, 'duration_ms': 47013, 'num_turns': 13, 'input_tokens': 8, 'output_tokens': 4599, 'cache_read_input_tokens': 54285, 'cache_creation_input_tokens': 27494}
+done 168/2993 {'total_cost_usd': 0.35775140000000005, 'duration_ms': 49746, 'num_turns': 13, 'input_tokens': 16, 'output_tokens': 4381, 'cache_read_input_tokens': 127537, 'cache_creation_input_tokens': 30570}
+done 176/2993 {'total_cost_usd': 0.3130042, 'duration_ms': 40552, 'num_turns': 13, 'input_tokens': 8, 'output_tokens': 4268, 'cache_read_input_tokens': 32501, 'cache_creation_input_tokens': 27639}
+done 184/2993 {'total_cost_usd': 0.28786480000000003, 'duration_ms': 38722, 'num_turns': 11, 'input_tokens': 6, 'output_tokens': 4068, 'cache_read_input_tokens': 32764, 'cache_creation_input_tokens': 24991}
+done 192/2993 {'total_cost_usd': 0.33896519999999997, 'duration_ms': 39511, 'num_turns': 13, 'input_tokens': 12, 'output_tokens': 3870, 'cache_read_input_tokens': 55866, 'cache_creation_input_tokens': 31293}

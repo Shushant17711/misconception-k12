@@ -4,3 +4,4 @@ time,exp,oof_map3,git,config
 2026-10-08,tfidf_gold+prior,0.5433,262bedd,log-linear w=0.7
 2026-10-09,claude_opus_v1,0.806,,"opus zero-shot, n=162 train rows; blend w/prior w=1.0"
 2026-10-09,claude_v1-opus_sub489,0.8076,,"LB 0.5545; opus on 489/3498 test, prior elsewhere"
+2026-10-09,claude_v1-opus_sub665,0.8076,,"LB 0.56316; opus on ~665/3498 test (19%), prior elsewhere"
