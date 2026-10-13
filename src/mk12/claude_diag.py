@@ -21,6 +21,20 @@ OUT = ART / 'claude' / TAG
 TAXONOMY = (DATA / 'taxonomy_v1.csv').read_text()
 CANDS = int(os.environ.get('MK12_CANDS', 0))  # >0: add top-K question-prior codes per item (OOF on train)
 _PRIOR = {}
+SHOTS = int(os.environ.get('MK12_SHOTS', 0))  # >0: add up to K labelled train workings of the same question
+_TRAIN = None
+
+
+def examples(qid: str, trace_id: str) -> list:
+    global _TRAIN
+    if _TRAIN is None: _TRAIN = load('train')
+    d = _TRAIN[(_TRAIN.question_id == qid) & (_TRAIN.trace_id != trace_id)].head(SHOTS)
+    out = []
+    for r in d.itertuples():
+        try: notes = [{k: m.get(k) for k in ('step', 'category', 'severity', 'root', 'text')} for m in json.loads(r.misconceptions)]
+        except (TypeError, ValueError): notes = []
+        out.append(dict(working=r.transcription_steps, root_label=r.root_code, annotator_notes=notes))
+    return out
 
 
 def past_labels(split: str, trace_id: str) -> list:
@@ -58,6 +72,10 @@ DENY = ['Bash', 'Edit', 'Write', 'Glob', 'Grep', 'WebFetch', 'WebSearch', 'Agent
 CANDS_DESC = (', past_labels (how often each label was the root misconception for OTHER students on this same '
               'question, as [code, share] - a base rate only: the photo decides; codes outside this list are allowed)')
 
+SHOTS_DESC = (', graded_examples (OTHER students\' workings on this same question, transcribed, with the expert '
+              'annotator\'s root_label and notes - use them to learn how this annotator labels this question; '
+              'the current photo may match one of them or none)')
+
 
 def run_batch(split: str, rows: pd.DataFrame) -> tuple[int, dict]:
     with tempfile.TemporaryDirectory(prefix='mk12-') as tmp:
@@ -69,9 +87,10 @@ def run_batch(split: str, rows: pd.DataFrame) -> tuple[int, dict]:
                 qimg = f'q{i}_{r.question_image_file}'; shutil.copy(DATA / 'images/questions' / r.question_image_file, tmp / qimg)
             items.append(dict(id=f'item{i}', image=img, grade=int(r.grade), topic=r.topic_name,
                               question=r.question_text, question_image=qimg, correct_answer=str(r.correct_answer)))
+            if SHOTS: items[-1]['graded_examples'] = examples(r.question_id, r.trace_id)
             if CANDS: items[-1]['past_labels'] = past_labels(split, r.trace_id)
         (tmp / 'items.json').write_text(json.dumps(items, ensure_ascii=False, indent=1))
-        cmd = ['claude', '-p', PROMPT.format(taxonomy=TAXONOMY, n=len(items), cands_desc=CANDS_DESC if CANDS else ''), '--model', MODEL,
+        cmd = ['claude', '-p', PROMPT.format(taxonomy=TAXONOMY, n=len(items), cands_desc=(CANDS_DESC if CANDS else '') + (SHOTS_DESC if SHOTS else '')), '--model', MODEL,
                '--output-format', 'json', '--no-session-persistence', '--strict-mcp-config',
                '--disallowedTools', *DENY]
         attempt = 0
