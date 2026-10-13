@@ -15,6 +15,8 @@ from .metric import map3_probs
 from .log import load_probs
 from .submit import write
 
+LOG = '--log' in sys.argv  # log-linear prior mix (CV 0.8148 vs 0.8128 linear, n=1500)
+
 
 def fit_T(C, y, K, alpha):
     T = alpha * np.eye(K)
@@ -26,6 +28,7 @@ def fit_T(C, y, K, alpha):
 def apply(C, T, prior, beta):
     out = C @ T
     out = out / out.sum(1, keepdims=True)
+    if LOG: return np.exp(np.log(out + 1e-9) + beta * np.log(prior + 1e-9))
     return (1 - beta) * out + beta * prior
 
 
@@ -37,7 +40,7 @@ def cv(tag):
     rng = np.random.default_rng(0); f = rng.integers(0, 5, len(m))
     print(f'{tag}: n={len(m)} raw {map3_probs(C[m], y[m]):.4f}')
     res = []
-    for alpha, beta in itertools.product([1, 3, 10, 30, 100], [0, 0.02, 0.05]):
+    for alpha, beta in itertools.product([1, 3, 10, 30, 100], [0, 0.05, 0.1]):
         out = np.zeros((len(m), K))
         for k in range(5):
             T = fit_T(C[m[f != k]], y[m[f != k]], K, alpha)
@@ -56,4 +59,4 @@ if __name__ == '__main__':
         T = fit_T(Ct[m], y[m], K, alpha)
         Ce = claude_matrix(te, P, L); pte = load_probs('prior')[1]; has = ~np.isnan(Ce[:, 0])
         out = pte.copy(); out[has] = apply(Ce[has], T, pte[has], beta)
-        print(write(out, f'calib_{tag}'))
+        print(write(out, f'calib_{tag}' + ('_log' if LOG else '')))
