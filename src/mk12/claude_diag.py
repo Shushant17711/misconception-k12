@@ -19,6 +19,19 @@ BATCH = int(os.environ.get('MK12_BATCH', 8))
 WORKERS = int(os.environ.get('MK12_WORKERS', 3))
 OUT = ART / 'claude' / TAG
 TAXONOMY = (DATA / 'taxonomy_v1.csv').read_text()
+CANDS = int(os.environ.get('MK12_CANDS', 0))  # >0: add top-K question-prior codes per item (OOF on train)
+_PRIOR = {}
+
+
+def past_labels(split: str, trace_id: str) -> list:
+    if not _PRIOR:
+        from .log import load_probs
+        from .data import labels
+        L = labels(); oof, te = load_probs('prior')
+        for sp, P in (('train', oof), ('test', te)):
+            for t, row in zip(load(sp).trace_id, P):
+                _PRIOR[(sp, t)] = [[L[j], round(float(row[j]), 2)] for j in row.argsort()[::-1][:CANDS]]
+    return _PRIOR[(split, trace_id)]
 
 PROMPT = """You are diagnosing handwritten math working by Indonesian K-12 students (grades 4-12).
 
@@ -27,7 +40,7 @@ The misconception taxonomy (CSV) is:
 {taxonomy}
 </taxonomy>
 
-items.json in the current directory lists {n} items: id, image (photo of the student's working, in this directory), grade, topic, question (Indonesian, LaTeX), question_image (diagram file or null), correct_answer (answer key).
+items.json in the current directory lists {n} items: id, image (photo of the student's working, in this directory), grade, topic, question (Indonesian, LaTeX), question_image (diagram file or null), correct_answer (answer key){cands_desc}.
 
 For EVERY item: Read the photo (and question_image if present). Photos may be rotated, faint, or have crossed-out parts. Then
 1. Transcribe the working line by line: "L1 | ...\\nL2 | ..." (verbatim; annotator notes in [brackets], e.g. [crossed out]).
@@ -42,6 +55,10 @@ Only read files in the current directory. Your FINAL message must be ONLY a JSON
 DENY = ['Bash', 'Edit', 'Write', 'Glob', 'Grep', 'WebFetch', 'WebSearch', 'Agent', 'NotebookEdit', 'Skill', 'Task']
 
 
+CANDS_DESC = (', past_labels (how often each label was the root misconception for OTHER students on this same '
+              'question, as [code, share] - a base rate only: the photo decides; codes outside this list are allowed)')
+
+
 def run_batch(split: str, rows: pd.DataFrame) -> tuple[int, dict]:
     with tempfile.TemporaryDirectory(prefix='mk12-') as tmp:
         tmp = Path(tmp); items = []
@@ -52,8 +69,9 @@ def run_batch(split: str, rows: pd.DataFrame) -> tuple[int, dict]:
                 qimg = f'q{i}_{r.question_image_file}'; shutil.copy(DATA / 'images/questions' / r.question_image_file, tmp / qimg)
             items.append(dict(id=f'item{i}', image=img, grade=int(r.grade), topic=r.topic_name,
                               question=r.question_text, question_image=qimg, correct_answer=str(r.correct_answer)))
+            if CANDS: items[-1]['past_labels'] = past_labels(split, r.trace_id)
         (tmp / 'items.json').write_text(json.dumps(items, ensure_ascii=False, indent=1))
-        cmd = ['claude', '-p', PROMPT.format(taxonomy=TAXONOMY, n=len(items)), '--model', MODEL,
+        cmd = ['claude', '-p', PROMPT.format(taxonomy=TAXONOMY, n=len(items), cands_desc=CANDS_DESC if CANDS else ''), '--model', MODEL,
                '--output-format', 'json', '--no-session-persistence', '--strict-mcp-config',
                '--disallowedTools', *DENY]
         attempt = 0
@@ -90,6 +108,9 @@ def run_batch(split: str, rows: pd.DataFrame) -> tuple[int, dict]:
 def todo(split: str, limit: int | None = None) -> pd.DataFrame:
     d = load(split)
     d = d[d.image_path.map(os.path.exists) & ~d.trace_id.map(lambda t: (OUT / f'{t}.json').exists())]
+    if os.environ.get('MK12_SAME_AS'):  # A/B: only rows another tag already covers
+        ref = ART / 'claude' / os.environ['MK12_SAME_AS']
+        d = d[d.trace_id.map(lambda t: (ref / f'{t}.json').exists())]
     return d.head(limit) if limit else d
 
 
