@@ -1,0 +1,316 @@
+v2-cands-opus: 1338 train rows in 168 batches
+done 8/1338 {'total_cost_usd': 0.29942219999999997, 'duration_ms': 37475, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 3906, 'cache_read_input_tokens': 54831, 'cache_creation_input_tokens': 26288}
+done 16/1338 {'total_cost_usd': 0.3252818, 'duration_ms': 46349, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 4825, 'cache_read_input_tokens': 57229, 'cache_creation_input_tokens': 27163}
+done 24/1338 {'total_cost_usd': 0.3296094, 'duration_ms': 54700, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 5525, 'cache_read_input_tokens': 55627, 'cache_creation_input_tokens': 25994}
+done 32/1338 {'total_cost_usd': 0.4056864, 'duration_ms': 64524, 'num_turns': 14, 'input_tokens': 24, 'output_tokens': 5427, 'cache_read_input_tokens': 246692, 'cache_creation_input_tokens': 30964}
+done 40/1338 {'total_cost_usd': 0.368576, 'duration_ms': 50876, 'num_turns': 12, 'input_tokens': 12, 'output_tokens': 4888, 'cache_read_input_tokens': 107440, 'cache_creation_input_tokens': 31160}
+done 48/1338 {'total_cost_usd': 0.3165588, 'duration_ms': 39441, 'num_turns': 12, 'input_tokens': 12, 'output_tokens': 3623, 'cache_read_input_tokens': 93694, 'cache_creation_input_tokens': 28164}
+done 56/1338 {'total_cost_usd': 0.39139799999999997, 'duration_ms': 55584, 'num_turns': 13, 'input_tokens': 14, 'output_tokens': 5261, 'cache_read_input_tokens': 111450, 'cache_creation_input_tokens': 32979}
+done 64/1338 {'total_cost_usd': 0.3452102, 'duration_ms': 55570, 'num_turns': 13, 'input_tokens': 12, 'output_tokens': 4937, 'cache_read_input_tokens': 100071, 'cache_creation_input_tokens': 28301}
+done 72/1338 {'total_cost_usd': 0.3865084, 'duration_ms': 48097, 'num_turns': 14, 'input_tokens': 12, 'output_tokens': 4396, 'cache_read_input_tokens': 93422, 'cache_creation_input_tokens': 34982}
+done 80/1338 {'total_cost_usd': 0.3268492, 'duration_ms': 50355, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 5232, 'cache_read_input_tokens': 53886, 'cache_creation_input_tokens': 26425}
+done 88/1338 {'total_cost_usd': 0.2915604, 'duration_ms': 41572, 'num_turns': 10, 'input_tokens': 6, 'output_tokens': 4447, 'cache_read_input_tokens': 31822, 'cache_creation_input_tokens': 24529}
+done 96/1338 {'total_cost_usd': 0.3548408, 'duration_ms': 49369, 'num_turns': 13, 'input_tokens': 12, 'output_tokens': 4883, 'cache_read_input_tokens': 101584, 'cache_creation_input_tokens': 29602}
+done 104/1338 {'total_cost_usd': 0.3192944, 'duration_ms': 41075, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 4185, 'cache_read_input_tokens': 56972, 'cache_creation_input_tokens': 28021}
+done 112/1338 {'total_cost_usd': 0.2891018, 'duration_ms': 30860, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 3249, 'cache_read_input_tokens': 55449, 'cache_creation_input_tokens': 26625}
+done 120/1338 {'total_cost_usd': 0.3268446, 'duration_ms': 47194, 'num_turns': 13, 'input_tokens': 12, 'output_tokens': 4025, 'cache_read_input_tokens': 83403, 'cache_creation_input_tokens': 28702}
+done 128/1338 {'total_cost_usd': 0.34455040000000003, 'duration_ms': 49617, 'num_turns': 12, 'input_tokens': 10, 'output_tokens': 5074, 'cache_read_input_tokens': 70432, 'cache_creation_input_tokens': 28618}
+done 136/1338 {'total_cost_usd': 0.3138318, 'duration_ms': 55158, 'num_turns': 10, 'input_tokens': 6, 'output_tokens': 5674, 'cache_read_input_tokens': 31839, 'cache_creation_input_tokens': 24245}
+done 144/1338 {'total_cost_usd': 0.277081, 'duration_ms': 29850, 'num_turns': 10, 'input_tokens': 6, 'output_tokens': 3193, 'cache_read_input_tokens': 34145, 'cache_creation_input_tokens': 25796}
+done 152/1338 {'total_cost_usd': 0.323212, 'duration_ms': 52792, 'num_turns': 10, 'input_tokens': 6, 'output_tokens': 5813, 'cache_read_input_tokens': 31840, 'cache_creation_input_tokens': 25070}
+done 160/1338 {'total_cost_usd': 0.35630059999999997, 'duration_ms': 48366, 'num_turns': 14, 'input_tokens': 14, 'output_tokens': 4524, 'cache_read_input_tokens': 112103, 'cache_creation_input_tokens': 30418}
+done 168/1338 {'total_cost_usd': 0.31490300000000004, 'duration_ms': 42472, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 4045, 'cache_read_input_tokens': 57055, 'cache_creation_input_tokens': 27820}
+done 176/1338 {'total_cost_usd': 0.3533728, 'duration_ms': 48069, 'num_turns': 13, 'input_tokens': 14, 'output_tokens': 4449, 'cache_read_input_tokens': 115444, 'cache_creation_input_tokens': 30156}
+done 184/1338 {'total_cost_usd': 0.3395108, 'duration_ms': 41664, 'num_turns': 13, 'input_tokens': 10, 'output_tokens': 4381, 'cache_read_input_tokens': 69254, 'cache_creation_input_tokens': 29750}
+done 192/1338 {'total_cost_usd': 0.3589036, 'duration_ms': 67703, 'num_turns': 10, 'input_tokens': 12, 'output_tokens': 6323, 'cache_read_input_tokens': 96818, 'cache_creation_input_tokens': 26629}
+done 200/1338 {'total_cost_usd': 0.3022334, 'duration_ms': 47764, 'num_turns': 10, 'input_tokens': 6, 'output_tokens': 4586, 'cache_read_input_tokens': 31807, 'cache_creation_input_tokens': 25516}
+done 208/1338 {'total_cost_usd': 0.30030660000000003, 'duration_ms': 44248, 'num_turns': 11, 'input_tokens': 12, 'output_tokens': 3476, 'cache_read_input_tokens': 99773, 'cache_creation_input_tokens': 26348}
+done 216/1338 {'total_cost_usd': 0.3490562, 'duration_ms': 43828, 'num_turns': 11, 'input_tokens': 12, 'output_tokens': 4317, 'cache_read_input_tokens': 101421, 'cache_creation_input_tokens': 30298}
+done 224/1338 {'total_cost_usd': 0.387656, 'duration_ms': 69558, 'num_turns': 11, 'input_tokens': 10, 'output_tokens': 6068, 'cache_read_input_tokens': 81360, 'cache_creation_input_tokens': 31248}
+done 232/1338 {'total_cost_usd': 0.3765446, 'duration_ms': 46545, 'num_turns': 14, 'input_tokens': 12, 'output_tokens': 4595, 'cache_read_input_tokens': 88583, 'cache_creation_input_tokens': 33360}
+done 240/1338 {'total_cost_usd': 0.3420122, 'duration_ms': 46860, 'num_turns': 12, 'input_tokens': 12, 'output_tokens': 4667, 'cache_read_input_tokens': 93441, 'cache_creation_input_tokens': 28742}
+done 248/1338 {'total_cost_usd': 0.39685360000000003, 'duration_ms': 55685, 'num_turns': 13, 'input_tokens': 16, 'output_tokens': 5262, 'cache_read_input_tokens': 159788, 'cache_creation_input_tokens': 32449}
+done 256/1338 {'total_cost_usd': 0.38622639999999997, 'duration_ms': 50284, 'num_turns': 15, 'input_tokens': 14, 'output_tokens': 4727, 'cache_read_input_tokens': 137272, 'cache_creation_input_tokens': 33022}
+done 264/1338 {'total_cost_usd': 0.345775, 'duration_ms': 39485, 'num_turns': 16, 'input_tokens': 14, 'output_tokens': 3367, 'cache_read_input_tokens': 132495, 'cache_creation_input_tokens': 31485}
+done 272/1338 {'total_cost_usd': 0.35728119999999997, 'duration_ms': 46770, 'num_turns': 16, 'input_tokens': 10, 'output_tokens': 4660, 'cache_read_input_tokens': 81646, 'cache_creation_input_tokens': 30964}
+done 280/1338 {'total_cost_usd': 0.39094300000000004, 'duration_ms': 58646, 'num_turns': 15, 'input_tokens': 18, 'output_tokens': 4133, 'cache_read_input_tokens': 164255, 'cache_creation_input_tokens': 34420}
+done 288/1338 {'total_cost_usd': 0.4228822, 'duration_ms': 59471, 'num_turns': 15, 'input_tokens': 14, 'output_tokens': 5907, 'cache_read_input_tokens': 122471, 'cache_creation_input_tokens': 35024}
+done 296/1338 {'total_cost_usd': 0.3502926, 'duration_ms': 44865, 'num_turns': 13, 'input_tokens': 16, 'output_tokens': 4414, 'cache_read_input_tokens': 151983, 'cache_creation_input_tokens': 28944}
+done 304/1338 {'total_cost_usd': 0.34570480000000003, 'duration_ms': 55452, 'num_turns': 11, 'input_tokens': 8, 'output_tokens': 5876, 'cache_read_input_tokens': 31884, 'cache_creation_input_tokens': 27722}
+done 312/1338 {'total_cost_usd': 0.35835739999999994, 'duration_ms': 62323, 'num_turns': 12, 'input_tokens': 6, 'output_tokens': 6211, 'cache_read_input_tokens': 34167, 'cache_creation_input_tokens': 28410}
+done 320/1338 {'total_cost_usd': 0.34733500000000006, 'duration_ms': 70057, 'num_turns': 14, 'input_tokens': 18, 'output_tokens': 3911, 'cache_read_input_tokens': 176775, 'cache_creation_input_tokens': 29211}
+done 328/1338 {'total_cost_usd': 0.32436360000000003, 'duration_ms': 48427, 'num_turns': 11, 'input_tokens': 10, 'output_tokens': 4829, 'cache_read_input_tokens': 54078, 'cache_creation_input_tokens': 27116}
+done 336/1338 {'total_cost_usd': 0.3436332, 'duration_ms': 41424, 'num_turns': 15, 'input_tokens': 12, 'output_tokens': 4008, 'cache_read_input_tokens': 87766, 'cache_creation_input_tokens': 30734}
+done 344/1338 {'total_cost_usd': 0.3305114, 'duration_ms': 37510, 'num_turns': 12, 'input_tokens': 8, 'output_tokens': 4288, 'cache_read_input_tokens': 34037, 'cache_creation_input_tokens': 29739}
+usage limit; sleeping 10 min 22:20
+usage limit; sleeping 10 min 22:20
+done 352/1338 {'total_cost_usd': 0.36121519999999996, 'duration_ms': 55516, 'num_turns': 13, 'input_tokens': 10, 'output_tokens': 5400, 'cache_read_input_tokens': 76076, 'cache_creation_input_tokens': 29745}
+usage limit; sleeping 10 min 22:21
+usage limit; sleeping 10 min 22:30
+usage limit; sleeping 10 min 22:30
+usage limit; sleeping 10 min 22:31
+usage limit; sleeping 10 min 22:40
+usage limit; sleeping 10 min 22:40
+usage limit; sleeping 10 min 22:41
+usage limit; sleeping 10 min 22:50
+usage limit; sleeping 10 min 22:50
+usage limit; sleeping 10 min 22:51
+usage limit; sleeping 10 min 23:00
+usage limit; sleeping 10 min 23:01
+usage limit; sleeping 10 min 23:01
+usage limit; sleeping 10 min 23:11
+usage limit; sleeping 10 min 23:11
+usage limit; sleeping 10 min 23:11
+usage limit; sleeping 10 min 23:21
+usage limit; sleeping 10 min 23:21
+usage limit; sleeping 10 min 23:21
+usage limit; sleeping 10 min 23:31
+usage limit; sleeping 10 min 23:31
+usage limit; sleeping 10 min 23:31
+usage limit; sleeping 10 min 23:41
+usage limit; sleeping 10 min 23:41
+usage limit; sleeping 10 min 23:41
+usage limit; sleeping 10 min 23:51
+usage limit; sleeping 10 min 23:51
+usage limit; sleeping 10 min 23:51
+usage limit; sleeping 10 min 00:01
+usage limit; sleeping 10 min 00:01
+usage limit; sleeping 10 min 00:01
+usage limit; sleeping 10 min 00:11
+usage limit; sleeping 10 min 00:11
+usage limit; sleeping 10 min 00:11
+usage limit; sleeping 10 min 00:21
+usage limit; sleeping 10 min 00:21
+usage limit; sleeping 10 min 00:21
+usage limit; sleeping 10 min 00:31
+usage limit; sleeping 10 min 00:31
+usage limit; sleeping 10 min 00:31
+usage limit; sleeping 10 min 00:41
+usage limit; sleeping 10 min 00:41
+usage limit; sleeping 10 min 00:41
+usage limit; sleeping 10 min 00:51
+usage limit; sleeping 10 min 00:51
+usage limit; sleeping 10 min 00:51
+usage limit; sleeping 10 min 01:01
+usage limit; sleeping 10 min 01:01
+usage limit; sleeping 10 min 01:01
+usage limit; sleeping 10 min 01:11
+usage limit; sleeping 10 min 01:11
+usage limit; sleeping 10 min 01:11
+usage limit; sleeping 10 min 01:21
+usage limit; sleeping 10 min 01:21
+usage limit; sleeping 10 min 01:21
+usage limit; sleeping 10 min 01:31
+usage limit; sleeping 10 min 01:31
+usage limit; sleeping 10 min 01:31
+usage limit; sleeping 10 min 01:41
+usage limit; sleeping 10 min 01:41
+usage limit; sleeping 10 min 01:41
+usage limit; sleeping 10 min 01:51
+usage limit; sleeping 10 min 01:51
+usage limit; sleeping 10 min 01:51
+usage limit; sleeping 10 min 02:01
+usage limit; sleeping 10 min 02:01
+usage limit; sleeping 10 min 02:01
+usage limit; sleeping 10 min 02:11
+usage limit; sleeping 10 min 02:11
+usage limit; sleeping 10 min 02:12
+usage limit; sleeping 10 min 02:21
+usage limit; sleeping 10 min 02:21
+usage limit; sleeping 10 min 02:22
+usage limit; sleeping 10 min 02:31
+usage limit; sleeping 10 min 02:31
+usage limit; sleeping 10 min 02:32
+done 360/1338 {'total_cost_usd': 0.339524, 'duration_ms': 40737, 'num_turns': 13, 'input_tokens': 12, 'output_tokens': 3998, 'cache_read_input_tokens': 94540, 'cache_creation_input_tokens': 30076}
+done 368/1338 {'total_cost_usd': 0.3797186000000001, 'duration_ms': 49450, 'num_turns': 20, 'input_tokens': 26, 'output_tokens': 3746, 'cache_read_input_tokens': 255753, 'cache_creation_input_tokens': 31693}
+done 376/1338 {'total_cost_usd': 0.3769282, 'duration_ms': 43716, 'num_turns': 18, 'input_tokens': 18, 'output_tokens': 3912, 'cache_read_input_tokens': 183481, 'cache_creation_input_tokens': 32740}
+done 384/1338 {'total_cost_usd': 0.3749494, 'duration_ms': 49108, 'num_turns': 17, 'input_tokens': 18, 'output_tokens': 3726, 'cache_read_input_tokens': 179987, 'cache_creation_input_tokens': 33045}
+done 392/1338 {'total_cost_usd': 0.3596536000000001, 'duration_ms': 34343, 'num_turns': 16, 'input_tokens': 14, 'output_tokens': 3220, 'cache_read_input_tokens': 99068, 'cache_creation_input_tokens': 34423}
+done 400/1338 {'total_cost_usd': 0.322238, 'duration_ms': 36983, 'num_turns': 14, 'input_tokens': 12, 'output_tokens': 3743, 'cache_read_input_tokens': 92490, 'cache_creation_input_tokens': 28604}
+done 408/1338 {'total_cost_usd': 0.3370498, 'duration_ms': 36861, 'num_turns': 15, 'input_tokens': 14, 'output_tokens': 3449, 'cache_read_input_tokens': 120029, 'cache_creation_input_tokens': 30501}
+done 416/1338 {'total_cost_usd': 0.3512356, 'duration_ms': 43987, 'num_turns': 18, 'input_tokens': 20, 'output_tokens': 3970, 'cache_read_input_tokens': 162978, 'cache_creation_input_tokens': 29895}
+done 424/1338 {'total_cost_usd': 0.3457176, 'duration_ms': 40769, 'num_turns': 14, 'input_tokens': 16, 'output_tokens': 3736, 'cache_read_input_tokens': 158548, 'cache_creation_input_tokens': 29903}
+done 432/1338 {'total_cost_usd': 0.3184944, 'duration_ms': 34510, 'num_turns': 13, 'input_tokens': 12, 'output_tokens': 3360, 'cache_read_input_tokens': 93952, 'cache_creation_input_tokens': 29057}
+done 440/1338 {'total_cost_usd': 0.3338544, 'duration_ms': 37724, 'num_turns': 14, 'input_tokens': 12, 'output_tokens': 3998, 'cache_read_input_tokens': 92552, 'cache_creation_input_tokens': 29417}
+done 448/1338 {'total_cost_usd': 0.32827300000000004, 'duration_ms': 36535, 'num_turns': 14, 'input_tokens': 10, 'output_tokens': 4106, 'cache_read_input_tokens': 82605, 'cache_creation_input_tokens': 28699}
+done 456/1338 {'total_cost_usd': 0.3678792, 'duration_ms': 37886, 'num_turns': 16, 'input_tokens': 12, 'output_tokens': 4005, 'cache_read_input_tokens': 69096, 'cache_creation_input_tokens': 34239}
+done 464/1338 {'total_cost_usd': 0.32419679999999995, 'duration_ms': 31295, 'num_turns': 12, 'input_tokens': 10, 'output_tokens': 3200, 'cache_read_input_tokens': 60344, 'cache_creation_input_tokens': 31011}
+done 472/1338 {'total_cost_usd': 0.4238808, 'duration_ms': 63729, 'num_turns': 16, 'input_tokens': 26, 'output_tokens': 5226, 'cache_read_input_tokens': 261804, 'cache_creation_input_tokens': 33362}
+done 480/1338 {'total_cost_usd': 0.3207216, 'duration_ms': 34985, 'num_turns': 14, 'input_tokens': 10, 'output_tokens': 3715, 'cache_read_input_tokens': 69108, 'cache_creation_input_tokens': 29070}
+done 488/1338 {'total_cost_usd': 0.3242002, 'duration_ms': 38805, 'num_turns': 16, 'input_tokens': 14, 'output_tokens': 3467, 'cache_read_input_tokens': 121781, 'cache_creation_input_tokens': 28806}
+done 496/1338 {'total_cost_usd': 0.4029534, 'duration_ms': 45908, 'num_turns': 17, 'input_tokens': 20, 'output_tokens': 3902, 'cache_read_input_tokens': 173167, 'cache_creation_input_tokens': 36275}
+done 504/1338 {'total_cost_usd': 0.335805, 'duration_ms': 40595, 'num_turns': 14, 'input_tokens': 20, 'output_tokens': 3291, 'cache_read_input_tokens': 191405, 'cache_creation_input_tokens': 28953}
+done 512/1338 {'total_cost_usd': 0.3920172, 'duration_ms': 43580, 'num_turns': 18, 'input_tokens': 14, 'output_tokens': 4490, 'cache_read_input_tokens': 124926, 'cache_creation_input_tokens': 34647}
+done 520/1338 {'total_cost_usd': 0.3303788, 'duration_ms': 40958, 'num_turns': 13, 'input_tokens': 14, 'output_tokens': 4048, 'cache_read_input_tokens': 120574, 'cache_creation_input_tokens': 28156}
+done 528/1338 {'total_cost_usd': 0.32832859999999997, 'duration_ms': 38116, 'num_turns': 14, 'input_tokens': 14, 'output_tokens': 3625, 'cache_read_input_tokens': 94223, 'cache_creation_input_tokens': 29616}
+done 536/1338 {'total_cost_usd': 0.3094024, 'duration_ms': 31501, 'num_turns': 13, 'input_tokens': 8, 'output_tokens': 3554, 'cache_read_input_tokens': 34052, 'cache_creation_input_tokens': 28935}
+done 544/1338 {'total_cost_usd': 0.3094294000000001, 'duration_ms': 41396, 'num_turns': 11, 'input_tokens': 8, 'output_tokens': 4441, 'cache_read_input_tokens': 31727, 'cache_creation_input_tokens': 26779}
+done 552/1338 {'total_cost_usd': 0.3318702, 'duration_ms': 30978, 'num_turns': 14, 'input_tokens': 12, 'output_tokens': 3338, 'cache_read_input_tokens': 57591, 'cache_creation_input_tokens': 31693}
+done 560/1338 {'total_cost_usd': 0.30751720000000005, 'duration_ms': 36774, 'num_turns': 12, 'input_tokens': 10, 'output_tokens': 3858, 'cache_read_input_tokens': 55146, 'cache_creation_input_tokens': 27411}
+done 568/1338 {'total_cost_usd': 0.332808, 'duration_ms': 33571, 'num_turns': 13, 'input_tokens': 10, 'output_tokens': 3342, 'cache_read_input_tokens': 59760, 'cache_creation_input_tokens': 31747}
+done 576/1338 {'total_cost_usd': 0.3852142, 'duration_ms': 49548, 'num_turns': 18, 'input_tokens': 26, 'output_tokens': 4090, 'cache_read_input_tokens': 253231, 'cache_creation_input_tokens': 31583}
+done 584/1338 {'total_cost_usd': 0.3418346, 'duration_ms': 34690, 'num_turns': 16, 'input_tokens': 12, 'output_tokens': 3564, 'cache_read_input_tokens': 69253, 'cache_creation_input_tokens': 32082}
+done 592/1338 {'total_cost_usd': 0.3349682, 'duration_ms': 31402, 'num_turns': 15, 'input_tokens': 8, 'output_tokens': 2943, 'cache_read_input_tokens': 34141, 'cache_creation_input_tokens': 33656}
+done 600/1338 {'total_cost_usd': 0.33372040000000003, 'duration_ms': 36184, 'num_turns': 13, 'input_tokens': 14, 'output_tokens': 3271, 'cache_read_input_tokens': 96822, 'cache_creation_input_tokens': 31110}
+done 608/1338 {'total_cost_usd': 0.33129179999999997, 'duration_ms': 37465, 'num_turns': 13, 'input_tokens': 10, 'output_tokens': 3860, 'cache_read_input_tokens': 83739, 'cache_creation_input_tokens': 29663}
+done 616/1338 {'total_cost_usd': 0.3360262, 'duration_ms': 42820, 'num_turns': 11, 'input_tokens': 10, 'output_tokens': 4431, 'cache_read_input_tokens': 53191, 'cache_creation_input_tokens': 29591}
+done 624/1338 {'total_cost_usd': 0.3143594, 'duration_ms': 41546, 'num_turns': 13, 'input_tokens': 8, 'output_tokens': 3336, 'cache_read_input_tokens': 57317, 'cache_creation_input_tokens': 29518}
+done 632/1338 {'total_cost_usd': 0.3141158, 'duration_ms': 36696, 'num_turns': 13, 'input_tokens': 12, 'output_tokens': 3655, 'cache_read_input_tokens': 92239, 'cache_creation_input_tokens': 27815}
+done 640/1338 {'total_cost_usd': 0.354623, 'duration_ms': 55043, 'num_turns': 13, 'input_tokens': 12, 'output_tokens': 5369, 'cache_read_input_tokens': 83455, 'cache_creation_input_tokens': 28813}
+done 648/1338 {'total_cost_usd': 0.331708, 'duration_ms': 41182, 'num_turns': 14, 'input_tokens': 14, 'output_tokens': 3628, 'cache_read_input_tokens': 119100, 'cache_creation_input_tokens': 29409}
+done 656/1338 {'total_cost_usd': 0.3192646, 'duration_ms': 43105, 'num_turns': 12, 'input_tokens': 8, 'output_tokens': 4532, 'cache_read_input_tokens': 56923, 'cache_creation_input_tokens': 27151}
+done 664/1338 {'total_cost_usd': 0.32096060000000004, 'duration_ms': 46813, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 4181, 'cache_read_input_tokens': 56863, 'cache_creation_input_tokens': 28242}
+done 672/1338 {'total_cost_usd': 0.3288864, 'duration_ms': 41008, 'num_turns': 12, 'input_tokens': 12, 'output_tokens': 4077, 'cache_read_input_tokens': 92892, 'cache_creation_input_tokens': 28590}
+done 680/1338 {'total_cost_usd': 0.30521719999999997, 'duration_ms': 35939, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 3697, 'cache_read_input_tokens': 56666, 'cache_creation_input_tokens': 27489}
+done 688/1338 {'total_cost_usd': 0.3022592, 'duration_ms': 35454, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 3825, 'cache_read_input_tokens': 56236, 'cache_creation_input_tokens': 26810}
+done 696/1338 {'total_cost_usd': 0.31126739999999997, 'duration_ms': 36561, 'num_turns': 13, 'input_tokens': 10, 'output_tokens': 3768, 'cache_read_input_tokens': 80977, 'cache_creation_input_tokens': 27459}
+done 704/1338 {'total_cost_usd': 0.30967900000000004, 'duration_ms': 36008, 'num_turns': 10, 'input_tokens': 12, 'output_tokens': 3449, 'cache_read_input_tokens': 102935, 'cache_creation_input_tokens': 27508}
+done 712/1338 {'total_cost_usd': 0.36558019999999997, 'duration_ms': 50070, 'num_turns': 13, 'input_tokens': 12, 'output_tokens': 4806, 'cache_read_input_tokens': 113901, 'cache_creation_input_tokens': 30829}
+done 720/1338 {'total_cost_usd': 0.2938284, 'duration_ms': 34322, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 3359, 'cache_read_input_tokens': 57362, 'cache_creation_input_tokens': 26893}
+done 728/1338 {'total_cost_usd': 0.31284, 'duration_ms': 39681, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 4243, 'cache_read_input_tokens': 56220, 'cache_creation_input_tokens': 27088}
+done 736/1338 {'total_cost_usd': 0.3092252, 'duration_ms': 40378, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 3844, 'cache_read_input_tokens': 57246, 'cache_creation_input_tokens': 27608}
+done 744/1338 {'total_cost_usd': 0.31417360000000005, 'duration_ms': 38026, 'num_turns': 11, 'input_tokens': 8, 'output_tokens': 3845, 'cache_read_input_tokens': 57128, 'cache_creation_input_tokens': 28227}
+done 752/1338 {'total_cost_usd': 0.2843566, 'duration_ms': 38205, 'num_turns': 10, 'input_tokens': 6, 'output_tokens': 4003, 'cache_read_input_tokens': 34043, 'cache_creation_input_tokens': 24683}
+done 760/1338 {'total_cost_usd': 0.3268788, 'duration_ms': 38587, 'num_turns': 11, 'input_tokens': 10, 'output_tokens': 3728, 'cache_read_input_tokens': 57074, 'cache_creation_input_tokens': 30108}
+done 768/1338 {'total_cost_usd': 0.3418894, 'duration_ms': 48935, 'num_turns': 11, 'input_tokens': 8, 'output_tokens': 5135, 'cache_read_input_tokens': 56427, 'cache_creation_input_tokens': 28484}
+done 776/1338 {'total_cost_usd': 0.4022026, 'duration_ms': 67996, 'num_turns': 12, 'input_tokens': 12, 'output_tokens': 6769, 'cache_read_input_tokens': 106393, 'cache_creation_input_tokens': 30687}
+done 784/1338 {'total_cost_usd': 0.3458502, 'duration_ms': 45759, 'num_turns': 12, 'input_tokens': 12, 'output_tokens': 4632, 'cache_read_input_tokens': 93211, 'cache_creation_input_tokens': 29315}
+done 792/1338 {'total_cost_usd': 0.3567966, 'duration_ms': 52105, 'num_turns': 12, 'input_tokens': 12, 'output_tokens': 5245, 'cache_read_input_tokens': 98043, 'cache_creation_input_tokens': 29030}
+done 800/1338 {'total_cost_usd': 0.3430386, 'duration_ms': 40725, 'num_turns': 12, 'input_tokens': 10, 'output_tokens': 4080, 'cache_read_input_tokens': 60313, 'cache_creation_input_tokens': 31167}
+done 808/1338 {'total_cost_usd': 0.3595696, 'duration_ms': 57520, 'num_turns': 14, 'input_tokens': 18, 'output_tokens': 4594, 'cache_read_input_tokens': 167288, 'cache_creation_input_tokens': 29270}
+done 816/1338 {'total_cost_usd': 0.3820504, 'duration_ms': 59265, 'num_turns': 19, 'input_tokens': 16, 'output_tokens': 5700, 'cache_read_input_tokens': 143732, 'cache_creation_input_tokens': 29905}
+done 824/1338 {'total_cost_usd': 0.3946162, 'duration_ms': 64569, 'num_turns': 14, 'input_tokens': 12, 'output_tokens': 6471, 'cache_read_input_tokens': 101701, 'cache_creation_input_tokens': 30601}
+done 832/1338 {'total_cost_usd': 0.37683279999999997, 'duration_ms': 50267, 'num_turns': 14, 'input_tokens': 16, 'output_tokens': 4808, 'cache_read_input_tokens': 122924, 'cache_creation_input_tokens': 32003}
+done 840/1338 {'total_cost_usd': 0.3485682, 'duration_ms': 53774, 'num_turns': 11, 'input_tokens': 10, 'output_tokens': 4636, 'cache_read_input_tokens': 59601, 'cache_creation_input_tokens': 30486}
+done 848/1338 {'total_cost_usd': 0.3663984, 'duration_ms': 40476, 'num_turns': 12, 'input_tokens': 12, 'output_tokens': 3919, 'cache_read_input_tokens': 60492, 'cache_creation_input_tokens': 34484}
+done 856/1338 {'total_cost_usd': 0.3207816, 'duration_ms': 40011, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 4301, 'cache_read_input_tokens': 57368, 'cache_creation_input_tokens': 27907}
+done 864/1338 {'total_cost_usd': 0.34373980000000004, 'duration_ms': 42060, 'num_turns': 20, 'input_tokens': 12, 'output_tokens': 4171, 'cache_read_input_tokens': 102279, 'cache_creation_input_tokens': 29977}
+done 872/1338 {'total_cost_usd': 0.2754506, 'duration_ms': 29341, 'num_turns': 10, 'input_tokens': 6, 'output_tokens': 2996, 'cache_read_input_tokens': 33853, 'cache_creation_input_tokens': 26092}
+done 880/1338 {'total_cost_usd': 0.3188532, 'duration_ms': 47023, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 4557, 'cache_read_input_tokens': 56366, 'cache_creation_input_tokens': 27051}
+done 888/1338 {'total_cost_usd': 0.37029559999999995, 'duration_ms': 52898, 'num_turns': 15, 'input_tokens': 16, 'output_tokens': 4871, 'cache_read_input_tokens': 141578, 'cache_creation_input_tokens': 30562}
+done 896/1338 {'total_cost_usd': 0.399955, 'duration_ms': 51775, 'num_turns': 12, 'input_tokens': 10, 'output_tokens': 5408, 'cache_read_input_tokens': 57615, 'cache_creation_input_tokens': 35029}
+done 904/1338 {'total_cost_usd': 0.330438, 'duration_ms': 44198, 'num_turns': 12, 'input_tokens': 12, 'output_tokens': 3952, 'cache_read_input_tokens': 94150, 'cache_creation_input_tokens': 29065}
+done 912/1338 {'total_cost_usd': 0.2938862, 'duration_ms': 33332, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 3334, 'cache_read_input_tokens': 56391, 'cache_creation_input_tokens': 26987}
+done 920/1338 {'total_cost_usd': 0.321322, 'duration_ms': 40802, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 4362, 'cache_read_input_tokens': 57090, 'cache_creation_input_tokens': 27829}
+done 928/1338 {'total_cost_usd': 0.3309786, 'duration_ms': 46665, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 4656, 'cache_read_input_tokens': 57093, 'cache_creation_input_tokens': 28301}
+done 936/1338 {'total_cost_usd': 0.3489536, 'duration_ms': 43901, 'num_turns': 11, 'input_tokens': 10, 'output_tokens': 4723, 'cache_read_input_tokens': 59708, 'cache_creation_input_tokens': 30314}
+done 944/1338 {'total_cost_usd': 0.2795582, 'duration_ms': 34740, 'num_turns': 10, 'input_tokens': 6, 'output_tokens': 3780, 'cache_read_input_tokens': 31751, 'cache_creation_input_tokens': 24698}
+done 952/1338 {'total_cost_usd': 0.364394, 'duration_ms': 62103, 'num_turns': 10, 'input_tokens': 12, 'output_tokens': 6241, 'cache_read_input_tokens': 93990, 'cache_creation_input_tokens': 27591}
+done 960/1338 {'total_cost_usd': 0.3118986, 'duration_ms': 44411, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 4213, 'cache_read_input_tokens': 56313, 'cache_creation_input_tokens': 27043}
+done 968/1338 {'total_cost_usd': 0.33454079999999997, 'duration_ms': 42922, 'num_turns': 13, 'input_tokens': 12, 'output_tokens': 4085, 'cache_read_input_tokens': 93044, 'cache_creation_input_tokens': 29273}
+done 976/1338 {'total_cost_usd': 0.35226999999999997, 'duration_ms': 48515, 'num_turns': 12, 'input_tokens': 12, 'output_tokens': 4874, 'cache_read_input_tokens': 53950, 'cache_creation_input_tokens': 30494}
+done 984/1338 {'total_cost_usd': 0.341936, 'duration_ms': 43981, 'num_turns': 16, 'input_tokens': 14, 'output_tokens': 4134, 'cache_read_input_tokens': 118280, 'cache_creation_input_tokens': 29443}
+done 992/1338 {'total_cost_usd': 0.370984, 'duration_ms': 53643, 'num_turns': 15, 'input_tokens': 14, 'output_tokens': 5429, 'cache_read_input_tokens': 104340, 'cache_creation_input_tokens': 30185}
+done 1000/1338 {'total_cost_usd': 0.39483240000000003, 'duration_ms': 55368, 'num_turns': 14, 'input_tokens': 12, 'output_tokens': 5571, 'cache_read_input_tokens': 97142, 'cache_creation_input_tokens': 32992}
+done 1008/1338 {'total_cost_usd': 0.34509579999999995, 'duration_ms': 46133, 'num_turns': 14, 'input_tokens': 14, 'output_tokens': 4468, 'cache_read_input_tokens': 118799, 'cache_creation_input_tokens': 28990}
+done 1016/1338 {'total_cost_usd': 0.3672318, 'duration_ms': 49579, 'num_turns': 16, 'input_tokens': 10, 'output_tokens': 5091, 'cache_read_input_tokens': 69419, 'cache_creation_input_tokens': 31436}
+done 1024/1338 {'total_cost_usd': 0.32594100000000004, 'duration_ms': 52130, 'num_turns': 10, 'input_tokens': 6, 'output_tokens': 5552, 'cache_read_input_tokens': 31865, 'cache_creation_input_tokens': 26063}
+done 1032/1338 {'total_cost_usd': 0.3164302, 'duration_ms': 42253, 'num_turns': 11, 'input_tokens': 6, 'output_tokens': 4655, 'cache_read_input_tokens': 34091, 'cache_creation_input_tokens': 27061}
+done 1040/1338 {'total_cost_usd': 0.326609, 'duration_ms': 32166, 'num_turns': 12, 'input_tokens': 10, 'output_tokens': 3205, 'cache_read_input_tokens': 54225, 'cache_creation_input_tokens': 31453}
+done 1048/1338 {'total_cost_usd': 0.3080964, 'duration_ms': 32638, 'num_turns': 11, 'input_tokens': 10, 'output_tokens': 3222, 'cache_read_input_tokens': 55042, 'cache_creation_input_tokens': 29076}
+done 1056/1338 {'total_cost_usd': 0.32322280000000003, 'duration_ms': 34172, 'num_turns': 11, 'input_tokens': 10, 'output_tokens': 3401, 'cache_read_input_tokens': 56014, 'cache_creation_input_tokens': 30495}
+done 1064/1338 {'total_cost_usd': 0.2977292, 'duration_ms': 35177, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 3574, 'cache_read_input_tokens': 56126, 'cache_creation_input_tokens': 26874}
+done 1072/1338 {'total_cost_usd': 0.3516376, 'duration_ms': 56526, 'num_turns': 12, 'input_tokens': 10, 'output_tokens': 5209, 'cache_read_input_tokens': 84128, 'cache_creation_input_tokens': 28824}
+done 1080/1338 {'total_cost_usd': 0.3129576, 'duration_ms': 44155, 'num_turns': 11, 'input_tokens': 10, 'output_tokens': 4373, 'cache_read_input_tokens': 52488, 'cache_creation_input_tokens': 26870}
+done 1088/1338 {'total_cost_usd': 0.328999, 'duration_ms': 42833, 'num_turns': 12, 'input_tokens': 12, 'output_tokens': 3963, 'cache_read_input_tokens': 94335, 'cache_creation_input_tokens': 28853}
+done 1096/1338 {'total_cost_usd': 0.3508604, 'duration_ms': 48604, 'num_turns': 12, 'input_tokens': 12, 'output_tokens': 4902, 'cache_read_input_tokens': 93062, 'cache_creation_input_tokens': 29270}
+done 1104/1338 {'total_cost_usd': 0.33575540000000004, 'duration_ms': 46618, 'num_turns': 12, 'input_tokens': 12, 'output_tokens': 4329, 'cache_read_input_tokens': 92477, 'cache_creation_input_tokens': 28829}
+done 1112/1338 {'total_cost_usd': 0.3325234, 'duration_ms': 44434, 'num_turns': 12, 'input_tokens': 12, 'output_tokens': 4540, 'cache_read_input_tokens': 56337, 'cache_creation_input_tokens': 28801}
+done 1120/1338 {'total_cost_usd': 0.325152, 'duration_ms': 48648, 'num_turns': 10, 'input_tokens': 8, 'output_tokens': 4676, 'cache_read_input_tokens': 56840, 'cache_creation_input_tokens': 27529}
+done 1128/1338 {'total_cost_usd': 0.328985, 'duration_ms': 42189, 'num_turns': 11, 'input_tokens': 10, 'output_tokens': 4154, 'cache_read_input_tokens': 58645, 'cache_creation_input_tokens': 29267}
+done 1136/1338 {'total_cost_usd': 0.34083259999999993, 'duration_ms': 48540, 'num_turns': 12, 'input_tokens': 12, 'output_tokens': 4717, 'cache_read_input_tokens': 98143, 'cache_creation_input_tokens': 28352}
+done 1144/1338 {'total_cost_usd': 0.36760539999999997, 'duration_ms': 42694, 'num_turns': 14, 'input_tokens': 14, 'output_tokens': 3939, 'cache_read_input_tokens': 98727, 'cache_creation_input_tokens': 33628}
+done 1152/1338 {'total_cost_usd': 0.3186576, 'duration_ms': 39673, 'num_turns': 12, 'input_tokens': 12, 'output_tokens': 3683, 'cache_read_input_tokens': 93828, 'cache_creation_input_tokens': 28273}
+done 1160/1338 {'total_cost_usd': 0.3249614, 'duration_ms': 51572, 'num_turns': 11, 'input_tokens': 10, 'output_tokens': 5045, 'cache_read_input_tokens': 71707, 'cache_creation_input_tokens': 26210}
+done 1168/1338 {'total_cost_usd': 0.3981208, 'duration_ms': 53635, 'num_turns': 15, 'input_tokens': 12, 'output_tokens': 5354, 'cache_read_input_tokens': 91684, 'cache_creation_input_tokens': 34082}
+done 1176/1338 {'total_cost_usd': 0.3400012, 'duration_ms': 44467, 'num_turns': 13, 'input_tokens': 14, 'output_tokens': 4210, 'cache_read_input_tokens': 129846, 'cache_creation_input_tokens': 28722}
+done 1184/1338 {'total_cost_usd': 0.3493852, 'duration_ms': 47435, 'num_turns': 12, 'input_tokens': 10, 'output_tokens': 4627, 'cache_read_input_tokens': 84586, 'cache_creation_input_tokens': 29986}
+done 1192/1338 {'total_cost_usd': 0.2974268, 'duration_ms': 35248, 'num_turns': 10, 'input_tokens': 6, 'output_tokens': 3695, 'cache_read_input_tokens': 33994, 'cache_creation_input_tokens': 27088}
+done 1200/1338 {'total_cost_usd': 0.35830400000000007, 'duration_ms': 53922, 'num_turns': 12, 'input_tokens': 8, 'output_tokens': 5963, 'cache_read_input_tokens': 56780, 'cache_creation_input_tokens': 28457}
+done 1208/1338 {'total_cost_usd': 0.36368880000000003, 'duration_ms': 52754, 'num_turns': 16, 'input_tokens': 16, 'output_tokens': 4870, 'cache_read_input_tokens': 137604, 'cache_creation_input_tokens': 29838}
+done 1216/1338 {'total_cost_usd': 0.4009618, 'duration_ms': 56562, 'num_turns': 17, 'input_tokens': 22, 'output_tokens': 4731, 'cache_read_input_tokens': 219669, 'cache_creation_input_tokens': 32790}
+done 1224/1338 {'total_cost_usd': 0.390853, 'duration_ms': 51671, 'num_turns': 16, 'input_tokens': 18, 'output_tokens': 4818, 'cache_read_input_tokens': 160505, 'cache_creation_input_tokens': 32790}
+usage limit; sleeping 10 min 03:09
+usage limit; sleeping 10 min 03:09
+usage limit; sleeping 10 min 03:09
+usage limit; sleeping 10 min 03:19
+usage limit; sleeping 10 min 03:19
+usage limit; sleeping 10 min 03:19
+usage limit; sleeping 10 min 03:29
+usage limit; sleeping 10 min 03:29
+usage limit; sleeping 10 min 03:29
+usage limit; sleeping 10 min 03:39
+usage limit; sleeping 10 min 03:39
+usage limit; sleeping 10 min 03:39
+usage limit; sleeping 10 min 03:49
+usage limit; sleeping 10 min 03:49
+usage limit; sleeping 10 min 03:49
+usage limit; sleeping 10 min 03:59
+usage limit; sleeping 10 min 03:59
+usage limit; sleeping 10 min 03:59
+usage limit; sleeping 10 min 04:09
+usage limit; sleeping 10 min 04:09
+usage limit; sleeping 10 min 04:09
+usage limit; sleeping 10 min 04:19
+usage limit; sleeping 10 min 04:19
+usage limit; sleeping 10 min 04:19
+usage limit; sleeping 10 min 04:29
+usage limit; sleeping 10 min 04:29
+usage limit; sleeping 10 min 04:29
+usage limit; sleeping 10 min 04:39
+usage limit; sleeping 10 min 04:39
+usage limit; sleeping 10 min 04:39
+usage limit; sleeping 10 min 04:49
+usage limit; sleeping 10 min 04:49
+usage limit; sleeping 10 min 04:49
+usage limit; sleeping 10 min 04:59
+usage limit; sleeping 10 min 04:59
+usage limit; sleeping 10 min 04:59
+usage limit; sleeping 10 min 05:09
+usage limit; sleeping 10 min 05:09
+usage limit; sleeping 10 min 05:09
+usage limit; sleeping 10 min 05:19
+usage limit; sleeping 10 min 05:19
+usage limit; sleeping 10 min 05:19
+usage limit; sleeping 10 min 05:29
+usage limit; sleeping 10 min 05:29
+usage limit; sleeping 10 min 05:29
+usage limit; sleeping 10 min 05:39
+usage limit; sleeping 10 min 05:39
+usage limit; sleeping 10 min 05:39
+usage limit; sleeping 10 min 05:49
+usage limit; sleeping 10 min 05:49
+usage limit; sleeping 10 min 05:49
+usage limit; sleeping 10 min 05:59
+usage limit; sleeping 10 min 05:59
+usage limit; sleeping 10 min 05:59
+usage limit; sleeping 10 min 06:09
+usage limit; sleeping 10 min 06:09
+usage limit; sleeping 10 min 06:09
+usage limit; sleeping 10 min 06:19
+usage limit; sleeping 10 min 06:19
+usage limit; sleeping 10 min 06:19
+usage limit; sleeping 10 min 06:29
+usage limit; sleeping 10 min 06:29
+usage limit; sleeping 10 min 06:29
+usage limit; sleeping 10 min 06:39
+usage limit; sleeping 10 min 06:39
+usage limit; sleeping 10 min 06:39
+usage limit; sleeping 10 min 06:49
+usage limit; sleeping 10 min 06:49
+usage limit; sleeping 10 min 06:49
+usage limit; sleeping 10 min 06:59
+usage limit; sleeping 10 min 06:59
+usage limit; sleeping 10 min 06:59
+usage limit; sleeping 10 min 07:09
+usage limit; sleeping 10 min 07:09
+usage limit; sleeping 10 min 07:09
+usage limit; sleeping 10 min 07:19
+usage limit; sleeping 10 min 07:19
+usage limit; sleeping 10 min 07:19
+usage limit; sleeping 10 min 07:29
+usage limit; sleeping 10 min 07:29
+usage limit; sleeping 10 min 07:29
+usage limit; sleeping 10 min 07:39
+usage limit; sleeping 10 min 07:39
+usage limit; sleeping 10 min 07:40

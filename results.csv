@@ -12,3 +12,4 @@ time,exp,oof_map3,git,config
 2026-10-13,calib_v1-opus,0.8585,,"LB 0.78483; confusion calib a=3 b=0.05 on 762 train rows"
 2026-10-13,calib_v1-opus_full1500,0.8128,,"LB 0.80250; confusion calib a=10 b=0.05 fit on all 1500 train"
 2026-10-13,calib_v1-opus_log,0.8148,,"LB 0.80183; loglinear prior b=0.1 (best stays 0.80250 linear)"
+2026-10-14,cv_v1+v2_avg_n1386,0.8300,,"CV only: calib on avg(v1,v2-cands) 0.830 vs v1 0.820 on same 1386 rows; test pass pending"
