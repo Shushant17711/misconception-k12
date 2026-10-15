@@ -1,0 +1,282 @@
+[
+ {
+  "id": "ab9d4c06741e",
+  "image": "ab9d4c06741e.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk paling sederhana dari pecahan $\\frac{12}{\\sqrt{7} + \\sqrt{3}}$ adalah…",
+  "question_image": null,
+  "correct_answer": "$3(\\sqrt{7} - \\sqrt{3})$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.41
+   ],
+   [
+    "ALG-04",
+    0.23
+   ],
+   [
+    "EXP-07",
+    0.21
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "90a9b425c1c0",
+  "image": "90a9b425c1c0.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Rata-rata nilai $18$ siswa adalah $72$.  \nSetelah ditambahkan $2$ siswa baru, rata-rata kelas menjadi $74$.\n\nRata-rata nilai $2$ siswa baru tersebut adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "92",
+  "past_labels": [
+   [
+    "NONE",
+    0.46
+   ],
+   [
+    "WOP-01",
+    0.22
+   ],
+   [
+    "STA-01",
+    0.12
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "STA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "3a313585e8a2",
+  "image": "3a313585e8a2.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Panitia jalan sehat memasang pos penanganan medis di sepanjang rute kegiatan. Pos pertama dipasang pada kilometer ke-3, pos kedua pada kilometer ke-7, pos ketiga pada kilometer ke-11, dan seterusnya mengikuti pola yang sama. Jika pos terakhir dipasang pada kilometer ke-55, maka banyak pos penanganan medis yang dipasang oleh panitia adalah…",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "CAL-01",
+    0.27
+   ],
+   [
+    "SEQ-02",
+    0.22
+   ],
+   [
+    "FRM-01",
+    0.07
+   ],
+   [
+    "REL-01",
+    0.02
+   ],
+   [
+    "SIM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "7cd9ebdce3c5",
+  "image": "7cd9ebdce3c5.jpeg",
+  "grade": 8,
+  "topic": "Measures of Dispersion",
+  "question": "Jangkauan antarkuartil (IQR) dari data tersebut adalah …",
+  "question_image": "q_7cd9ebdce3c5_b965492d-57ba-455c-9223-296726c8a7f8.png",
+  "correct_answer": "4",
+  "past_labels": [
+   [
+    "NONE",
+    0.45
+   ],
+   [
+    "STA-05",
+    0.18
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "STA-04",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "c2bbf155ac67",
+  "image": "c2bbf155ac67.jpeg",
+  "grade": 9,
+  "topic": "Introduction to Logarithms",
+  "question": "Sebuah laptop baru dibeli dengan harga Rp10.000.000,00. \nKarena sisa masa pakai dan penyusutan fungsi, harga jual laptop tersebut mengalami penurunan (peluruhan) menjadi setengah dari harga tahun sebelumnya setiap 1 tahun. \nHubungan antara harga laptop setelah beberapa tahun ($H$), harga awal ($H_0$), dan waktu ($t$ dalam tahun) dinyatakan dengan rumus:$$H = H_0 \\times \\left(\\frac{1}{2}\\right)^t$$\nJika setelah beberapa tahun laptop tersebut ingin dijual kembali dan harganya menyusut hingga tersisa Rp1.250.000,00, bentuk operasi logaritma yang tepat berdasarkan prinsip kebalikan eksponen untuk mencari lama pemakaian laptop ($t$) adalah…",
+  "question_image": null,
+  "correct_answer": "$t = ^{\\frac{1}{2}}\\log \\left(\\frac{1}{8}\\right)$",
+  "past_labels": [
+   [
+    "ALG-06",
+    0.24
+   ],
+   [
+    "EXP-06",
+    0.24
+   ],
+   [
+    "LOG-02",
+    0.15
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "cb244aadccb7",
+  "image": "cb244aadccb7.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Sebuah titik $P(x, y)$ dicerminkan terhadap garis $y = -2$, kemudian dilanjutkan dengan rotasi sebesar $90^\\circ$ berlawanan arah jarum jam dengan pusat $O(0, 0)$. Jika koordinat bayangan akhir titik tersebut adalah $P''(4, 3)$, maka koordinat titik asal $P$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "(3,0)",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.46
+   ],
+   [
+    "OTH-00",
+    0.18
+   ],
+   [
+    "COR-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "ffd41444020b",
+  "image": "ffd41444020b.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Sebuah balok mainan memiliki ukuran panjang $2\\dfrac{2}{5}\\text{ meter}$, lebar $\\dfrac{13}{15}\\text{ meter}$, dan tinggi $\\dfrac{5}{13}\\text{ meter}$. Volume balok tersebut adalah $\\dots\\text{ m}^3$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{4}{5}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "FRA-06",
+    0.27
+   ],
+   [
+    "ANS-01",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "FRA-05",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "3d675bb9450e",
+  "image": "3d675bb9450e.jpeg",
+  "grade": 6,
+  "topic": "Comparison of Fractions",
+  "question": "Ibu memiliki empat buah kantong belanja dengan berat sebagai berikut:\n* Kantong A = 3,25 kg\n* Kantong B = 0,4 kg lebih berat dari Kantong A\n* Kantong C = 0,15 kg lebih ringan dari Kantong B\n* Kantong D = 3,48 kg\nUrutan kantong belanja dari yang paling berat ke paling ringan adalah ...",
+  "question_image": null,
+  "correct_answer": "Kantong B, Kantong C, Kantong D, Kantong A",
+  "past_labels": [
+   [
+    "Dec-01",
+    0.27
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.21
+   ],
+   [
+    "Dec-02",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "PV-01",
+    0.04
+   ]
+  ]
+ }
+]

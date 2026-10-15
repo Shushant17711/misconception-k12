@@ -1,0 +1,282 @@
+[
+ {
+  "id": "59db04708c56",
+  "image": "59db04708c56.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Data di bawah ini menunjukkan pertumbuhan investasi modal awal (dalam jutaan rupiah) selama beberapa tahun ($t$).\r\n\r\nPada tahun ke-$0$ ($t = 0$), modal awal adalah $\\text{Rp10.000.000,00}$.\r\n\r\nPada tahun ke-$2$ ($t = 2$), modal berkembang menjadi $\\text{Rp14.400.000,00}$.\r\n\r\nJika model pertumbuhan tersebut mengikuti fungsi eksponen $W(t) = M_0 \\cdot (1 + r)^t$, total nilai investasi pada akhir tahun ke-$4$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "Rp20.736.000,00",
+  "past_labels": [
+   [
+    "SEQ-01",
+    0.39
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "OTH-00",
+    0.13
+   ],
+   [
+    "RAT-01",
+    0.13
+   ],
+   [
+    "FUN-01",
+    0.06
+   ],
+   [
+    "EXP-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "3a3fbbff5907",
+  "image": "3a3fbbff5907.jpeg",
+  "grade": 11,
+  "topic": "Function Operations",
+  "question": "Diketahui $f(x) = x + 2$ dan $g(x) = x^2 - 4$. Tentukan bentuk paling sederhana dari $\\left(\\dfrac{g}{f}\\right)(x)$.",
+  "question_image": null,
+  "correct_answer": "$x - 2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.66
+   ],
+   [
+    "QUA-02",
+    0.2
+   ],
+   [
+    "FUN-01",
+    0.08
+   ],
+   [
+    "OOO-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "94b04c7948ec",
+  "image": "94b04c7948ec.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari $\\dfrac{a^6 \\times (b^2)^3}{b^4 \\times a^2}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$a^4b^2$",
+  "past_labels": [
+   [
+    "EXP-02",
+    0.32
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "OTH-00",
+    0.18
+   ],
+   [
+    "INT-03",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "3c6a4e85f5c4",
+  "image": "3c6a4e85f5c4.jpeg",
+  "grade": 12,
+  "topic": "Introduction to Geometric Transformation",
+  "question": "Persamaan bayangan dari garis 2x - y + 4 = 0 oleh dilatasi dengan pusat P(1, 2) dan faktor skala 2 adalah...",
+  "question_image": null,
+  "correct_answer": "2x - y + 8 =0",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.29
+   ],
+   [
+    "OTH-00",
+    0.17
+   ],
+   [
+    "INT-04",
+    0.17
+   ],
+   [
+    "ALG-04",
+    0.17
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "COR-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "4d1a349095f6",
+  "image": "4d1a349095f6.jpeg",
+  "grade": 6,
+  "topic": "Comparison of Fractions",
+  "question": "Andi mencatat berat empat buah buku tulis miliknya:\r\n* Buku A: 0,35 kg\r\n* Buku B: 0,301 kg\r\n* Buku C: 0,30 kg\r\n* Buku D: 0,305 kg\r\nBuku tulis manakah yang memiliki bobot paling ringan?",
+  "question_image": null,
+  "correct_answer": "Buku C",
+  "past_labels": [
+   [
+    "Dec-01",
+    0.51
+   ],
+   [
+    "Dec-02",
+    0.26
+   ],
+   [
+    "NONE",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "PV-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "9af44628624a",
+  "image": "9af44628624a.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk pangkat pecahan yang paling sederhana dari $\\sqrt[3]{a \\times \\sqrt{a}}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$a^{\\frac{1}{2}}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.62
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "EXP-07",
+    0.06
+   ],
+   [
+    "OOO-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "594fd0299cb3",
+  "image": "594fd0299cb3.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Di dalam sebuah kantong terdapat 5 bola merah dan beberapa bola biru. Peluang terambilnya satu bola merah adalah $\\frac{1}{3}$ . \n\nJika dilakukan pengambilan dua bola satu per satu dengan pengembalian, peluang terambilnya **bola pertama biru dan bola kedua juga biru** adalah...",
+  "question_image": null,
+  "correct_answer": "$\\frac{4}{9}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "PRO-04",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "PRO-02",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "7b6ce15c8756",
+  "image": "7b6ce15c8756.jpeg",
+  "grade": 7,
+  "topic": "Angle",
+  "question": "Jika garis $A$ sejajar dengan garis $B$, kemudian dipotong oleh suatu garis, maka nilai $x$ adalah $\\ldots$",
+  "question_image": "q_7b6ce15c8756_49d7f7ea-7d5f-4e91-ace9-707a12e9a50a.png",
+  "correct_answer": "30",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.76
+   ],
+   [
+    "ALG-06",
+    0.15
+   ],
+   [
+    "NONE",
+    0.04
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "ALG-05",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": "023532390534",
+  "image": "023532390534.jpeg",
+  "grade": 7,
+  "topic": "Application of Integers",
+  "question": "Lima kota mencatat suhu udara pada pagi hari: \nKota P = 4 °C di bawah nol\nKota Q = 3 °C di atas nol \nKota R = 9 °C di bawah nol\nKota S = 0 °C\nKota T = 1 °C di bawah nol\n\nSeorang peneliti ingin menyusun daftar kota dari yang paling dingin ke yang paling hangat. \nKota yang berada di urutan ketiga pada daftar tersebut adalah…\n",
+  "question_image": null,
+  "correct_answer": "Kota T",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "INT-01",
+    0.19
+   ],
+   [
+    "WOP-01",
+    0.11
+   ],
+   [
+    "INT-04",
+    0.11
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "b5c964fa11ff",
+  "image": "b5c964fa11ff.jpeg",
+  "grade": 11,
+  "topic": "Value and Form of a Function",
+  "question": "Diketahui fungsi rasional $f(x) = \\dfrac{2x^2-x-3}{x+1}$ untuk $x \\neq -1$. Jika nilai $f(a) = 5$, maka nilai dari $3a - 2$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "10",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.43
+   ],
+   [
+    "OOO-01",
+    0.17
+   ],
+   [
+    "EXP-03",
+    0.11
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "0ed2c684575b",
+  "image": "0ed2c684575b.jpeg",
+  "grade": 12,
+  "topic": "Counting Rules",
+  "question": "Sebuah bank membuat kode PIN transaksi ATM yang terdiri dari 6 digit angka, nol tidak termasuk. Manajemen bank menetapkan aturan keamanan bahwa angka pertama dan angka terakhir pada PIN tersebut harus merupakan bilangan genap, dan angka boleh berulang pada posisi mana pun. Banyaknya variasi kode PIN yang dapat dibentuk adalah...",
+  "question_image": null,
+  "correct_answer": "104.976",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.43
+   ],
+   [
+    "OTH-00",
+    0.28
+   ],
+   [
+    "FRM-01",
+    0.18
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "adc3fb11f11c",
+  "image": "adc3fb11f11c.jpeg",
+  "grade": 8,
+  "topic": "Probability of an Event",
+  "question": "Rina melakukan percobaan melempar sebuah koin beberapa kali.\nIa mencatat bahwa sisi angka muncul sebanyak 36 kali, dan peluang empirik munculnya sisi angka adalah 0,6. \n\nSelisih antara frekuensi munculnya sisi angka (hasil percobaan) dengan frekuensi harapan teoritik munculnya sisi angka adalah ...",
+  "question_image": null,
+  "correct_answer": "6",
+  "past_labels": [
+   [
+    "NONE",
+    0.34
+   ],
+   [
+    "WOP-01",
+    0.25
+   ],
+   [
+    "PRO-04",
+    0.19
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "d51f0c2c3060",
+  "image": "d51f0c2c3060.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Diketahui barisan aritmatika dengan variabel yang hilang sebagai berikut:\r\n42, a, 26, b,...\r\nMaka nilai a adalah…\r",
+  "question_image": null,
+  "correct_answer": "34",
+  "past_labels": [
+   [
+    "SEQ-02",
+    0.43
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "CAL-01",
+    0.16
+   ],
+   [
+    "FRM-01",
+    0.14
+   ],
+   [
+    "REL-01",
+    0.01
+   ],
+   [
+    "SIM-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "592f76fe3ce9",
+  "image": "592f76fe3ce9.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Volume bangun ruang di samping adalah . . . cm$^3$.",
+  "question_image": "q_592f76fe3ce9_df8d6e2a-24f7-406d-bbdb-e9ebf435e7f3.png",
+  "correct_answer": "900",
+  "past_labels": [
+   [
+    "NONE",
+    0.46
+   ],
+   [
+    "VIS-01",
+    0.14
+   ],
+   [
+    "MEA-04",
+    0.1
+   ],
+   [
+    "MEA-03",
+    0.1
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "839c13a2f032",
+  "image": "839c13a2f032.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Diagram batang menunjukkan jumlah tabungan Coco selama 4 bulan. \n\nJika Coco ingin rata-rata tabungannya selama 5 bulan menjadi Rp55.000, berapa banyak uang yang harus ia tabung pada bulan Mei?",
+  "question_image": "q_839c13a2f032_9c542026-6a31-4c3d-8e88-1c9419023b1d.png",
+  "correct_answer": "Rp. 75.000",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "STA-01",
+    0.26
+   ],
+   [
+    "ALG-05",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "7105d2265d86",
+  "image": "7105d2265d86.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Diketahui $x$ dan $y$ adalah bilangan bulat positif yang memenuhi persamaan:\r\n\r\n$\\sqrt{x} + \\sqrt{y} = \\sqrt{180}$\r\n\r\nJika nilai $x = 45$, maka nilai dari $\\sqrt{x \\cdot y}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "45",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.43
+   ],
+   [
+    "EXP-07",
+    0.26
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ALG-06",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ }
+]

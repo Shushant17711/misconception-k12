@@ -1,0 +1,282 @@
+[
+ {
+  "id": "a3c5e748f87c",
+  "image": "a3c5e748f87c.jpeg",
+  "grade": 12,
+  "topic": "Introduction to Geometric Transformation",
+  "question": "Persamaan bayangan dari garis 3x+4y-12 =0 jika dicerminkan terhadap garis x = 2 adalah ….",
+  "question_image": null,
+  "correct_answer": "3x - 4y =0",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.48
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.05
+   ],
+   [
+    "ALG-04",
+    0.05
+   ],
+   [
+    "COR-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "46a30264cf6b",
+  "image": "46a30264cf6b.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Jika $3(2x - 5) + 4 = 5(x + 3) - 2$ mempunyai penyelesaian $x = p$, maka nilai $4p + 7$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "103",
+  "past_labels": [
+   [
+    "ALG-04",
+    0.27
+   ],
+   [
+    "OPS-01",
+    0.19
+   ],
+   [
+    "WOP-01",
+    0.1
+   ],
+   [
+    "ALG-05",
+    0.08
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "INT-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "f912a13029a9",
+  "image": "f912a13029a9.jpeg",
+  "grade": 10,
+  "topic": "Operations on Radicals",
+  "question": "Sederhanakan bentuk berikut menjadi bentuk paling sederhana ($x>0$):\r\n$$\\sqrt{75x^2y} + \\sqrt{12x^2y}$$",
+  "question_image": null,
+  "correct_answer": "$7x\\sqrt{3y}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.38
+   ],
+   [
+    "EXP-07",
+    0.27
+   ],
+   [
+    "REL-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "479fa7416a34",
+  "image": "479fa7416a34.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Jika jarak bilangan m ke titik 0 adalah 6 satuan, dan jarak bilangan n ke titik 0 adalah 4 satuan, maka nilai dari m-n adalah…",
+  "question_image": "q_479fa7416a34_db9c6ab6-0a37-4979-98a5-16c61d5a7285.png",
+  "correct_answer": "-10",
+  "past_labels": [
+   [
+    "NONE",
+    0.48
+   ],
+   [
+    "INT-04",
+    0.18
+   ],
+   [
+    "VIS-01",
+    0.12
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "f42f863145f7",
+  "image": "f42f863145f7.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Panitia jalan sehat memasang pos penanganan medis di sepanjang rute kegiatan. Pos pertama dipasang pada kilometer ke-3, pos kedua pada kilometer ke-7, pos ketiga pada kilometer ke-11, dan seterusnya mengikuti pola yang sama. Jika pos terakhir dipasang pada kilometer ke-55, maka banyak pos penanganan medis yang dipasang oleh panitia adalah…",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "CAL-01",
+    0.27
+   ],
+   [
+    "SEQ-02",
+    0.22
+   ],
+   [
+    "FRM-01",
+    0.07
+   ],
+   [
+    "REL-01",
+    0.02
+   ],
+   [
+    "SIM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "935ae0fca903",
+  "image": "935ae0fca903.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Ibu memiliki persediaan gula sebanyak $1\\dfrac{1}{2}\\text{ kg}$. Sebanyak $0{,}5\\text{ kg}$ gula tersebut digunakan untuk membuat kue. Kemudian, Ibu membeli lagi gula sebanyak $\\dfrac{3}{4}\\text{ kg}$. Berat persediaan gula Ibu sekarang jika dinyatakan dalam bentuk desimal adalah $\\dots\\text{ kg}$",
+  "question_image": null,
+  "correct_answer": "1,75",
+  "past_labels": [
+   [
+    "NONE",
+    0.69
+   ],
+   [
+    "OPS-02",
+    0.1
+   ],
+   [
+    "FRA-06",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "FRA-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "57a454ad2ca9",
+  "image": "57a454ad2ca9.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Kelipatan Persekutuan Terkecil dari bilangan 10, 15 dan 25 adalah…",
+  "question_image": null,
+  "correct_answer": "150",
+  "past_labels": [
+   [
+    "KPF-04",
+    0.4
+   ],
+   [
+    "NONE",
+    0.25
+   ],
+   [
+    "KPF-03",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "KPF-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "e8a456c25e68",
+  "image": "e8a456c25e68.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor Persekutuan Terbesar dari tiga bilangan berikut: 20, 40, dan 60 adalah…",
+  "question_image": null,
+  "correct_answer": "20",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.44
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "KPF-04",
+    0.1
+   ],
+   [
+    "KPF-03",
+    0.07
+   ],
+   [
+    "REL-01",
+    0.02
+   ]
+  ]
+ }
+]

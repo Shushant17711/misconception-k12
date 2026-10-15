@@ -1,0 +1,282 @@
+[
+ {
+  "id": "4a449b73890b",
+  "image": "4a449b73890b.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Jika banyak penjualan kastengel adalah 100 toples, maka banyak penjualan nastar adalah . . . .",
+  "question_image": "q_4a449b73890b_0b889da6-7fba-44c7-b75d-750c1373a3b1.png",
+  "correct_answer": "140 toples",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "WOP-01",
+    0.23
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "ab491330134e",
+  "image": "ab491330134e.jpeg",
+  "grade": 7,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah bola pejal dimasukkan tepat ke dalam sebuah kotak berbentuk kubus tertutup, sehingga kulit bola tersebut menyinggung keenam sisi bagian dalam kubus. \n\nJika diketahui panjang rusuk kubusnya 15 cm , luas permukaan bola yang ada di dalamnya adalah . . . $\\text{cm}^2$.",
+  "question_image": "q_ab491330134e_c441cb0b-ad5d-4d9f-9ff5-04c467acd38b.png",
+  "correct_answer": "706,5",
+  "past_labels": [
+   [
+    "NONE",
+    0.45
+   ],
+   [
+    "VIS-01",
+    0.26
+   ],
+   [
+    "MEA-04",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "83b012a65624",
+  "image": "83b012a65624.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f : x \\to x + 2$ dan $h : x \\to x^2 - 2$.\r\nJika $(f \\circ g \\circ h)(x) = 2x^2 + 4$, maka $(h^{-1} \\circ g^{-1} \\circ f^{-1})(x)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\sqrt{\\dfrac{x - 4}{2}}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.26
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "FUN-01",
+    0.18
+   ],
+   [
+    "INV-01",
+    0.17
+   ],
+   [
+    "RAT-02",
+    0.04
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "309b86a16c99",
+  "image": "309b86a16c99.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor Persekutuan Terbesar dari tiga bilangan berikut: 20, 40, dan 60 adalah…",
+  "question_image": null,
+  "correct_answer": "20",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.44
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "KPF-04",
+    0.1
+   ],
+   [
+    "KPF-03",
+    0.07
+   ],
+   [
+    "REL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "4403d1ce4299",
+  "image": "4403d1ce4299.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Siska memiliki tiga buah kartu angka, yaitu 2, 7, dan 5. Ia ingin menyusun ketiga kartu tersebut menjadi sebuah bilangan tiga angka dengan aturan berikut:\n1. Bilangan tersebut harus **lebih besar dari 527**.\n2. Bilangan tersebut harus **lebih kecil dari 752**.\n3. Angka pada nilai tempat **ratusannya bukan angka 7**.\nBerdasarkan aturan di atas, berapakah bilangan tiga angka yang sedang dibuat oleh Siska?\n",
+  "question_image": null,
+  "correct_answer": "572",
+  "past_labels": [
+   [
+    "NONE",
+    0.64
+   ],
+   [
+    "WOP-02",
+    0.11
+   ],
+   [
+    "WOP-01",
+    0.08
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "fc147a06aa93",
+  "image": "fc147a06aa93.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Data di bawah ini menunjukkan pertumbuhan investasi modal awal (dalam jutaan rupiah) selama beberapa tahun ($t$).\r\n\r\nPada tahun ke-$0$ ($t = 0$), modal awal adalah $\\text{Rp10.000.000,00}$.\r\n\r\nPada tahun ke-$2$ ($t = 2$), modal berkembang menjadi $\\text{Rp14.400.000,00}$.\r\n\r\nJika model pertumbuhan tersebut mengikuti fungsi eksponen $W(t) = M_0 \\cdot (1 + r)^t$, total nilai investasi pada akhir tahun ke-$4$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "Rp20.736.000,00",
+  "past_labels": [
+   [
+    "SEQ-01",
+    0.39
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "OTH-00",
+    0.13
+   ],
+   [
+    "RAT-01",
+    0.13
+   ],
+   [
+    "FUN-01",
+    0.06
+   ],
+   [
+    "EXP-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "423ccb62b610",
+  "image": "423ccb62b610.jpeg",
+  "grade": 8,
+  "topic": "Angle",
+  "question": "Besar sudut δ = (5x + 5)° dan ε = (2x + 35)°. \nNilai dari besar sudut yang berpelurus dengan sudut δ adalah ... ",
+  "question_image": "q_423ccb62b610_605c4341-7c5b-4bd6-971f-e6610d549ee5.png",
+  "correct_answer": "75°\n",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.77
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "ANS-02",
+    0.06
+   ],
+   [
+    "ALG-06",
+    0.06
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "ed5f91a837a2",
+  "image": "ed5f91a837a2.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Titik $P(4, -2)$ ditranslasikan oleh $T = \\begin{pmatrix} -1 \\\\ 5 \\end{pmatrix}$, kemudian dilanjutkan dengan rotasi sebesar $90^\\circ$ searah jarum jam dengan pusat $O(0, 0)$. Koordinat bayangan akhir dari titik $P$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "(3,-3)",
+  "past_labels": [
+   [
+    "NONE",
+    0.42
+   ],
+   [
+    "FRM-01",
+    0.28
+   ],
+   [
+    "OTH-00",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "OOO-01",
+    0.04
+   ]
+  ]
+ }
+]

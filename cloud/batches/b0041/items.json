@@ -1,0 +1,282 @@
+[
+ {
+  "id": "9a28a83191a4",
+  "image": "9a28a83191a4.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Perhatikan persamaan linear berikut!\r\n\r\n$\\dfrac{3x - 1}{2} - \\dfrac{x + 3}{3} = x + 1$\r\n\r\nJika penyelesaian dari persamaan tersebut adalah $x$, maka nilai $2x - 5$ adalah...",
+  "question_image": null,
+  "correct_answer": "25",
+  "past_labels": [
+   [
+    "ALG-05",
+    0.37
+   ],
+   [
+    "ALG-04",
+    0.3
+   ],
+   [
+    "FRA-04",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "NONE",
+    0.03
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "f054e38b0c98",
+  "image": "f054e38b0c98.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Ibu memiliki persediaan gula sebanyak $1\\dfrac{1}{2}\\text{ kg}$. Sebanyak $0{,}5\\text{ kg}$ gula tersebut digunakan untuk membuat kue. Kemudian, Ibu membeli lagi gula sebanyak $\\dfrac{3}{4}\\text{ kg}$. Berat persediaan gula Ibu sekarang jika dinyatakan dalam bentuk desimal adalah $\\dots\\text{ kg}$",
+  "question_image": null,
+  "correct_answer": "1,75",
+  "past_labels": [
+   [
+    "NONE",
+    0.69
+   ],
+   [
+    "OPS-02",
+    0.1
+   ],
+   [
+    "FRA-06",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "FRA-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "f95d6c4f92db",
+  "image": "f95d6c4f92db.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Diketahui fungsi $h(x) = 2 \\cdot 5^{x-1}$.\r\nJika nilai $h(p) = 50$ dan $h(q) = 250$, hitunglah nilai dari $h(p + q - 2)$.",
+  "question_image": null,
+  "correct_answer": "1250",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.32
+   ],
+   [
+    "SEQ-01",
+    0.18
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "OTH-00",
+    0.06
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "INT-03",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "63b98bceedff",
+  "image": "63b98bceedff.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Kelipatan Persekutuan Terkecil dari tiga bilangan berikut: 6, 8  dan 9 adalah…",
+  "question_image": null,
+  "correct_answer": "72",
+  "past_labels": [
+   [
+    "NONE",
+    0.4
+   ],
+   [
+    "ANS-01",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "KPF-04",
+    0.07
+   ],
+   [
+    "KPF-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "13464ebbfad4",
+  "image": "13464ebbfad4.jpeg",
+  "grade": 11,
+  "topic": "Types of Functions",
+  "question": "Dalam sebuah ulangan remedial matematika, seorang guru mengumumkan bahwa nilai yang diberikan akan berkisar dari 60 sampai 100, dengan setiap siswa mendapatkan nilai berupa bilangan bulat. Banyak siswa yang mengikuti ulangan remedial ini adalah 42 orang. Jika f memetakan setiap siswa ke nilai ulangannya, maka sifat fungsi f yang mungkin terjadi (yaitu tidak mustahil terjadi, tergantung bagaimana nilai didistribusikan ke siswa) adalah . . .",
+  "question_image": null,
+  "correct_answer": "Surjektif",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.64
+   ],
+   [
+    "CHK-01",
+    0.16
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "ANS-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "2bab4ee2ed5c",
+  "image": "2bab4ee2ed5c.jpeg",
+  "grade": 6,
+  "topic": "Operations on Integers",
+  "question": "Pada tes penerimaan siswa baru, Nara diberikan 10 soal untuk diselesaikan dengan ketentuan skor: \n\n* benar = 5\n* salah = -1\n* tidak menjawab = 0\n\nJika Nara mengerjakan 8 soal dan hanya 6 soal bernilai benar, berapa total skor yang diperoleh Nara?",
+  "question_image": null,
+  "correct_answer": "28",
+  "past_labels": [
+   [
+    "NONE",
+    0.29
+   ],
+   [
+    "WOP-02",
+    0.27
+   ],
+   [
+    "WOP-01",
+    0.14
+   ],
+   [
+    "OOO-01",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.08
+   ],
+   [
+    "INT-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "0f8843938e3a",
+  "image": "0f8843938e3a.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Pak Budi mengolah lahan pertanian miliknya yang seluas $7\\dfrac{1}{2}$ hektar. Sebanyak $\\dfrac{8}{25}$ bagian dari total lahan tersebut ditanami tanaman jagung. Selanjutnya, dari area yang ditanami jagung tersebut, $\\dfrac{7}{9}$ bagian disemprot menggunakan pupuk cair organik. Luas lahan yang disemprot pupuk cair organik adalah...",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{13}{15}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "FRA-06",
+    0.16
+   ],
+   [
+    "OTH-00",
+    0.12
+   ],
+   [
+    "FRA-04",
+    0.12
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "FRA-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "fa9d43bf6c87",
+  "image": "fa9d43bf6c87.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Tante Linda memiliki 40 kue cokelat dan 52 kue keju. Ia berencana membagikan kue-kue tersebut secara merata ke dalam beberapa wadah plastik untuk diberikan kepada tetangganya. Namun, sebelum dimasukkan ke dalam wadah, Leo memakan 4 kue cokelat dan 4 kue keju. Jika sisa kue tersebut ingin dibagi habis ke dalam wadah dengan jumlah dan jenis yang sama banyak tanpa ada kue yang tersisa, Tentukan banyak wadah maksimal yang harus disiapkan Tante Linda!",
+  "question_image": null,
+  "correct_answer": "12",
+  "past_labels": [
+   [
+    "KPF-04",
+    0.29
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "WOP-01",
+    0.14
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "KPF-02",
+    0.08
+   ],
+   [
+    "KPF-01",
+    0.06
+   ]
+  ]
+ }
+]

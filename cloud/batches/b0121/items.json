@@ -1,0 +1,282 @@
+[
+ {
+  "id": "ef67f2d499db",
+  "image": "ef67f2d499db.jpeg",
+  "grade": 8,
+  "topic": "Measures of Central Tendency",
+  "question": "Banyak buku yang dipinjam dari perpustakaan selama lima minggu berturut-turut adalah:\n\n$\\\n110,\\;130,\\;x,\\;160,\\;\\text{dan }180$\n\n\nJika rata-rata jumlah buku yang dipinjam selama lima minggu tersebut adalah $150$ buku, maka nilai $x$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "170",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "ALG-04",
+    0.22
+   ],
+   [
+    "STA-01",
+    0.14
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "fe4a58a0d6ae",
+  "image": "fe4a58a0d6ae.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Leo memiliki 36 buah pulpen biru dan 48 buah pulpen hitam. Ia ingin mengemas pulpen-pulpen tersebut ke dalam beberapa kotak hadiah untuk dibagikan kepada teman-temannya. Semua kotak berisi pulpen biru sama banyak dan pulpen hitam sama banyak. Banyak pulpen biru yang ada di dalam masing-masing kotak tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.38
+   ],
+   [
+    "KPF-01",
+    0.17
+   ],
+   [
+    "ANS-02",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "NONE",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "688f39efccce",
+  "image": "688f39efccce.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Sebuah balok mainan memiliki ukuran panjang $2\\dfrac{2}{5}\\text{ meter}$, lebar $\\dfrac{13}{15}\\text{ meter}$, dan tinggi $\\dfrac{5}{13}\\text{ meter}$. Volume balok tersebut adalah $\\dots\\text{ m}^3$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{4}{5}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "FRA-06",
+    0.27
+   ],
+   [
+    "ANS-01",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "FRA-05",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "4b96c7c4aac6",
+  "image": "4b96c7c4aac6.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Exponents",
+  "question": "Jika $a^x = 8$ dan $a^y = 32$, dengan $a > 0$, tentukan nilai dari $a^{x+y}$.",
+  "question_image": null,
+  "correct_answer": "256",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "OTH-00",
+    0.3
+   ],
+   [
+    "EXP-01",
+    0.26
+   ],
+   [
+    "EXP-04",
+    0.04
+   ],
+   [
+    "EXP-02",
+    0.04
+   ],
+   [
+    "FRA-03",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "12511be8dab0",
+  "image": "12511be8dab0.jpeg",
+  "grade": 7,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Data jumlah siswa Kelas VII di empat kelas adalah sebagai berikut:\n\nJika total seluruh siswa adalah 133, berapakah jangkauan dari data tersebut?",
+  "question_image": "q_12511be8dab0_131fa6ed-f198-4cd2-850d-38e6467b6896.png",
+  "correct_answer": "6",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "VIS-01",
+    0.24
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "e3ab05c1a899",
+  "image": "e3ab05c1a899.jpeg",
+  "grade": 11,
+  "topic": "Function Operations",
+  "question": "Sebuah kebun berbentuk persegi panjang memiliki fungsi panjang $f(x) = 2x + 10$ (dalam meter). Pemilik kebun tidak mengetahui fungsi lebarnya, namun pihak pengelola kawasan menginformasikan bahwa fungsi keliling untuk seluruh kapling di blok tersebut mengikuti rumus $k(x) = 6x + 30$ (dalam meter), dengan $x$ adalah variabel desain tata ruang. Jika pada hari ini keliling kebun tersebut diukur secara langsung dan menunjukkan angka tepat $90\\text{ meter}$, berapakah luas total hamparan kebun tersebut?",
+  "question_image": null,
+  "correct_answer": "$450\\text{ m}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "FUN-01",
+    0.15
+   ],
+   [
+    "QUA-02",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "89d757d52441",
+  "image": "89d757d52441.jpeg",
+  "grade": 11,
+  "topic": "Types of Functions",
+  "question": "Fungsi-fungsi berikut adalah fungsi-fungsi dari himpunan A={a,b,c} ke himpunan B={1,2,3}.\r\n(i)    f={(a,1), (b,2), (c,2)}\r\n(ii)   g={(a,1), (b,1), (c,1)}\r\n(iii)  h={(a,2), (b,3), (c,1)}\r\n(iv)  k={(a,1), (b,3), (c,2)}\r\nYang merupakan fungsi surjektif adalah….\r",
+  "question_image": null,
+  "correct_answer": "(iii) dan (iv)",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.39
+   ],
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "VIS-01",
+    0.16
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "CHK-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "642c7a1d4c0d",
+  "image": "642c7a1d4c0d.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Pak Budi mengolah lahan pertanian miliknya yang seluas $7\\dfrac{1}{2}$ hektar. Sebanyak $\\dfrac{8}{25}$ bagian dari total lahan tersebut ditanami tanaman jagung. Selanjutnya, dari area yang ditanami jagung tersebut, $\\dfrac{7}{9}$ bagian disemprot menggunakan pupuk cair organik. Luas lahan yang disemprot pupuk cair organik adalah...",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{13}{15}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "FRA-06",
+    0.16
+   ],
+   [
+    "OTH-00",
+    0.12
+   ],
+   [
+    "FRA-04",
+    0.12
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "FRA-01",
+    0.03
+   ]
+  ]
+ }
+]

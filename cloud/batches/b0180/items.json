@@ -1,0 +1,282 @@
+[
+ {
+  "id": "6ed6482fb89e",
+  "image": "6ed6482fb89e.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Caca membeli makanan kucing untuk persediaan selama 10 hari. Ia membeli 14 kardus makanan kucing, yang mana setiap kardus berisi 12 kemasan makanan kucing. Total makanan kucing yang dibeli oleh Caca adalah… kemasan",
+  "question_image": null,
+  "correct_answer": "168",
+  "past_labels": [
+   [
+    "WOP-02",
+    0.41
+   ],
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "PV-01",
+    0.12
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "a9005fa13ee7",
+  "image": "a9005fa13ee7.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah tabung memiliki jari-jari awal $7\\text{ cm}$ dan tinggi $14\\text{ cm}$. Jika jari-jari tabung tersebut diperbesar menjadi 2 kali semula, sedangkan tingginya dipotong menjadi $\\dfrac{1}{2}$ kali semula, selisih luas permukaan total tabung setelah diubah dibanding sebelum diubah adalah $\\dots\\text{ cm}^2$.",
+  "question_image": null,
+  "correct_answer": "924",
+  "past_labels": [
+   [
+    "MEA-04",
+    0.37
+   ],
+   [
+    "FRM-01",
+    0.29
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "21c8da3bd6b2",
+  "image": "21c8da3bd6b2.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Garis $y = 2x + 3$ direfleksikan terhadap garis $y = x$, kemudian didilatasikan dengan pusat $O(0,0)$ dan faktor skala $2$. Persamaan bayangan garis tersebut adalah....",
+  "question_image": null,
+  "correct_answer": "$y = \\dfrac{1}{2}x - 3$",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.33
+   ],
+   [
+    "OTH-00",
+    0.3
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.05
+   ],
+   [
+    "OOO-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "5b25b7c5c7cf",
+  "image": "5b25b7c5c7cf.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Leo memiliki 36 buah pulpen biru dan 48 buah pulpen hitam. Ia ingin mengemas pulpen-pulpen tersebut ke dalam beberapa kotak hadiah untuk dibagikan kepada teman-temannya. Semua kotak berisi pulpen biru sama banyak dan pulpen hitam sama banyak. Banyak pulpen biru yang ada di dalam masing-masing kotak tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.38
+   ],
+   [
+    "KPF-01",
+    0.17
+   ],
+   [
+    "ANS-02",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "NONE",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "c4b75406710a",
+  "image": "c4b75406710a.jpeg",
+  "grade": 4,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Berdasarkan diagram garis, suhu badan pasien mengalami penurunan yang paling besar pada jam …\n",
+  "question_image": "q_c4b75406710a_187b3e4c-e5ea-4545-aede-ef2bf57815c2.png",
+  "correct_answer": "Jam 12.00 ke 13.00",
+  "past_labels": [
+   [
+    "NONE",
+    0.46
+   ],
+   [
+    "WOP-01",
+    0.27
+   ],
+   [
+    "VIS-01",
+    0.09
+   ],
+   [
+    "UNT-01",
+    0.04
+   ],
+   [
+    "RAT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "d525f69be368",
+  "image": "d525f69be368.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "$2,45 - 1\\dfrac{1}{4}$\nHasil dari operasi hitung di atas dalam bentuk pecahan biasa yang paling sederhana adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{6}{5}$",
+  "past_labels": [
+   [
+    "Dec-02",
+    0.23
+   ],
+   [
+    "INT-04",
+    0.18
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.13
+   ],
+   [
+    "FRA-05",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "2f73e2d69f94",
+  "image": "2f73e2d69f94.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Jika $3(2x - 5) + 4 = 5(x + 3) - 2$ mempunyai penyelesaian $x = p$, maka nilai $4p + 7$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "103",
+  "past_labels": [
+   [
+    "ALG-04",
+    0.27
+   ],
+   [
+    "OPS-01",
+    0.19
+   ],
+   [
+    "WOP-01",
+    0.1
+   ],
+   [
+    "ALG-05",
+    0.08
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "INT-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "abe7b13b4451",
+  "image": "abe7b13b4451.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk paling sederhana dari $\\sqrt{288}$ adalah…",
+  "question_image": null,
+  "correct_answer": "$12\\sqrt{2}$",
+  "past_labels": [
+   [
+    "EXP-07",
+    0.43
+   ],
+   [
+    "EXP-04",
+    0.3
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ }
+]

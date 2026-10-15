@@ -1,0 +1,282 @@
+[
+ {
+  "id": "c1fd2e28a339",
+  "image": "c1fd2e28a339.jpeg",
+  "grade": 9,
+  "topic": "Applications of geometric sequences and series",
+  "question": "Seorang petani menanam $3$ tanaman pada minggu pertama.  \n\nSetiap minggu jumlah tanaman yang ditanam menjadi $3$ kali lipat dari minggu sebelumnya.  \n\nJika petani tersebut menanam selama $4$ minggu, jumlah seluruh tanaman yang telah ditanam adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "120",
+  "past_labels": [
+   [
+    "NONE",
+    0.91
+   ],
+   [
+    "WOP-01",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "316924dd3568",
+  "image": "316924dd3568.jpeg",
+  "grade": 11,
+  "topic": "Function Operations",
+  "question": "Diketahui $f(x) = 5x + 3$ dan $g(x) = x + \\dfrac{2}{5}$.\nNilai dari $(f \\times g^2)\\left(\\dfrac{3}{5}\\right)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$6$",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "FUN-01",
+    0.15
+   ],
+   [
+    "QUA-02",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "5a324ee7e247",
+  "image": "5a324ee7e247.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Seorang pekerja bangunan menumpuk batu bata untuk pembuatan dinding. Pada tumpukan paling atas terdapat 10 batu bata, tumpukan di bawahnya terdapat 14 batu bata, dan seterusnya bertambah 4 batu bata pada setiap tumpukan di bawahnya. Jika tumpukan batu bata yang paling bawah (tumpukan terakhir) terdiri dari 58 batu bata, tentukan jumlah seluruh batu bata yang ada pada tumpukan tersebut!",
+  "question_image": null,
+  "correct_answer": "442",
+  "past_labels": [
+   [
+    "NONE",
+    0.42
+   ],
+   [
+    "SEQ-02",
+    0.27
+   ],
+   [
+    "CAL-01",
+    0.12
+   ],
+   [
+    "FRM-01",
+    0.09
+   ],
+   [
+    "REL-01",
+    0.03
+   ],
+   [
+    "SIM-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "6c6d5722b1b2",
+  "image": "6c6d5722b1b2.jpeg",
+  "grade": 8,
+  "topic": "Angle",
+  "question": "Jika besar β = (4x - 20)° dan ε = 100°, maka besar sudut $\\frac{1}{2}$ α adalah ... ",
+  "question_image": "q_6c6d5722b1b2_7c8e574c-d3da-4799-a84c-684941b40035.png",
+  "correct_answer": "50°\n",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.81
+   ],
+   [
+    "NONE",
+    0.06
+   ],
+   [
+    "ANS-02",
+    0.05
+   ],
+   [
+    "ALG-06",
+    0.05
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "53b9a7ba3616",
+  "image": "53b9a7ba3616.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Diketahui barisan aritmatika dengan variabel yang hilang sebagai berikut:\r\n42, a, 26, b,...\r\nMaka nilai a adalah…\r",
+  "question_image": null,
+  "correct_answer": "34",
+  "past_labels": [
+   [
+    "SEQ-02",
+    0.43
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "CAL-01",
+    0.16
+   ],
+   [
+    "FRM-01",
+    0.14
+   ],
+   [
+    "REL-01",
+    0.01
+   ],
+   [
+    "SIM-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "32475bd8f803",
+  "image": "32475bd8f803.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Sebuah diagram lingkaran menggambarkan besar uang jajan 5 orang anak. Leo, Nara, Caca dan Nana memiliki persentase berturut-turut 20%, 15%, 25% dan 30%. Sisanya dimiliki oleh Andi. jika uang jajan Andi 50.000 lebih sedikit dari Nana, berapakah total uang jajan kelima anak tersebut?\n",
+  "question_image": null,
+  "correct_answer": "Rp250.000\n",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "WOP-01",
+    0.17
+   ],
+   [
+    "CAL-01",
+    0.14
+   ],
+   [
+    "WOP-02",
+    0.14
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "874e41f42417",
+  "image": "874e41f42417.jpeg",
+  "grade": 9,
+  "topic": "Introduction to Three-Dimensional Shapes",
+  "question": "Perhatikan empat kegiatan berikut!\r\n(1) Menentukan banyaknya cat yang dibutuhkan untuk melapisi seluruh permukaan luar kubah masjid berbentuk setengah bola.\r\n(2) Menentukan banyaknya liter minyak yang dapat ditampung sampai penuh oleh sebuah drum berbentuk tabung.\r\n(3) Menentukan luas kertas kado yang dibutuhkan untuk membungkus kotak wadah pensil berbentuk tabung.\r\n(4) Menentukan banyaknya adonan es krim yang diperlukan untuk mengisi cetakan berbentuk kerucut.\r\nManakah dari kegiatan di atas yang seluruhnya menggunakan konsep Luas Permukaan?\r",
+  "question_image": null,
+  "correct_answer": "1 dan 3",
+  "past_labels": [
+   [
+    "NONE",
+    0.52
+   ],
+   [
+    "MEA-05",
+    0.31
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.03
+   ],
+   [
+    "MEA-04",
+    0.03
+   ],
+   [
+    "MEA-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "5d63cac34f0f",
+  "image": "5d63cac34f0f.jpeg",
+  "grade": 7,
+  "topic": "Measures of Dispersion",
+  "question": "Hasil panen cabai seorang petani selama 4 bulan tercatat dalam diagram batang sebagai berikut. \nJika diketahui jangkauan dari data hasil panen tersebut adalah 25 kg, dan Maret adalah bulan dengan hasil panen x kg, tentukan jumlah hasil panen pada bulan Maret!",
+  "question_image": "q_5d63cac34f0f_66a81e23-5167-41a3-bce2-32a85df82c42.png",
+  "correct_answer": "35 kg",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "STA-05",
+    0.11
+   ],
+   [
+    "VIS-01",
+    0.1
+   ],
+   [
+    "STA-04",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.06
+   ]
+  ]
+ }
+]

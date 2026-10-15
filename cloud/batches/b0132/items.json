@@ -1,0 +1,282 @@
+[
+ {
+  "id": "37e7ca518539",
+  "image": "37e7ca518539.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Seorang siswa sedang berlatih menghitung persamaan garis regresi secara manual. \nIa mencatat data lama menyirami tanaman (X, dalam menit) dan tinggi tanaman (Y, dalam cm) selama 3 hari berturut-turut ke dalam tabel di samping.\n\nLangkah pertama yang harus ia lakukan adalah mencari nilai Rata-rata X dan Rata-rata Y. \nSetelah itu, ia harus menghitung nilai $SS{xy}$ (jumlah dari perkalian selisih tiap titik terhadap rata-ratanya). \n\nNilai $SS{xy}$ dari data tersebut adalah …",
+  "question_image": "q_37e7ca518539_5e93a0f1-318f-44b5-b073-25d0b8a3f482.png",
+  "correct_answer": "5",
+  "past_labels": [
+   [
+    "NONE",
+    0.51
+   ],
+   [
+    "INT-04",
+    0.2
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "WOP-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "84339baf2653",
+  "image": "84339baf2653.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Perhatikan tabel penjualan buku di 4 toko berikut!\r\nAngka pada nilai tempat ratusan Toko Buku Jaya tertutup huruf A. Jika diketahui penjualan Toko Buku Jaya lebih banyak dari Toko Cahaya, tetapi lebih sedikit dari Toko Damai, maka toko yang berada di urutan kedua terbanyak adalah… ",
+  "question_image": "q_84339baf2653_7dfcbaad-cd95-4401-b5fb-049ac3403213.png",
+  "correct_answer": "Toko Damai",
+  "past_labels": [
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "ANS-01",
+    0.19
+   ],
+   [
+    "OPS-01",
+    0.17
+   ],
+   [
+    "PV-01",
+    0.1
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "a44f003d0977",
+  "image": "a44f003d0977.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Panitia jalan sehat memasang pos penanganan medis di sepanjang rute kegiatan. Pos pertama dipasang pada kilometer ke-3, pos kedua pada kilometer ke-7, pos ketiga pada kilometer ke-11, dan seterusnya mengikuti pola yang sama. Jika pos terakhir dipasang pada kilometer ke-55, maka banyak pos penanganan medis yang dipasang oleh panitia adalah…",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "CAL-01",
+    0.27
+   ],
+   [
+    "SEQ-02",
+    0.22
+   ],
+   [
+    "FRM-01",
+    0.07
+   ],
+   [
+    "REL-01",
+    0.02
+   ],
+   [
+    "SIM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "bf5aeaa0e74b",
+  "image": "bf5aeaa0e74b.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Sebuah balok mainan memiliki ukuran panjang $2\\dfrac{2}{5}\\text{ meter}$, lebar $\\dfrac{13}{15}\\text{ meter}$, dan tinggi $\\dfrac{5}{13}\\text{ meter}$. Volume balok tersebut adalah $\\dots\\text{ m}^3$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{4}{5}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "FRA-06",
+    0.27
+   ],
+   [
+    "ANS-01",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "FRA-05",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "e7a4475074a8",
+  "image": "e7a4475074a8.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "90.000 - 34.650 + 12.800 = …",
+  "question_image": null,
+  "correct_answer": "68.150",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "OPS-01",
+    0.33
+   ],
+   [
+    "OOO-02",
+    0.12
+   ],
+   [
+    "PV-01",
+    0.06
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "OPS-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "0904e43b58b3",
+  "image": "0904e43b58b3.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari $\\dfrac{15p^5q^{-3}}{3p^2q} \\times (q^2)^3$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$5p^3q^2$",
+  "past_labels": [
+   [
+    "EXP-02",
+    0.32
+   ],
+   [
+    "OTH-00",
+    0.18
+   ],
+   [
+    "INT-04",
+    0.16
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "INT-03",
+    0.05
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "a3a33fe97651",
+  "image": "a3a33fe97651.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Perubahan suhu $(^\\circ\\text{C})$ di suatu kota selama beberapa hari dicatat pada tabel berikut.\n\nRagam data tersebut adalah $\\ldots$",
+  "question_image": "q_a3a33fe97651_dcf1cfc8-1786-4170-a828-bb3d5669b2e8.png",
+  "correct_answer": "3,2",
+  "past_labels": [
+   [
+    "STA-04",
+    0.38
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "STA-05",
+    0.07
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "bb99f3a246c5",
+  "image": "bb99f3a246c5.jpeg",
+  "grade": 12,
+  "topic": "Counting Rules",
+  "question": "Panitia sebuah lomba ingin membuat nomor dada peserta yang terdiri dari 3 digit angka berbeda yang disusun dari angka-angka 1, 2, 3, 4, 5, 6, dan 7. Panitia menetapkan aturan bahwa nomor peserta yang dibentuk harus bernilai lebih dari 400. Banyaknya nomor dada peserta yang dapat dibuat oleh panitia adalah...",
+  "question_image": null,
+  "correct_answer": "120",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.5
+   ],
+   [
+    "OTH-00",
+    0.32
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ }
+]

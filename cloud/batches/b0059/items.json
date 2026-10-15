@@ -1,0 +1,282 @@
+[
+ {
+  "id": "d9571d3d112f",
+  "image": "d9571d3d112f.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "$2,45 - 1\\dfrac{1}{4}$\nHasil dari operasi hitung di atas dalam bentuk pecahan biasa yang paling sederhana adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{6}{5}$",
+  "past_labels": [
+   [
+    "Dec-02",
+    0.23
+   ],
+   [
+    "INT-04",
+    0.18
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.13
+   ],
+   [
+    "FRA-05",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "41e7d270c14e",
+  "image": "41e7d270c14e.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Seorang pengrajin bambu membuat caping berbentuk kerucut dengan diameter $56\\text{ cm}$ dan tinggi $21\\text{ cm}$. Bagian luar caping tersebut akan dicat seluruhnya. Diketahui satu kaleng cat seharga $\\text{Rp}30.000{,}00$ dapat digunakan untuk mengecat permukaan seluas $15.400\\text{ cm}^2$. Jika pengrajin tersebut akan mengecat 30 caping, maka biaya yang diperlukan adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "Rp180.000,00",
+  "past_labels": [
+   [
+    "MEA-04",
+    0.44
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "e5e8d1b3d096",
+  "image": "e5e8d1b3d096.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Sebuah gedung pertunjukan menata susunan kursi penonton membentuk pola barisan aritmetika. Pada baris pertama terdapat 17 kursi, baris kedua terdapat 24 kursi, baris ketiga terdapat 31 kursi, dan seterusnya dengan jumlah kursi yang selalu bertambah secara tetap pada setiap baris. Banyaknya kursi yang berada pada baris ke-20 adalah……kursi",
+  "question_image": null,
+  "correct_answer": "150",
+  "past_labels": [
+   [
+    "SEQ-02",
+    0.33
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "FRM-01",
+    0.21
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "REL-01",
+    0.02
+   ],
+   [
+    "SIM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "daedbcf2fa6b",
+  "image": "daedbcf2fa6b.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Diketahui empat data adalah:\n\n$\\\n2n,\\ 2n + 1,\\ 3n - 2,\\ n + 1\n$\n\nJika rata-rata keempat data tersebut adalah 8, maka simpangan rata-rata dari data tersebut adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "1,5",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "STA-01",
+    0.15
+   ],
+   [
+    "OTH-00",
+    0.13
+   ],
+   [
+    "STA-03",
+    0.13
+   ],
+   [
+    "STA-05",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "6dbc472e34f5",
+  "image": "6dbc472e34f5.jpeg",
+  "grade": 10,
+  "topic": "Logarithm Operation",
+  "question": "Tentukan nilai logaritma berikut:\n$\\dfrac{^9\\log 27 +\\ ^2\\log 7 \\cdot\\ ^7\\log 8}{^3\\log 6 -\\ ^3\\log 54}$",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{9}{4}$",
+  "past_labels": [
+   [
+    "LOG-02",
+    0.4
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.1
+   ],
+   [
+    "INT-02",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "688894fc8e08",
+  "image": "688894fc8e08.jpeg",
+  "grade": 12,
+  "topic": "Permutation",
+  "question": "Sebuah lembaga ingin membuat kode plat khusus yang terdiri dari 2 huruf berbeda di depan, diikuti oleh 3 angka berbeda di tengah, dan 1 huruf di belakang. Huruf yang digunakan dipilih dari vokal {A, E, I, O, U] dan angka dari {1, 2, 3, 4, 5, 6}. Jika huruf paling belakang tidak boleh sama dengan huruf-huruf di bagian depan, banyaknya susunan kode yang dapat dibuat adalah ...",
+  "question_image": null,
+  "correct_answer": "7.200",
+  "past_labels": [
+   [
+    "NONE",
+    0.49
+   ],
+   [
+    "PRO-04",
+    0.38
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "822060053e0b",
+  "image": "822060053e0b.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor Persekutuan Terbesar dari tiga bilangan berikut: 20, 40, dan 60 adalah…",
+  "question_image": null,
+  "correct_answer": "20",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.44
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "KPF-04",
+    0.1
+   ],
+   [
+    "KPF-03",
+    0.07
+   ],
+   [
+    "REL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "c5f2ecd13227",
+  "image": "c5f2ecd13227.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Nilai dari $\\dfrac{^2\\log^2 32 - \\text{dari } {^2\\log^2 2}}{^2\\log 64}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "4",
+  "past_labels": [
+   [
+    "LOG-02",
+    0.32
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-02",
+    0.13
+   ],
+   [
+    "ALG-06",
+    0.05
+   ],
+   [
+    "EXP-06",
+    0.05
+   ]
+  ]
+ }
+]

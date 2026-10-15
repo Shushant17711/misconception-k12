@@ -1,0 +1,282 @@
+[
+ {
+  "id": "3f4b4b18d6e9",
+  "image": "3f4b4b18d6e9.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Sebuah kapal selam mula-mula berada di kedalaman 12 meter di bawah permukaan laut. Kapal tersebut kemudian bergerak turun lagi sejauh 8 meter. \n\nTepat setelah itu, kapal selam mengaktifkan mesin pendorong otomatis yang membuatnya bergerak naik ke atas dengan kecepatan 3 meter setiap menitnya selama 5 menit. \n\nDi manakah posisi kapal selam tersebut sekarang?",
+  "question_image": null,
+  "correct_answer": "-5",
+  "past_labels": [
+   [
+    "INT-04",
+    0.41
+   ],
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "2426c9c9eb8e",
+  "image": "2426c9c9eb8e.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Dalam rangka bakti sosial, seluruh siswa kelas 4 yang berjumlah 25 anak sepakat untuk mengumpulkan buku cerita bekas. Setiap anak membawa 2 ikat besar buku. Jika di dalam setiap ikat besar tersebut terdapat lagi 5 buah buku cerita, total seluruh buku cerita yang berhasil dikumpulkan oleh kelas tersebut untuk didonasikan adalah…",
+  "question_image": null,
+  "correct_answer": "250",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.39
+   ],
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "WOP-02",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.03
+   ],
+   [
+    "OPS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "829a4b8d7d1d",
+  "image": "829a4b8d7d1d.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor Persekutuan Terbesar dari pasangan bilangan 35 dan 45 adalah…",
+  "question_image": null,
+  "correct_answer": "5",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.28
+   ],
+   [
+    "NONE",
+    0.24
+   ],
+   [
+    "FRM-01",
+    0.23
+   ],
+   [
+    "REL-01",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.06
+   ],
+   [
+    "KPF-03",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "4d6ef6690d57",
+  "image": "4d6ef6690d57.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Jika $a^b = c$, maka ${^a\\log c} = b$ dan diketahui $2^{x+3} = 64$, tentukan nilai $x$ yang memenuhi persamaan tersebut!",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "ALG-06",
+    0.31
+   ],
+   [
+    "EXP-06",
+    0.31
+   ],
+   [
+    "LOG-02",
+    0.12
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "cdc9ec775095",
+  "image": "cdc9ec775095.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "$f : x \\to x + 2$ dan $h : x \\to x^2 - 2$.\r\nJika $(f \\circ g \\circ h)(x) = 2x^2 + 4$, maka $g(x) = \\dots$",
+  "question_image": null,
+  "correct_answer": "$2x + 6$",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.24
+   ],
+   [
+    "INV-01",
+    0.23
+   ],
+   [
+    "ALG-04",
+    0.2
+   ],
+   [
+    "FRM-01",
+    0.1
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "EXP-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "01d4ac876758",
+  "image": "01d4ac876758.jpeg",
+  "grade": 11,
+  "topic": "Residuals",
+  "question": "Diberikan persamaan garis regresi untuk memprediksi nilai ujian siswa berdasarkan lama waktu belajar (dalam jam) adalah $\\hat{y} = 5x + 50$.\n\nSeorang siswa bernama Budi belajar selama 4 jam dan mendapatkan nilai ujian asli sebesar 80.\n\nBerapakah nilai kuadrat residu dari data observasi milik Budi tersebut?",
+  "question_image": null,
+  "correct_answer": "100",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.43
+   ],
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "EXP-01",
+    0.21
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "f0084c655acb",
+  "image": "f0084c655acb.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Jika $3(2x - 5) + 4 = 5(x + 3) - 2$ mempunyai penyelesaian $x = p$, maka nilai $4p + 7$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "103",
+  "past_labels": [
+   [
+    "ALG-04",
+    0.27
+   ],
+   [
+    "OPS-01",
+    0.19
+   ],
+   [
+    "WOP-01",
+    0.1
+   ],
+   [
+    "ALG-05",
+    0.08
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "INT-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "636b321f64f9",
+  "image": "636b321f64f9.jpeg",
+  "grade": 8,
+  "topic": "Exponents",
+  "question": "Hasil dari \n\n$(0{,}2)^{-3} + (-0{,}5)^{-2} - 7^{0}$\n\nadalah …",
+  "question_image": null,
+  "correct_answer": "128",
+  "past_labels": [
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "INT-04",
+    0.19
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "EXP-01",
+    0.1
+   ],
+   [
+    "EXP-02",
+    0.05
+   ],
+   [
+    "FRM-01",
+    0.03
+   ]
+  ]
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": "d86dc1eeefd0",
+  "image": "d86dc1eeefd0.jpeg",
+  "grade": 10,
+  "topic": "Operations on Radicals",
+  "question": "Sederhanakan bentuk berikut menjadi bentuk paling sederhana ($x>0$):\r\n\r\n$$\\sqrt{5x^3} + \\sqrt{20x^3}$$",
+  "question_image": null,
+  "correct_answer": "$3x\\sqrt{5x}$",
+  "past_labels": [
+   [
+    "EXP-07",
+    0.48
+   ],
+   [
+    "EXP-04",
+    0.28
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.03
+   ],
+   [
+    "OTH-00",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "585fddcf6f69",
+  "image": "585fddcf6f69.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Sebuah lahan perkebunan seluas 600 hektar ditanami berbagai jenis tanaman. \n\nBerapakah luas lahan yang digunakan untuk menanam kopi?",
+  "question_image": "q_585fddcf6f69_ddcc79d6-4290-45a8-95fe-ef4eeebe7ff3.png",
+  "correct_answer": "50 hektar",
+  "past_labels": [
+   [
+    "NONE",
+    0.66
+   ],
+   [
+    "FRM-01",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.02
+   ],
+   [
+    "RAT-02",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "12c8053c766f",
+  "image": "12c8053c766f.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Leo berlatih futsal setiap 6 hari sekali dan berlatih badminton setiap 8 hari sekali. \n\nJika pada tanggal 2 April Leo melakukan kedua latihan tersebut di hari yang sama, pada tanggal berapa Leo akan melakukan kedua latihan tersebut di hari yang sama lagi?",
+  "question_image": null,
+  "correct_answer": "26 April",
+  "past_labels": [
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.19
+   ],
+   [
+    "CAL-01",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.12
+   ],
+   [
+    "KPF-02",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "3b30a42deb97",
+  "image": "3b30a42deb97.jpeg",
+  "grade": 12,
+  "topic": "Introduction to Geometric Transformation",
+  "question": "Sebuah robot penyelamat mini berada pada koordinat awal A (-3,4) di dalam sebuah gedung reruntuhan yang dipetakan secara digital. Robot tersebut diperintahkan bergerak sejauh 6 satuan ke kanan (timur), lalu dilanjutkan 2 satuan ke bawah (selatan) hingga tiba di titik B. Dari titik B, pusat kendali mengaktifkan fitur otomatis yang mencerminkan posisi robot terhadap garis y = -x untuk menuju titik evakuasi C. Koordinat dari titik evakuasi C tersebut adalah...",
+  "question_image": null,
+  "correct_answer": "(-2,-3)",
+  "past_labels": [
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "FRM-01",
+    0.22
+   ],
+   [
+    "COR-01",
+    0.22
+   ],
+   [
+    "OTH-00",
+    0.06
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "ALG-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "c1bdcbca341d",
+  "image": "c1bdcbca341d.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Sebuah botol berisi $\\dfrac{9}{10}$ liter air. Leo meminum $\\dfrac{2}{10}$ liter, lalu ia mengisi kembali botol tersebut sebanyak $\\dfrac{3}{10}$ liter. Berapa liter air yang ada di dalam botol sekarang?",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{10}{10}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.49
+   ],
+   [
+    "CAL-01",
+    0.21
+   ],
+   [
+    "FRA-06",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "FRA-01",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "b9c8b16632a2",
+  "image": "b9c8b16632a2.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Dalam sebuah seleksi tim olimpiade sekolah yang diikuti oleh 60 siswa, terdapat dua bidang uji yaitu Matematika dan Fisika.\nData yang diperoleh adalah sebagai berikut:\n\n* Sebanyak 36 siswa dinyatakan lulus pada uji Matematika.\n* Peluang seorang siswa yang terpilih secara acak dinyatakan lulus pada kedua bidang uji tersebut adalah 0,2.\n* Peluang seorang siswa yang terpilih secara acak dinyatakan lulus uji Matematika atau Fisika adalah 0,8.\n\nBerapakah peluang seorang siswa yang terpilih secara acak dinyatakan lulus pada uji Fisika? ",
+  "question_image": null,
+  "correct_answer": "0,4",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "FRM-01",
+    0.22
+   ],
+   [
+    "PRO-04",
+    0.11
+   ],
+   [
+    "CAL-01",
+    0.06
+   ],
+   [
+    "PRO-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "c53363b75419",
+  "image": "c53363b75419.jpeg",
+  "grade": 8,
+  "topic": "Measures of Dispersion",
+  "question": "Simpangan kuartil data berikut adalah …",
+  "question_image": "q_c53363b75419_6013468c-0812-4590-8155-d058809ef893.png",
+  "correct_answer": "$0{,}5$",
+  "past_labels": [
+   [
+    "STA-05",
+    0.49
+   ],
+   [
+    "NONE",
+    0.29
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "STA-04",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "1d8e81db5917",
+  "image": "1d8e81db5917.jpeg",
+  "grade": 10,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk $\\dfrac{2\\sqrt{5} + \\sqrt{2}}{\\sqrt{2} - \\sqrt{5}}$ dapat disederhanakan menjadi $\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\sqrt{10} - 4$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.18
+   ],
+   [
+    "ALG-04",
+    0.17
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "INT-04",
+    0.14
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "EXP-07",
+    0.08
+   ]
+  ]
+ }
+]

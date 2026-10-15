@@ -1,0 +1,282 @@
+[
+ {
+  "id": "d6aaf3f0ae3b",
+  "image": "d6aaf3f0ae3b.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Nara memiliki dua helai pita hias. Pita pertama memiliki panjang 32 cm dan pita kedua memiliki panjang 60 cm. Nara ingin memotong kedua pita tersebut menjadi beberapa bagian yang sama panjang tanpa ada sisa pita yang terbuang. Maka berapa panjang maksimal setiap potongan pita yang diperoleh Nara?",
+  "question_image": null,
+  "correct_answer": "4 cm",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.36
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.1
+   ],
+   [
+    "KPF-02",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "983b1c63e6ab",
+  "image": "983b1c63e6ab.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{\\sqrt{9} + 7}{5 - \\sqrt{8}}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{10\\left(5 + 2\\sqrt{2}\\right)}{17}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "EXP-07",
+    0.14
+   ],
+   [
+    "EXP-04",
+    0.12
+   ],
+   [
+    "ALG-04",
+    0.12
+   ],
+   [
+    "VIS-01",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.09
+   ]
+  ]
+ },
+ {
+  "id": "f44b98fdf71e",
+  "image": "f44b98fdf71e.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari operasi hitung -24 + 72 : (-6) x 3 - (-15) adalah…",
+  "question_image": null,
+  "correct_answer": "-45",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.35
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "INT-04",
+    0.24
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "108a7a5bfc89",
+  "image": "108a7a5bfc89.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Volume gabungan bangun ruang seperti gambar di samping adalah . . . $\\text{cm}^3$",
+  "question_image": "q_108a7a5bfc89_ef650de8-cd47-4936-8684-655d5100e9aa.png",
+  "correct_answer": "1152",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "CAL-01",
+    0.19
+   ],
+   [
+    "VIS-01",
+    0.09
+   ],
+   [
+    "MEA-04",
+    0.07
+   ],
+   [
+    "MEA-03",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "9fa771290e00",
+  "image": "9fa771290e00.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor Persekutuan Terbesar dari tiga bilangan berikut: 20, 40, dan 60 adalah…",
+  "question_image": null,
+  "correct_answer": "20",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.44
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "KPF-04",
+    0.1
+   ],
+   [
+    "KPF-03",
+    0.07
+   ],
+   [
+    "REL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "8264b8c77e96",
+  "image": "8264b8c77e96.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "$2,45 - 1\\dfrac{1}{4}$\r\nHasil dari operasi hitung di atas dalam bentuk pecahan biasa yang paling sederhana adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{6}{5}$",
+  "past_labels": [
+   [
+    "Dec-02",
+    0.23
+   ],
+   [
+    "INT-04",
+    0.18
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.13
+   ],
+   [
+    "FRA-05",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "e88549fdaae5",
+  "image": "e88549fdaae5.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Dalam rangka bakti sosial, seluruh siswa kelas 4 yang berjumlah 25 anak sepakat untuk mengumpulkan buku cerita bekas. Setiap anak membawa 2 ikat besar buku. Jika di dalam setiap ikat besar tersebut terdapat lagi 5 buah buku cerita, total seluruh buku cerita yang berhasil dikumpulkan oleh kelas tersebut untuk didonasikan adalah…",
+  "question_image": null,
+  "correct_answer": "250",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.39
+   ],
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "WOP-02",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.03
+   ],
+   [
+    "OPS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "177c00ffe21d",
+  "image": "177c00ffe21d.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Seorang penjual buah memiliki persediaan 333 buah apel dan 250 buah jeruk di tokonya. Menjelang siang, seorang pembeli datang dan membeli 129 buah apel. Sisa Apel yang belum terjual di toko adalah. . .",
+  "question_image": null,
+  "correct_answer": "204",
+  "past_labels": [
+   [
+    "WOP-02",
+    0.51
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "OPS-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "OPS-02",
+    0.02
+   ]
+  ]
+ }
+]

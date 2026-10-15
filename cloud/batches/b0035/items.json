@@ -1,0 +1,282 @@
+[
+ {
+  "id": "fbd4a536f756",
+  "image": "fbd4a536f756.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Sebuah akuarium berbentuk balok memiliki volume $600.000$ cm$^3$. \n\nJika panjang dan lebar akuarium berturut-turut $150$ cm dan $80$ cm, maka tinggi akuarium tersebut adalah … cm. ",
+  "question_image": null,
+  "correct_answer": "50",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "MEA-04",
+    0.24
+   ],
+   [
+    "MEA-03",
+    0.24
+   ],
+   [
+    "VIS-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "8f215c9d0cb2",
+  "image": "8f215c9d0cb2.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari (−6) × 8 : (−4) × (−3) adalah…",
+  "question_image": null,
+  "correct_answer": "-36",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.59
+   ],
+   [
+    "NONE",
+    0.16
+   ],
+   [
+    "INT-02",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "e288421f314f",
+  "image": "e288421f314f.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari operasi hitung -24 + 72 : (-6) x 3 - (-15) adalah…",
+  "question_image": null,
+  "correct_answer": "-45",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.35
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "INT-04",
+    0.24
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "f6dc649d38cb",
+  "image": "f6dc649d38cb.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Tentukan hasil dari\n$\\dfrac{25}{30} - \\left(\\dfrac{10}{30} + \\dfrac{7}{30}\\right)$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{8}{30}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.59
+   ],
+   [
+    "FRA-06",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.09
+   ],
+   [
+    "FRA-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "5652b236696c",
+  "image": "5652b236696c.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Nara memiliki dua helai pita hias. Pita pertama memiliki panjang 32 cm dan pita kedua memiliki panjang 60 cm. Nara ingin memotong kedua pita tersebut menjadi beberapa bagian yang sama panjang tanpa ada sisa pita yang terbuang. Maka berapa panjang maksimal setiap potongan pita yang diperoleh Nara?",
+  "question_image": null,
+  "correct_answer": "4 cm",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.36
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.1
+   ],
+   [
+    "KPF-02",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "81f366266bff",
+  "image": "81f366266bff.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Diketahui $f(x) = \\dfrac{2x + 1}{3x + 4}, x \\neq -\\dfrac{4}{3}$, jika $f^{-1}$ adalah invers dari $f$, maka $f^{-1}(3) = \\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{11}{7}$",
+  "past_labels": [
+   [
+    "INV-01",
+    0.29
+   ],
+   [
+    "ALG-06",
+    0.25
+   ],
+   [
+    "ALG-04",
+    0.22
+   ],
+   [
+    "CAL-01",
+    0.11
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "NONE",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "f047df23a493",
+  "image": "f047df23a493.jpeg",
+  "grade": 11,
+  "topic": "Application of Functions",
+  "question": "Suatu kebocoran minyak di laut membentuk luapan berbentuk lingkaran. Radius luapan minyak bertambah terhadap waktu $t$ (jam) dengan fungsi $r(t) = 3t\\text{ meter}$. Luas luapan minyak dinyatakan oleh $A(r) = \\pi r^2$. Luas luapan minyak setelah $4\\text{ jam}$ adalah $\\dots$ (nyatakan dalam bentuk $\\pi$)",
+  "question_image": null,
+  "correct_answer": "$144\\pi\\text{ m}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.92
+   ],
+   [
+    "WOP-01",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "724f5a5586df",
+  "image": "724f5a5586df.jpeg",
+  "grade": 10,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk $\\dfrac{2\\sqrt{5} + \\sqrt{2}}{\\sqrt{2} - \\sqrt{5}}$ dapat disederhanakan menjadi $\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\sqrt{10} - 4$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.18
+   ],
+   [
+    "ALG-04",
+    0.17
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "INT-04",
+    0.14
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "EXP-07",
+    0.08
+   ]
+  ]
+ }
+]

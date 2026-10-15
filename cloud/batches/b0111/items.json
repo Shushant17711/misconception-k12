@@ -1,0 +1,282 @@
+[
+ {
+  "id": "8e602f76ff85",
+  "image": "8e602f76ff85.jpeg",
+  "grade": 6,
+  "topic": "Rational Number Operations",
+  "question": "Ibu sedang bersiap membuat kue kering. \n\nDi dalam wadah adonan, sudah terdapat tepung terigu sebanyak $\\frac{1}{2}$ kg. \n\nKarena merasa kurang, ibu menuangkan tepung lagi sebanyak $\\frac{2}{3}$ bagian dari isi kemasan plastik yang beratnya $\\frac{3}{4}$ kg. \n\nSetelah adonan selesai diaduk, ibu mengambil $\\frac{1}{5}$ kg adonan tersebut untuk digoreng menjadi bakwan. \n\nSisa tepung dalam wadah adonan ibu sekarang adalah . . . .",
+  "question_image": null,
+  "correct_answer": "$\\frac{4}{5} \\text{ kg}$",
+  "past_labels": [
+   [
+    "FRA-06",
+    0.43
+   ],
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "CAL-01",
+    0.07
+   ],
+   [
+    "FRA-03",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "d256c2097cfa",
+  "image": "d256c2097cfa.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Pak Budi mengolah lahan pertanian miliknya yang seluas $7\\dfrac{1}{2}$ hektar. Sebanyak $\\dfrac{8}{25}$ bagian dari total lahan tersebut ditanami tanaman jagung. Selanjutnya, dari area yang ditanami jagung tersebut, $\\dfrac{7}{9}$ bagian disemprot menggunakan pupuk cair organik. Luas lahan yang disemprot pupuk cair organik adalah...",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{13}{15}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "FRA-06",
+    0.16
+   ],
+   [
+    "OTH-00",
+    0.12
+   ],
+   [
+    "FRA-04",
+    0.12
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "FRA-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "11f71a76bf9f",
+  "image": "11f71a76bf9f.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Nara membeli pita merah sepanjang 18 meter, pita biru sepanjang 24 meter, dan pita kuning sepanjang 30 meter. Nara ingin mengetahui panjang paling kecil yang merupakan kelipatan ketiga panjang pita tersebut…",
+  "question_image": null,
+  "correct_answer": "360",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.14
+   ],
+   [
+    "KPF-01",
+    0.14
+   ],
+   [
+    "KPF-03",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "1f044f21e338",
+  "image": "1f044f21e338.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari:\n$100 - 60 : 10 \\times ( -3 ) = $. . .",
+  "question_image": null,
+  "correct_answer": "118",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.62
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "INT-03",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "b104f438eb54",
+  "image": "b104f438eb54.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Exponents",
+  "question": "Sebuah sinyal radio memiliki kekuatan awal $2^5$ satuan. Setiap kali melewati satu penghalang tembok, kekuatan sinyal dikalikan dengan faktor $2^{-2}$. Jika sinyal tersebut melewati 3 penghalang tembok, kekuatan sinyal setelahnya adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{1}{2}$",
+  "past_labels": [
+   [
+    "EXP-01",
+    0.56
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.11
+   ],
+   [
+    "EXP-04",
+    0.06
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "FRA-03",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "1d96465ddfb4",
+  "image": "1d96465ddfb4.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Bilangan kelipatan 9 yang merupakan bilangan ganjil dan nilainya lebih kecil dari 60 adalah…",
+  "question_image": null,
+  "correct_answer": "9, 27, 45",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "WOP-02",
+    0.16
+   ],
+   [
+    "WOP-01",
+    0.13
+   ],
+   [
+    "ANS-01",
+    0.09
+   ],
+   [
+    "OPS-02",
+    0.06
+   ],
+   [
+    "OPS-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "9d7cd484c680",
+  "image": "9d7cd484c680.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Nara membeli pita merah sepanjang 18 meter, pita biru sepanjang 24 meter, dan pita kuning sepanjang 30 meter. Nara ingin mengetahui panjang paling kecil yang merupakan kelipatan ketiga panjang pita tersebut…",
+  "question_image": null,
+  "correct_answer": "360",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.14
+   ],
+   [
+    "KPF-01",
+    0.14
+   ],
+   [
+    "KPF-03",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "10cb7da381bf",
+  "image": "10cb7da381bf.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari operasi hitung -24 + 72 : (-6) x 3 - (-15) adalah…",
+  "question_image": null,
+  "correct_answer": "-45",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.35
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "INT-04",
+    0.24
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ }
+]

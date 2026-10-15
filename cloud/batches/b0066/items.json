@@ -1,0 +1,282 @@
+[
+ {
+  "id": "5af45f5293ca",
+  "image": "5af45f5293ca.jpeg",
+  "grade": 6,
+  "topic": "Introduction to Integers",
+  "question": "Perhatikan beberapa operasi bilangan berikut!\n\nOperasi bilangan di atas yang menghasilkan bilangan bulat ditunjukkan oleh nomor...",
+  "question_image": "q_5af45f5293ca_ef06cd19-5e36-430b-bb73-e9289ae3cdce.png",
+  "correct_answer": "(iv) saja",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.4
+   ],
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "EXP-07",
+    0.14
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "23e939f83f00",
+  "image": "23e939f83f00.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Sebuah akuarium berbentuk balok memiliki volume $600.000$ cm$^3$. \n\nJika panjang dan lebar akuarium berturut-turut $150$ cm dan $80$ cm, maka tinggi akuarium tersebut adalah … cm. ",
+  "question_image": null,
+  "correct_answer": "50",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "MEA-04",
+    0.24
+   ],
+   [
+    "MEA-03",
+    0.24
+   ],
+   [
+    "VIS-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "93032cbf0be5",
+  "image": "93032cbf0be5.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah tempat penyimpanan gabah (silo) berbentuk gabungan tabung dan kerucut di bagian atasnya. jari-jari alas tabung sekaligus jari-jari alas kerucut adalah 7 m, tinggi tabung 10 m, dan tinggi kerucut 24 m.\nSilo tersebut akan dilapisi cat pelindung pada seluruh permukaan luarnya, kecuali bagian alas tabung yang menempel ke tanah. Tentukan luas permukaan yang perlu dicat!\n",
+  "question_image": null,
+  "correct_answer": "$990\\text{ m}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "UNT-01",
+    0.15
+   ],
+   [
+    "MEA-04",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "FRM-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "54a1e5c2d639",
+  "image": "54a1e5c2d639.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Ibu membeli tepung terigu sebanyak $2\\dfrac{10}{8}\\text{ kg}$ untuk membuat kue di dapur. Saat ditimbang menggunakan timbangan digital, berat tepung terigu tersebut muncul dalam bentuk bilangan desimal. Angka desimal yang tertera pada layar timbangan adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "3,25",
+  "past_labels": [
+   [
+    "FRA-05",
+    0.38
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "ANS-01",
+    0.2
+   ],
+   [
+    "Dec-02",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "80feb3a37b03",
+  "image": "80feb3a37b03.jpeg",
+  "grade": 6,
+  "topic": "Introduction to Integers",
+  "question": "Perhatikan beberapa operasi bilangan berikut!\n\nOperasi bilangan di atas yang menghasilkan bilangan bulat ditunjukkan oleh nomor...",
+  "question_image": "q_80feb3a37b03_ef06cd19-5e36-430b-bb73-e9289ae3cdce.png",
+  "correct_answer": "(iv) saja",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.4
+   ],
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "EXP-07",
+    0.14
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "8cafa0385dd0",
+  "image": "8cafa0385dd0.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Sebuah balok mainan memiliki ukuran panjang $2\\dfrac{2}{5}\\text{ meter}$, lebar $\\dfrac{13}{15}\\text{ meter}$, dan tinggi $\\dfrac{5}{13}\\text{ meter}$. Volume balok tersebut adalah $\\dots\\text{ m}^3$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{4}{5}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "FRA-06",
+    0.27
+   ],
+   [
+    "ANS-01",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "FRA-05",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "c8d085458b63",
+  "image": "c8d085458b63.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Ahmad, Budi, dan Cici menyusun kartu nilai tempat sehingga membentuk bilangan sebagai berikut: \n- Ahmad: 4 puluhan ribu, 5 ratusan, 2 ribuan, 8 satuan \n- Budi: 4 puluhan ribu, 2 ribuan, 5 puluhan, 8 satuan \n- Cici: 4 puluhan ribu, 5 ribuan, 2 ratusan, 8 puluhan \nUrutan bilangan dari yang terkecil sampai terbesar adalah milik… \n",
+  "question_image": null,
+  "correct_answer": "Budi, Ahmad, Cici",
+  "past_labels": [
+   [
+    "PV-01",
+    0.4
+   ],
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "OPS-01",
+    0.11
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "OPS-02",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "a7ab1cb60eea",
+  "image": "a7ab1cb60eea.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Sebuah laboratorium penelitian biologi mengamati pertumbuhan amoeba. Mula-mula terdapat $2^3$ amoeba di dalam wadah pengamatan. Setiap satu jam, setiap amoeba membelah diri menjadi dua. Jumlah total amoeba setelah waktu pengamatan berjalan selama $5\\text{ jam}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$2^8$",
+  "past_labels": [
+   [
+    "SEQ-01",
+    0.35
+   ],
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.04
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ }
+]

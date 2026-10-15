@@ -1,0 +1,282 @@
+[
+ {
+  "id": "123f3cb83360",
+  "image": "123f3cb83360.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Tentukan hasil akhir dari operasi hitung bilangan berpangkat berikut: $\\dfrac{32^{\\frac{3}{5}} \\times 3^2}{16^0 + \\left(\\frac{1}{3}\\right)^2}$",
+  "question_image": null,
+  "correct_answer": "64,8",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.3
+   ],
+   [
+    "EXP-04",
+    0.14
+   ],
+   [
+    "REL-01",
+    0.14
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "EXP-02",
+    0.07
+   ],
+   [
+    "INT-03",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "fc21357eda20",
+  "image": "fc21357eda20.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Sebuah titik $P(x, y)$ dicerminkan terhadap garis $y = -2$, kemudian dilanjutkan dengan rotasi sebesar $90^\\circ$ berlawanan arah jarum jam dengan pusat $O(0, 0)$. Jika koordinat bayangan akhir titik tersebut adalah $P''(4, 3)$, maka koordinat titik asal $P$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "(3,0)",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.46
+   ],
+   [
+    "OTH-00",
+    0.18
+   ],
+   [
+    "COR-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "2cc8a2d81d56",
+  "image": "2cc8a2d81d56.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Pak Budi memiliki 117 ikan lele, Pak Sudi memiliki 105 ikan lele dan Pak Jaya memiliki 242 ikan lele. Semua ikan lele dipanen dari kolam dan kemudian akan dijual ke pasar. Berapa keseluruhan ikan lele yang akan dijual ke pasar? \n",
+  "question_image": null,
+  "correct_answer": "464",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "ANS-01",
+    0.17
+   ],
+   [
+    "WOP-02",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.03
+   ],
+   [
+    "OPS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "28dbca9e8569",
+  "image": "28dbca9e8569.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah waduk menampung 97.200 liter air untuk dialirkan ke 18 saluran irigasi warga dengan jumlah yang sama rata. Di salah satu saluran irigasi, air tersebut dipompa lagi menggunakan beberapa pompa kecil yang bekerja bersamaan hingga habis dalam waktu 1 jam.\r\n\nJika setiap pompa kecil memiliki kemampuan mengalirkan air sebanyak 600 dalam waktu 1 jam, maka banyak pompa kecil yang terpasang di saluran irigasi tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "9 pompa",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "OPS-02",
+    0.32
+   ],
+   [
+    "OPS-01",
+    0.14
+   ],
+   [
+    "PV-01",
+    0.08
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "c660e3e00398",
+  "image": "c660e3e00398.jpeg",
+  "grade": 8,
+  "topic": "Measures of Dispersion",
+  "question": "Diagram garis menunjukkan jumlah gelas air yang diminum seorang atlet selama 12 hari berturut-turut.\n\nKuartil atas $(Q_3)$ dari data tersebut adalah $\\ldots$",
+  "question_image": "q_c660e3e00398_7b959754-8f3d-409f-958b-e447f76c1706.png",
+  "correct_answer": "9",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "VIS-01",
+    0.23
+   ],
+   [
+    "STA-05",
+    0.07
+   ],
+   [
+    "STA-04",
+    0.05
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "93ee6850f4b9",
+  "image": "93ee6850f4b9.jpeg",
+  "grade": 8,
+  "topic": "Measures of Central Tendency",
+  "question": "Berat paket yang dikirim sebuah toko selama 10 hari memiliki rata-rata 32 kg per hari.\n\nData berat paket selama 8 hari adalah sebagai berikut:\n\n30, 31, 33, 35, 29, 34, 32, 31\n\nDua hari lainnya memiliki berat paket masing-masing $x$ kg dan $(x+2)$ kg.\n\nNilai $x$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "\\(31{,}5\\)",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "STA-01",
+    0.14
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "STA-04",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "2c2ec9a79ad1",
+  "image": "2c2ec9a79ad1.jpeg",
+  "grade": 11,
+  "topic": "Application of Functions",
+  "question": "Seorang salesman mendapatkan gaji pokok Rp2.000.000 ditambah bonus sebesar 5% dari total omset penjualannya bulan itu. Total omset penjualan salesman tersebut jika ia menerima gaji total sebesar Rp4.500.000 adalah Rp… .",
+  "question_image": null,
+  "correct_answer": "50.000.000",
+  "past_labels": [
+   [
+    "NONE",
+    0.94
+   ],
+   [
+    "WOP-01",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "758ada10ce7a",
+  "image": "758ada10ce7a.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Ayah membeli 4 kotak telur. Jika total telur yang dibeli oleh Ayah adalah 96 butir, isi telur di dalam setiap kotak adalah…",
+  "question_image": null,
+  "correct_answer": "24",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "OPS-02",
+    0.25
+   ],
+   [
+    "WOP-02",
+    0.13
+   ],
+   [
+    "WOP-01",
+    0.1
+   ],
+   [
+    "ANS-01",
+    0.07
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ }
+]

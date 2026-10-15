@@ -1,0 +1,282 @@
+[
+ {
+  "id": "996597ca727e",
+  "image": "996597ca727e.jpeg",
+  "grade": 7,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Diketahui luas permukaan suatu bola 1.256 $\\text{ cm}^2$.\n\nPanjang diameter bola tersebut adalah $\\dots \\text{ cm. }$ $(\\pi = 3,14)$",
+  "question_image": null,
+  "correct_answer": "20",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "MEA-04",
+    0.23
+   ],
+   [
+    "VIS-01",
+    0.14
+   ],
+   [
+    "FRM-01",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "c965e5f67cee",
+  "image": "c965e5f67cee.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari $5\\sqrt{27} - 3\\sqrt{12} + \\sqrt{48}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$13\\sqrt{3}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.52
+   ],
+   [
+    "EXP-07",
+    0.21
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "68d89f9f2634",
+  "image": "68d89f9f2634.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Sebuah histogram menunjukkan data dengan kelas-kelas sebagai berikut. \nRagam dari data tersebut adalah... ",
+  "question_image": "q_68d89f9f2634_5b089b17-b846-4340-b5b2-dc2b5f77df9e.png",
+  "correct_answer": "20,25",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "STA-04",
+    0.16
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "STA-01",
+    0.15
+   ],
+   [
+    "STA-05",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "874e676b5b56",
+  "image": "874e676b5b56.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Tentukan nilai logaritma berikut:\r\n$ ^3\\log \\dfrac{1}{81} + {^2\\log 64} + {^6\\log 36} $",
+  "question_image": null,
+  "correct_answer": "4",
+  "past_labels": [
+   [
+    "LOG-02",
+    0.32
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ALG-06",
+    0.05
+   ],
+   [
+    "EXP-06",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "d8f5343dbf31",
+  "image": "d8f5343dbf31.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Nilai dari operasi bilangan berpangkat $\\dfrac{2^5 \\times 3^4 \\times 2^2}{2^4 \\times 3^2}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "72",
+  "past_labels": [
+   [
+    "EXP-02",
+    0.26
+   ],
+   [
+    "EXP-01",
+    0.19
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.07
+   ],
+   [
+    "INT-03",
+    0.06
+   ],
+   [
+    "INT-04",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "eaf1521fbe01",
+  "image": "eaf1521fbe01.jpeg",
+  "grade": 12,
+  "topic": "Introduction to Geometric Transformation",
+  "question": "Sebuah robot penyelamat mini berada pada koordinat awal A (-3,4) di dalam sebuah gedung reruntuhan yang dipetakan secara digital. Robot tersebut diperintahkan bergerak sejauh 6 satuan ke kanan (timur), lalu dilanjutkan 2 satuan ke bawah (selatan) hingga tiba di titik B. Dari titik B, pusat kendali mengaktifkan fitur otomatis yang mencerminkan posisi robot terhadap garis y = -x untuk menuju titik evakuasi C. Koordinat dari titik evakuasi C tersebut adalah...",
+  "question_image": null,
+  "correct_answer": "(-2,-3)",
+  "past_labels": [
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "FRM-01",
+    0.22
+   ],
+   [
+    "COR-01",
+    0.22
+   ],
+   [
+    "OTH-00",
+    0.06
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "ALG-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "1fdead4676c4",
+  "image": "1fdead4676c4.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Seorang peneliti menggambar diagram pencar untuk melihat hubungan antara Suhu (X) dan Penjualan Es Krim (Y). \n\nIa menarik garis best-fit yang melewati dua titik di grid, yaitu (3, 25) dan (5, 40).\n\nBerdasarkan informasi tersebut, nilai gradien (m) dari persamaan garis regresinya adalah ....",
+  "question_image": "q_1fdead4676c4_96c45bcc-7965-4920-bd14-79a7af1b0102.png",
+  "correct_answer": "7,5",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "LIN-01",
+    0.24
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "INT-04",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "88c6a90185cc",
+  "image": "88c6a90185cc.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Diketahui $f(x) = \\dfrac{2x + 1}{3x + 4}, x \\neq -\\dfrac{4}{3}$, jika $f^{-1}$ adalah invers dari $f$, maka $f^{-1}(3) = \\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{11}{7}$",
+  "past_labels": [
+   [
+    "INV-01",
+    0.29
+   ],
+   [
+    "ALG-06",
+    0.25
+   ],
+   [
+    "ALG-04",
+    0.22
+   ],
+   [
+    "CAL-01",
+    0.11
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "NONE",
+    0.02
+   ]
+  ]
+ }
+]

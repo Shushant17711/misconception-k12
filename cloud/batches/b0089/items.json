@@ -1,0 +1,282 @@
+[
+ {
+  "id": "ad5bb0d06f4e",
+  "image": "ad5bb0d06f4e.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Dalam sebuah kompetisi matematika tingkat SMP yang terdiri dari 30 soal, aturan penilaian yang digunakan adalah sebagai berikut:\n* Jawaban benar diberi skor 4\n* Jawaban salah diberi skor -2\n* Soal yang tidak dijawab diberi skor -1\nSeorang siswa bernama Rian berhasil menjawab benar 22 soal dan tidak menjawab 3 soal. Total skor yang diperoleh siswa dalam kompetisi tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "75",
+  "past_labels": [
+   [
+    "NONE",
+    0.42
+   ],
+   [
+    "ANS-01",
+    0.26
+   ],
+   [
+    "OOO-01",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.08
+   ],
+   [
+    "INT-02",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "7b57d16a4d6f",
+  "image": "7b57d16a4d6f.jpeg",
+  "grade": 7,
+  "topic": "Application of Integers",
+  "question": "Di sebuah kompleks perumahan yang jalannya berbentuk garis lurus, posisi rumah-rumah diukur berdasarkan jaraknya dari pos satpam. Pos satpam ditetapkan sebagai titik nol. Rumah yang berada di sebelah kanan pos satpam dinyatakan dengan bilangan positif, sedangkan di sebelah kiri dinyatakan dengan bilangan negatif.  \n\nDiketahui informasi posisi rumah sebagai berikut:\n1. Rumah Adi berada tepat di titik (-3)\n2. Rumah Beni berada di sebelah kanan rumah Adi sejauh 5 rumah.\n3. Rumah Cici berada di sebelah kiri rumah Beni sejauh 4 rumah.\nBerdasarkan informasi di atas, bilangan bulat yang tepat untuk menyatakan posisi rumah Cici dari pos satpam adalah...",
+  "question_image": null,
+  "correct_answer": "-2",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.46
+   ],
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "INT-04",
+    0.12
+   ],
+   [
+    "INT-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "38d4087da252",
+  "image": "38d4087da252.jpeg",
+  "grade": 4,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Dari diagram gambar di samping, selisih banyak buku pada toko buku Graha Media dan Media Ilmu adalah . . . .",
+  "question_image": "q_38d4087da252_289b413e-1ced-441e-b325-cf0d26b7d9ed.png",
+  "correct_answer": "625 buku",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "VIS-01",
+    0.31
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.02
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "2c8cc2f5cc0e",
+  "image": "2c8cc2f5cc0e.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk sederhana dari $\\sqrt[3]{\\dfrac{54}{64}}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{3}{4}\\sqrt[3]{2}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.38
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "OTH-00",
+    0.16
+   ],
+   [
+    "EXP-07",
+    0.13
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "42b6eb237e94",
+  "image": "42b6eb237e94.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Diketahui barisan aritmatika dengan variabel yang hilang sebagai berikut:\r\n42, a, 26, b,...\r\nMaka nilai a adalah…\r",
+  "question_image": null,
+  "correct_answer": "34",
+  "past_labels": [
+   [
+    "SEQ-02",
+    0.43
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "CAL-01",
+    0.16
+   ],
+   [
+    "FRM-01",
+    0.14
+   ],
+   [
+    "REL-01",
+    0.01
+   ],
+   [
+    "SIM-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "65d239bfe585",
+  "image": "65d239bfe585.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Sebanyak 16 siswa dan 24 siswi SD Ceria akan mengikuti kegiatan pramuka. \n\nMereka akan dibagi menjadi beberapa kelompok. \n\nSetiap kelompok berisi siswa dan siswi sama banyak. Banyak siswi yang ada di setiap kelompok adalah . . . orang.",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.33
+   ],
+   [
+    "KPF-01",
+    0.23
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "CAL-01",
+    0.12
+   ],
+   [
+    "KPF-02",
+    0.06
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "3a6b51221df0",
+  "image": "3a6b51221df0.jpeg",
+  "grade": 7,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Data jumlah siswa Kelas VII di empat kelas adalah sebagai berikut:\n\nJika total seluruh siswa adalah 133, berapakah jangkauan dari data tersebut?",
+  "question_image": "q_3a6b51221df0_131fa6ed-f198-4cd2-850d-38e6467b6896.png",
+  "correct_answer": "6",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "VIS-01",
+    0.24
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "dce667e31034",
+  "image": "dce667e31034.jpeg",
+  "grade": 10,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{6}{\\sqrt{5} - \\sqrt{2}}$ dapat dinyatakan sebagai $a\\left(\\sqrt{b} + \\sqrt{c}\\right)$, dengan $a$, $b$, dan $c$ bilangan bulat.\r\n\r\nJika $b > c$, maka nilai $\\dfrac{b}{\\sqrt{c}}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{5\\sqrt{2}}{2}$",
+  "past_labels": [
+   [
+    "ALG-04",
+    0.2
+   ],
+   [
+    "OTH-00",
+    0.17
+   ],
+   [
+    "ANS-01",
+    0.16
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "EXP-07",
+    0.1
+   ],
+   [
+    "EXP-04",
+    0.07
+   ]
+  ]
+ }
+]

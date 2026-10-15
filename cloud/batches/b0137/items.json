@@ -1,0 +1,282 @@
+[
+ {
+  "id": "d5f5c3b569e2",
+  "image": "d5f5c3b569e2.jpeg",
+  "grade": 9,
+  "topic": "Angle",
+  "question": "Besar sudut BAE adalah …",
+  "question_image": "q_d5f5c3b569e2_4f9adb85-17b2-4a95-8a13-dd9ad56d381c.png",
+  "correct_answer": "$100^\\circ$",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.77
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "ANS-02",
+    0.06
+   ],
+   [
+    "ALG-06",
+    0.06
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "8a301342d216",
+  "image": "8a301342d216.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Diketahui rata-rata perubahan suhu adalah $-1^\\circ \\text{C}$.\n\nNilai $x$ adalah $\\ldots$",
+  "question_image": "q_8a301342d216_18afebdb-8753-442e-837c-cd1c8a55b8de.png",
+  "correct_answer": "2",
+  "past_labels": [
+   [
+    "NONE",
+    0.4
+   ],
+   [
+    "STA-01",
+    0.25
+   ],
+   [
+    "INT-04",
+    0.16
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "d46359f6aa91",
+  "image": "d46359f6aa91.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Kelipatan Persekutuan Terkecil dari bilangan 10, 15 dan 25 adalah…",
+  "question_image": null,
+  "correct_answer": "150",
+  "past_labels": [
+   [
+    "KPF-04",
+    0.4
+   ],
+   [
+    "NONE",
+    0.25
+   ],
+   [
+    "KPF-03",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "KPF-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "b9dde137195a",
+  "image": "b9dde137195a.jpeg",
+  "grade": 10,
+  "topic": "Operations on Radicals",
+  "question": "Sederhanakan bentuk berikut menjadi bentuk paling sederhana ($x>0$):\r\n\r\n$$\\sqrt{5x^3} + \\sqrt{20x^3}$$",
+  "question_image": null,
+  "correct_answer": "$3x\\sqrt{5x}$",
+  "past_labels": [
+   [
+    "EXP-07",
+    0.48
+   ],
+   [
+    "EXP-04",
+    0.28
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.03
+   ],
+   [
+    "OTH-00",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "ed058bbe2d9c",
+  "image": "ed058bbe2d9c.jpeg",
+  "grade": 8,
+  "topic": "Probability of an Event",
+  "question": "Dua buah dadu dilemparkan secara bersamaan satu kali. \nPeluang munculnya mata dadu dengan jumlah mata dadu ganjil adalah …",
+  "question_image": null,
+  "correct_answer": "$0,5$",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.49
+   ],
+   [
+    "NONE",
+    0.34
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "f0fa05083999",
+  "image": "f0fa05083999.jpeg",
+  "grade": 11,
+  "topic": "Types of Functions",
+  "question": "Fungsi-fungsi berikut adalah fungsi-fungsi dari himpunan A={a,b,c} ke himpunan B={1,2,3}.\r\n(i)    f={(a,1), (b,2), (c,2)}\r\n(ii)   g={(a,1), (b,1), (c,1)}\r\n(iii)  h={(a,2), (b,3), (c,1)}\r\n(iv)  k={(a,1), (b,3), (c,2)}\r\nYang merupakan fungsi surjektif adalah….\r",
+  "question_image": null,
+  "correct_answer": "(iii) dan (iv)",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.39
+   ],
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "VIS-01",
+    0.16
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "CHK-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "59ee2905cb86",
+  "image": "59ee2905cb86.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari $5\\sqrt{27} - 3\\sqrt{12} + \\sqrt{48}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$13\\sqrt{3}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.52
+   ],
+   [
+    "EXP-07",
+    0.21
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "060e44dae93f",
+  "image": "060e44dae93f.jpeg",
+  "grade": 12,
+  "topic": "Combination",
+  "question": "Pelatih basket akan memilih 5 pemain inti dari 12 pemain yang tersedia. Jika Dika (salah satu pemain) dipastikan wajib masuk ke dalam skuad utama, maka banyaknya variasi tim inti yang dapat dibentuk adalah ....",
+  "question_image": null,
+  "correct_answer": "330",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.34
+   ],
+   [
+    "NONE",
+    0.29
+   ],
+   [
+    "PRO-04",
+    0.13
+   ],
+   [
+    "FRM-01",
+    0.07
+   ],
+   [
+    "WOP-02",
+    0.07
+   ],
+   [
+    "ANS-02",
+    0.07
+   ]
+  ]
+ }
+]

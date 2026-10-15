@@ -1,0 +1,282 @@
+[
+ {
+  "id": "39dec78afad9",
+  "image": "39dec78afad9.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Caca les matematika setiap 12 hari sekali, Nara les matematika 18 hari sekali dan Leo les matematika setiap 20 hari sekali. Jika hari ini mereka pergi les bersama-sama untuk pertama kalinya, berapa hari lagi mereka akan pergi les bersama-sama untuk ketiga kalinya…",
+  "question_image": null,
+  "correct_answer": "360 hari",
+  "past_labels": [
+   [
+    "KPF-02",
+    0.6
+   ],
+   [
+    "ANS-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "KPF-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "b3ad1708faf6",
+  "image": "b3ad1708faf6.jpeg",
+  "grade": 11,
+  "topic": "Function Operations",
+  "question": "Diketahui fungsi $f(x) = 3 - x$.\nJika $g(x) = f(x^2) + [f(x)]^2 - 5f(x)$, maka nilai dari $g(-3)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "0",
+  "past_labels": [
+   [
+    "NONE",
+    0.65
+   ],
+   [
+    "FUN-01",
+    0.12
+   ],
+   [
+    "QUA-02",
+    0.12
+   ],
+   [
+    "OOO-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "ca79ec05b17a",
+  "image": "ca79ec05b17a.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Ibu Guru memiliki 36 buah pensil. Pensil-pensil tersebut akan dibagikan ke dalam beberapa kotak pensil (lebih dari satu) sehingga setiap kotak berisi pensil dalam jumlah yang sama banyak tanpa ada pensil yang tersisa. Kemungkinan banyaknya kotak pensil yang dapat dibuat oleh Ibu Guru…Kotak",
+  "question_image": null,
+  "correct_answer": "2, 3, 4, 6, 9, 12, 18, atau 36",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "ANS-01",
+    0.29
+   ],
+   [
+    "KPF-04",
+    0.13
+   ],
+   [
+    "WOP-02",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "9eb63568f68b",
+  "image": "9eb63568f68b.jpeg",
+  "grade": 7,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Luas permukaan limas dengan alas persegi panjang di samping adalah …. $\\text{cm}^2$",
+  "question_image": "q_9eb63568f68b_2f6df60c-e40c-4664-90b2-c9400d6675ae.png",
+  "correct_answer": "564",
+  "past_labels": [
+   [
+    "NONE",
+    0.53
+   ],
+   [
+    "MEA-04",
+    0.27
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "aeeb6b5d3468",
+  "image": "aeeb6b5d3468.jpeg",
+  "grade": 10,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari \n$\\sqrt{400} - \\sqrt{144} + \\sqrt{625} \\div \\sqrt{25}$\nadalah...",
+  "question_image": null,
+  "correct_answer": "13",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.29
+   ],
+   [
+    "EXP-07",
+    0.26
+   ],
+   [
+    "EXP-04",
+    0.24
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "4bb32b2259a6",
+  "image": "4bb32b2259a6.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Panitia jalan sehat memasang pos penanganan medis di sepanjang rute kegiatan. Pos pertama dipasang pada kilometer ke-3, pos kedua pada kilometer ke-7, pos ketiga pada kilometer ke-11, dan seterusnya mengikuti pola yang sama. Jika pos terakhir dipasang pada kilometer ke-55, maka banyak pos penanganan medis yang dipasang oleh panitia adalah…",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "CAL-01",
+    0.27
+   ],
+   [
+    "SEQ-02",
+    0.22
+   ],
+   [
+    "FRM-01",
+    0.07
+   ],
+   [
+    "REL-01",
+    0.02
+   ],
+   [
+    "SIM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "edf4e6b7d314",
+  "image": "edf4e6b7d314.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Dalam sebuah kompetisi matematika yang terdiri dari 30 soal, aturan penilaiannya adalah: \r\nsetiap jawaban benar mendapat poin 4, jawaban salah mendapat poin -2, dan tidak dijawab mendapat poin -1.\r\n\r\nTim A dan Tim B sama-sama berhasil menjawab 20 soal dengan benar. Namun, karena terburu-buru, Tim A memilih mengosongkan 4 soal dan menebak sisanya yang ternyata salah. \r\nSementara itu, Tim B memilih untuk mengosongkan (tidak menjawab) seluruh sisa soal tersebut.\r\n\r\nBerdasarkan situasi di atas, tim manakah yang memperoleh skor lebih tinggi? Dan berapakah skornya?\r",
+  "question_image": null,
+  "correct_answer": "Tim B, 70\r",
+  "past_labels": [
+   [
+    "NONE",
+    0.34
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "UNT-01",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.11
+   ],
+   [
+    "INT-04",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "905541f4762c",
+  "image": "905541f4762c.jpeg",
+  "grade": 12,
+  "topic": "Probability of Compound Events",
+  "question": "Dalam sebuah kantong terdapat 5 bola merah, 4 bola putih, dan 3 bola biru. Dari kantong tersebut diambil 2 bola sekaligus secara acak. Peluang terambilnya kedua bola berwarna merah atau keduanya berwarna putih adalah ....",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{8}{33}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "PRO-04",
+    0.28
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.06
+   ],
+   [
+    "PRO-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ }
+]

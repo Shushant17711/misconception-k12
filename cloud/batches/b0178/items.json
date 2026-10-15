@@ -1,0 +1,282 @@
+[
+ {
+  "id": "78371b54e67c",
+  "image": "78371b54e67c.jpeg",
+  "grade": 10,
+  "topic": "Exponential Applications (Exponents)",
+  "question": "Suatu zat di laboratorium mengalami peluruhan sedemikian sehingga setiap 20 menit, massa zat yang tersisa menjadi 40% dari massa sebelumnya. Jika massa awal zat adalah 100 gram, berapakah massa zat yang tersisa setelah 1 jam?",
+  "question_image": null,
+  "correct_answer": "6,4 gram",
+  "past_labels": [
+   [
+    "NONE",
+    0.59
+   ],
+   [
+    "Dec-02",
+    0.23
+   ],
+   [
+    "CAL-01",
+    0.07
+   ],
+   [
+    "SEQ-01",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "7d9de9a77b79",
+  "image": "7d9de9a77b79.jpeg",
+  "grade": 8,
+  "topic": "Probability of an Event",
+  "question": "Sebuah roda putar (spinner) dibagi menjadi 20 juring sama besar yang diberi nomor 1 sampai 20. \nDalam sebuah permainan, roda diputar sebanyak 50 kali dan tercatat jarum berhenti pada nomor kelipatan 5 sebanyak 8 kali. \n\nSelisih antara peluang teoritik dengan peluang empirik jarum menunjuk nomor kelipatan 5 adalah ...",
+  "question_image": null,
+  "correct_answer": "0,04",
+  "past_labels": [
+   [
+    "NONE",
+    0.62
+   ],
+   [
+    "PRO-04",
+    0.16
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "a8504144c5a0",
+  "image": "a8504144c5a0.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Pak Budi memiliki sebidang tanah pertanian. Sebanyak $\\dfrac{2}{5}$ bagian tanah ditanami padi, $\\dfrac{3}{8}$ bagian ditanami jagung, dan sisanya dibuat kolam ikan. Bagian tanah yang dibuat kolam ikan dalam bentuk desimal adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "0,225",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.38
+   ],
+   [
+    "CAL-01",
+    0.23
+   ],
+   [
+    "OPS-02",
+    0.12
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "Dec-02",
+    0.04
+   ],
+   [
+    "FRA-05",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "2017385036d8",
+  "image": "2017385036d8.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Pemilik toko sembako mencatat pasokan beras yang diterima per minggu, serta sisa beras yang belum terjual pada akhir minggu tersebut dinyatakan dalam tabel di samping: \n\nSisa beras dari tiap minggu disimpan terpisah (tidak dicampur dengan pasokan minggu berikutnya). Berapa total beras yang masih tersimpan di toko saat ini? (nyatakan dalam bentuk bilangan pecahan campuran, satuan ton)",
+  "question_image": "q_2017385036d8_8dde1edf-36e2-4710-a8bd-fbd479bed5f0.png",
+  "correct_answer": "$2\\dfrac{1}{2}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "WOP-01",
+    0.2
+   ],
+   [
+    "FRA-06",
+    0.07
+   ],
+   [
+    "FRA-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "362962cfc488",
+  "image": "362962cfc488.jpeg",
+  "grade": 11,
+  "topic": "Types of Functions",
+  "question": "Dalam sebuah ulangan remedial matematika, seorang guru mengumumkan bahwa nilai yang diberikan akan berkisar dari 60 sampai 100, dengan setiap siswa mendapatkan nilai berupa bilangan bulat. Banyak siswa yang mengikuti ulangan remedial ini adalah 42 orang. Jika f memetakan setiap siswa ke nilai ulangannya, maka sifat fungsi f yang mungkin terjadi (yaitu tidak mustahil terjadi, tergantung bagaimana nilai didistribusikan ke siswa) adalah . . .",
+  "question_image": null,
+  "correct_answer": "Surjektif",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.64
+   ],
+   [
+    "CHK-01",
+    0.16
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "ANS-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "d84d9fbf1bf0",
+  "image": "d84d9fbf1bf0.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Roni memiliki uang sebesar $\\text{Rp}150.000{,}00$. Sebesar $\\dfrac{1}{3}$ bagian ditabung, lalu $0{,}4$ dari sisa uangnya digunakan untuk membeli buku. Sisa uang terakhir dibagikan kepada 2 adiknya sama banyak. Besar uang yang diterima oleh masing-masing adik Roni adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "Rp30.000,00",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.37
+   ],
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "OTH-00",
+    0.09
+   ],
+   [
+    "ANS-02",
+    0.09
+   ],
+   [
+    "FRA-06",
+    0.04
+   ],
+   [
+    "FRA-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "06e7521bd9e1",
+  "image": "06e7521bd9e1.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Saat ini, umur seorang Ibu adalah 3 kali umur anaknya. Diketahui bahwa 4 tahun yang lalu, jumlah umur mereka berdua adalah 48 tahun. Berapakah umur sang Ibu 5 tahun yang akan datang?",
+  "question_image": null,
+  "correct_answer": "47 tahun",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.45
+   ],
+   [
+    "ALG-06",
+    0.17
+   ],
+   [
+    "ALG-04",
+    0.07
+   ],
+   [
+    "ALG-05",
+    0.06
+   ],
+   [
+    "NONE",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "12435549675e",
+  "image": "12435549675e.jpeg",
+  "grade": 8,
+  "topic": "Exponents",
+  "question": "Diketahui sebuah persamaan $3^x = \\dfrac{1}{27}$. Nilai dari $5^{x+3}$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "1",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.27
+   ],
+   [
+    "EXP-01",
+    0.24
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "EXP-02",
+    0.12
+   ],
+   [
+    "EXP-06",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.01
+   ]
+  ]
+ }
+]

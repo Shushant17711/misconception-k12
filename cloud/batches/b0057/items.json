@@ -1,0 +1,282 @@
+[
+ {
+  "id": "995127dd2e89",
+  "image": "995127dd2e89.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Dua buah jam di kamar Caca diatur untuk berdering secara berkala. Jam A berdering setiap 45 menit sekali, sedangkan jam B berdering setiap 60 menit sekali. Jika kedua jam beker tersebut berdering bersama-sama untuk pertama kalinya pada pukul 09.15. Kedua jam beker tersebut akan berdering bersama-sama untuk kedua kalinya pada pukul ….",
+  "question_image": null,
+  "correct_answer": "12.15",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "KPF-01",
+    0.22
+   ],
+   [
+    "ANS-01",
+    0.11
+   ],
+   [
+    "KPF-02",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "MEA-02",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "5391947ab74c",
+  "image": "5391947ab74c.jpeg",
+  "grade": 8,
+  "topic": "Measures of Dispersion",
+  "question": "Jangkauan antarkuartil (IQR) dari data tersebut adalah …",
+  "question_image": "q_5391947ab74c_b965492d-57ba-455c-9223-296726c8a7f8.png",
+  "correct_answer": "4",
+  "past_labels": [
+   [
+    "NONE",
+    0.45
+   ],
+   [
+    "STA-05",
+    0.18
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "STA-04",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "e65bb0238781",
+  "image": "e65bb0238781.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Garis $y = 2x + 3$ direfleksikan terhadap garis $y = x$, kemudian didilatasikan dengan pusat $O(0,0)$ dan faktor skala $2$. Persamaan bayangan garis tersebut adalah....",
+  "question_image": null,
+  "correct_answer": "$y = \\dfrac{1}{2}x - 3$",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.33
+   ],
+   [
+    "OTH-00",
+    0.3
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.05
+   ],
+   [
+    "OOO-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "ca7537459aaf",
+  "image": "ca7537459aaf.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Akibat musim kemarau panjang, volume air di sebuah waduk menyusut sebesar 4 cm setiap harinya. Penyusutan ini terjadi secara konstan selama 3 minggu. \r\n\r\nPemerintah daerah kemudian menyalakan pompa air darurat untuk mengisi waduk, sehingga air naik 5 cm setiap jamnya selama 12 jam. \r\n\r\nBerapakah perubahan total ketinggian air waduk tersebut secara keseluruhan? (gunakan bilangan negatif(-) untuk penyusutan)\r",
+  "question_image": null,
+  "correct_answer": "-24",
+  "past_labels": [
+   [
+    "INT-04",
+    0.41
+   ],
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "MEA-02",
+    0.12
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "1c059e3076da",
+  "image": "1c059e3076da.jpeg",
+  "grade": 9,
+  "topic": "Applications of geometric sequences and series",
+  "question": "Jumlah bakteri dalam sebuah percobaan menjadi $2$ kali lipat setiap jam.  \nPada awal percobaan terdapat $40$ bakteri.  \nSetelah beberapa jam jumlah bakteri menjadi $640$ bakteri.\n\nLama waktu yang diperlukan adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "4 jam",
+  "past_labels": [
+   [
+    "NONE",
+    0.89
+   ],
+   [
+    "WOP-01",
+    0.01
+   ],
+   [
+    "FRM-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ],
+   [
+    "CAL-01",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "f9a883c9e748",
+  "image": "f9a883c9e748.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Jika m merupakan penyelesaian dari 2(3x-2) - 4 = 4(x-1), maka nilai m-3 adalah ….",
+  "question_image": null,
+  "correct_answer": "-1",
+  "past_labels": [
+   [
+    "NONE",
+    0.2
+   ],
+   [
+    "ANS-02",
+    0.19
+   ],
+   [
+    "ALG-04",
+    0.13
+   ],
+   [
+    "INT-04",
+    0.11
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "ANS-01",
+    0.09
+   ]
+  ]
+ },
+ {
+  "id": "f4f44b19154e",
+  "image": "f4f44b19154e.jpeg",
+  "grade": 9,
+  "topic": "Angle",
+  "question": "Jika garis $A$ sejajar dengan garis $B$, kemudian dipotong oleh suatu garis, maka nilai $x$ adalah $\\ldots$",
+  "question_image": "q_f4f44b19154e_49d7f7ea-7d5f-4e91-ace9-707a12e9a50a.png",
+  "correct_answer": "30",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.76
+   ],
+   [
+    "ALG-06",
+    0.15
+   ],
+   [
+    "NONE",
+    0.04
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "ALG-05",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "fb83c139174d",
+  "image": "fb83c139174d.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Seorang petani memanen 75 kg buah apel dan 105 kg buah jeruk. Ia ingin memasukkan buah-buahan tersebut ke dalam beberapa keranjang secara merata tanpa ada yang tersisa. Namun setelah diperiksa, terdapat 5 buah apel dan 7 jeruk yang busuk sehingga harus dibuang. Jika setiap keranjang harus memuat buah apel yang sama banyak dan buah jeruk yang sama banyak. Maka jumlah keranjang paling banyak yang dapat disiapkan oleh petani tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.5
+   ],
+   [
+    "ANS-01",
+    0.21
+   ],
+   [
+    "KPF-02",
+    0.08
+   ],
+   [
+    "KPF-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "FRM-01",
+    0.03
+   ]
+  ]
+ }
+]

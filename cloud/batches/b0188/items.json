@@ -1,0 +1,282 @@
+[
+ {
+  "id": "a081ede94d3e",
+  "image": "a081ede94d3e.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Jika $12 \\times (-4) + 75 : 3 = x$\nmaka nilai $x$ adalah . . . .",
+  "question_image": null,
+  "correct_answer": "-23",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.37
+   ],
+   [
+    "INT-04",
+    0.2
+   ],
+   [
+    "INT-02",
+    0.18
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "a08fd051905f",
+  "image": "a08fd051905f.jpeg",
+  "grade": 10,
+  "topic": "Operations on Radicals",
+  "question": "Sederhanakan bentuk berikut menjadi bentuk paling sederhana ($x>0$):\r\n$$\\sqrt{75x^2y} + \\sqrt{12x^2y}$$",
+  "question_image": null,
+  "correct_answer": "$7x\\sqrt{3y}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.38
+   ],
+   [
+    "EXP-07",
+    0.27
+   ],
+   [
+    "REL-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "698a316ca755",
+  "image": "698a316ca755.jpeg",
+  "grade": 7,
+  "topic": "Measures of Dispersion",
+  "question": "Data nilai ujian matematika sekelompok siswa disajikan dalam diagram lingkaran. \nDiketahui total siswa adalah 36 orang. \nBerapakah jangkauan dari banyaknya siswa yang mendapatkan nilai-nilai tersebut?",
+  "question_image": "q_698a316ca755_dcc5d532-ac70-417e-bb71-2c3f6c3bc869.png",
+  "correct_answer": "6 siswa",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "WOP-01",
+    0.21
+   ],
+   [
+    "STA-05",
+    0.09
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "STA-04",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "a8254ce979da",
+  "image": "a8254ce979da.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Diketahui tiga bilangan bulat berbeda p, q, r, memenuhi operasi hitung campuran berikut: \r\n\r\np x (q + r) = -24 \r\n\r\nJika p = 6 dan q = -9, maka nilai dari p - q x r adalah…",
+  "question_image": null,
+  "correct_answer": "51",
+  "past_labels": [
+   [
+    "INT-04",
+    0.27
+   ],
+   [
+    "NONE",
+    0.22
+   ],
+   [
+    "ALG-06",
+    0.17
+   ],
+   [
+    "OOO-01",
+    0.13
+   ],
+   [
+    "INT-02",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "d01f00817b04",
+  "image": "d01f00817b04.jpeg",
+  "grade": 7,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Data jumlah siswa Kelas VII di empat kelas adalah sebagai berikut:\n\nJika total seluruh siswa adalah 133, berapakah jangkauan dari data tersebut?",
+  "question_image": "q_d01f00817b04_131fa6ed-f198-4cd2-850d-38e6467b6896.png",
+  "correct_answer": "6",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "VIS-01",
+    0.24
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "86411aa5e0f2",
+  "image": "86411aa5e0f2.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Perhatikan pernyataan-pernyataan berikut.\n(i) voli disukai oleh 36 siswa\n(ii) Bulu tangkis disukai oleh 90 siswa\n(iii) Basket disukai oleh 40 siswa \n(iv) Sepak boleh disukai oleh 140 siswa\n(v) Renang disukai oleh 54 orang\nPernyataan yang benar berdasarkan data di samping adalah …\n",
+  "question_image": "q_86411aa5e0f2_f3fb2bfb-33cd-4033-a504-689dfd56c252.png",
+  "correct_answer": "(i),(ii) dan (v)\n",
+  "past_labels": [
+   [
+    "NONE",
+    0.66
+   ],
+   [
+    "VIS-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "UNT-01",
+    0.04
+   ],
+   [
+    "RAT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "2ca6eda7950c",
+  "image": "2ca6eda7950c.jpeg",
+  "grade": 10,
+  "topic": "Operations on Radicals",
+  "question": "Sebuah kubus memiliki luas permukaan $1.350x^4y^3\\text{ cm}^2$. Tentukan panjang rusuk kubus tersebut dalam bentuk akar paling sederhana!",
+  "question_image": null,
+  "correct_answer": "$15x^2y\\sqrt{y}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.28
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "MEA-04",
+    0.18
+   ],
+   [
+    "EXP-07",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.03
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "b43c39d327bc",
+  "image": "b43c39d327bc.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Paman tukang kayu memiliki sebuah balok kayu utuh dengan ukuran panjang 20 cm, lebar 15 cm, dan tinggi 10 cm.\n \nUntuk membuat sebuah hiasan, Paman melubangi bagian tengah balok kayu tersebut. \n\nLubang yang dibuat Paman berbentuk kubus dengan panjang rusuk 5 cm. \n\nVolume kayu Paman yang tersisa sekarang adalah . . . $\\text{cm}^3$",
+  "question_image": null,
+  "correct_answer": "2875",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "UNT-01",
+    0.23
+   ],
+   [
+    "VIS-01",
+    0.11
+   ],
+   [
+    "MEA-04",
+    0.08
+   ],
+   [
+    "MEA-03",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ]
+  ]
+ }
+]

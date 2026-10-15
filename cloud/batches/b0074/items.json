@@ -1,0 +1,282 @@
+[
+ {
+  "id": "bff57c56505e",
+  "image": "bff57c56505e.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Disediakan kartu-kartu yang membentuk kata **\"P R O B A B I L I T A S\"**. \nDua kartu diambil secara acak satu per satu tanpa dikembalikan. \n\nPeluang terambilnya **kartu huruf vokal pada pengambilan pertama dan kartu huruf B pada pengambilan kedua** adalah...",
+  "question_image": null,
+  "correct_answer": "$\\frac{5}{66}$",
+  "past_labels": [
+   [
+    "PRO-02",
+    0.33
+   ],
+   [
+    "NONE",
+    0.22
+   ],
+   [
+    "CAL-01",
+    0.19
+   ],
+   [
+    "PRO-04",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "e5630a6f0560",
+  "image": "e5630a6f0560.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Sebuah jajar genjang memiliki panjang alas sebesar $2\\sqrt{5} - \\sqrt{2}$ dan tinggi sebesar $t\\text{ cm}$. Jika luas daerah jajar genjang tersebut adalah $9\\text{ cm}$, hitunglah tinggi $t$ dari jajar genjang tersebut dalam bentuk penyebut rasional yang paling sederhana!",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{2\\sqrt{5} + \\sqrt{2}}{2}$",
+  "past_labels": [
+   [
+    "FRA-04",
+    0.29
+   ],
+   [
+    "NONE",
+    0.25
+   ],
+   [
+    "EXP-07",
+    0.21
+   ],
+   [
+    "EXP-04",
+    0.06
+   ],
+   [
+    "ALG-04",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "9b500707b8f8",
+  "image": "9b500707b8f8.jpeg",
+  "grade": 7,
+  "topic": "Measures of Dispersion",
+  "question": "Sebuah diagram batang menunjukkan jumlah buku yang dipinjam di perpustakaan dalam seminggu. \nJika petugas menemukan kesalahan catat dan menyatakan bahwa data hari Selasa seharusnya adalah 20 buku, tentukan jangkauan data yang baru!",
+  "question_image": "q_9b500707b8f8_5ca250de-e51c-423a-80d5-f19524f31103.png",
+  "correct_answer": "18 buku",
+  "past_labels": [
+   [
+    "NONE",
+    0.52
+   ],
+   [
+    "WOP-02",
+    0.16
+   ],
+   [
+    "STA-05",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "STA-04",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "b28511337432",
+  "image": "b28511337432.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Diketahui fungsi eksponen $f(x) = 3^{2x+1} - 5$.\r\nJika nilai fungsi di titik $x = a$ adalah $22$, maka nilai dari $f(a^2 - 2a)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{14}{3}$",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.27
+   ],
+   [
+    "EXP-02",
+    0.22
+   ],
+   [
+    "SEQ-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "4f8ea42410aa",
+  "image": "4f8ea42410aa.jpeg",
+  "grade": 9,
+  "topic": "Exponents",
+  "question": "Pak Andi membeli sebuah sepeda motor baru pada tahun 2024 (tahun ke-0) seharga Rp 24.000.000. \nSetiap tahun, harga jual kembali sepeda motor tersebut menyusut menjadi $\\dfrac{3}{4}$​ dari harga tahun sebelumnya. \n\nPerbandingan harga sepeda motor pada tahun ke-0 terhadap harga pada tahun ke-2 adalah …",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{16}{9}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "OTH-00",
+    0.19
+   ],
+   [
+    "EXP-01",
+    0.12
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "953becc1f61f",
+  "image": "953becc1f61f.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Jika $f(x) = \\dfrac{1}{x - 4}$ dan $f^{-1}$ invers dari $f$, maka $f^{-1}(x) = 2$ untuk nilai $x$ sama dengan$\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{1}{2}$",
+  "past_labels": [
+   [
+    "INV-01",
+    0.52
+   ],
+   [
+    "ALG-06",
+    0.18
+   ],
+   [
+    "FUN-01",
+    0.12
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "ALG-04",
+    0.04
+   ],
+   [
+    "NONE",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "e3f89369097d",
+  "image": "e3f89369097d.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Diketahui suatu deret aritmatika bernilai negatif dengan $a = -24$ dan beda $b = 4$. Jika jumlah $n$ suku pertama dari deret tersebut adalah $\\text{S}_n = 0$, tentukan nilai dari $n$!",
+  "question_image": null,
+  "correct_answer": "13",
+  "past_labels": [
+   [
+    "SEQ-02",
+    0.27
+   ],
+   [
+    "NOT-01",
+    0.23
+   ],
+   [
+    "NONE",
+    0.22
+   ],
+   [
+    "CAL-01",
+    0.12
+   ],
+   [
+    "FRM-01",
+    0.09
+   ],
+   [
+    "REL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "7bd6a7bb2201",
+  "image": "7bd6a7bb2201.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Seorang penjual buah memiliki persediaan 333 buah apel dan 250 buah jeruk di tokonya. Menjelang siang, seorang pembeli datang dan membeli 129 buah apel. Sisa Apel yang belum terjual di toko adalah. . .",
+  "question_image": null,
+  "correct_answer": "204",
+  "past_labels": [
+   [
+    "WOP-02",
+    0.51
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "OPS-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "OPS-02",
+    0.02
+   ]
+  ]
+ }
+]

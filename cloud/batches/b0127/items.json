@@ -1,0 +1,282 @@
+[
+ {
+  "id": "d6648c63dc6a",
+  "image": "d6648c63dc6a.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Sebuah gedung pertunjukan menata susunan kursi penonton membentuk pola barisan aritmetika. Pada baris pertama terdapat 17 kursi, baris kedua terdapat 24 kursi, baris ketiga terdapat 31 kursi, dan seterusnya dengan jumlah kursi yang selalu bertambah secara tetap pada setiap baris. Banyaknya kursi yang berada pada baris ke-20 adalah……kursi",
+  "question_image": null,
+  "correct_answer": "150",
+  "past_labels": [
+   [
+    "SEQ-02",
+    0.33
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "FRM-01",
+    0.21
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "REL-01",
+    0.02
+   ],
+   [
+    "SIM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "2aca6e1c802e",
+  "image": "2aca6e1c802e.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah wadah berbentuk tabung terbuka (tanpa tutup) memiliki diameter alas $20\\text{ cm}$ dan tinggi $15\\text{ cm}$. Luas permukaan bahan yang dibutuhkan untuk membuat wadah tersebut adalah $\\dots\\text{ cm}^2$.",
+  "question_image": null,
+  "correct_answer": "1.256",
+  "past_labels": [
+   [
+    "NONE",
+    0.53
+   ],
+   [
+    "CAL-01",
+    0.17
+   ],
+   [
+    "MEA-04",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "030cec54eec3",
+  "image": "030cec54eec3.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari $\\left(\\dfrac{2a^5b^{-5}}{32a^9b^{-1}}\\right)^{-1}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$(2ab)^4$",
+  "past_labels": [
+   [
+    "ALG-04",
+    0.25
+   ],
+   [
+    "NONE",
+    0.2
+   ],
+   [
+    "OTH-00",
+    0.16
+   ],
+   [
+    "INT-03",
+    0.15
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "323698117ecb",
+  "image": "323698117ecb.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah gudang memiliki persediaan 85.000 kotak susu. Gudang tersebut menyalurkan bantuan susu ke Kecamatan A sebanyak 27.500 dan ke Kecamatan B sebanyak 34.850 kotak. Sisa susu yang ada di gudang tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "22.650 kotak",
+  "past_labels": [
+   [
+    "OPS-01",
+    0.67
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "PV-01",
+    0.06
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "OPS-02",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "43a2b7cf64cb",
+  "image": "43a2b7cf64cb.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Sederhanakan bentuk aljabar berpangkat berikut menjadi bentuk pangkat positif: $\\dfrac{\\left(a^{-3} \\cdot b^2\\right)}{a^{-11} \\cdot b^4}$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{a^8}{b^2}$",
+  "past_labels": [
+   [
+    "INT-04",
+    0.29
+   ],
+   [
+    "EXP-02",
+    0.19
+   ],
+   [
+    "INT-03",
+    0.17
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "4ee91e455efa",
+  "image": "4ee91e455efa.jpeg",
+  "grade": 7,
+  "topic": "Application of Integers",
+  "question": "Lima kota mencatat suhu udara pada pagi hari: \nKota P = 4 °C di bawah nol\nKota Q = 3 °C di atas nol \nKota R = 9 °C di bawah nol\nKota S = 0 °C\nKota T = 1 °C di bawah nol\n\nSeorang peneliti ingin menyusun daftar kota dari yang paling dingin ke yang paling hangat. \nKota yang berada di urutan ketiga pada daftar tersebut adalah…\n",
+  "question_image": null,
+  "correct_answer": "Kota T",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "INT-01",
+    0.19
+   ],
+   [
+    "WOP-01",
+    0.11
+   ],
+   [
+    "INT-04",
+    0.11
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "c3944a35b59e",
+  "image": "c3944a35b59e.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Sebuah gedung pertunjukan menata susunan kursi penonton membentuk pola barisan aritmetika. Pada baris pertama terdapat 17 kursi, baris kedua terdapat 24 kursi, baris ketiga terdapat 31 kursi, dan seterusnya dengan jumlah kursi yang selalu bertambah secara tetap pada setiap baris. Banyaknya kursi yang berada pada baris ke-20 adalah……kursi",
+  "question_image": null,
+  "correct_answer": "150",
+  "past_labels": [
+   [
+    "SEQ-02",
+    0.33
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "FRM-01",
+    0.21
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "REL-01",
+    0.02
+   ],
+   [
+    "SIM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "dfea28809132",
+  "image": "dfea28809132.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Sebuah toko pakaian menerima kiriman kaos kaki dalam 8 kardus besar. Setiap kardus besar berisi 6 kotak kecil, dan setiap kotak kecil berisi 15 pasang kaos kaki. Jika toko tersebut sudah menjual 220 pasang kaos kaki, berapakah sisa pasang kaos kaki yang belum terjual?",
+  "question_image": null,
+  "correct_answer": "500 pasang",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "WOP-02",
+    0.33
+   ],
+   [
+    "WOP-01",
+    0.1
+   ],
+   [
+    "ANS-01",
+    0.07
+   ],
+   [
+    "OPS-02",
+    0.05
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ }
+]

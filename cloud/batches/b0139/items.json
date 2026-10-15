@@ -1,0 +1,282 @@
+[
+ {
+  "id": "2b37bc25a519",
+  "image": "2b37bc25a519.jpeg",
+  "grade": 6,
+  "topic": "Comparison of Fractions",
+  "question": "Andi mencatat berat empat buah buku tulis miliknya:\r\n* Buku A: 0,35 kg\r\n* Buku B: 0,301 kg\r\n* Buku C: 0,30 kg\r\n* Buku D: 0,305 kg\r\nBuku tulis manakah yang memiliki bobot paling ringan?",
+  "question_image": null,
+  "correct_answer": "Buku C",
+  "past_labels": [
+   [
+    "Dec-01",
+    0.51
+   ],
+   [
+    "Dec-02",
+    0.26
+   ],
+   [
+    "NONE",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "PV-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "f0cf8988cc2a",
+  "image": "f0cf8988cc2a.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari hasil operasi hitung 25 - (-17) + (-34) - 12 adalah...",
+  "question_image": null,
+  "correct_answer": "-4",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "INT-03",
+    0.23
+   ],
+   [
+    "CAL-01",
+    0.13
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-04",
+    0.07
+   ],
+   [
+    "INT-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "fdcce5f3de91",
+  "image": "fdcce5f3de91.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Sebuah mobil pemadam kebakaran memiliki tiga tangga dengan ukuran panjang sebagai berikut:\r\n* Tangga $1 = 3\\sqrt{11}\\text{ m}$\r\n* Tangga $2 = 4\\sqrt{5}\\text{ m}$\r\n* Tangga $3 = 2\\sqrt{17}\\text{ m}$\r\nAgar dapat digunakan dengan aman, petugas harus memilih tangga yang panjangnya lebih dari $8\\text{ m}$ tetapi kurang dari $10\\text{ m}$. Tangga yang memenuhi syarat adalah...",
+  "question_image": null,
+  "correct_answer": "Ketiganya memenuhi syarat",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.45
+   ],
+   [
+    "ANS-01",
+    0.18
+   ],
+   [
+    "EXP-07",
+    0.15
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.03
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "1c3289185ea9",
+  "image": "1c3289185ea9.jpeg",
+  "grade": 12,
+  "topic": "Probability of Compound Events",
+  "question": "Dalam sebuah seleksi beasiswa yang diikuti oleh 50 siswa, panitia mencatat kriteria kepemilikan sertifikat sebagai berikut:\n\n* Sebanyak 25 siswa memiliki sertifikat prestasi akademik.\n* Sejumlah siswa memiliki sertifikat prestasi non-akademik.\n* 8 siswa diketahui memiliki kedua jenis sertifikat tersebut.\n\nJika peluang terpilihnya seorang siswa yang memiliki sertifikat prestasi akademik atau non-akademik adalah 0,64, maka berapakah jumlah siswa yang hanya memiliki sertifikat prestasi non-akademik saja?",
+  "question_image": null,
+  "correct_answer": "7",
+  "past_labels": [
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "CAL-01",
+    0.22
+   ],
+   [
+    "FRM-01",
+    0.22
+   ],
+   [
+    "PRO-04",
+    0.11
+   ],
+   [
+    "PRO-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "c60a826deb92",
+  "image": "c60a826deb92.jpeg",
+  "grade": 6,
+  "topic": "Integer Value",
+  "question": "Empat buah kapal selam berada pada posisi kedalaman berikut.\n- Kapal W berada di 220m di bawah permukaan laut, lalu naik sejauh 70m.\n- Kapal X berada di 55m di bawah permukaan laut lalu turun lagi 25m.\n- Kapal Y berada di -210m dan tetap di posisi tersebut.\n- Kapal Z berada di 300m di bawah permukaan laut lalu naik 175m.\nKapal selam yang berada paling dekat dengan permukaan laut adalah . . . .",
+  "question_image": null,
+  "correct_answer": "Kapal X",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "INT-04",
+    0.32
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "9fe02dcaf7b7",
+  "image": "9fe02dcaf7b7.jpeg",
+  "grade": 7,
+  "topic": "Angle",
+  "question": "Dua garis sejajar dipotong oleh sebuah garis transversal.  \nJumlah kedua sudut tersebut adalah ...\n",
+  "question_image": "q_9fe02dcaf7b7_dd6aca04-379b-44cd-be21-ab27887498f7.png",
+  "correct_answer": "$150^{\\circ}$",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.57
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "ANS-02",
+    0.06
+   ],
+   [
+    "ALG-06",
+    0.06
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "68ddf203b93a",
+  "image": "68ddf203b93a.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Jika jarak bilangan m ke titik 0 adalah 6 satuan, dan jarak bilangan n ke titik 0 adalah 4 satuan, maka nilai dari m-n adalah…",
+  "question_image": "q_68ddf203b93a_db9c6ab6-0a37-4979-98a5-16c61d5a7285.png",
+  "correct_answer": "-10",
+  "past_labels": [
+   [
+    "NONE",
+    0.48
+   ],
+   [
+    "INT-04",
+    0.18
+   ],
+   [
+    "VIS-01",
+    0.12
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "c07b8d990b60",
+  "image": "c07b8d990b60.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Jika $3(2x - 5) + 4 = 5(x + 3) - 2$ mempunyai penyelesaian $x = p$, maka nilai $4p + 7$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "103",
+  "past_labels": [
+   [
+    "ALG-04",
+    0.27
+   ],
+   [
+    "OPS-01",
+    0.19
+   ],
+   [
+    "WOP-01",
+    0.1
+   ],
+   [
+    "ALG-05",
+    0.08
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "INT-04",
+    0.06
+   ]
+  ]
+ }
+]

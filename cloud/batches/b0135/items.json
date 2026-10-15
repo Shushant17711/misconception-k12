@@ -1,0 +1,282 @@
+[
+ {
+  "id": "cd3cba996ff4",
+  "image": "cd3cba996ff4.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Titik $P(4, -2)$ ditranslasikan oleh $T = \\begin{pmatrix} -1 \\\\ 5 \\end{pmatrix}$, kemudian dilanjutkan dengan rotasi sebesar $90^\\circ$ searah jarum jam dengan pusat $O(0, 0)$. Koordinat bayangan akhir dari titik $P$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "(3,-3)",
+  "past_labels": [
+   [
+    "NONE",
+    0.42
+   ],
+   [
+    "FRM-01",
+    0.28
+   ],
+   [
+    "OTH-00",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "OOO-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "fae1d1dc2d13",
+  "image": "fae1d1dc2d13.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Keluarga Leo memiliki total pendapatan Rp8.000.000 per bulan. \nData pengeluaran bulanan digambarkan dalam diagram lingkaran.\n\nBerapakah selisih antara anggaran yang dikeluarkan untuk kebutuhan makanan dan anggaran untuk pendidikan? \n",
+  "question_image": "q_fae1d1dc2d13_41594ec6-f393-4bfa-89ab-72f63687f779.png",
+  "correct_answer": "Rp 1.200.000",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "RAT-02",
+    0.31
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "a0e61da31665",
+  "image": "a0e61da31665.jpeg",
+  "grade": 11,
+  "topic": "Value and Form of a Function",
+  "question": "Diketahui fungsi rasional $f(x) = \\dfrac{2x^2-x-3}{x+1}$ untuk $x \\neq -1$. Jika nilai $f(a) = 5$, maka nilai dari $3a - 2$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "10",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.43
+   ],
+   [
+    "OOO-01",
+    0.17
+   ],
+   [
+    "EXP-03",
+    0.11
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "a95ab3dca001",
+  "image": "a95ab3dca001.jpeg",
+  "grade": 8,
+  "topic": "Measures of Dispersion",
+  "question": "Diagram batang menunjukkan tinggi tanaman:\n\nSimpangan kuartil adalah …",
+  "question_image": "q_a95ab3dca001_530a1947-445b-496d-9368-0dd86b248958.png",
+  "correct_answer": "1",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "STA-05",
+    0.29
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "STA-04",
+    0.06
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "3d0e8b432155",
+  "image": "3d0e8b432155.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Rata-rata nilai $18$ siswa adalah $72$.  \nSetelah ditambahkan $2$ siswa baru, rata-rata kelas menjadi $74$.\n\nRata-rata nilai $2$ siswa baru tersebut adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "92",
+  "past_labels": [
+   [
+    "NONE",
+    0.46
+   ],
+   [
+    "WOP-01",
+    0.22
+   ],
+   [
+    "STA-01",
+    0.12
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "STA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "774d9628a8e4",
+  "image": "774d9628a8e4.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari \r\n$\\sqrt{400} - \\sqrt{144} + \\sqrt{625} \\div \\sqrt{25}$\r\nadalah...",
+  "question_image": null,
+  "correct_answer": "13",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.29
+   ],
+   [
+    "EXP-07",
+    0.26
+   ],
+   [
+    "EXP-04",
+    0.24
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "e776cd6a73c8",
+  "image": "e776cd6a73c8.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f(x) = 2x - 7$ dan $g(x) = 2x$, maka $(f \\circ g)^{-1}(x)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{x + 7}{4}$",
+  "past_labels": [
+   [
+    "INV-01",
+    0.3
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "FUN-01",
+    0.12
+   ],
+   [
+    "EXP-04",
+    0.07
+   ],
+   [
+    "RAT-02",
+    0.07
+   ],
+   [
+    "ALG-04",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "39df1f315d06",
+  "image": "39df1f315d06.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari $\\dfrac{a^6 \\times (b^2)^3}{b^4 \\times a^2}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$a^4b^2$",
+  "past_labels": [
+   [
+    "EXP-02",
+    0.32
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "OTH-00",
+    0.18
+   ],
+   [
+    "INT-03",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ }
+]

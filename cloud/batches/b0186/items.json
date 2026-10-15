@@ -1,0 +1,282 @@
+[
+ {
+  "id": "65e363816a57",
+  "image": "65e363816a57.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Pada sebuah simulator radar pertahanan, posisi awal sebuah kapal selam terdeteksi pada titik koordinat A(4, -6). Kapal tersebut bergerak mengikuti pola instruksi dua transformasi berturut-turut: pertama, direfleksikan terhadap garis y = -x, kemudian dilanjutkan dengan rotasi sebesar 90° berlawanan arah jarum jam dengan pusat titik P(1, 2). Posisi koordinat akhir kapal selam tersebut berada pada... ",
+  "question_image": null,
+  "correct_answer": "(7,7)",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.53
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "OTH-00",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.05
+   ],
+   [
+    "OOO-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "0436440d836c",
+  "image": "0436440d836c.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari \r\n$\\sqrt{400} - \\sqrt{144} + \\sqrt{625} \\div \\sqrt{25}$\r\nadalah...",
+  "question_image": null,
+  "correct_answer": "13",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.29
+   ],
+   [
+    "EXP-07",
+    0.26
+   ],
+   [
+    "EXP-04",
+    0.24
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "c6fb7402336d",
+  "image": "c6fb7402336d.jpeg",
+  "grade": 6,
+  "topic": "Rational Number Operations",
+  "question": "$\\frac{2}{5} : \\frac{4}{15} - \\frac{1}{2} \\times \\frac{2}{3} = \\dots$",
+  "question_image": null,
+  "correct_answer": "$\\frac{7}{6}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.46
+   ],
+   [
+    "CAL-01",
+    0.19
+   ],
+   [
+    "FRA-03",
+    0.19
+   ],
+   [
+    "FRA-06",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "bb45f28c590c",
+  "image": "bb45f28c590c.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Diagram batang menunjukkan jumlah tabungan Coco selama 4 bulan. \n\nJika Coco ingin rata-rata tabungannya selama 5 bulan menjadi Rp55.000, berapa banyak uang yang harus ia tabung pada bulan Mei?",
+  "question_image": "q_bb45f28c590c_9c542026-6a31-4c3d-8e88-1c9419023b1d.png",
+  "correct_answer": "Rp. 75.000",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "STA-01",
+    0.26
+   ],
+   [
+    "ALG-05",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "2013efcf4493",
+  "image": "2013efcf4493.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Jumlah pengunjung sebuah taman kota selama 8 hari pertama memiliki rata-rata 120 orang per hari.\n\nPada hari ke-9, jumlah pengunjung dicatat sehingga rata-rata pengunjung selama 9 hari menjadi 124 orang per hari.\n\nJumlah pengunjung pada hari ke-9 adalah ....",
+  "question_image": null,
+  "correct_answer": "156",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "STA-01",
+    0.34
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "STA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "bf82c86ec1c3",
+  "image": "bf82c86ec1c3.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Nara membeli pita merah sepanjang 18 meter, pita biru sepanjang 24 meter, dan pita kuning sepanjang 30 meter. Nara ingin mengetahui panjang paling kecil yang merupakan kelipatan ketiga panjang pita tersebut…",
+  "question_image": null,
+  "correct_answer": "360",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.14
+   ],
+   [
+    "KPF-01",
+    0.14
+   ],
+   [
+    "KPF-03",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "2317564440a1",
+  "image": "2317564440a1.jpeg",
+  "grade": 8,
+  "topic": "Measures of Central Tendency",
+  "question": "Data jumlah pengunjung sebuah pameran selama beberapa hari disajikan pada tabel berikut.\n\nJika rata-rata jumlah pengunjung adalah 55 orang, maka nilai $x$ adalah $\\ldots$",
+  "question_image": "q_2317564440a1_432ddafb-a523-47de-9bcf-3e85afedaca7.png",
+  "correct_answer": "4",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "STA-01",
+    0.3
+   ],
+   [
+    "STA-04",
+    0.25
+   ],
+   [
+    "WOP-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "460521560b56",
+  "image": "460521560b56.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Hitunglah nilai dari ekspresi eksponen berikut: \n$\\left(\\dfrac{1}{4}\\right)^{-2} + 27^{\\frac{2}{3}} - \\left(5^2\\right)^1$",
+  "question_image": null,
+  "correct_answer": "0",
+  "past_labels": [
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "OTH-00",
+    0.2
+   ],
+   [
+    "EXP-04",
+    0.16
+   ],
+   [
+    "EXP-02",
+    0.08
+   ],
+   [
+    "INT-03",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.04
+   ]
+  ]
+ }
+]

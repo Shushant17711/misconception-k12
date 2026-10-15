@@ -1,0 +1,282 @@
+[
+ {
+  "id": "8e2b72901305",
+  "image": "8e2b72901305.jpeg",
+  "grade": 11,
+  "topic": "Correlation",
+  "question": "Data mengenai usia mobil (tahun) dan harga jualnya (puluh juta rupiah) menunjukkan tren tertentu. Berikut data yang tercatat:\n\n* Usia (x): 1, 2, 3, 4\n* Harga (y): 12, 10, 8, 6\nNilai koefisien korelasi (r) untuk hubungan x dan y adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "-1",
+  "past_labels": [
+   [
+    "STA-01",
+    0.47
+   ],
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "WOP-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ],
+   [
+    "CAL-01",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "8b4b5d21f688",
+  "image": "8b4b5d21f688.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Diketahui: \r\nY = 3.600 : 48 \r\nX = 63.750 : Y\r\n\r\nNilai yang tepat untuk menggantikan huruf X adalah…",
+  "question_image": null,
+  "correct_answer": "850",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "PV-01",
+    0.2
+   ],
+   [
+    "OPS-02",
+    0.16
+   ],
+   [
+    "OPS-01",
+    0.13
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "6b1b8c7cd8f9",
+  "image": "6b1b8c7cd8f9.jpeg",
+  "grade": 8,
+  "topic": "Measures of Central Tendency",
+  "question": "Tinggi badan lima siswa (dalam cm) adalah\n\n$\\\n160,\\;165,\\;170,\\;175,\\;\\text{dan } x.\n$\n\nJika rata-rata tinggi badan kelima siswa tersebut adalah $168$ cm, maka tinggi badan siswa kelima adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "170",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "STA-01",
+    0.14
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "STA-04",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "53f4d323e25a",
+  "image": "53f4d323e25a.jpeg",
+  "grade": 9,
+  "topic": "Applications of geometric sequences and series",
+  "question": "Sebuah bola dijatuhkan dari ketinggian $80$ cm.  \nSetiap kali memantul, tinggi pantulannya menjadi $\\tfrac{1}{2}$ dari tinggi sebelumnya.\n\nTotal jarak yang ditempuh bola sampai pantulan ke-$3$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "220 cm",
+  "past_labels": [
+   [
+    "NONE",
+    0.89
+   ],
+   [
+    "WOP-01",
+    0.01
+   ],
+   [
+    "FRM-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ],
+   [
+    "CAL-01",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "97e3925487bd",
+  "image": "97e3925487bd.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Sebuah lahan kosong memiliki luas terukur yang dinyatakan dengan desimal $0,48$ bagian dari total area. Saat diubah menjadi bentuk pecahan biasa paling sederhana $\\dfrac{p}{q}$, nilai pembilang $p$ dan penyebut $q$ dijadikan sebagai ukuran panjang dan lebar sebuah persegi panjang (dalam meter). Keliling persegi panjang tersebut adalah$\\dots\\text{ meter}$",
+  "question_image": null,
+  "correct_answer": "74",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.2
+   ],
+   [
+    "Dec-02",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.12
+   ],
+   [
+    "FRA-04",
+    0.12
+   ],
+   [
+    "MEA-01",
+    0.12
+   ],
+   [
+    "NONE",
+    0.1
+   ]
+  ]
+ },
+ {
+  "id": "9571866f5759",
+  "image": "9571866f5759.jpeg",
+  "grade": 11,
+  "topic": "Types of Functions",
+  "question": "Fungsi-fungsi berikut adalah fungsi-fungsi dari himpunan A={a,b,c} ke himpunan B={1,2,3}.\r\n(i)    f={(a,1), (b,2), (c,2)}\r\n(ii)   g={(a,1), (b,1), (c,1)}\r\n(iii)  h={(a,2), (b,3), (c,1)}\r\n(iv)  k={(a,1), (b,3), (c,2)}\r\nYang merupakan fungsi surjektif adalah….\r",
+  "question_image": null,
+  "correct_answer": "(iii) dan (iv)",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.39
+   ],
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "VIS-01",
+    0.16
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "CHK-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "7a2b0d01fb12",
+  "image": "7a2b0d01fb12.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah waduk menampung 97.200 liter air untuk dialirkan ke 18 saluran irigasi warga dengan jumlah yang sama rata. Di salah satu saluran irigasi, air tersebut dipompa lagi menggunakan beberapa pompa kecil yang bekerja bersamaan hingga habis dalam waktu 1 jam.\r\n\nJika setiap pompa kecil memiliki kemampuan mengalirkan air sebanyak 600 dalam waktu 1 jam, maka banyak pompa kecil yang terpasang di saluran irigasi tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "9 pompa",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "OPS-02",
+    0.32
+   ],
+   [
+    "OPS-01",
+    0.14
+   ],
+   [
+    "PV-01",
+    0.08
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "9ace2003be69",
+  "image": "9ace2003be69.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor Persekutuan Terbesar dari tiga bilangan berikut: 20, 40, dan 60 adalah…",
+  "question_image": null,
+  "correct_answer": "20",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.44
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "KPF-04",
+    0.1
+   ],
+   [
+    "KPF-03",
+    0.07
+   ],
+   [
+    "REL-01",
+    0.02
+   ]
+  ]
+ }
+]

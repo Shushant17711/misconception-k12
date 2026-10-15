@@ -1,0 +1,282 @@
+[
+ {
+  "id": "d71e9583638c",
+  "image": "d71e9583638c.jpeg",
+  "grade": 7,
+  "topic": "Measures of Dispersion",
+  "question": "Sebuah diagram batang menunjukkan jumlah buku yang dipinjam di perpustakaan dalam seminggu. \nJika petugas menemukan kesalahan catat dan menyatakan bahwa data hari Selasa seharusnya adalah 20 buku, tentukan jangkauan data yang baru!",
+  "question_image": "q_d71e9583638c_5ca250de-e51c-423a-80d5-f19524f31103.png",
+  "correct_answer": "18 buku",
+  "past_labels": [
+   [
+    "NONE",
+    0.52
+   ],
+   [
+    "WOP-02",
+    0.16
+   ],
+   [
+    "STA-05",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "STA-04",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "321a6212602a",
+  "image": "321a6212602a.jpeg",
+  "grade": 8,
+  "topic": "Measures of Central Tendency",
+  "question": "Banyak buku yang dipinjam dari perpustakaan selama lima minggu berturut-turut adalah:\n\n$\\\n110,\\;130,\\;x,\\;160,\\;\\text{dan }180$\n\n\nJika rata-rata jumlah buku yang dipinjam selama lima minggu tersebut adalah $150$ buku, maka nilai $x$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "170",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "ALG-04",
+    0.22
+   ],
+   [
+    "STA-01",
+    0.14
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "d04f79b10662",
+  "image": "d04f79b10662.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Sebuah kardus besar berbentuk balok berukuran $40$ cm , $30$ cm , $20$ cm akan diisi dengan kotak-kotak kapur kecil berbentuk balok yang ukurannya $4 \\text{ cm} \\times 3 \\text{ cm} \\times 2 \\text{ cm}$. \n\nMaksimal banyak kotak kapur yang bisa masuk ke dalam kardus besar tersebut adalah . . . kotak.",
+  "question_image": null,
+  "correct_answer": "1000",
+  "past_labels": [
+   [
+    "NONE",
+    0.64
+   ],
+   [
+    "VIS-01",
+    0.09
+   ],
+   [
+    "MEA-04",
+    0.07
+   ],
+   [
+    "MEA-03",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "3cb942d486c9",
+  "image": "3cb942d486c9.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Titik C(2,4) didilatasikan dengan pusat (1,1) dan faktor skala 3, kemudian direfleksikan terhadap garis y = -x. Koordinat bayangan akhir titik C adalah...",
+  "question_image": null,
+  "correct_answer": "(-10,-4)",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.52
+   ],
+   [
+    "OOO-01",
+    0.18
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "a5624a4fccf3",
+  "image": "a5624a4fccf3.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Data pekerjaan orang tua dari 240 siswa di SMP CoLearn ditunjukkan oleh diagram lingkaran.\n\nBerapakah jumlah orang tua siswa yang bekerja sebagai petani? ",
+  "question_image": "q_a5624a4fccf3_ae31a63c-4403-4604-a0a1-2ffbb0f5b228.png",
+  "correct_answer": "10 orang",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "UNT-01",
+    0.27
+   ],
+   [
+    "VIS-01",
+    0.18
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "2940ed30a072",
+  "image": "2940ed30a072.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Sebuah segitiga siku-siku memiliki panjang sisi siku-siku $\\sqrt{18}\\text{ cm}$ dan $\\sqrt{32}\\text{ cm}$. Jika diketahui sisi miringnya $\\sqrt{50}\\text{ cm}$, maka keliling segitiga tersebut adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$12\\sqrt{2}\\text{ cm}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.52
+   ],
+   [
+    "EXP-07",
+    0.26
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "20b27f889c89",
+  "image": "20b27f889c89.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah mangkuk melengkung berbentuk setengah bola terbuka (tanpa tutup) memiliki luas permukaan luar $32\\pi\\text{ cm}^2$. Jika setengah bola dengan ukuran yang sama persis dibuat dalam bentuk padat (pejal), maka luas permukaan total benda pejal tersebut adalah $\\dots\\text{ cm}^2$.\r\n(nyatakan jawaban dalam bentuk $\\pi$)",
+  "question_image": null,
+  "correct_answer": "$48\\pi$",
+  "past_labels": [
+   [
+    "MEA-04",
+    0.44
+   ],
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "3a43bd89d781",
+  "image": "3a43bd89d781.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Diketahui data nilai siswa dalam kelompok. \nJika nilai Kuartil bawah adalah 45,5 dan berada pada Interval kelas 41-50. \nJika frekuensi kelas adalah 10 dan frekuensi kumulatif sebelum kelas kuartil tersebut adalah 15, Berapakah total siswa di dalam kelas tersebut? ",
+  "question_image": null,
+  "correct_answer": "80",
+  "past_labels": [
+   [
+    "NONE",
+    0.53
+   ],
+   [
+    "STA-05",
+    0.09
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "STA-04",
+    0.06
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": "e0ea062fb7c8",
+  "image": "e0ea062fb7c8.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk sederhana dari $\\sqrt[3]{\\dfrac{54}{64}}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{3}{4}\\sqrt[3]{2}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.38
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "OTH-00",
+    0.16
+   ],
+   [
+    "EXP-07",
+    0.13
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "2e81413caef6",
+  "image": "2e81413caef6.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Sebuah histogram menunjukkan data dengan kelas-kelas yang memiliki titik tengah sebagai berikut. \nRagam dari data tersebut adalah... \n",
+  "question_image": "q_2e81413caef6_74bc10f9-b9a0-49e3-bf91-68b4c0893baa.png",
+  "correct_answer": "90,67",
+  "past_labels": [
+   [
+    "NONE",
+    0.66
+   ],
+   [
+    "STA-05",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "STA-04",
+    0.04
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "fb25fc10d3a1",
+  "image": "fb25fc10d3a1.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Sebuah eksperimen memanaskan air menghasilkan diagram pencar beserta garis regresinya seperti pada gambar di samping.\n\nGaris tersebut ditarik mulai dari titik potong sumbu Y di angka 25 dan melewati titik (5, 60).\n\nPersamaan garis regresi linear dari grafik tersebut adalah ....\n",
+  "question_image": "q_fb25fc10d3a1_98fd3d8e-1143-4697-a64f-ef837634ab62.png",
+  "correct_answer": "$\\hat{y} = 7x + 25$",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "VIS-01",
+    0.24
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "WOP-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "d8c1b68c1e64",
+  "image": "d8c1b68c1e64.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Sebuah eksperimen memanaskan air menghasilkan diagram pencar beserta garis regresinya seperti pada gambar di samping.\n\nGaris tersebut ditarik mulai dari titik potong sumbu Y di angka 25 dan melewati titik (5, 60).\n\nPersamaan garis regresi linear dari grafik tersebut adalah ....\n",
+  "question_image": "q_d8c1b68c1e64_98fd3d8e-1143-4697-a64f-ef837634ab62.png",
+  "correct_answer": "$\\hat{y} = 7x + 25$",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "VIS-01",
+    0.24
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "WOP-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "8779a85a3c37",
+  "image": "8779a85a3c37.jpeg",
+  "grade": 7,
+  "topic": "Angle",
+  "question": "Jika besar β = (4x - 20)° dan ε = 100°, maka besar sudut $\\frac{1}{2}$ α adalah ... ",
+  "question_image": "q_8779a85a3c37_7c8e574c-d3da-4799-a84c-684941b40035.png",
+  "correct_answer": "50°\n",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.81
+   ],
+   [
+    "NONE",
+    0.06
+   ],
+   [
+    "ANS-02",
+    0.05
+   ],
+   [
+    "ALG-06",
+    0.05
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "18bf234f249d",
+  "image": "18bf234f249d.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Jika $f(x) = \\dfrac{1}{x - 4}$ dan $f^{-1}$ invers dari $f$, maka $f^{-1}(x) = 2$ untuk nilai $x$ sama dengan$\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{1}{2}$",
+  "past_labels": [
+   [
+    "INV-01",
+    0.52
+   ],
+   [
+    "ALG-06",
+    0.18
+   ],
+   [
+    "FUN-01",
+    0.12
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "ALG-04",
+    0.04
+   ],
+   [
+    "NONE",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "2c43a15df594",
+  "image": "2c43a15df594.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Ibu memiliki persediaan gula sebanyak $1\\dfrac{1}{2}\\text{ kg}$. Sebanyak $0{,}5\\text{ kg}$ gula tersebut digunakan untuk membuat kue. Kemudian, Ibu membeli lagi gula sebanyak $\\dfrac{3}{4}\\text{ kg}$. Berat persediaan gula Ibu sekarang jika dinyatakan dalam bentuk desimal adalah $\\dots\\text{ kg}$",
+  "question_image": null,
+  "correct_answer": "1,75",
+  "past_labels": [
+   [
+    "NONE",
+    0.69
+   ],
+   [
+    "OPS-02",
+    0.1
+   ],
+   [
+    "FRA-06",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "FRA-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "684523685441",
+  "image": "684523685441.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Sebuah mainan berbentuk balok memiliki panjang $20$ cm, lebarnya $5$ cm lebih pendek dari panjangnya dan tingginya $\\frac{1}{3}$ dari lebarnya. \n\nVolume mainan tersebut adalah . . . cm$^3$.",
+  "question_image": null,
+  "correct_answer": "1500",
+  "past_labels": [
+   [
+    "NONE",
+    0.64
+   ],
+   [
+    "VIS-01",
+    0.09
+   ],
+   [
+    "MEA-04",
+    0.07
+   ],
+   [
+    "MEA-03",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ }
+]

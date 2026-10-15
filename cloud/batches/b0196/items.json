@@ -1,0 +1,282 @@
+[
+ {
+  "id": "94028132782f",
+  "image": "94028132782f.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Pak Budi mengolah lahan pertanian miliknya yang seluas $7\\dfrac{1}{2}$ hektar. Sebanyak $\\dfrac{8}{25}$ bagian dari total lahan tersebut ditanami tanaman jagung. Selanjutnya, dari area yang ditanami jagung tersebut, $\\dfrac{7}{9}$ bagian disemprot menggunakan pupuk cair organik. Luas lahan yang disemprot pupuk cair organik adalah...",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{13}{15}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "FRA-06",
+    0.16
+   ],
+   [
+    "OTH-00",
+    0.12
+   ],
+   [
+    "FRA-04",
+    0.12
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "FRA-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "dbb4814127e3",
+  "image": "dbb4814127e3.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Tentukan nilai logaritma berikut:\r\n$ \\dfrac{^4\\log 16 + {^{27}\\log 81}}{^2\\log \\dfrac{1}{8}} $",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{10}{9}$",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.26
+   ],
+   [
+    "LOG-02",
+    0.19
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "OOO-01",
+    0.12
+   ],
+   [
+    "INT-02",
+    0.12
+   ],
+   [
+    "ALG-06",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "ddcc92064eee",
+  "image": "ddcc92064eee.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Nilai $Q_1$ dari data histogram tersebut adalah...",
+  "question_image": "q_ddcc92064eee_13e309c9-6635-4996-a8df-69896426f9f1.png",
+  "correct_answer": "49,5\n",
+  "past_labels": [
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "VIS-01",
+    0.23
+   ],
+   [
+    "Dec-02",
+    0.18
+   ],
+   [
+    "STA-05",
+    0.07
+   ],
+   [
+    "STA-04",
+    0.05
+   ],
+   [
+    "FRM-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "20b55da4f493",
+  "image": "20b55da4f493.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Seorang teknisi mencatat suhu sebuah mesin pendingin turun secara tetap 4 °C setiap 5 menit. Suhu awal mesin 18 °C. Mesin akan otomatis berhenti saat suhu mencapai −30 °C atau lebih rendah. \n\nWaktu paling singkat yang diperlukan hingga mesin berhenti otomatis adalah… ",
+  "question_image": null,
+  "correct_answer": "60 menit",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "INT-04",
+    0.27
+   ],
+   [
+    "OOO-01",
+    0.13
+   ],
+   [
+    "INT-02",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "2fa387f5242f",
+  "image": "2fa387f5242f.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Diketahui fungsi eksponen $f(x) = 3^{2x+1} - 5$.\r\nJika nilai fungsi di titik $x = a$ adalah $22$, maka nilai dari $f(a^2 - 2a)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{14}{3}$",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.27
+   ],
+   [
+    "EXP-02",
+    0.22
+   ],
+   [
+    "SEQ-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "b02402ee581a",
+  "image": "b02402ee581a.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Sebanyak 16 siswa dan 24 siswi SD Ceria akan mengikuti kegiatan pramuka. \n\nMereka akan dibagi menjadi beberapa kelompok. \n\nSetiap kelompok berisi siswa dan siswi sama banyak. Banyak siswi yang ada di setiap kelompok adalah . . . orang.",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.33
+   ],
+   [
+    "KPF-01",
+    0.23
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "CAL-01",
+    0.12
+   ],
+   [
+    "KPF-02",
+    0.06
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "c588d11699db",
+  "image": "c588d11699db.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Jika $x$ dan $y$ adalah bilangan real positif, bentuk paling sederhana dari $\\sqrt{75x^4y^3}$ adalah…\r",
+  "question_image": null,
+  "correct_answer": "$5x^2y\\sqrt{3y}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.43
+   ],
+   [
+    "NONE",
+    0.24
+   ],
+   [
+    "EXP-07",
+    0.17
+   ],
+   [
+    "EXP-02",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "f22aeae911e2",
+  "image": "f22aeae911e2.jpeg",
+  "grade": 7,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Jika banyak penjualan kastengel adalah 100 toples, maka banyak penjualan nastar adalah . . . .",
+  "question_image": "q_f22aeae911e2_0b889da6-7fba-44c7-b75d-750c1373a3b1.png",
+  "correct_answer": "140 toples",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "WOP-01",
+    0.23
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ }
+]

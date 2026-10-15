@@ -1,0 +1,282 @@
+[
+ {
+  "id": "8e29998b8359",
+  "image": "8e29998b8359.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Titik $P(4, -2)$ ditranslasikan oleh $T = \\begin{pmatrix} -1 \\\\ 5 \\end{pmatrix}$, kemudian dilanjutkan dengan rotasi sebesar $90^\\circ$ searah jarum jam dengan pusat $O(0, 0)$. Koordinat bayangan akhir dari titik $P$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "(3,-3)",
+  "past_labels": [
+   [
+    "NONE",
+    0.42
+   ],
+   [
+    "FRM-01",
+    0.28
+   ],
+   [
+    "OTH-00",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "OOO-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "37f860bf5a61",
+  "image": "37f860bf5a61.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Leo sedang menyusun kotak-kotak snack berbentuk kubus ke dalam beberapa kardus besar berbentuk balok. \n\nTotal kotak snack yang dimiliki Leo adalah 720 buah, dan semuanya dimasukkan hingga memenuhi 60 kardus besar tanpa ada sisa ruang. \n\nJika panjang rusuk setiap kotak snack tersebut adalah 20 cm, volume 1 kardus besar tersebut adalah . . . $\\text{cm}^3$",
+  "question_image": null,
+  "correct_answer": "96000",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "WOP-01",
+    0.26
+   ],
+   [
+    "VIS-01",
+    0.11
+   ],
+   [
+    "MEA-04",
+    0.08
+   ],
+   [
+    "MEA-03",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "d1d6642ad79c",
+  "image": "d1d6642ad79c.jpeg",
+  "grade": 6,
+  "topic": "Integer Value",
+  "question": "Empat buah kapal selam berada pada posisi kedalaman berikut.\n- Kapal W berada di 220m di bawah permukaan laut, lalu naik sejauh 70m.\n- Kapal X berada di 55m di bawah permukaan laut lalu turun lagi 25m.\n- Kapal Y berada di -210m dan tetap di posisi tersebut.\n- Kapal Z berada di 300m di bawah permukaan laut lalu naik 175m.\nKapal selam yang berada paling dekat dengan permukaan laut adalah . . . .",
+  "question_image": null,
+  "correct_answer": "Kapal X",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "INT-04",
+    0.32
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "f5d2bcfb3049",
+  "image": "f5d2bcfb3049.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah toko alat tulis menerima kiriman 84.672 pensil. Pensil tersebut akan dimasukkan ke dalam beberapa kotak dengan jumlah yang sama. Empat siswa memberikan pendapat berikut.\r\n* Andi: \"Jika ada 288 kotak, setiap kotak berisi 294 pensil.\"\r\n* Beni: \"Jika ada 294 kotak, setiap kotak berisi 288 pensil.\"\r\n* Citra: \"Pendapat Andi dan Beni sama-sama benar.\"\r\n* Dinda: \"Salah satu dari Andi atau Beni pasti salah.\"\r\nPernyataan yang benar adalah ...",
+  "question_image": null,
+  "correct_answer": "Andi, Beni, dan Citra benar",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "OPS-01",
+    0.29
+   ],
+   [
+    "ANS-01",
+    0.17
+   ],
+   [
+    "PV-01",
+    0.08
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "182c12ce2f44",
+  "image": "182c12ce2f44.jpeg",
+  "grade": 8,
+  "topic": "Measures of Central Tendency",
+  "question": "Diketahui rata-rata perubahan suhu adalah $-1^\\circ \\text{C}$.\n\nNilai $x$ adalah $\\ldots$",
+  "question_image": "q_182c12ce2f44_18afebdb-8753-442e-837c-cd1c8a55b8de.png",
+  "correct_answer": "2",
+  "past_labels": [
+   [
+    "NONE",
+    0.4
+   ],
+   [
+    "STA-01",
+    0.25
+   ],
+   [
+    "INT-04",
+    0.16
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "c13773d26bfa",
+  "image": "c13773d26bfa.jpeg",
+  "grade": 12,
+  "topic": "Counting Rules",
+  "question": "Sebuah bank membuat kode PIN transaksi ATM yang terdiri dari 6 digit angka, nol tidak termasuk. Manajemen bank menetapkan aturan keamanan bahwa angka pertama dan angka terakhir pada PIN tersebut harus merupakan bilangan genap, dan angka boleh berulang pada posisi mana pun. Banyaknya variasi kode PIN yang dapat dibentuk adalah...",
+  "question_image": null,
+  "correct_answer": "104.976",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.43
+   ],
+   [
+    "OTH-00",
+    0.28
+   ],
+   [
+    "FRM-01",
+    0.18
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "449d8b981e5f",
+  "image": "449d8b981e5f.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Biaya produksi x barang dinyatakan dengan C(x) = 5.000x + 200.000. Harga jual ditentukan dari biaya produksi dengan markup 25%, dinyatakan dengan P(C) = 1,25C. Tentukan fungsi harga jual sebagai fungsi dari jumlah barang, lalu hitung harga jual total jika diproduksi 100 barang.\r",
+  "question_image": null,
+  "correct_answer": "P(x) = 6.250x + 250.000\r\nHarga = Rp875.000,00\r",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "WOP-01",
+    0.19
+   ],
+   [
+    "FUN-01",
+    0.1
+   ],
+   [
+    "INV-01",
+    0.08
+   ],
+   [
+    "EXP-04",
+    0.06
+   ],
+   [
+    "RAT-02",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "92b2a0a4cfed",
+  "image": "92b2a0a4cfed.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Diketahui fungsi\r\n\r\n$f(x) = \\dfrac{2^x \\cdot 2^{x+3}}{2^{x-3}}$\r\n\r\nTentukan nilai $f(3) - f(-3)$.",
+  "question_image": null,
+  "correct_answer": "504",
+  "past_labels": [
+   [
+    "NONE",
+    0.25
+   ],
+   [
+    "INT-03",
+    0.19
+   ],
+   [
+    "EXP-05",
+    0.19
+   ],
+   [
+    "SEQ-01",
+    0.13
+   ],
+   [
+    "FUN-01",
+    0.09
+   ],
+   [
+    "OTH-00",
+    0.05
+   ]
+  ]
+ }
+]

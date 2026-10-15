@@ -1,0 +1,282 @@
+[
+ {
+  "id": "4468616e3e39",
+  "image": "4468616e3e39.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Rata-rata tabungan 40 siswa adalah Rp100.000. \nJika 10 orang siswa ditambahkan ke kelompok tersebut, rata-rata tabungan menjadi Rp110.000.\n\nBerapakah rata-rata tabungan 10 siswa yang baru masuk tersebut? ",
+  "question_image": null,
+  "correct_answer": "Rp150.000",
+  "past_labels": [
+   [
+    "NONE",
+    0.63
+   ],
+   [
+    "STA-01",
+    0.12
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "STA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "01fb18fe8f48",
+  "image": "01fb18fe8f48.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Selisih antara penjualan buku pada hari Senin dan hari Kamis adalah …",
+  "question_image": "q_01fb18fe8f48_29c50fb4-efd1-41c9-8bcb-8deaaa28715f.png",
+  "correct_answer": "20 buku",
+  "past_labels": [
+   [
+    "NONE",
+    0.71
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "0f786abca49b",
+  "image": "0f786abca49b.jpeg",
+  "grade": 7,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Diagram batang menunjukkan jumlah tabungan Coco selama 4 bulan. \n\nJika Coco ingin rata-rata tabungannya selama 5 bulan menjadi Rp55.000, berapa banyak uang yang harus ia tabung pada bulan Mei?",
+  "question_image": "q_0f786abca49b_9c542026-6a31-4c3d-8e88-1c9419023b1d.png",
+  "correct_answer": "Rp. 75.000",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "STA-01",
+    0.26
+   ],
+   [
+    "ALG-05",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "cc405bdb84c2",
+  "image": "cc405bdb84c2.jpeg",
+  "grade": 11,
+  "topic": "Value and Form of a Function",
+  "question": "Diketahui $f(x) = x^2 + 2x - 3$. Tentukan $f(2a - 1)$ dinyatakan dalam $a$.",
+  "question_image": null,
+  "correct_answer": "$4a^2 - 4$",
+  "past_labels": [
+   [
+    "EXP-03",
+    0.37
+   ],
+   [
+    "FUN-01",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "ALG-04",
+    0.09
+   ],
+   [
+    "ANS-02",
+    0.09
+   ],
+   [
+    "ALG-02",
+    0.09
+   ]
+  ]
+ },
+ {
+  "id": "6a1b85d37d7c",
+  "image": "6a1b85d37d7c.jpeg",
+  "grade": 6,
+  "topic": "Comparison of Fractions",
+  "question": "Ibu memiliki empat buah kantong belanja dengan berat sebagai berikut:\n* Kantong A = 3,25 kg\n* Kantong B = 0,4 kg lebih berat dari Kantong A\n* Kantong C = 0,15 kg lebih ringan dari Kantong B\n* Kantong D = 3,48 kg\nUrutan kantong belanja dari yang paling berat ke paling ringan adalah ...",
+  "question_image": null,
+  "correct_answer": "Kantong B, Kantong C, Kantong D, Kantong A",
+  "past_labels": [
+   [
+    "Dec-01",
+    0.27
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.21
+   ],
+   [
+    "Dec-02",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "PV-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "503952a88157",
+  "image": "503952a88157.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Pak Doni memiliki $6\\dfrac{3}{4}\\text{ liter}$ minyak goreng. Minyak goreng tersebut digunakan untuk menggoreng makanan sebanyak $1\\dfrac{1}{2}\\text{ liter}$. Sisa minyak goreng akan dimasukkan ke dalam beberapa kantong plastik. Jika setiap kantong plastik berisi $\\dfrac{3}{8}\\text{ liter}$ minyak, banyak kantong plastik yang dibutuhkan Pak Doni adalah $\\dots$ kantong",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "WOP-01",
+    0.16
+   ],
+   [
+    "CAL-01",
+    0.14
+   ],
+   [
+    "FRA-06",
+    0.05
+   ],
+   [
+    "FRA-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "73171494e817",
+  "image": "73171494e817.jpeg",
+  "grade": 12,
+  "topic": "Combination",
+  "question": "Pelatih basket akan memilih 5 pemain inti dari 12 pemain yang tersedia. Jika Dika (salah satu pemain) dipastikan wajib masuk ke dalam skuad utama, maka banyaknya variasi tim inti yang dapat dibentuk adalah ....",
+  "question_image": null,
+  "correct_answer": "330",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.34
+   ],
+   [
+    "NONE",
+    0.29
+   ],
+   [
+    "PRO-04",
+    0.13
+   ],
+   [
+    "FRM-01",
+    0.07
+   ],
+   [
+    "WOP-02",
+    0.07
+   ],
+   [
+    "ANS-02",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "a97ed4b5a368",
+  "image": "a97ed4b5a368.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Sebuah kardus besar berbentuk balok berukuran $40$ cm , $30$ cm , $20$ cm akan diisi dengan kotak-kotak kapur kecil berbentuk balok yang ukurannya $4 \\text{ cm} \\times 3 \\text{ cm} \\times 2 \\text{ cm}$. \n\nMaksimal banyak kotak kapur yang bisa masuk ke dalam kardus besar tersebut adalah . . . kotak.",
+  "question_image": null,
+  "correct_answer": "1000",
+  "past_labels": [
+   [
+    "NONE",
+    0.64
+   ],
+   [
+    "VIS-01",
+    0.09
+   ],
+   [
+    "MEA-04",
+    0.07
+   ],
+   [
+    "MEA-03",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ }
+]

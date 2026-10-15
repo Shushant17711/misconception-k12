@@ -1,0 +1,282 @@
+[
+ {
+  "id": "91045a6e3d2a",
+  "image": "91045a6e3d2a.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Caca les matematika setiap 12 hari sekali, Nara les matematika 18 hari sekali dan Leo les matematika setiap 20 hari sekali. Jika hari ini mereka pergi les bersama-sama untuk pertama kalinya, berapa hari lagi mereka akan pergi les bersama-sama untuk ketiga kalinya…",
+  "question_image": null,
+  "correct_answer": "360 hari",
+  "past_labels": [
+   [
+    "KPF-02",
+    0.6
+   ],
+   [
+    "ANS-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "KPF-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "548e0a8c08b6",
+  "image": "548e0a8c08b6.jpeg",
+  "grade": 6,
+  "topic": "Operations on Integers",
+  "question": "Jika $12 \\times (-4) + 75 : 3 = x$\nmaka nilai $x$ adalah . . . .",
+  "question_image": null,
+  "correct_answer": "-23",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.37
+   ],
+   [
+    "INT-04",
+    0.2
+   ],
+   [
+    "INT-02",
+    0.18
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "90a561c7c24e",
+  "image": "90a561c7c24e.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Diagram di samping menyajikan berbagai jenis ikan yang dipelihara Caca. Jika total seluruh ikan ada 120 ekor, selisih antara banyak ikan guppy dan ikan cupang adalah . . . ekor.",
+  "question_image": "q_90a561c7c24e_d8144bb5-ce72-40ea-94e6-a6b1de56ec62.png",
+  "correct_answer": "18",
+  "past_labels": [
+   [
+    "NONE",
+    0.57
+   ],
+   [
+    "VIS-01",
+    0.11
+   ],
+   [
+    "WOP-01",
+    0.09
+   ],
+   [
+    "UNT-01",
+    0.05
+   ],
+   [
+    "RAT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "66de6a3aaf4a",
+  "image": "66de6a3aaf4a.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Pak Budi memanen 56 kg buah mangga dan 84 kg buah alpukat. Ia ingin mengemas seluruh buah tersebut ke dalam beberapa keranjang secara merata. Setiap keranjang harus berisi kedua jenis buah dengan berat yang sama banyak tanpa ada buah yang tersisa. Jika Pak Budi berhasil membaginya ke dalam keranjang dengan jumlah maksimal, berat buah alpukat di dalam setiap keranjangnya….Kg",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "ANS-01",
+    0.26
+   ],
+   [
+    "OTH-00",
+    0.12
+   ],
+   [
+    "KPF-02",
+    0.06
+   ],
+   [
+    "KPF-01",
+    0.05
+   ],
+   [
+    "KPF-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "dcbdd5a10c2e",
+  "image": "dcbdd5a10c2e.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Pak Budi mengolah lahan pertanian miliknya yang seluas $7\\dfrac{1}{2}$ hektar. Sebanyak $\\dfrac{8}{25}$ bagian dari total lahan tersebut ditanami tanaman jagung. Selanjutnya, dari area yang ditanami jagung tersebut, $\\dfrac{7}{9}$ bagian disemprot menggunakan pupuk cair organik. Luas lahan yang disemprot pupuk cair organik adalah...",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{13}{15}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "FRA-06",
+    0.16
+   ],
+   [
+    "OTH-00",
+    0.12
+   ],
+   [
+    "FRA-04",
+    0.12
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "FRA-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "a058eeab038c",
+  "image": "a058eeab038c.jpeg",
+  "grade": 11,
+  "topic": "Value and Form of a Function",
+  "question": "Diketahui $f(x) = x^2 + 2x - 3$. Tentukan $f(2a - 1)$ dinyatakan dalam $a$.",
+  "question_image": null,
+  "correct_answer": "$4a^2 - 4$",
+  "past_labels": [
+   [
+    "EXP-03",
+    0.37
+   ],
+   [
+    "FUN-01",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "ALG-04",
+    0.09
+   ],
+   [
+    "ANS-02",
+    0.09
+   ],
+   [
+    "ALG-02",
+    0.09
+   ]
+  ]
+ },
+ {
+  "id": "7d8aab275ccd",
+  "image": "7d8aab275ccd.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Kelipatan Persekutuan Terkecil dari tiga bilangan berikut: 6, 8  dan 9 adalah…",
+  "question_image": null,
+  "correct_answer": "72",
+  "past_labels": [
+   [
+    "NONE",
+    0.4
+   ],
+   [
+    "ANS-01",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "KPF-04",
+    0.07
+   ],
+   [
+    "KPF-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "7a2763f60b7d",
+  "image": "7a2763f60b7d.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk pangkat pecahan yang paling sederhana dari $\\sqrt[3]{a \\times \\sqrt{a}}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$a^{\\frac{1}{2}}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.62
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "EXP-07",
+    0.06
+   ],
+   [
+    "OOO-01",
+    0.01
+   ]
+  ]
+ }
+]

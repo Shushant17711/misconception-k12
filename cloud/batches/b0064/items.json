@@ -1,0 +1,282 @@
+[
+ {
+  "id": "4cfef1876e70",
+  "image": "4cfef1876e70.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk pangkat pecahan yang paling sederhana dari $\\sqrt[3]{a \\times \\sqrt{a}}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$a^{\\frac{1}{2}}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.62
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "EXP-07",
+    0.06
+   ],
+   [
+    "OOO-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "bc10f49a90a9",
+  "image": "bc10f49a90a9.jpeg",
+  "grade": 9,
+  "topic": "Area of Flat Shapes",
+  "question": "Luas bangun di samping adalah ….",
+  "question_image": "q_bc10f49a90a9_edb27b6a-6ce3-47c3-a048-24704d90dd3e.png",
+  "correct_answer": "$120\\ \\text{cm}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.46
+   ],
+   [
+    "VIS-01",
+    0.38
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "MEA-04",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "99f9d68ee26a",
+  "image": "99f9d68ee26a.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Tentukan hasil dari operasi hitung berikut dalam bentuk pecahan biasa\n\n$2\\dfrac{1}{2} \\times 0{,}4 - \\dfrac{1}{3} =$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{2}{3}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "FRA-06",
+    0.16
+   ],
+   [
+    "FRA-01",
+    0.14
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "6985b5e0bda2",
+  "image": "6985b5e0bda2.jpeg",
+  "grade": 7,
+  "topic": "Application of Integers",
+  "question": "Lima kota mencatat suhu udara pada pagi hari: \nKota P = 4 °C di bawah nol\nKota Q = 3 °C di atas nol \nKota R = 9 °C di bawah nol\nKota S = 0 °C\nKota T = 1 °C di bawah nol\n\nSeorang peneliti ingin menyusun daftar kota dari yang paling dingin ke yang paling hangat. \nKota yang berada di urutan ketiga pada daftar tersebut adalah…\n",
+  "question_image": null,
+  "correct_answer": "Kota T",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "INT-01",
+    0.19
+   ],
+   [
+    "WOP-01",
+    0.11
+   ],
+   [
+    "INT-04",
+    0.11
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "a0a387e2dee0",
+  "image": "a0a387e2dee0.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f : x \\to x + 2$ dan $h : x \\to x^2 - 2$.\r\nJika $(f \\circ g \\circ h)(x) = 2x^2 + 4$, maka $(h^{-1} \\circ g^{-1} \\circ f^{-1})(x)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\sqrt{\\dfrac{x - 4}{2}}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.26
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "FUN-01",
+    0.18
+   ],
+   [
+    "INV-01",
+    0.17
+   ],
+   [
+    "RAT-02",
+    0.04
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "f3b57c871a14",
+  "image": "f3b57c871a14.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Pak Budi memiliki sebidang tanah pertanian. Sebanyak $\\dfrac{2}{5}$ bagian tanah ditanami padi, $\\dfrac{3}{8}$ bagian ditanami jagung, dan sisanya dibuat kolam ikan. Bagian tanah yang dibuat kolam ikan dalam bentuk desimal adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "0,225",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.38
+   ],
+   [
+    "CAL-01",
+    0.23
+   ],
+   [
+    "OPS-02",
+    0.12
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "Dec-02",
+    0.04
+   ],
+   [
+    "FRA-05",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "afa156c47abd",
+  "image": "afa156c47abd.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Diketahui $f(x) = \\dfrac{ax + b}{2x - 5}, x \\neq \\dfrac{5}{2}$, dan $f^{-1}$ adalah invers dari $f$,\r\n\r\nJika $f^{-1}(x) = \\dfrac{5x - 3}{2x + 7}, x \\neq -\\dfrac{7}{2}$, maka nilai dari $a + b = \\dots$",
+  "question_image": null,
+  "correct_answer": "-10",
+  "past_labels": [
+   [
+    "INT-04",
+    0.34
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "INV-01",
+    0.17
+   ],
+   [
+    "ALG-06",
+    0.11
+   ],
+   [
+    "ALG-04",
+    0.06
+   ],
+   [
+    "NONE",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "f6f3a759a1b2",
+  "image": "f6f3a759a1b2.jpeg",
+  "grade": 7,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Perhatikan diagram di samping! \nJika diketahui sebanyak 15 siswa gemar makan mie rebus, maka banyak siswa seluruhnya adalah ... orang.",
+  "question_image": "q_f6f3a759a1b2_792ffb7a-944a-4e8d-8c03-b1884a1e6bdc.png",
+  "correct_answer": "54 orang",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "CAL-01",
+    0.16
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ]
+  ]
+ }
+]

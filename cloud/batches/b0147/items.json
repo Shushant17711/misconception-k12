@@ -1,0 +1,282 @@
+[
+ {
+  "id": "254fba071fcd",
+  "image": "254fba071fcd.jpeg",
+  "grade": 8,
+  "topic": "Angle",
+  "question": "Dua jalan, Jalan Mawar dan Jalan Melati, dibangun sejajar dengan arah barat–timur. \nSeorang kurir berjalan dari Jalan Mawar menuju Jalan Melati melalui sebuah titik belok di tengah (membentuk jalur zig-zag). \nDi titik belok itu, arah jalur membentuk sudut. \n\nJika jalur dari Jalan Mawar membentuk sudut 35° terhadap arah jalan, dan jalur menuju Jalan Melati membentuk sudut 48° terhadap arah jalan (pada sisi yang sama), maka besar sudut pada titik belok tersebut adalah ...",
+  "question_image": "q_254fba071fcd_aa4cceb9-0714-4df8-951f-95d0effa41d0.png",
+  "correct_answer": "$83^{\\circ}$",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.57
+   ],
+   [
+    "ANS-02",
+    0.26
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "ALG-06",
+    0.06
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "1cb820759ad3",
+  "image": "1cb820759ad3.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari (−6) × 8 : (−4) × (−3) adalah…",
+  "question_image": null,
+  "correct_answer": "-36",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.59
+   ],
+   [
+    "NONE",
+    0.16
+   ],
+   [
+    "INT-02",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "fae5aad9eee5",
+  "image": "fae5aad9eee5.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{\\sqrt{9} + 7}{5 - \\sqrt{8}}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{10\\left(5 + 2\\sqrt{2}\\right)}{17}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "EXP-07",
+    0.14
+   ],
+   [
+    "EXP-04",
+    0.12
+   ],
+   [
+    "ALG-04",
+    0.12
+   ],
+   [
+    "VIS-01",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.09
+   ]
+  ]
+ },
+ {
+  "id": "39f602d44a1f",
+  "image": "39f602d44a1f.jpeg",
+  "grade": 8,
+  "topic": "Probability of an Event",
+  "question": "Dua buah dadu dilemparkan secara bersamaan satu kali. \nPeluang munculnya mata dadu dengan jumlah mata dadu ganjil adalah …",
+  "question_image": null,
+  "correct_answer": "$0,5$",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.49
+   ],
+   [
+    "NONE",
+    0.34
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "0d1a5a9253e1",
+  "image": "0d1a5a9253e1.jpeg",
+  "grade": 10,
+  "topic": "Operations on Radicals",
+  "question": "Sebuah kubus memiliki luas permukaan $1.350x^4y^3\\text{ cm}^2$. Tentukan panjang rusuk kubus tersebut dalam bentuk akar paling sederhana!",
+  "question_image": null,
+  "correct_answer": "$15x^2y\\sqrt{y}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.28
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "MEA-04",
+    0.18
+   ],
+   [
+    "EXP-07",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.03
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "ce142ba43bb6",
+  "image": "ce142ba43bb6.jpeg",
+  "grade": 4,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Selisih antara penjualan buku pada hari Senin dan hari Kamis adalah …",
+  "question_image": "q_ce142ba43bb6_29c50fb4-efd1-41c9-8bcb-8deaaa28715f.png",
+  "correct_answer": "20 buku",
+  "past_labels": [
+   [
+    "NONE",
+    0.71
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "c51fccbc1b31",
+  "image": "c51fccbc1b31.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Budi ingin membeli pensil warna-warni seharga Rp5.000. \nIa menggunakan uang yang ditabungnya setiap hari untuk dikumpulkan. \n\nBerdasarkan diagram garis, pada hari apa tabungan Budi pertama kali mencapai jumlah yang cukup untuk membeli pensil tersebut?",
+  "question_image": "q_c51fccbc1b31_622083b4-6a07-4b58-a6aa-84e6baaededb.png",
+  "correct_answer": "Kamis",
+  "past_labels": [
+   [
+    "NONE",
+    0.71
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "e1de2b67fe41",
+  "image": "e1de2b67fe41.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Diketahui $f(x) = \\dfrac{4x - k}{x - 3}$, dan $f^{-1}$ adalah invers dari $f$, Jika nilai dari $f^{-1}(2) = 1$, maka nilai $k$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "8",
+  "past_labels": [
+   [
+    "ALG-06",
+    0.26
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "INV-01",
+    0.17
+   ],
+   [
+    "ALG-05",
+    0.17
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "ALG-04",
+    0.06
+   ]
+  ]
+ }
+]

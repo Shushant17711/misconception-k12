@@ -1,0 +1,282 @@
+[
+ {
+  "id": "4a5b17c3a542",
+  "image": "4a5b17c3a542.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Sebuah toko online memberikan diskon member $15\\%$ dari harga awal, dilanjutkan potongan ongkir tetap $\\text{Rp}10.000$ dari total setelah diskon.\r\nNyatakan total harga akhir sebagai fungsi komposisi dari harga awal $x$.",
+  "question_image": null,
+  "correct_answer": "$H(x) = 0,85x - 10.000$",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "RAT-02",
+    0.28
+   ],
+   [
+    "WOP-02",
+    0.09
+   ],
+   [
+    "ANS-02",
+    0.09
+   ],
+   [
+    "FUN-01",
+    0.05
+   ],
+   [
+    "INV-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "fdcde9898d97",
+  "image": "fdcde9898d97.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk pangkat pecahan yang paling sederhana dari $\\sqrt[3]{a \\times \\sqrt{a}}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$a^{\\frac{1}{2}}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.62
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "EXP-07",
+    0.06
+   ],
+   [
+    "OOO-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "bb1a7f0fa57c",
+  "image": "bb1a7f0fa57c.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Jika diketahui persamaan $3^x \\times 3^2 = 81$, maka nilai $x$ yang memenuhi adalah…",
+  "question_image": null,
+  "correct_answer": "2",
+  "past_labels": [
+   [
+    "EXP-06",
+    0.21
+   ],
+   [
+    "ANS-02",
+    0.18
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "EXP-02",
+    0.09
+   ],
+   [
+    "OTH-00",
+    0.07
+   ],
+   [
+    "INT-03",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "8ef429626b2b",
+  "image": "8ef429626b2b.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Disediakan kartu-kartu yang membentuk kata **\"P R O B A B I L I T A S\"**. \nDua kartu diambil secara acak satu per satu tanpa dikembalikan. \n\nPeluang terambilnya **kartu huruf vokal pada pengambilan pertama dan kartu huruf B pada pengambilan kedua** adalah...",
+  "question_image": null,
+  "correct_answer": "$\\frac{5}{66}$",
+  "past_labels": [
+   [
+    "PRO-02",
+    0.33
+   ],
+   [
+    "NONE",
+    0.22
+   ],
+   [
+    "CAL-01",
+    0.19
+   ],
+   [
+    "PRO-04",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "588e50651113",
+  "image": "588e50651113.jpeg",
+  "grade": 6,
+  "topic": "Rational Number Operations",
+  "question": "Ibu sedang bersiap membuat kue kering. \n\nDi dalam wadah adonan, sudah terdapat tepung terigu sebanyak $\\frac{1}{2}$ kg. \n\nKarena merasa kurang, ibu menuangkan tepung lagi sebanyak $\\frac{2}{3}$ bagian dari isi kemasan plastik yang beratnya $\\frac{3}{4}$ kg. \n\nSetelah adonan selesai diaduk, ibu mengambil $\\frac{1}{5}$ kg adonan tersebut untuk digoreng menjadi bakwan. \n\nSisa tepung dalam wadah adonan ibu sekarang adalah . . . .",
+  "question_image": null,
+  "correct_answer": "$\\frac{4}{5} \\text{ kg}$",
+  "past_labels": [
+   [
+    "FRA-06",
+    0.43
+   ],
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "CAL-01",
+    0.07
+   ],
+   [
+    "FRA-03",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "c424babb4701",
+  "image": "c424babb4701.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f(x) = 2x - 1$, $g(x) = x^2$, dan $h(x) = x + 2$.\r\nTentukan $(f \\circ g \\circ h)(x)$.",
+  "question_image": null,
+  "correct_answer": "$2x^2 + 8x + 7$",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.33
+   ],
+   [
+    "INT-04",
+    0.14
+   ],
+   [
+    "EXP-03",
+    0.14
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "INV-01",
+    0.06
+   ],
+   [
+    "EXP-04",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "b6dea948a698",
+  "image": "b6dea948a698.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari $\\left(\\dfrac{2a^5b^{-5}}{32a^9b^{-1}}\\right)^{-1}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$(2ab)^4$",
+  "past_labels": [
+   [
+    "ALG-04",
+    0.25
+   ],
+   [
+    "NONE",
+    0.2
+   ],
+   [
+    "OTH-00",
+    0.16
+   ],
+   [
+    "INT-03",
+    0.15
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "7034e09bfbea",
+  "image": "7034e09bfbea.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Panitia bakti sosial mengumpulkan tiga jenis bahan makanan, yaitu 40 bungkus mi instan, 60 bungkus biskuit, dan 80 kantong susu bubuk. Seluruh bahan makanan tersebut akan dikemas ke dalam beberapa paket sembako secara merata sehingga tidak ada bahan yang tersisa. Maka paket sembako terbanyak yang dapat dibuat oleh panitia adalah sebanyak….",
+  "question_image": null,
+  "correct_answer": "20",
+  "past_labels": [
+   [
+    "NONE",
+    0.34
+   ],
+   [
+    "CAL-01",
+    0.22
+   ],
+   [
+    "ANS-01",
+    0.11
+   ],
+   [
+    "KPF-02",
+    0.1
+   ],
+   [
+    "KPF-01",
+    0.09
+   ],
+   [
+    "FRM-01",
+    0.03
+   ]
+  ]
+ }
+]

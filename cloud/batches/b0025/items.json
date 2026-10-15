@@ -1,0 +1,282 @@
+[
+ {
+  "id": "7e42767eda72",
+  "image": "7e42767eda72.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Jika $3(2x - 5) + 4 = 5(x + 3) - 2$ mempunyai penyelesaian $x = p$, maka nilai $4p + 7$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "103",
+  "past_labels": [
+   [
+    "ALG-04",
+    0.27
+   ],
+   [
+    "OPS-01",
+    0.19
+   ],
+   [
+    "WOP-01",
+    0.1
+   ],
+   [
+    "ALG-05",
+    0.08
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "INT-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "4f306ff382d7",
+  "image": "4f306ff382d7.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Toko Maju Jaya menerima kiriman beras setiap 12 hari sekali dan kiriman minyak goreng setiap 18 hari sekali. Pada hari Selasa, toko tersebut menerima kiriman beras dan minyak goreng secara bersamaan untuk pertama kalinya. Pada hari apakah toko tersebut akan menerima kiriman beras dan minyak goreng bersamaan untuk kedua kalinya?",
+  "question_image": null,
+  "correct_answer": "Rabu",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.26
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.19
+   ],
+   [
+    "KPF-01",
+    0.17
+   ],
+   [
+    "KPF-02",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "43d5b5230615",
+  "image": "43d5b5230615.jpeg",
+  "grade": 10,
+  "topic": "Exponential Applications (Exponents)",
+  "question": "Suatu zat di laboratorium mengalami peluruhan sedemikian sehingga setiap 20 menit, massa zat yang tersisa menjadi 40% dari massa sebelumnya. Jika massa awal zat adalah 100 gram, berapakah massa zat yang tersisa setelah 1 jam?",
+  "question_image": null,
+  "correct_answer": "6,4 gram",
+  "past_labels": [
+   [
+    "NONE",
+    0.59
+   ],
+   [
+    "Dec-02",
+    0.23
+   ],
+   [
+    "CAL-01",
+    0.07
+   ],
+   [
+    "SEQ-01",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "327165c5b3ac",
+  "image": "327165c5b3ac.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Tante Linda memiliki 40 kue cokelat dan 52 kue keju. Ia berencana membagikan kue-kue tersebut secara merata ke dalam beberapa wadah plastik untuk diberikan kepada tetangganya. Namun, sebelum dimasukkan ke dalam wadah, Leo memakan 4 kue cokelat dan 4 kue keju. Jika sisa kue tersebut ingin dibagi habis ke dalam wadah dengan jumlah dan jenis yang sama banyak tanpa ada kue yang tersisa, Tentukan banyak wadah maksimal yang harus disiapkan Tante Linda!",
+  "question_image": null,
+  "correct_answer": "12",
+  "past_labels": [
+   [
+    "KPF-04",
+    0.29
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "WOP-01",
+    0.14
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "KPF-02",
+    0.08
+   ],
+   [
+    "KPF-01",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "d098873867ad",
+  "image": "d098873867ad.jpeg",
+  "grade": 7,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Sebuah lahan perkebunan seluas 600 hektar ditanami berbagai jenis tanaman. \n\nBerapakah luas lahan yang digunakan untuk menanam kopi?",
+  "question_image": "q_d098873867ad_ddcc79d6-4290-45a8-95fe-ef4eeebe7ff3.png",
+  "correct_answer": "50 hektar",
+  "past_labels": [
+   [
+    "NONE",
+    0.66
+   ],
+   [
+    "FRM-01",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.02
+   ],
+   [
+    "RAT-02",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "e1d28673fd29",
+  "image": "e1d28673fd29.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari:\n$100 - 60 : 10 \\times ( -3 ) = $. . .",
+  "question_image": null,
+  "correct_answer": "118",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.62
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "INT-03",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "5ab661020465",
+  "image": "5ab661020465.jpeg",
+  "grade": 7,
+  "topic": "Applications of Linear Equations in One Variable",
+  "question": "Umur Andi 3 tahun lebih muda dari umur Budi. \nJika jumlah umur mereka adalah 27 tahun, berapakah umur Budi?",
+  "question_image": null,
+  "correct_answer": "15 tahun",
+  "past_labels": [
+   [
+    "NONE",
+    0.49
+   ],
+   [
+    "ANS-02",
+    0.16
+   ],
+   [
+    "OOO-02",
+    0.16
+   ],
+   [
+    "WOP-01",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "ALG-03",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "2b7c6651cfef",
+  "image": "2b7c6651cfef.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Dalam sebuah kompetisi matematika yang terdiri dari 30 soal, aturan penilaiannya adalah: \nsetiap jawaban benar mendapat poin 4, jawaban salah mendapat poin -2, dan tidak dijawab mendapat poin -1.\n\nTim A dan Tim B sama-sama berhasil menjawab 20 soal dengan benar. Namun, karena terburu-buru, Tim A memilih mengosongkan 4 soal dan menebak sisanya yang ternyata salah. \nSementara itu, Tim B memilih untuk mengosongkan (tidak menjawab) seluruh sisa soal tersebut.\n\nBerdasarkan situasi di atas, tim manakah yang memperoleh skor lebih tinggi? Dan berapakah skornya?\n",
+  "question_image": null,
+  "correct_answer": "Tim B, 70",
+  "past_labels": [
+   [
+    "NONE",
+    0.34
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "UNT-01",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.11
+   ],
+   [
+    "INT-04",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.04
+   ]
+  ]
+ }
+]

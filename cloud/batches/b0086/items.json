@@ -1,0 +1,282 @@
+[
+ {
+  "id": "38ff5f33cfe4",
+  "image": "38ff5f33cfe4.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Seorang pemilik warung mencatat jumlah pengunjung harian (x, dalam puluhan orang) dan pendapatan hariannya (y, dalam puluh ribu rupiah) selama 4 hari. Data yang diperoleh adalah sebagai berikut:\n\n* Pengunjung (x): 1, 2, 3, 4\n* Pendapatan (y): 4, 7, 10, 13\n\nJika diketahui SSxx = 5 dan SSxy = 15, maka perkiraan pendapatan harian jika jumlah pengunjung mencapai 70 orang adalah …\n",
+  "question_image": null,
+  "correct_answer": "22",
+  "past_labels": [
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "WOP-01",
+    0.17
+   ],
+   [
+    "ANS-02",
+    0.17
+   ],
+   [
+    "MEA-02",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "05f9cd301df2",
+  "image": "05f9cd301df2.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Volume gabungan bangun ruang seperti gambar di samping adalah . . . $\\text{cm}^3$",
+  "question_image": "q_05f9cd301df2_3d2c4f9e-fcde-48a2-9c17-b58a45fa29f6.png",
+  "correct_answer": "1350",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "VIS-01",
+    0.37
+   ],
+   [
+    "MEA-04",
+    0.06
+   ],
+   [
+    "MEA-03",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "70ce62106c83",
+  "image": "70ce62106c83.jpeg",
+  "grade": 7,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Perhatikan gambar di samping. Jika tinggi segitiga TAB 15 cm, maka luas permukaan bangun di samping adalah . . . $\\text{cm}^2$",
+  "question_image": "q_70ce62106c83_2f753132-e422-41f1-ad91-b7e0947c05d3.png",
+  "correct_answer": "169",
+  "past_labels": [
+   [
+    "NONE",
+    0.45
+   ],
+   [
+    "VIS-01",
+    0.26
+   ],
+   [
+    "MEA-04",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "0f25dcf8c51a",
+  "image": "0f25dcf8c51a.jpeg",
+  "grade": 7,
+  "topic": "Measures of Dispersion",
+  "question": "Diberikan sekumpulan data: \n-5, 8, 2, -10, 0, 5, 2, -1, 7, -3. \n\nBerapakah nilai jangkauan dari data tersebut?",
+  "question_image": null,
+  "correct_answer": "18",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "INT-03",
+    0.26
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "STA-05",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "STA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "e33f7c1b2f5e",
+  "image": "e33f7c1b2f5e.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Pak Budi memanen 56 kg buah mangga dan 84 kg buah alpukat. Ia ingin mengemas seluruh buah tersebut ke dalam beberapa keranjang secara merata. Setiap keranjang harus berisi kedua jenis buah dengan berat yang sama banyak tanpa ada buah yang tersisa. Jika Pak Budi berhasil membaginya ke dalam keranjang dengan jumlah maksimal, berat buah alpukat di dalam setiap keranjangnya….Kg",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "ANS-01",
+    0.26
+   ],
+   [
+    "OTH-00",
+    0.12
+   ],
+   [
+    "KPF-02",
+    0.06
+   ],
+   [
+    "KPF-01",
+    0.05
+   ],
+   [
+    "KPF-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "8275e24cd321",
+  "image": "8275e24cd321.jpeg",
+  "grade": 5,
+  "topic": "Solving daily life problems related to LCM and GCD",
+  "question": "Pak Bambang mengirim barang dagangannya kedua toko masing-masing setiap 15 hari dan 30 hari sekali. \n\nHari ini, Pak Bambang mengirim barang ke kedua toko tersebut secara bersamaan untuk pertama kalinya. \n\nBerapa hari lagikah ia akan mengirim barang tersebut secara bersamaan untuk ketiga kalinya?",
+  "question_image": null,
+  "correct_answer": "60",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.22
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "KPF-02",
+    0.17
+   ],
+   [
+    "KPF-04",
+    0.17
+   ],
+   [
+    "KPF-01",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.08
+   ]
+  ]
+ },
+ {
+  "id": "b94c8f0b8d90",
+  "image": "b94c8f0b8d90.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Sebuah taman berbentuk persegi panjang memiliki panjang (2x + 3) meter dan lebar (x - 1) meter. Jika keliling taman tersebut adalah 34 meter, maka nilai x yang memenuhi adalah...",
+  "question_image": null,
+  "correct_answer": "5",
+  "past_labels": [
+   [
+    "INT-04",
+    0.19
+   ],
+   [
+    "FRM-01",
+    0.16
+   ],
+   [
+    "OOO-02",
+    0.16
+   ],
+   [
+    "WOP-01",
+    0.08
+   ],
+   [
+    "ALG-04",
+    0.08
+   ],
+   [
+    "ALG-05",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "ad07b479be7c",
+  "image": "ad07b479be7c.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Dalam sebuah seleksi tim olimpiade sekolah yang diikuti oleh 60 siswa, terdapat dua bidang uji yaitu Matematika dan Fisika.\nData yang diperoleh adalah sebagai berikut:\n\n* Sebanyak 36 siswa dinyatakan lulus pada uji Matematika.\n* Peluang seorang siswa yang terpilih secara acak dinyatakan lulus pada kedua bidang uji tersebut adalah 0,2.\n* Peluang seorang siswa yang terpilih secara acak dinyatakan lulus uji Matematika atau Fisika adalah 0,8.\n\nBerapakah peluang seorang siswa yang terpilih secara acak dinyatakan lulus pada uji Fisika? ",
+  "question_image": null,
+  "correct_answer": "0,4",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "FRM-01",
+    0.22
+   ],
+   [
+    "PRO-04",
+    0.11
+   ],
+   [
+    "CAL-01",
+    0.06
+   ],
+   [
+    "PRO-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ }
+]

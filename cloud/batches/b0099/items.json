@@ -1,0 +1,282 @@
+[
+ {
+  "id": "0d05716dde95",
+  "image": "0d05716dde95.jpeg",
+  "grade": 8,
+  "topic": "Exponents",
+  "question": "Pak Andi membeli sebuah sepeda motor baru pada tahun 2024 (tahun ke-0) seharga Rp 24.000.000. \nSetiap tahun, harga jual kembali sepeda motor tersebut menyusut menjadi $\\dfrac{3}{4}$​ dari harga tahun sebelumnya. \n\nPerbandingan harga sepeda motor pada tahun ke-0 terhadap harga pada tahun ke-2 adalah …",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{16}{9}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "OTH-00",
+    0.19
+   ],
+   [
+    "EXP-01",
+    0.12
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "dbcc9ccfb210",
+  "image": "dbcc9ccfb210.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk sederhana dari $\\sqrt[3]{\\dfrac{54}{64}}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{3}{4}\\sqrt[3]{2}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.38
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "OTH-00",
+    0.16
+   ],
+   [
+    "EXP-07",
+    0.13
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "10b3a36cdfed",
+  "image": "10b3a36cdfed.jpeg",
+  "grade": 6,
+  "topic": "Integer Value",
+  "question": "Empat buah kapal selam berada pada posisi kedalaman berikut.\n- Kapal W berada di 220m di bawah permukaan laut, lalu naik sejauh 70m.\n- Kapal X berada di 55m di bawah permukaan laut lalu turun lagi 25m.\n- Kapal Y berada di -210m dan tetap di posisi tersebut.\n- Kapal Z berada di 300m di bawah permukaan laut lalu naik 175m.\nKapal selam yang berada paling dekat dengan permukaan laut adalah . . . .",
+  "question_image": null,
+  "correct_answer": "Kapal X",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "INT-04",
+    0.32
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "8df9b348ae09",
+  "image": "8df9b348ae09.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari (−6) × 8 : (−4) × (−3) adalah…",
+  "question_image": null,
+  "correct_answer": "-36",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.59
+   ],
+   [
+    "NONE",
+    0.16
+   ],
+   [
+    "INT-02",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "ad31db5bd861",
+  "image": "ad31db5bd861.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Atap sebuah kubah tempat pertunjukan berbentuk kerucut dengan diameter alas $9\\text{ m}$. Seluruh permukaan luar atap tersebut ditutupi kain terpal khusus. Jika tarif pemasangan terpal adalah $\\text{Rp}20.000/\\text{ m}^2$ dan total biaya pemasangan terpal yang dikeluarkan adalah $\\text{Rp}3.960.000$, maka panjang garis pelukis atap kubah tersebut adalah $\\dots\\text{ m } \\left(\\pi = \\dfrac{22}{7}\\right)$",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.53
+   ],
+   [
+    "FRM-01",
+    0.19
+   ],
+   [
+    "MEA-04",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "6bcd2651602b",
+  "image": "6bcd2651602b.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah wadah berbentuk tabung terbuka (tanpa tutup) memiliki diameter alas $20\\text{ cm}$ dan tinggi $15\\text{ cm}$. Luas permukaan bahan yang dibutuhkan untuk membuat wadah tersebut adalah $\\dots\\text{ cm}^2$.",
+  "question_image": null,
+  "correct_answer": "1.256",
+  "past_labels": [
+   [
+    "NONE",
+    0.53
+   ],
+   [
+    "CAL-01",
+    0.17
+   ],
+   [
+    "MEA-04",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "ecc0d5981202",
+  "image": "ecc0d5981202.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Ibu membeli tepung terigu sebanyak $2\\dfrac{10}{8}\\text{ kg}$ untuk membuat kue di dapur. Saat ditimbang menggunakan timbangan digital, berat tepung terigu tersebut muncul dalam bentuk bilangan desimal. Angka desimal yang tertera pada layar timbangan adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "3,25",
+  "past_labels": [
+   [
+    "FRA-05",
+    0.38
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "ANS-01",
+    0.2
+   ],
+   [
+    "Dec-02",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "c7d9ee0f7833",
+  "image": "c7d9ee0f7833.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Seorang pengrajin bambu membuat caping berbentuk kerucut dengan diameter $56\\text{ cm}$ dan tinggi $21\\text{ cm}$. Bagian luar caping tersebut akan dicat seluruhnya. Diketahui satu kaleng cat seharga $\\text{Rp}30.000{,}00$ dapat digunakan untuk mengecat permukaan seluas $15.400\\text{ cm}^2$. Jika pengrajin tersebut akan mengecat 30 caping, maka biaya yang diperlukan adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "Rp180.000,00",
+  "past_labels": [
+   [
+    "MEA-04",
+    0.44
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": "274864478eb9",
+  "image": "274864478eb9.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari $\\left(\\dfrac{2a^5b^{-5}}{32a^9b^{-1}}\\right)^{-1}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$(2ab)^4$",
+  "past_labels": [
+   [
+    "ALG-04",
+    0.25
+   ],
+   [
+    "NONE",
+    0.2
+   ],
+   [
+    "OTH-00",
+    0.16
+   ],
+   [
+    "INT-03",
+    0.15
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "551a97fd618c",
+  "image": "551a97fd618c.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f(x) = \\dfrac{x - 1}{x + 1}$ dan $g(x) = 3x$.\r\nJumlah semua nilai $x$ yang mungkin sehingga $f(g(x)) = g(f(x))$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{4}{3}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "FRA-06",
+    0.19
+   ],
+   [
+    "FUN-01",
+    0.1
+   ],
+   [
+    "INV-01",
+    0.08
+   ],
+   [
+    "EXP-04",
+    0.06
+   ],
+   [
+    "RAT-02",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "288e9d086309",
+  "image": "288e9d086309.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Caca les matematika setiap 12 hari sekali, Nara les matematika 18 hari sekali dan Leo les matematika setiap 20 hari sekali. Jika hari ini mereka pergi les bersama-sama untuk pertama kalinya, berapa hari lagi mereka akan pergi les bersama-sama untuk ketiga kalinya…",
+  "question_image": null,
+  "correct_answer": "360 hari",
+  "past_labels": [
+   [
+    "KPF-02",
+    0.6
+   ],
+   [
+    "ANS-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "KPF-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "87ce4b51fc69",
+  "image": "87ce4b51fc69.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Sebuah histogram menunjukkan data dengan kelas-kelas sebagai berikut. \nSimpangan rata-rata dari data tersebut adalah...",
+  "question_image": "q_87ce4b51fc69_3c3c040a-348d-4f1c-93fc-f66cc339f9bb.png",
+  "correct_answer": "3,8",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "STA-01",
+    0.19
+   ],
+   [
+    "STA-05",
+    0.07
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "STA-04",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "5a680eccc08c",
+  "image": "5a680eccc08c.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Nilai $Q_3$ dari data histogram tersebut adalah...",
+  "question_image": "q_5a680eccc08c_69b096e8-88a6-4da4-b658-355a7b190703.png",
+  "correct_answer": "58,67",
+  "past_labels": [
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "VIS-01",
+    0.2
+   ],
+   [
+    "CAL-01",
+    0.17
+   ],
+   [
+    "STA-05",
+    0.06
+   ],
+   [
+    "STA-04",
+    0.04
+   ],
+   [
+    "FRM-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "21412f0d323d",
+  "image": "21412f0d323d.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{\\sqrt{9} + 7}{5 - \\sqrt{8}}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{10\\left(5 + 2\\sqrt{2}\\right)}{17}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "EXP-07",
+    0.14
+   ],
+   [
+    "EXP-04",
+    0.12
+   ],
+   [
+    "ALG-04",
+    0.12
+   ],
+   [
+    "VIS-01",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.09
+   ]
+  ]
+ },
+ {
+  "id": "51c8b2be10b4",
+  "image": "51c8b2be10b4.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Ibu memiliki persediaan beras sebanyak $2\\dfrac{1}{4}\\text{ kg}$. Untuk makan siang dan makan malam, total Ibu menggunakan beras sebanyak $1\\dfrac{2}{5}\\text{ kg}$. Karena khawatir kurang, Ibu membeli lagi beras sebanyak $\\dfrac{3}{10}\\text{ kg}$. Persediaan beras Ibu sekarang adalah .... (nyatakan dalam pecahan campuran)",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{3}{20}$",
+  "past_labels": [
+   [
+    "FRA-01",
+    0.38
+   ],
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "FRA-06",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "b5dc9c59a39d",
+  "image": "b5dc9c59a39d.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Pak Budi mengolah lahan pertanian miliknya yang seluas $7\\dfrac{1}{2}$ hektar. Sebanyak $\\dfrac{8}{25}$ bagian dari total lahan tersebut ditanami tanaman jagung. Selanjutnya, dari area yang ditanami jagung tersebut, $\\dfrac{7}{9}$ bagian disemprot menggunakan pupuk cair organik. Luas lahan yang disemprot pupuk cair organik adalah...",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{13}{15}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "FRA-06",
+    0.16
+   ],
+   [
+    "OTH-00",
+    0.12
+   ],
+   [
+    "FRA-04",
+    0.12
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "FRA-01",
+    0.03
+   ]
+  ]
+ }
+]

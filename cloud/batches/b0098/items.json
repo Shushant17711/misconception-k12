@@ -1,0 +1,282 @@
+[
+ {
+  "id": "5c42ec423738",
+  "image": "5c42ec423738.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari $\\dfrac{15p^5q^{-3}}{3p^2q} \\times (q^2)^3$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$5p^3q^2$",
+  "past_labels": [
+   [
+    "EXP-02",
+    0.32
+   ],
+   [
+    "OTH-00",
+    0.18
+   ],
+   [
+    "INT-04",
+    0.16
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "INT-03",
+    0.05
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "a614d8b0c444",
+  "image": "a614d8b0c444.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Diketahui $k(\\sqrt{7}+1)$ merupakan bentuk sederhana dari $\\dfrac{12}{\\sqrt{7}-1}$, dengan $k$ adalah bilangan bulat.\n\nNilai dari $\\dfrac{k+3}{\\sqrt{k}}$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{5\\sqrt{2}}{2}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.28
+   ],
+   [
+    "EXP-07",
+    0.24
+   ],
+   [
+    "WOP-02",
+    0.16
+   ],
+   [
+    "EXP-04",
+    0.07
+   ],
+   [
+    "ALG-04",
+    0.05
+   ],
+   [
+    "FRA-04",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "b5548da19bbe",
+  "image": "b5548da19bbe.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Sebuah gedung pertunjukan menata susunan kursi penonton membentuk pola barisan aritmetika. Pada baris pertama terdapat 17 kursi, baris kedua terdapat 24 kursi, baris ketiga terdapat 31 kursi, dan seterusnya dengan jumlah kursi yang selalu bertambah secara tetap pada setiap baris. Banyaknya kursi yang berada pada baris ke-20 adalah……kursi",
+  "question_image": null,
+  "correct_answer": "150",
+  "past_labels": [
+   [
+    "SEQ-02",
+    0.33
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "FRM-01",
+    0.21
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "REL-01",
+    0.02
+   ],
+   [
+    "SIM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "2ba6d1fd716b",
+  "image": "2ba6d1fd716b.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Panitia lomba menyiapkan tiga kotak hadiah yang di dalamnya ada nomor undian misterius. Ciri-ciri nomor di dalam setiap kotak: \n- Kotak A: Berisi lima digit angka. Angka puluh ribuannya adalah 6 dan angka ribuannya adalah 7.\n- Kotak B: Berisi lima digit angka. Angka puluh ribuannya adalah 6 dan angka ribuannya adalah 4.\n- Kotak C: Berisi lima digit angka. Angka puluh ribuannya adalah 7 dan angka ribuannya adalah 1.\nJika panitia ingin menyusun kotak mulai dari yang memuat nomor undian paling kecil, urutan tiga kotak yang benar adalah ...\n",
+  "question_image": null,
+  "correct_answer": "Kotak B, Kotak A, Kotak C",
+  "past_labels": [
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "OTH-00",
+    0.22
+   ],
+   [
+    "OPS-01",
+    0.2
+   ],
+   [
+    "PV-01",
+    0.12
+   ],
+   [
+    "ANS-02",
+    0.05
+   ],
+   [
+    "OPS-02",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "26f99d320772",
+  "image": "26f99d320772.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Nara membeli pita merah sepanjang 18 meter, pita biru sepanjang 24 meter, dan pita kuning sepanjang 30 meter. Nara ingin mengetahui panjang paling kecil yang merupakan kelipatan ketiga panjang pita tersebut…",
+  "question_image": null,
+  "correct_answer": "360",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.14
+   ],
+   [
+    "KPF-01",
+    0.14
+   ],
+   [
+    "KPF-03",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "72d114346041",
+  "image": "72d114346041.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari (−6) × 8 : (−4) × (−3) adalah…",
+  "question_image": null,
+  "correct_answer": "-36",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.59
+   ],
+   [
+    "NONE",
+    0.16
+   ],
+   [
+    "INT-02",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "10d5267f9c91",
+  "image": "10d5267f9c91.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Pak Budi memiliki sebidang tanah pertanian. Sebanyak $\\dfrac{2}{5}$ bagian tanah ditanami padi, $\\dfrac{3}{8}$ bagian ditanami jagung, dan sisanya dibuat kolam ikan. Bagian tanah yang dibuat kolam ikan dalam bentuk desimal adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "0,225",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.38
+   ],
+   [
+    "CAL-01",
+    0.23
+   ],
+   [
+    "OPS-02",
+    0.12
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "Dec-02",
+    0.04
+   ],
+   [
+    "FRA-05",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "a6b26d13e842",
+  "image": "a6b26d13e842.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Pada tes penerimaan siswa baru, Nara diberikan 10 soal untuk diselesaikan dengan ketentuan skor: \n\n* benar = 5\n* salah = -1\n* tidak menjawab = 0\n\nJika Nara mengerjakan 8 soal dan hanya 6 soal bernilai benar, berapa total skor yang diperoleh Nara?",
+  "question_image": null,
+  "correct_answer": "28",
+  "past_labels": [
+   [
+    "NONE",
+    0.29
+   ],
+   [
+    "WOP-02",
+    0.27
+   ],
+   [
+    "WOP-01",
+    0.14
+   ],
+   [
+    "OOO-01",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.08
+   ],
+   [
+    "INT-02",
+    0.04
+   ]
+  ]
+ }
+]

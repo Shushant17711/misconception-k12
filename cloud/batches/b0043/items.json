@@ -1,0 +1,282 @@
+[
+ {
+  "id": "3eaf4f2215e4",
+  "image": "3eaf4f2215e4.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Berdasarkan tabel tersebut, jenis buku yang jumlah ketersediaannya paling sedikit di dalam rak perpustakaan adalah...",
+  "question_image": "q_3eaf4f2215e4_88475fd5-17ca-4ad8-8f20-fcc9682edadf.png",
+  "correct_answer": "Buku Sains",
+  "past_labels": [
+   [
+    "NONE",
+    0.7
+   ],
+   [
+    "WOP-02",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "ANS-01",
+    0.05
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "OPS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "5f8b2c26e29c",
+  "image": "5f8b2c26e29c.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Seekor lumba-lumba berada pada kedalaman 8 m di bawah permukaan laut. Di atasnya terdapat burung pelikan yang terbang 5 m di atas permukaan laut. Lumba-lumba tersebut melompat ke atas sejauh 11 m menembus permukaan laut. Sementara burung pelikan menukik ke bawah sejauh 1 m. Jarak vertikal antara lumba-lumba dan burung pelikan tersebut ketika bergerak bersamaan adalah…",
+  "question_image": null,
+  "correct_answer": "1 m",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "INT-04",
+    0.27
+   ],
+   [
+    "OOO-01",
+    0.13
+   ],
+   [
+    "INT-02",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "491ed0544f06",
+  "image": "491ed0544f06.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Diketahui barisan aritmatika berikut:\r\nx, 15, y, 29,....\r\nTentukan nilai dari suku ke-10 pada barisan tersebut!\r",
+  "question_image": null,
+  "correct_answer": "71",
+  "past_labels": [
+   [
+    "SEQ-02",
+    0.42
+   ],
+   [
+    "CAL-01",
+    0.17
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "FRM-01",
+    0.1
+   ],
+   [
+    "REL-01",
+    0.08
+   ],
+   [
+    "SIM-01",
+    0.08
+   ]
+  ]
+ },
+ {
+  "id": "e41c3bb586be",
+  "image": "e41c3bb586be.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Diketahui fungsi eksponen $f(x) = 3^{2x+1} - 5$.\r\nJika nilai fungsi di titik $x = a$ adalah $22$, maka nilai dari $f(a^2 - 2a)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{14}{3}$",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.27
+   ],
+   [
+    "EXP-02",
+    0.22
+   ],
+   [
+    "SEQ-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "91416d81a44d",
+  "image": "91416d81a44d.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Diketahui $f(x) = \\dfrac{ax + b}{2x - 5}, x \\neq \\dfrac{5}{2}$, dan $f^{-1}$ adalah invers dari $f$,\r\n\r\nJika $f^{-1}(x) = \\dfrac{5x - 3}{2x + 7}, x \\neq -\\dfrac{7}{2}$, maka nilai dari $a + b = \\dots$",
+  "question_image": null,
+  "correct_answer": "-10",
+  "past_labels": [
+   [
+    "INT-04",
+    0.34
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "INV-01",
+    0.17
+   ],
+   [
+    "ALG-06",
+    0.11
+   ],
+   [
+    "ALG-04",
+    0.06
+   ],
+   [
+    "NONE",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "97dfbe2a97b6",
+  "image": "97dfbe2a97b6.jpeg",
+  "grade": 10,
+  "topic": "Exponential Applications (Exponents)",
+  "question": "Seorang pasien disuntik obat sebanyak 200 mg. Setiap 4 jam, dosis obat di dalam tubuh pasien akan meluruh dan tersisa 50% dari dosis jam sebelumnya. Sisa obat yang ada di dalam tubuh pasien setelah 12 jam adalah...",
+  "question_image": null,
+  "correct_answer": "25 mg",
+  "past_labels": [
+   [
+    "NONE",
+    0.65
+   ],
+   [
+    "SEQ-01",
+    0.2
+   ],
+   [
+    "CAL-01",
+    0.06
+   ],
+   [
+    "Dec-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "fc0f13eb7a1c",
+  "image": "fc0f13eb7a1c.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Seorang petani memanen 75 kg buah apel dan 105 kg buah jeruk. Ia ingin memasukkan buah-buahan tersebut ke dalam beberapa keranjang secara merata tanpa ada yang tersisa. Namun setelah diperiksa, terdapat 5 buah apel dan 7 jeruk yang busuk sehingga harus dibuang. Jika setiap keranjang harus memuat buah apel yang sama banyak dan buah jeruk yang sama banyak. Maka jumlah keranjang paling banyak yang dapat disiapkan oleh petani tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.5
+   ],
+   [
+    "ANS-01",
+    0.21
+   ],
+   [
+    "KPF-02",
+    0.08
+   ],
+   [
+    "KPF-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "FRM-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "f33efebcd59c",
+  "image": "f33efebcd59c.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Toko Maju Jaya menerima kiriman beras setiap 12 hari sekali dan kiriman minyak goreng setiap 18 hari sekali. Pada hari Selasa, toko tersebut menerima kiriman beras dan minyak goreng secara bersamaan untuk pertama kalinya. Pada hari apakah toko tersebut akan menerima kiriman beras dan minyak goreng bersamaan untuk kedua kalinya?",
+  "question_image": null,
+  "correct_answer": "Rabu",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.26
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.19
+   ],
+   [
+    "KPF-01",
+    0.17
+   ],
+   [
+    "KPF-02",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ }
+]

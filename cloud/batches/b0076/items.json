@@ -1,0 +1,282 @@
+[
+ {
+  "id": "8a30dd6a8e01",
+  "image": "8a30dd6a8e01.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Diketahui tiga bilangan bulat berbeda p, q, r, memenuhi operasi hitung campuran berikut: \r\n\r\np x (q + r) = -24 \r\n\r\nJika p = 6 dan q = -9, maka nilai dari p - q x r adalah…",
+  "question_image": null,
+  "correct_answer": "51",
+  "past_labels": [
+   [
+    "INT-04",
+    0.27
+   ],
+   [
+    "NONE",
+    0.22
+   ],
+   [
+    "ALG-06",
+    0.17
+   ],
+   [
+    "OOO-01",
+    0.13
+   ],
+   [
+    "INT-02",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "08fafd32ee87",
+  "image": "08fafd32ee87.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f : x \\to x + 2$ dan $h : x \\to x^2 - 2$.\r\nJika $(f \\circ g \\circ h)(x) = 2x^2 + 4$, maka $(h^{-1} \\circ g^{-1} \\circ f^{-1})(x)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\sqrt{\\dfrac{x - 4}{2}}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.26
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "FUN-01",
+    0.18
+   ],
+   [
+    "INV-01",
+    0.17
+   ],
+   [
+    "RAT-02",
+    0.04
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "2eec70b25a96",
+  "image": "2eec70b25a96.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Jika $12 \\times (-4) + 75 : 3 = x$\nmaka nilai $x$ adalah . . . .",
+  "question_image": null,
+  "correct_answer": "-23",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.37
+   ],
+   [
+    "INT-04",
+    0.2
+   ],
+   [
+    "INT-02",
+    0.18
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "cd84b1faeb4f",
+  "image": "cd84b1faeb4f.jpeg",
+  "grade": 6,
+  "topic": "Operations on Integers",
+  "question": "Dalam suatu ujian dengan 40 soal, jawaban benar diberi skor 4, salah diberi skor -2, dan tidak dijawab diberi skor -1. \n\nJika Leo menjawab benar 28 soal dan salah 9 soal, total skor yang diperoleh Leo adalah . . .",
+  "question_image": null,
+  "correct_answer": "91",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "WOP-02",
+    0.14
+   ],
+   [
+    "OOO-01",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.08
+   ],
+   [
+    "INT-02",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "0efb0eb3dcf8",
+  "image": "0efb0eb3dcf8.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Sebuah titik $P(x, y)$ dicerminkan terhadap garis $y = -2$, kemudian dilanjutkan dengan rotasi sebesar $90^\\circ$ berlawanan arah jarum jam dengan pusat $O(0, 0)$. Jika koordinat bayangan akhir titik tersebut adalah $P''(4, 3)$, maka koordinat titik asal $P$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "(3,0)",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.46
+   ],
+   [
+    "OTH-00",
+    0.18
+   ],
+   [
+    "COR-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "1f910e867ec7",
+  "image": "1f910e867ec7.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Faktor dari 63 yang lebih dari 7 dan kurang dari 63 adalah..",
+  "question_image": null,
+  "correct_answer": "9,21",
+  "past_labels": [
+   [
+    "NONE",
+    0.57
+   ],
+   [
+    "WOP-02",
+    0.13
+   ],
+   [
+    "WOP-01",
+    0.1
+   ],
+   [
+    "ANS-01",
+    0.07
+   ],
+   [
+    "OPS-02",
+    0.05
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "15aba0e20fe0",
+  "image": "15aba0e20fe0.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f(x) = \\dfrac{x - 1}{x + 1}$ dan $g(x) = 3x$.\r\nJumlah semua nilai $x$ yang mungkin sehingga $f(g(x)) = g(f(x))$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{4}{3}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "FRA-06",
+    0.19
+   ],
+   [
+    "FUN-01",
+    0.1
+   ],
+   [
+    "INV-01",
+    0.08
+   ],
+   [
+    "EXP-04",
+    0.06
+   ],
+   [
+    "RAT-02",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "5adab5f02cf1",
+  "image": "5adab5f02cf1.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f(x) = 2x - 7$ dan $g(x) = 2x$, maka $(f \\circ g)^{-1}(x)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{x + 7}{4}$",
+  "past_labels": [
+   [
+    "INV-01",
+    0.3
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "FUN-01",
+    0.12
+   ],
+   [
+    "EXP-04",
+    0.07
+   ],
+   [
+    "RAT-02",
+    0.07
+   ],
+   [
+    "ALG-04",
+    0.05
+   ]
+  ]
+ }
+]

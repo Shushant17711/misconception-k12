@@ -1,0 +1,282 @@
+[
+ {
+  "id": "99da26f20e7d",
+  "image": "99da26f20e7d.jpeg",
+  "grade": 4,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Berdasarkan diagram batang ekstrakurikuler siswa kelas 4, berapa jumlah siswa yang mengikuti ekstrakurikuler paskibra jika total siswa 50 orang?\n",
+  "question_image": "q_99da26f20e7d_4dd692e6-048b-4d0b-b840-d43928cafdad.png",
+  "correct_answer": "9 siswa",
+  "past_labels": [
+   [
+    "NONE",
+    0.66
+   ],
+   [
+    "VIS-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "UNT-01",
+    0.04
+   ],
+   [
+    "RAT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "bea06e375287",
+  "image": "bea06e375287.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Pak Budi memanen 56 kg buah mangga dan 84 kg buah alpukat. Ia ingin mengemas seluruh buah tersebut ke dalam beberapa keranjang secara merata. Setiap keranjang harus berisi kedua jenis buah dengan berat yang sama banyak tanpa ada buah yang tersisa. Jika Pak Budi berhasil membaginya ke dalam keranjang dengan jumlah maksimal, berat buah alpukat di dalam setiap keranjangnya….Kg",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "ANS-01",
+    0.26
+   ],
+   [
+    "OTH-00",
+    0.12
+   ],
+   [
+    "KPF-02",
+    0.06
+   ],
+   [
+    "KPF-01",
+    0.05
+   ],
+   [
+    "KPF-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "6d8e2ca24650",
+  "image": "6d8e2ca24650.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Nilai median dari data berdasarkan histogram berikut adalah ...\n",
+  "question_image": "q_6d8e2ca24650_380e29e8-1c03-4042-ba56-c4ce0e3e0034.png",
+  "correct_answer": "53,36 kg",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "STA-05",
+    0.11
+   ],
+   [
+    "VIS-01",
+    0.1
+   ],
+   [
+    "STA-04",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "7853c7864ef9",
+  "image": "7853c7864ef9.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Nara membeli pita merah sepanjang 18 meter, pita biru sepanjang 24 meter, dan pita kuning sepanjang 30 meter. Nara ingin mengetahui panjang paling kecil yang merupakan kelipatan ketiga panjang pita tersebut…",
+  "question_image": null,
+  "correct_answer": "360",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.14
+   ],
+   [
+    "KPF-01",
+    0.14
+   ],
+   [
+    "KPF-03",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "8a766064d285",
+  "image": "8a766064d285.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Diketahui 8a+4=3a-11. Nilai dari 2a+5 adalah ….",
+  "question_image": null,
+  "correct_answer": "-1",
+  "past_labels": [
+   [
+    "ALG-06",
+    0.29
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "INT-04",
+    0.17
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "ALG-04",
+    0.07
+   ],
+   [
+    "ALG-05",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "c52397b35392",
+  "image": "c52397b35392.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Tentukan hasil dari\n$\\dfrac{8}{25} + \\left(\\dfrac{10}{25} - \\dfrac{8}{25}\\right)$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{2}{5}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.42
+   ],
+   [
+    "OOO-02",
+    0.3
+   ],
+   [
+    "FRA-06",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "FRA-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "76fb37891e08",
+  "image": "76fb37891e08.jpeg",
+  "grade": 8,
+  "topic": "Measures of Dispersion",
+  "question": "Jangkauan antarkuartil (IQR) dari data tersebut adalah …",
+  "question_image": "q_76fb37891e08_b965492d-57ba-455c-9223-296726c8a7f8.png",
+  "correct_answer": "4",
+  "past_labels": [
+   [
+    "NONE",
+    0.45
+   ],
+   [
+    "STA-05",
+    0.18
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "STA-04",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "cf78cef7e8ec",
+  "image": "cf78cef7e8ec.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Jika diketahui persamaan $3^x \\times 3^2 = 81$, maka nilai $x$ yang memenuhi adalah…",
+  "question_image": null,
+  "correct_answer": "2",
+  "past_labels": [
+   [
+    "EXP-06",
+    0.21
+   ],
+   [
+    "ANS-02",
+    0.18
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "EXP-02",
+    0.09
+   ],
+   [
+    "OTH-00",
+    0.07
+   ],
+   [
+    "INT-03",
+    0.06
+   ]
+  ]
+ }
+]

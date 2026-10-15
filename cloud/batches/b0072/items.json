@@ -1,0 +1,282 @@
+[
+ {
+  "id": "aa1aa253f2bd",
+  "image": "aa1aa253f2bd.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Sebuah toko sepatu mencatat hasil penjualan selama 5 bulan (Januari-Mei) dalam diagram garis di samping. \n\nTotal seluruh sepatu yang terjual selama 5 bulan adalah 150 pasang. Selisih antara penjualan pada bulan Januari dengan bulan Mei adalah . . . .",
+  "question_image": "q_aa1aa253f2bd_49485f28-9abe-4b7d-9640-204034d9f61d.png",
+  "correct_answer": "15 pasang",
+  "past_labels": [
+   [
+    "NONE",
+    0.71
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "06a428346f4f",
+  "image": "06a428346f4f.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Caca les matematika setiap 12 hari sekali, Nara les matematika 18 hari sekali dan Leo les matematika setiap 20 hari sekali. Jika hari ini mereka pergi les bersama-sama untuk pertama kalinya, berapa hari lagi mereka akan pergi les bersama-sama untuk ketiga kalinya…",
+  "question_image": null,
+  "correct_answer": "360 hari",
+  "past_labels": [
+   [
+    "KPF-02",
+    0.6
+   ],
+   [
+    "ANS-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "KPF-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "b487ccde22cc",
+  "image": "b487ccde22cc.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk pangkat pecahan yang paling sederhana dari $\\sqrt[3]{a \\times \\sqrt{a}}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$a^{\\frac{1}{2}}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.62
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "EXP-07",
+    0.06
+   ],
+   [
+    "OOO-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "146fba30f303",
+  "image": "146fba30f303.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Jika $x$ dan $y$ adalah bilangan real positif, bentuk paling sederhana dari $\\sqrt{75x^4y^3}$ adalah…\r",
+  "question_image": null,
+  "correct_answer": "$5x^2y\\sqrt{3y}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.43
+   ],
+   [
+    "NONE",
+    0.24
+   ],
+   [
+    "EXP-07",
+    0.17
+   ],
+   [
+    "EXP-02",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "df6db63e79c9",
+  "image": "df6db63e79c9.jpeg",
+  "grade": 5,
+  "topic": "Solving daily life problems related to LCM and GCD",
+  "question": "Sebanyak 16 siswa dan 24 siswi SD Ceria akan mengikuti kegiatan pramuka. \n\nMereka akan dibagi menjadi beberapa kelompok. \n\nSetiap kelompok berisi siswa dan siswi sama banyak. Banyak siswi yang ada di setiap kelompok adalah . . . orang.",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.4
+   ],
+   [
+    "KPF-01",
+    0.26
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "CAL-01",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "a2556a235d12",
+  "image": "a2556a235d12.jpeg",
+  "grade": 8,
+  "topic": "Probability of an Event",
+  "question": "Dua buah dadu bermata enam dilambungkan bersama-sama sebanyak satu kali. \nPeluang munculnya mata dadu dengan jumlah tepat 10 adalah …",
+  "question_image": null,
+  "correct_answer": "$0,083$",
+  "past_labels": [
+   [
+    "NONE",
+    0.45
+   ],
+   [
+    "ANS-01",
+    0.21
+   ],
+   [
+    "PRO-04",
+    0.16
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "9d2404829465",
+  "image": "9d2404829465.jpeg",
+  "grade": 7,
+  "topic": "Application of Integers",
+  "question": "Sebuah mal memiliki lantai di atas tanah dan beberapa lantai di bawah tanah (basement). Lantai dasar dinyatakan sebagai titik nol. \nRiko berada di tempat parkir yang terletak 4 lantai di bawah lantai dasar. Karena ada barang yang tertinggal di lantai yang lebih bawah, Riko harus turun sejauh 2 lantai. \n\nJika posisi Riko digambarkan pada garis bilangan vertikal, bilangan bulat yang tepat untuk menunjukkan posisi akhir Riko sekarang adalah… \n",
+  "question_image": null,
+  "correct_answer": "-6",
+  "past_labels": [
+   [
+    "NONE",
+    0.42
+   ],
+   [
+    "INT-04",
+    0.39
+   ],
+   [
+    "WOP-01",
+    0.11
+   ],
+   [
+    "INT-01",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "811def8871b2",
+  "image": "811def8871b2.jpeg",
+  "grade": 9,
+  "topic": "Angle",
+  "question": "Jika garis $A$ sejajar dengan garis $B$, kemudian dipotong oleh suatu garis, maka nilai $x$ adalah $\\ldots$",
+  "question_image": "q_811def8871b2_49d7f7ea-7d5f-4e91-ace9-707a12e9a50a.png",
+  "correct_answer": "30",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.76
+   ],
+   [
+    "ALG-06",
+    0.15
+   ],
+   [
+    "NONE",
+    0.04
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "ALG-05",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ }
+]

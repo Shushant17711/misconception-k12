@@ -1,0 +1,282 @@
+[
+ {
+  "id": "584cb37124a2",
+  "image": "584cb37124a2.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Exponents",
+  "question": "Sederhanakan bentuk $32^{\\frac{3}{5}} \\times 9^{-\\frac{1}{2}} \\div 2^{-1}$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{16}{3}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.22
+   ],
+   [
+    "EXP-01",
+    0.22
+   ],
+   [
+    "FRA-03",
+    0.22
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.11
+   ],
+   [
+    "EXP-02",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "857ff9b55143",
+  "image": "857ff9b55143.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Nilai rata-rata produksi baju harian menggunakan Rataan Sementara = 135 adalah …",
+  "question_image": "q_857ff9b55143_2a6264a9-76bb-4fbd-8e7c-91cde4188ad1.png",
+  "correct_answer": "140,33",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "VIS-01",
+    0.29
+   ],
+   [
+    "STA-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "STA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "c2ddb9566783",
+  "image": "c2ddb9566783.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Pemilik toko sembako mencatat pasokan beras yang diterima per minggu, serta sisa beras yang belum terjual pada akhir minggu tersebut dinyatakan dalam tabel di samping: \n\nSisa beras dari tiap minggu disimpan terpisah (tidak dicampur dengan pasokan minggu berikutnya). Berapa total beras yang masih tersimpan di toko saat ini? (nyatakan dalam bentuk bilangan pecahan campuran, satuan ton)",
+  "question_image": "q_c2ddb9566783_8dde1edf-36e2-4710-a8bd-fbd479bed5f0.png",
+  "correct_answer": "$2\\dfrac{1}{2}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "WOP-01",
+    0.2
+   ],
+   [
+    "FRA-06",
+    0.07
+   ],
+   [
+    "FRA-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "0c5e5003b8c1",
+  "image": "0c5e5003b8c1.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f : x \\to x + 2$ dan $h : x \\to x^2 - 2$.\r\nJika $(f \\circ g \\circ h)(x) = 2x^2 + 4$, maka $(h^{-1} \\circ g^{-1} \\circ f^{-1})(x)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\sqrt{\\dfrac{x - 4}{2}}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.26
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "FUN-01",
+    0.18
+   ],
+   [
+    "INV-01",
+    0.17
+   ],
+   [
+    "RAT-02",
+    0.04
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "feaf761da18d",
+  "image": "feaf761da18d.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Diketahui a, b, c tiga bilangan asli berurutan ($a \\lt b \\lt c$) dan $b^2 = 16$.\nNilai dari $\\dfrac{a^2b^3c^{-1}}{a^{-2}bc^2}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{1296}{125}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "EXP-02",
+    0.19
+   ],
+   [
+    "Dec-02",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "17710e8c5142",
+  "image": "17710e8c5142.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Kebun durian Tante Linda mengalami gagal panen. Hasil panen tahun ini diperoleh 679 buah sedangkan buah yang busuk 294 buah. Saat diangkut ke pasar terjadi guncangan sehingga sebanyak 89 buah durian pecah/rusak dan tidak layak jual.\r\n\nBerapa banyak durian kondisi bagus yang tersisa untuk dijual di pasar?",
+  "question_image": null,
+  "correct_answer": "296",
+  "past_labels": [
+   [
+    "NONE",
+    0.48
+   ],
+   [
+    "WOP-01",
+    0.25
+   ],
+   [
+    "WOP-02",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "fcaeed279131",
+  "image": "fcaeed279131.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{\\sqrt{9} + 7}{5 - \\sqrt{8}}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{10\\left(5 + 2\\sqrt{2}\\right)}{17}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "EXP-07",
+    0.14
+   ],
+   [
+    "EXP-04",
+    0.12
+   ],
+   [
+    "ALG-04",
+    0.12
+   ],
+   [
+    "VIS-01",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.09
+   ]
+  ]
+ },
+ {
+  "id": "305938ecfc8c",
+  "image": "305938ecfc8c.jpeg",
+  "grade": 7,
+  "topic": "Application of Integers",
+  "question": "Dalam sebuah sesi latihan selam, kedalaman posisi penyelam diukur dari permukaan air kolam yang ditetapkan sebagai titik nol. Posisi di atas permukaan air dinyatakan dengan bilangan positif, sedangkan kedalaman di bawah permukaan air dinyatakan dengan bilangan negatif.\n\nTiga penyelam mencatat posisi mereka sebagai berikut:\n* Penyelam A: Berada pada posisi 1 meter di bawah permukaan air.\n* Penyelam B: Berada pada posisi 5 meter di bawah permukaan air.\nSeorang penyelam ketiga, Penyelam C, berada di antara Penyelam A dan Penyelam B. Diketahui pula bahwa posisi Penyelam C tepat berada di tengah-tengah antara posisi Penyelam A dan Penyelam B pada garis bilangan. Bilangan bulat yang menunjukkan posisi penyelam C adalah…",
+  "question_image": null,
+  "correct_answer": "-3",
+  "past_labels": [
+   [
+    "NONE",
+    0.66
+   ],
+   [
+    "WOP-01",
+    0.12
+   ],
+   [
+    "INT-04",
+    0.12
+   ],
+   [
+    "INT-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ }
+]

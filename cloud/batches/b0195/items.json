@@ -1,0 +1,282 @@
+[
+ {
+  "id": "e87bf624a52e",
+  "image": "e87bf624a52e.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Diketahui rata-rata perubahan suhu adalah $-1^\\circ \\text{C}$.\n\nNilai $x$ adalah $\\ldots$",
+  "question_image": "q_e87bf624a52e_18afebdb-8753-442e-837c-cd1c8a55b8de.png",
+  "correct_answer": "2",
+  "past_labels": [
+   [
+    "NONE",
+    0.4
+   ],
+   [
+    "STA-01",
+    0.25
+   ],
+   [
+    "INT-04",
+    0.16
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "c57b376d1d3f",
+  "image": "c57b376d1d3f.jpeg",
+  "grade": 11,
+  "topic": "Function Operations",
+  "question": "Diketahui $f(x) = x + 2$ dan $g(x) = x^2 - 4$. Tentukan bentuk paling sederhana dari $\\left(\\dfrac{g}{f}\\right)(x)$.",
+  "question_image": null,
+  "correct_answer": "$x - 2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.66
+   ],
+   [
+    "QUA-02",
+    0.2
+   ],
+   [
+    "FUN-01",
+    0.08
+   ],
+   [
+    "OOO-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "8896fbc606ff",
+  "image": "8896fbc606ff.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "$2,45 - 1\\dfrac{1}{4}$\nHasil dari operasi hitung di atas dalam bentuk pecahan biasa yang paling sederhana adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{6}{5}$",
+  "past_labels": [
+   [
+    "Dec-02",
+    0.23
+   ],
+   [
+    "INT-04",
+    0.18
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.13
+   ],
+   [
+    "FRA-05",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "121a313ec90a",
+  "image": "121a313ec90a.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari:\n$100 - 60 : 10 \\times ( -3 ) = $. . .",
+  "question_image": null,
+  "correct_answer": "118",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.62
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "INT-03",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "ce4df7db1619",
+  "image": "ce4df7db1619.jpeg",
+  "grade": 5,
+  "topic": "Solving daily life problems related to LCM and GCD",
+  "question": "Leo berlatih futsal setiap 6 hari sekali dan berlatih badminton setiap 8 hari sekali. \n\nJika pada tanggal 2 April Leo melakukan kedua latihan tersebut di hari yang sama, pada tanggal berapa Leo akan melakukan kedua latihan tersebut di hari yang sama lagi?",
+  "question_image": null,
+  "correct_answer": "26 April",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.26
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "CAL-01",
+    0.16
+   ],
+   [
+    "OTH-00",
+    0.11
+   ],
+   [
+    "FRM-01",
+    0.11
+   ],
+   [
+    "KPF-01",
+    0.1
+   ]
+  ]
+ },
+ {
+  "id": "2faa5a1ca5e0",
+  "image": "2faa5a1ca5e0.jpeg",
+  "grade": 8,
+  "topic": "Probability of an Event",
+  "question": "Sebuah roda putar (spinner) dibagi menjadi 20 juring sama besar yang diberi nomor 1 sampai 20. \nDalam sebuah permainan, roda diputar sebanyak 50 kali dan tercatat jarum berhenti pada nomor kelipatan 5 sebanyak 8 kali. \n\nSelisih antara peluang teoritik dengan peluang empirik jarum menunjuk nomor kelipatan 5 adalah ...",
+  "question_image": null,
+  "correct_answer": "0,04",
+  "past_labels": [
+   [
+    "NONE",
+    0.62
+   ],
+   [
+    "PRO-04",
+    0.16
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "8db34a5be242",
+  "image": "8db34a5be242.jpeg",
+  "grade": 6,
+  "topic": "Comparison of Fractions",
+  "question": "Andi mencatat berat empat buah buku tulis miliknya:\n* Buku A: 0,35 kg\n* Buku B: 0,301 kg\n* Buku C: 0,30 kg\n* Buku D: 0,305 kg\nBuku tulis manakah yang memiliki bobot paling ringan?",
+  "question_image": null,
+  "correct_answer": "Buku C",
+  "past_labels": [
+   [
+    "Dec-01",
+    0.51
+   ],
+   [
+    "Dec-02",
+    0.26
+   ],
+   [
+    "NONE",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "PV-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "0c955d41963b",
+  "image": "0c955d41963b.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Ibu memanen sebanyak 72 buah jeruk dari kebun belakang rumah. Ibu ingin memasukkan seluruh jeruk tersebut ke dalam beberapa kantong plastik secara merata. Jika setiap kantong plastik hanya dapat memuat maksimal 4 buah jeruk, berapa banyak kantong plastik minimal yang harus disediakan oleh Ibu?",
+  "question_image": null,
+  "correct_answer": "18",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "WOP-01",
+    0.3
+   ],
+   [
+    "WOP-02",
+    0.13
+   ],
+   [
+    "ANS-01",
+    0.07
+   ],
+   [
+    "OPS-02",
+    0.05
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ }
+]

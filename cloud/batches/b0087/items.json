@@ -1,0 +1,282 @@
+[
+ {
+  "id": "a4f8af0b684c",
+  "image": "a4f8af0b684c.jpeg",
+  "grade": 10,
+  "topic": "Rationalizing the Denominator",
+  "question": "Rasionalkan bentuk berikut ini: \r\n$\\dfrac{8}{\\sqrt[3]{a^2}}$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{8\\sqrt[3]{a}}{a}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.29
+   ],
+   [
+    "EXP-07",
+    0.22
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.1
+   ],
+   [
+    "VIS-01",
+    0.1
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "8dd6791a4532",
+  "image": "8dd6791a4532.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari $\\dfrac{15p^5q^{-3}}{3p^2q} \\times (q^2)^3$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$5p^3q^2$",
+  "past_labels": [
+   [
+    "EXP-02",
+    0.32
+   ],
+   [
+    "OTH-00",
+    0.18
+   ],
+   [
+    "INT-04",
+    0.16
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "INT-03",
+    0.05
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "9f7094ba9029",
+  "image": "9f7094ba9029.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Leo berlatih futsal setiap 6 hari sekali dan berlatih badminton setiap 8 hari sekali. \n\nJika pada tanggal 2 April Leo melakukan kedua latihan tersebut di hari yang sama, pada tanggal berapa Leo akan melakukan kedua latihan tersebut di hari yang sama lagi?",
+  "question_image": null,
+  "correct_answer": "26 April",
+  "past_labels": [
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.19
+   ],
+   [
+    "CAL-01",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.12
+   ],
+   [
+    "KPF-02",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "9b76ce27a0f9",
+  "image": "9b76ce27a0f9.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Caca memiliki beberapa buah manik-manik. Jumlah manik-manik Caca merupakan bilangan kelipatan 7 yang nilainya terletak di antara 30 dan 45. Jika manik-manik tersebut dikelompokkan ke dalam wadah yang masing-masing berisi 6 buah, ternyata tidak ada manik-manik yang tersisa. Jumlah manik-manik yang dimiliki Caca adalah…",
+  "question_image": null,
+  "correct_answer": "42",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "WOP-01",
+    0.25
+   ],
+   [
+    "OTH-00",
+    0.18
+   ],
+   [
+    "WOP-02",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "65eb49dec267",
+  "image": "65eb49dec267.jpeg",
+  "grade": 7,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Perhatikan gambar setengah bola pejal di samping. Jika seluruh permukaan bangun tersebut dicat, luas area yang dicat adalah . . . $\\text{cm}^2$.",
+  "question_image": "q_65eb49dec267_e4cc830b-7a3d-4b31-b0d5-90555388cb6d.png",
+  "correct_answer": "942",
+  "past_labels": [
+   [
+    "NONE",
+    0.52
+   ],
+   [
+    "VIS-01",
+    0.28
+   ],
+   [
+    "MEA-04",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "91c3fcd5fa4f",
+  "image": "91c3fcd5fa4f.jpeg",
+  "grade": 7,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah bola pejal dimasukkan tepat ke dalam sebuah kotak berbentuk kubus tertutup, sehingga kulit bola tersebut menyinggung keenam sisi bagian dalam kubus. \n\nJika diketahui panjang rusuk kubusnya 15 cm , luas permukaan bola yang ada di dalamnya adalah . . . $\\text{cm}^2$.",
+  "question_image": "q_91c3fcd5fa4f_c441cb0b-ad5d-4d9f-9ff5-04c467acd38b.png",
+  "correct_answer": "706,5",
+  "past_labels": [
+   [
+    "NONE",
+    0.45
+   ],
+   [
+    "VIS-01",
+    0.26
+   ],
+   [
+    "MEA-04",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "3aa84d7e94b3",
+  "image": "3aa84d7e94b3.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Titik $A(a, b)$ dicerminkan terhadap garis $x = 2$, kemudian dilanjutkan dengan translasi oleh matriks $T = \\begin{pmatrix} -3 \\\\ 4 \\end{pmatrix}$. Jika koordinat bayangan akhir titik tersebut adalah $A''(1, 7)$, maka nilai dari $a + b$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.46
+   ],
+   [
+    "INT-04",
+    0.16
+   ],
+   [
+    "ALG-06",
+    0.15
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "98d1bbc1d3a1",
+  "image": "98d1bbc1d3a1.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Dalam sebuah lomba lari, seorang pelari telah menempuh jarak $3\\dfrac{5}{8}$ dari total lintasan sepanjang $5\\text{ km}$. Panitia lomba mencatat progres pelari menggunakan alat GPS yang menampilkan jarak tempuh dalam bentuk desimal. Jarak tempuh yang ditampilkan alat GPS tersebut dalam bentuk desimal adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "3,625",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "WOP-02",
+    0.2
+   ],
+   [
+    "FRA-05",
+    0.13
+   ],
+   [
+    "OPS-02",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.07
+   ],
+   [
+    "Dec-02",
+    0.04
+   ]
+  ]
+ }
+]

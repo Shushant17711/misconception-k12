@@ -1,0 +1,282 @@
+[
+ {
+  "id": "61e6c1e289c9",
+  "image": "61e6c1e289c9.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Sebuah eksperimen memanaskan air menghasilkan diagram pencar beserta garis regresinya seperti pada gambar di samping.\n\nGaris tersebut ditarik mulai dari titik potong sumbu Y di angka 25 dan melewati titik (5, 60).\n\nPersamaan garis regresi linear dari grafik tersebut adalah ....\n",
+  "question_image": "q_61e6c1e289c9_98fd3d8e-1143-4697-a64f-ef837634ab62.png",
+  "correct_answer": "$\\hat{y} = 7x + 25$",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "VIS-01",
+    0.24
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "WOP-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "6065928fced2",
+  "image": "6065928fced2.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Boni memiliki 524 butir kelereng di dalam wadah. Ia memberikan 158 butir kelereng kepada adiknya untuk bermain, dan 36 diberikan kepada temannya. Sisa kelereng yang dimiliki Boni sekarang adalah...",
+  "question_image": null,
+  "correct_answer": "330",
+  "past_labels": [
+   [
+    "NONE",
+    0.64
+   ],
+   [
+    "WOP-02",
+    0.11
+   ],
+   [
+    "WOP-01",
+    0.08
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "b1a5751c1cf7",
+  "image": "b1a5751c1cf7.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Nara membeli pita merah sepanjang 18 meter, pita biru sepanjang 24 meter, dan pita kuning sepanjang 30 meter. Nara ingin mengetahui panjang paling kecil yang merupakan kelipatan ketiga panjang pita tersebut…",
+  "question_image": null,
+  "correct_answer": "360",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.14
+   ],
+   [
+    "KPF-01",
+    0.14
+   ],
+   [
+    "KPF-03",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "aa5fb8416ef3",
+  "image": "aa5fb8416ef3.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor Persekutuan Terbesar dari tiga bilangan berikut: 20, 40, dan 60 adalah…",
+  "question_image": null,
+  "correct_answer": "20",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.44
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "KPF-04",
+    0.1
+   ],
+   [
+    "KPF-03",
+    0.07
+   ],
+   [
+    "REL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "891a38e2ee0a",
+  "image": "891a38e2ee0a.jpeg",
+  "grade": 7,
+  "topic": "Measures of Dispersion",
+  "question": "Seorang pedagang mencatat berat semangka yang terjual dalam satu hari. \nData tersebut disajikan dalam tabel frekuensi di samping:\n\nBerapakah jangkauan dari berat semangka yang terjual tersebut?",
+  "question_image": "q_891a38e2ee0a_81aee03f-87cd-4278-8b13-b7ecbf2d7cab.png",
+  "correct_answer": "3,4 kg",
+  "past_labels": [
+   [
+    "NONE",
+    0.6
+   ],
+   [
+    "STA-05",
+    0.07
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "STA-04",
+    0.05
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "4f2d8751f88e",
+  "image": "4f2d8751f88e.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Nilai $Q_1$ dari data histogram tersebut adalah...",
+  "question_image": "q_4f2d8751f88e_13e309c9-6635-4996-a8df-69896426f9f1.png",
+  "correct_answer": "49,5\n",
+  "past_labels": [
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "VIS-01",
+    0.23
+   ],
+   [
+    "Dec-02",
+    0.18
+   ],
+   [
+    "STA-05",
+    0.07
+   ],
+   [
+    "STA-04",
+    0.05
+   ],
+   [
+    "FRM-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "e4fead521b83",
+  "image": "e4fead521b83.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Tentukan hasil dari\n$\\dfrac{8}{25} + \\left(\\dfrac{10}{25} - \\dfrac{8}{25}\\right)$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{2}{5}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.42
+   ],
+   [
+    "OOO-02",
+    0.3
+   ],
+   [
+    "FRA-06",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "FRA-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "390527cc23d9",
+  "image": "390527cc23d9.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk pangkat pecahan yang paling sederhana dari $\\sqrt[3]{a \\times \\sqrt{a}}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$a^{\\frac{1}{2}}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.62
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "EXP-07",
+    0.06
+   ],
+   [
+    "OOO-01",
+    0.01
+   ]
+  ]
+ }
+]

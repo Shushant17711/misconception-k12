@@ -1,0 +1,282 @@
+[
+ {
+  "id": "4bdf3575e545",
+  "image": "4bdf3575e545.jpeg",
+  "grade": 12,
+  "topic": "Introduction to Geometric Transformation",
+  "question": "Sebuah transformasi geometri pada bidang Kartesius diwakili oleh matriks transformasi $M = \\begin{bmatrix} 0 & -1 \\\\ 1 & 0 \\end{bmatrix}$. Jenis transformasi yang direpresentasikan oleh matriks tersebut adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "Rotasi 90° berlawanan arah jarum jam dengan pusat O (0,0)",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.39
+   ],
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "OTH-00",
+    0.06
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "ALG-04",
+    0.06
+   ],
+   [
+    "COR-01",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "22447e1bf29e",
+  "image": "22447e1bf29e.jpeg",
+  "grade": 6,
+  "topic": "Operations on Integers",
+  "question": "Dalam sebuah kompetisi matematika yang terdiri dari 30 soal, aturan penilaiannya adalah: \nsetiap jawaban benar mendapat poin 4, jawaban salah mendapat poin -2, dan tidak dijawab mendapat poin -1.\n\nTim A dan Tim B sama-sama berhasil menjawab 20 soal dengan benar. Namun, karena terburu-buru, Tim A memilih mengosongkan 4 soal dan menebak sisanya yang ternyata salah. \nSementara itu, Tim B memilih untuk mengosongkan (tidak menjawab) seluruh sisa soal tersebut.\n\nBerdasarkan situasi di atas, tim manakah yang memperoleh skor lebih tinggi? Dan berapakah skornya?\n",
+  "question_image": null,
+  "correct_answer": "Tim B, 70\n",
+  "past_labels": [
+   [
+    "NONE",
+    0.34
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "UNT-01",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.11
+   ],
+   [
+    "INT-04",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "a7230f5035ce",
+  "image": "a7230f5035ce.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Kelipatan Persekutuan Terkecil dari tiga bilangan berikut: 6, 8  dan 9 adalah…",
+  "question_image": null,
+  "correct_answer": "72",
+  "past_labels": [
+   [
+    "NONE",
+    0.4
+   ],
+   [
+    "ANS-01",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "KPF-04",
+    0.07
+   ],
+   [
+    "KPF-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "f904b6a222c2",
+  "image": "f904b6a222c2.jpeg",
+  "grade": 11,
+  "topic": "Residuals",
+  "question": "Sebuah toko kue memodelkan tren penjualan produk barunya dengan persamaan regresi $\\hat{y} = 2x + 1$, di mana $x$ adalah hari promosi dan $\\hat{y}$ adalah jumlah kue yang terjual.\n\nToko tersebut mencatat data penjualan aktual selama 3 hari pertama sebagai berikut:\n\n* Hari ke-1 ($x=1$): Terjual 4 kue\n* Hari ke-2 ($x=2$): Terjual 3 kue\n* Hari ke-3 ($x=3$): Terjual 8 kue\n\nJumlah Kuadrat Residu dari ketiga data penjualan tersebut terhadap model regresinya adalah ...",
+  "question_image": null,
+  "correct_answer": "6",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.63
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "EXP-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "5ecdcb42864a",
+  "image": "5ecdcb42864a.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Pak Budi mengolah lahan pertanian miliknya yang seluas $7\\dfrac{1}{2}$ hektar. Sebanyak $\\dfrac{8}{25}$ bagian dari total lahan tersebut ditanami tanaman jagung. Selanjutnya, dari area yang ditanami jagung tersebut, $\\dfrac{7}{9}$ bagian disemprot menggunakan pupuk cair organik. Luas lahan yang disemprot pupuk cair organik adalah...",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{13}{15}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "FRA-06",
+    0.16
+   ],
+   [
+    "OTH-00",
+    0.12
+   ],
+   [
+    "FRA-04",
+    0.12
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "FRA-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "2843c66ee609",
+  "image": "2843c66ee609.jpeg",
+  "grade": 12,
+  "topic": "Counting Rules",
+  "question": "Sebuah bank membuat kode PIN transaksi ATM yang terdiri dari 6 digit angka, nol tidak termasuk. Manajemen bank menetapkan aturan keamanan bahwa angka pertama dan angka terakhir pada PIN tersebut harus merupakan bilangan genap, dan angka boleh berulang pada posisi mana pun. Banyaknya variasi kode PIN yang dapat dibentuk adalah...",
+  "question_image": null,
+  "correct_answer": "104.976",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.43
+   ],
+   [
+    "OTH-00",
+    0.28
+   ],
+   [
+    "FRM-01",
+    0.18
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "4376930afaab",
+  "image": "4376930afaab.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{\\sqrt{9} + 7}{5 - \\sqrt{8}}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{10\\left(5 + 2\\sqrt{2}\\right)}{17}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "EXP-07",
+    0.14
+   ],
+   [
+    "EXP-04",
+    0.12
+   ],
+   [
+    "ALG-04",
+    0.12
+   ],
+   [
+    "VIS-01",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.09
+   ]
+  ]
+ },
+ {
+  "id": "5c02c480b3df",
+  "image": "5c02c480b3df.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Jika m merupakan penyelesaian dari 2(3x-2) - 4 = 4(x-1), maka nilai m-3 adalah ….",
+  "question_image": null,
+  "correct_answer": "-1",
+  "past_labels": [
+   [
+    "NONE",
+    0.2
+   ],
+   [
+    "ANS-02",
+    0.19
+   ],
+   [
+    "ALG-04",
+    0.13
+   ],
+   [
+    "INT-04",
+    0.11
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "ANS-01",
+    0.09
+   ]
+  ]
+ }
+]

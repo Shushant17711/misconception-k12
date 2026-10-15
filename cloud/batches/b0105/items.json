@@ -1,0 +1,282 @@
+[
+ {
+  "id": "05790b2e1aaf",
+  "image": "05790b2e1aaf.jpeg",
+  "grade": 7,
+  "topic": "Introduction to Rational Numbers",
+  "question": "Diketahui $x = 0{,}181818\\dots$ dapat dinyatakan dalam bentuk pecahan paling sederhana $\\dfrac{a}{b}$. Tentukan nilai dari $b - a$!",
+  "question_image": null,
+  "correct_answer": "9",
+  "past_labels": [
+   [
+    "NONE",
+    0.48
+   ],
+   [
+    "OTH-00",
+    0.34
+   ],
+   [
+    "REL-01",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "06355beb89e6",
+  "image": "06355beb89e6.jpeg",
+  "grade": 10,
+  "topic": "Exponential Applications (Exponents)",
+  "question": "Suatu jenis amoeba membelah diri menjadi 2 setiap 25 menit. Jika pada pukul 08.00 terdapat 10 amoeba, bentuk eksponensial yang menyatakan jumlah amoeba pada pukul 10.30 di hari yang sama adalah...",
+  "question_image": null,
+  "correct_answer": "$10 \\cdot 2^6$",
+  "past_labels": [
+   [
+    "NONE",
+    0.65
+   ],
+   [
+    "CAL-01",
+    0.2
+   ],
+   [
+    "Dec-02",
+    0.06
+   ],
+   [
+    "SEQ-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "cac5ece6d074",
+  "image": "cac5ece6d074.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Rata-rata nilai sekelompok siswa adalah 7,5. \nJika 4 orang siswa dengan rata-rata 8,25 dikeluarkan dari kelompok tersebut, rata-ratanya menjadi 7,3. \nBerapa banyak siswa dalam kelompok semula? ",
+  "question_image": null,
+  "correct_answer": "19 siswa",
+  "past_labels": [
+   [
+    "NONE",
+    0.4
+   ],
+   [
+    "WOP-01",
+    0.33
+   ],
+   [
+    "STA-01",
+    0.1
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "STA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "7bd95bbeb1f5",
+  "image": "7bd95bbeb1f5.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Tante Linda membeli $\\dfrac{5}{6}\\text{ kg}$ telur. Kemudian ia menggunakan $\\dfrac{1}{3}\\text{ kg}$ telur untuk membuat kue dan membeli lagi sebanyak $\\dfrac{1}{6}\\text{ kg}$ telur untuk persediaan. Berat telur Tante Linda sekarang dalam bentuk paling sederhana adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{2}{3}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "FRA-01",
+    0.18
+   ],
+   [
+    "FRA-06",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "a2665688655c",
+  "image": "a2665688655c.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Di dalam sebuah kotak terdapat 1 kodi pensil warna. \nDiketahui 25% dari total pensil tersebut berwarna biru, dan sisanya berwarna merah. \n\nJika diambil dua pensil satu per satu tanpa dikembalikan, peluang terambilnya **pensil merah pada pengambilan pertama dan pensil biru pada pengambilan kedua** adalah...",
+  "question_image": null,
+  "correct_answer": "$\\frac{15}{76}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.51
+   ],
+   [
+    "PRO-01",
+    0.17
+   ],
+   [
+    "PRO-04",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "PRO-02",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "6b52873858cd",
+  "image": "6b52873858cd.jpeg",
+  "grade": 7,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Banyak siswa yang menyukai matematika adalah …",
+  "question_image": "q_6b52873858cd_88ea8875-6752-40c4-b16c-4f5ca1f73a92.png",
+  "correct_answer": "54 orang",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "RAT-02",
+    0.16
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "f346cc0d2b0a",
+  "image": "f346cc0d2b0a.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Volume bangun ruang di samping adalah . . . $\\text{cm}^3$",
+  "question_image": "q_f346cc0d2b0a_5df1a278-c69f-4575-8ef6-c61d9e02d27c.png",
+  "correct_answer": "2600",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "VIS-01",
+    0.37
+   ],
+   [
+    "MEA-04",
+    0.06
+   ],
+   [
+    "MEA-03",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "eea9c1cfc185",
+  "image": "eea9c1cfc185.jpeg",
+  "grade": 11,
+  "topic": "Types of Functions",
+  "question": "Sebuah rombongan turis memesan kamar di sebuah hotel yang menyediakan 20 kamar kosong. Setelah proses check-in, tercatat bahwa jumlah kamar yang masih kosong adalah 0, dan setiap turis menempati kamarnya secara mandiri (tidak berbagi kamar dengan turis lain). Namun jumlah rombongan turis tidak disebutkan secara eksplisit di awal. Berdasarkan informasi tersebut, tentukan jenis fungsi pemetaannya, sekaligus tentukan banyaknya turis dalam rombongan tersebut.",
+  "question_image": null,
+  "correct_answer": "Bijektif, 20 orang",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.43
+   ],
+   [
+    "ANS-02",
+    0.25
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "CHK-01",
+    0.05
+   ]
+  ]
+ }
+]

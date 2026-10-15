@@ -1,0 +1,282 @@
+[
+ {
+  "id": "41f063e4ac31",
+  "image": "41f063e4ac31.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Dua buah bus antar kota berangkat dari terminal yang sama. Bus Sentosa berangkat setiap 48 menit sekali, sedangkan Bus Jaya berangkat setiap 72 menit sekali. Kedua bus tersebut berangkat bersama-sama untuk pertama kalinya pada pukul 08.00 pagi. Pada pukul berapakah kedua bus tersebut akan berangkat bersama-sama untuk ketiga kalinya?",
+  "question_image": null,
+  "correct_answer": "12.48",
+  "past_labels": [
+   [
+    "KPF-02",
+    0.3
+   ],
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "MEA-02",
+    0.19
+   ],
+   [
+    "KPF-01",
+    0.12
+   ],
+   [
+    "ANS-01",
+    0.05
+   ],
+   [
+    "KPF-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "31b78feba345",
+  "image": "31b78feba345.jpeg",
+  "grade": 7,
+  "topic": "Applications of Linear Equations in One Variable",
+  "question": "Sebuah persegi panjang memiliki panjang (2x + 5) cm dan lebar (x + 2) cm. \nJika keliling persegi panjang tersebut adalah 44 cm, berapakah lebar dari persegi panjang tersebut? ",
+  "question_image": null,
+  "correct_answer": "7",
+  "past_labels": [
+   [
+    "NONE",
+    0.59
+   ],
+   [
+    "WOP-01",
+    0.13
+   ],
+   [
+    "CAL-01",
+    0.06
+   ],
+   [
+    "ANS-02",
+    0.06
+   ],
+   [
+    "OOO-02",
+    0.06
+   ],
+   [
+    "ALG-03",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "439fc0cd87a8",
+  "image": "439fc0cd87a8.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Diketahui $x$ dan $y$ adalah bilangan bulat positif yang memenuhi persamaan:\n\n$\\sqrt{x} + \\sqrt{y} = \\sqrt{180}$\n\nJika nilai $x = 45$, maka nilai dari $\\sqrt{x \\cdot y}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "45",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.43
+   ],
+   [
+    "EXP-07",
+    0.26
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ALG-06",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "c960b348fca4",
+  "image": "c960b348fca4.jpeg",
+  "grade": 12,
+  "topic": "Permutation",
+  "question": "Suatu kelompok belajar terdiri dari 6 siswa (3 laki-laki dan 3 perempuan) akan melakukan presentasi bergantian. Guru menetapkan aturan bahwa siswa laki-laki dan perempuan harus tampil berselang-seling (L-P-L-P-L-P atau P-L-P-L-P-L). Banyak susunan urutan presentasi yang dapat dibentuk adalah ...",
+  "question_image": null,
+  "correct_answer": "72",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.45
+   ],
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "eb29135ce812",
+  "image": "eb29135ce812.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari $2\\sqrt{6} \\times \\sqrt{8} - \\sqrt{75}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$3\\sqrt{3}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.53
+   ],
+   [
+    "EXP-07",
+    0.27
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "420cce303b98",
+  "image": "420cce303b98.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Sederhanakan bentuk aljabar berpangkat berikut menjadi bentuk pangkat positif: $\\dfrac{\\left(a^{-3} \\cdot b^2\\right)}{a^{-11} \\cdot b^4}$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{a^8}{b^2}$",
+  "past_labels": [
+   [
+    "INT-04",
+    0.29
+   ],
+   [
+    "EXP-02",
+    0.19
+   ],
+   [
+    "INT-03",
+    0.17
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "ce3d9f02e0bf",
+  "image": "ce3d9f02e0bf.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Tentukan hasil dari operasi hitung berikut dalam bentuk pecahan campuran\n\n$$ \\dfrac{3}{4} + \\dfrac{1}{2} : \\dfrac{2}{3} = $$",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{1}{2}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "FRA-01",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.12
+   ],
+   [
+    "CAL-01",
+    0.12
+   ],
+   [
+    "FRA-06",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "9a94119de003",
+  "image": "9a94119de003.jpeg",
+  "grade": 8,
+  "topic": "Angle",
+  "question": "Jika besar β = (4x - 20)° dan ε = 100°, maka besar sudut $\\frac{1}{2}$ α adalah ... ",
+  "question_image": "q_9a94119de003_7c8e574c-d3da-4799-a84c-684941b40035.png",
+  "correct_answer": "50°\n",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.81
+   ],
+   [
+    "NONE",
+    0.06
+   ],
+   [
+    "ANS-02",
+    0.05
+   ],
+   [
+    "ALG-06",
+    0.05
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ }
+]

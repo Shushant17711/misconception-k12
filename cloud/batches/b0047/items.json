@@ -1,0 +1,282 @@
+[
+ {
+  "id": "be2e3a7b2e7c",
+  "image": "be2e3a7b2e7c.jpeg",
+  "grade": 9,
+  "topic": "Application of Two-Variable Linear Equation Systems",
+  "question": "Dua keluarga mengunjungi sebuah museum. Keluarga pertama yang terdiri dari 3 dewasa dan 2 anak-anak membayar total tiket sebesar Rp115.000,00. Keluarga kedua yang terdiri dari 2 dewasa dan 5 anak-anak membayar total tiket sebesar Rp150.000,00. Berapakah total biaya tiket yang harus dibayar oleh sebuah rombongan yang terdiri dari 1 dewasa dan 1 anak-anak?",
+  "question_image": null,
+  "correct_answer": "Rp45.000,00",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "ANS-01",
+    0.4
+   ],
+   [
+    "Dec-02",
+    0.07
+   ],
+   [
+    "WOP-02",
+    0.04
+   ],
+   [
+    "SIM-01",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "043f4971e9ff",
+  "image": "043f4971e9ff.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Bilangan kelipatan 7 yang lebih dari 28 dan kurang dari 58 adalah..",
+  "question_image": null,
+  "correct_answer": "35,42,49,56",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "OTH-00",
+    0.16
+   ],
+   [
+    "WOP-02",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "ANS-01",
+    0.05
+   ],
+   [
+    "OPS-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "1a80d3e98b75",
+  "image": "1a80d3e98b75.jpeg",
+  "grade": 9,
+  "topic": "Application of Two-Variable Linear Equation Systems",
+  "question": "Keliling sebuah persegi panjang 80 cm. Jika selisih panjang dan lebarnya 12 cm, luasnya adalah ….",
+  "question_image": null,
+  "correct_answer": "$364\\text{ cm}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.6
+   ],
+   [
+    "WOP-02",
+    0.2
+   ],
+   [
+    "ANS-01",
+    0.07
+   ],
+   [
+    "Dec-02",
+    0.07
+   ],
+   [
+    "SIM-01",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "d1ea5dd733e6",
+  "image": "d1ea5dd733e6.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Ibu memiliki persediaan beras sebanyak $2\\dfrac{1}{4}\\text{ kg}$. Untuk makan siang dan makan malam, total Ibu menggunakan beras sebanyak $1\\dfrac{2}{5}\\text{ kg}$. Karena khawatir kurang, Ibu membeli lagi beras sebanyak $\\dfrac{3}{10}\\text{ kg}$. Persediaan beras Ibu sekarang adalah .... (nyatakan dalam pecahan campuran)",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{3}{20}$",
+  "past_labels": [
+   [
+    "FRA-01",
+    0.38
+   ],
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "FRA-06",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "cfc4991b8018",
+  "image": "cfc4991b8018.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Nilai rata-rata (mean) tinggi badan siswa tersebut menggunakan Rataan Sementara = 167 adalah …",
+  "question_image": "q_cfc4991b8018_3a7b8d9c-0fef-43dd-ba9c-048148132e7f.png",
+  "correct_answer": "168,5 cm",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "CAL-01",
+    0.17
+   ],
+   [
+    "STA-01",
+    0.1
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "STA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "8946adeace63",
+  "image": "8946adeace63.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{\\sqrt{20} - \\sqrt{15}}{\\sqrt{5} + \\sqrt{4}}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$10 - 4\\sqrt{5} - 5\\sqrt{3} + 2\\sqrt{15}$",
+  "past_labels": [
+   [
+    "FRA-04",
+    0.18
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "ALG-03",
+    0.16
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "EXP-07",
+    0.1
+   ],
+   [
+    "EXP-04",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "ae8272a41cce",
+  "image": "ae8272a41cce.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Kebun durian Tante Linda mengalami gagal panen. Hasil panen tahun ini diperoleh 679 buah sedangkan buah yang busuk 294 buah. Saat diangkut ke pasar terjadi guncangan sehingga sebanyak 89 buah durian pecah/rusak dan tidak layak jual.\n\nBerapa banyak durian kondisi bagus yang tersisa untuk dijual di pasar?",
+  "question_image": null,
+  "correct_answer": "296",
+  "past_labels": [
+   [
+    "NONE",
+    0.48
+   ],
+   [
+    "WOP-01",
+    0.25
+   ],
+   [
+    "WOP-02",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "a74fe7f3e9b9",
+  "image": "a74fe7f3e9b9.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Bilangan kelipatan 9 yang merupakan bilangan ganjil dan nilainya lebih kecil dari 60 adalah…",
+  "question_image": null,
+  "correct_answer": "9, 27, 45",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "WOP-02",
+    0.16
+   ],
+   [
+    "WOP-01",
+    0.13
+   ],
+   [
+    "ANS-01",
+    0.09
+   ],
+   [
+    "OPS-02",
+    0.06
+   ],
+   [
+    "OPS-01",
+    0.04
+   ]
+  ]
+ }
+]

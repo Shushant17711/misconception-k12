@@ -1,0 +1,282 @@
+[
+ {
+  "id": "1ce64b251e0d",
+  "image": "1ce64b251e0d.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk paling sederhana dari $\\sqrt{288}$ adalah…",
+  "question_image": null,
+  "correct_answer": "$12\\sqrt{2}$",
+  "past_labels": [
+   [
+    "EXP-07",
+    0.43
+   ],
+   [
+    "EXP-04",
+    0.3
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "aef43cf12880",
+  "image": "aef43cf12880.jpeg",
+  "grade": 7,
+  "topic": "Measures of Dispersion",
+  "question": "Dalam sebuah himpunan data yang terdiri dari 4 bilangan asli, jangkauannya adalah 12. \nJika bilangan terkecil adalah 5 dan median data tersebut adalah 10, berapakah bilangan terbesar dalam data tersebut?",
+  "question_image": null,
+  "correct_answer": "17",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "WOP-02",
+    0.19
+   ],
+   [
+    "STA-05",
+    0.07
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "STA-04",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "3bf17e433b87",
+  "image": "3bf17e433b87.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah koperasi memiliki kas awal sebesar Rp75.000. Koperasi mengeluarkan uang sebesar Rp24.500 untuk perlengkapan kantor dan Rp16.850 untuk membayar listrik. Koperasi menerima setoran dari hasil penjualan barang sebesar Rp31.200. Saldo kas koperasi saat ini adalah…",
+  "question_image": null,
+  "correct_answer": "Rp64.850",
+  "past_labels": [
+   [
+    "OPS-01",
+    0.43
+   ],
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "PV-01",
+    0.08
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "16d4a15ca66c",
+  "image": "16d4a15ca66c.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Perhatikan daftar harga jajan di kantin berikut: \r\nJika uang saku ani Rp 4.200, jajan manakah yang bisa dibeli ani?",
+  "question_image": "q_16d4a15ca66c_4f22de0e-e683-495d-b115-486e4b293f74.png",
+  "correct_answer": "Lolipop",
+  "past_labels": [
+   [
+    "NONE",
+    0.64
+   ],
+   [
+    "WOP-02",
+    0.11
+   ],
+   [
+    "WOP-01",
+    0.08
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "60132022c11e",
+  "image": "60132022c11e.jpeg",
+  "grade": 8,
+  "topic": "Measures of Dispersion",
+  "question": "Berikut adalah data suhu udara (dalam $^\\circ\\mathrm{C}$) di suatu kota selama $8$ hari:\n\n$-2,\\, 3,\\, 1,\\, -1,\\, 4,\\, 0,\\, 2,\\, 5$\n\nKuartil kedua $(Q_2)$ dari data suhu tersebut adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$1{,}5$",
+  "past_labels": [
+   [
+    "NONE",
+    0.53
+   ],
+   [
+    "STA-05",
+    0.09
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "STA-04",
+    0.06
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "1655b0f81203",
+  "image": "1655b0f81203.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Tentukan nilai logaritma berikut:\n$ \\dfrac{^4\\log 16 + {^{27}\\log 81}}{^2\\log \\dfrac{1}{8}} $",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{10}{9}$",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.26
+   ],
+   [
+    "LOG-02",
+    0.19
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "OOO-01",
+    0.12
+   ],
+   [
+    "INT-02",
+    0.12
+   ],
+   [
+    "ALG-06",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "d788c0cc2547",
+  "image": "d788c0cc2547.jpeg",
+  "grade": 8,
+  "topic": "Measures of Dispersion",
+  "question": "Diagram batang menunjukkan tinggi tanaman:\n\nSimpangan kuartil adalah …",
+  "question_image": "q_d788c0cc2547_530a1947-445b-496d-9368-0dd86b248958.png",
+  "correct_answer": "1",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "STA-05",
+    0.29
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "STA-04",
+    0.06
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "84868a9cf2da",
+  "image": "84868a9cf2da.jpeg",
+  "grade": 12,
+  "topic": "Probability of Compound Events",
+  "question": "Dari satu set kartu bridge lengkap (52 kartu) diambil satu kartu secara acak. Peluang terambilnya kartu bergambar Hati (Heart) atau kartu bergambar tokoh (King, Queen, Jack) adalah .... (nyatakan nilai dalam bentuk paling sederhana)",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{11}{26}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "PRO-04",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "PRO-02",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.04
+   ]
+  ]
+ }
+]

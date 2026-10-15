@@ -1,0 +1,282 @@
+[
+ {
+  "id": "ebb264e5a0ff",
+  "image": "ebb264e5a0ff.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Sebuah kapal penelitian samudra mengukur suhu air laut di sekitar gunung api bawah laut. Pada kedalaman 50 meter di bawah permukaan laut, suhu air dicatat sebesar 18°C. Setiap kapal menyelam turun sebesar 40 meter, suhu air laut mengalami penurunan sebesar 3°C. Namun, ketika kapal mendekati area rekahan magma pada kedalaman 250 meter di bawah permukaan laut, suhu air melonjak naik sebesar 11°C akibat panas bumi. Maka suhu air laut yang diukur oleh kapal penelitian pada kedalaman 250 meter tersebut adalah… °C",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "WOP-01",
+    0.19
+   ],
+   [
+    "OOO-01",
+    0.13
+   ],
+   [
+    "INT-04",
+    0.11
+   ],
+   [
+    "INT-02",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "a302a086b56c",
+  "image": "a302a086b56c.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Jika $12 \\times (-4) + 75 : 3 = x$\nmaka nilai $x$ adalah . . . .",
+  "question_image": null,
+  "correct_answer": "-23",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.37
+   ],
+   [
+    "INT-04",
+    0.2
+   ],
+   [
+    "INT-02",
+    0.18
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "7d9f02eda8a2",
+  "image": "7d9f02eda8a2.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Seorang peneliti menggambar diagram pencar untuk melihat hubungan antara Suhu (X) dan Penjualan Es Krim (Y). \n\nIa menarik garis best-fit yang melewati dua titik di grid, yaitu (3, 25) dan (5, 40).\n\nBerdasarkan informasi tersebut, nilai gradien (m) dari persamaan garis regresinya adalah ....",
+  "question_image": "q_7d9f02eda8a2_96c45bcc-7965-4920-bd14-79a7af1b0102.png",
+  "correct_answer": "7,5",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "LIN-01",
+    0.24
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "INT-04",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "81389d1cf91a",
+  "image": "81389d1cf91a.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Leo memiliki kayu sepanjang $\\dfrac{4}{5}$ meter. Kayu tersebut dipotong untuk membuat bingkai foto sepanjang $\\dfrac{1}{4}$ meter dan sisanya dipotong lagi sepanjang $\\dfrac{2}{10}$ meter untuk kerajinan lain. Sisa panjang kayu Leo adalah $\\dots$ meter",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{7}{20}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "ANS-01",
+    0.18
+   ],
+   [
+    "FRA-06",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "FRA-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "716087ce10c1",
+  "image": "716087ce10c1.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Tentukan nilai logaritma berikut:\r\n$ ^3\\log \\dfrac{1}{81} + {^2\\log 64} + {^6\\log 36} $",
+  "question_image": null,
+  "correct_answer": "4",
+  "past_labels": [
+   [
+    "LOG-02",
+    0.32
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ALG-06",
+    0.05
+   ],
+   [
+    "EXP-06",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "9aa4bc708834",
+  "image": "9aa4bc708834.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Jika $a^b = c$, maka ${^a\\log c} = b$ dan diketahui $2^{x+3} = 64$, tentukan nilai $x$ yang memenuhi persamaan tersebut!",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "ALG-06",
+    0.31
+   ],
+   [
+    "EXP-06",
+    0.31
+   ],
+   [
+    "LOG-02",
+    0.12
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "20d9e3660726",
+  "image": "20d9e3660726.jpeg",
+  "grade": 7,
+  "topic": "Angle",
+  "question": "Jika garis $A$ sejajar dengan garis $B$, kemudian dipotong oleh suatu garis, maka nilai $x$ adalah $\\ldots$",
+  "question_image": "q_20d9e3660726_49d7f7ea-7d5f-4e91-ace9-707a12e9a50a.png",
+  "correct_answer": "30",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.76
+   ],
+   [
+    "ALG-06",
+    0.15
+   ],
+   [
+    "NONE",
+    0.04
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "ALG-05",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "2076375d6781",
+  "image": "2076375d6781.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Sebuah toko sepatu mencatat hasil penjualan selama 5 bulan (Januari-Mei) dalam diagram garis di samping. \n\nTotal seluruh sepatu yang terjual selama 5 bulan adalah 150 pasang. Selisih antara penjualan pada bulan Januari dengan bulan Mei adalah . . . .",
+  "question_image": "q_2076375d6781_49485f28-9abe-4b7d-9640-204034d9f61d.png",
+  "correct_answer": "15 pasang",
+  "past_labels": [
+   [
+    "NONE",
+    0.71
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ }
+]

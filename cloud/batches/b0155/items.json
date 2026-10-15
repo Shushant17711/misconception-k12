@@ -1,0 +1,282 @@
+[
+ {
+  "id": "a4ccf3c4983b",
+  "image": "a4ccf3c4983b.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Titik $B(-2, 3)$ dirotasikan sebesar $180^\\circ$ dengan pusat $O(0, 0)$, kemudian dilanjutkan dengan dilatasi yang berpusat di $O(0, 0)$ dengan faktor skala $k = -2$. Jika bayangan akhir yang terbentuk adalah $B''(p, q)$, maka nilai dari $2p - q$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "-14",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.33
+   ],
+   [
+    "CAL-01",
+    0.25
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "OTH-00",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.05
+   ],
+   [
+    "OOO-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "88df8a8f23e7",
+  "image": "88df8a8f23e7.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Seorang atlet lari mencatat waktu tempuh ($y$ dalam menit) berdasarkan jarak lari ($x$ dalam km). Persamaannya adalah $\\hat{y} = 5x + 2$. \n\nData yang tercatat selama ini adalah untuk jarak 1 km sampai 10 km. Estimasi waktu yang dibutuhkan atlet tersebut jika ia menempuh jarak 5,5 km adalah ... menit",
+  "question_image": null,
+  "correct_answer": "29,5\n",
+  "past_labels": [
+   [
+    "NONE",
+    0.58
+   ],
+   [
+    "MEA-03",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "f674d5a26303",
+  "image": "f674d5a26303.jpeg",
+  "grade": 11,
+  "topic": "Types of Functions",
+  "question": "Dalam sebuah ulangan remedial matematika, seorang guru mengumumkan bahwa nilai yang diberikan akan berkisar dari 60 sampai 100, dengan setiap siswa mendapatkan nilai berupa bilangan bulat. Banyak siswa yang mengikuti ulangan remedial ini adalah 42 orang. Jika f memetakan setiap siswa ke nilai ulangannya, maka sifat fungsi f yang mungkin terjadi (yaitu tidak mustahil terjadi, tergantung bagaimana nilai didistribusikan ke siswa) adalah . . .",
+  "question_image": null,
+  "correct_answer": "Surjektif",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.64
+   ],
+   [
+    "CHK-01",
+    0.16
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "ANS-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "c9b6dc157e1b",
+  "image": "c9b6dc157e1b.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{18}{5 + \\sqrt{7}}$ dapat dinyatakan sebagai $a - \\sqrt{7}$ dengan $a$ adalah bilangan bulat. Nilai dari $\\dfrac{3}{\\sqrt{a}}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{3\\sqrt{5}}{5}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "EXP-07",
+    0.24
+   ],
+   [
+    "EXP-04",
+    0.07
+   ],
+   [
+    "ALG-04",
+    0.05
+   ],
+   [
+    "FRA-04",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "73e48edcb036",
+  "image": "73e48edcb036.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Banyak siswa yang menyukai matematika adalah …",
+  "question_image": "q_73e48edcb036_88ea8875-6752-40c4-b16c-4f5ca1f73a92.png",
+  "correct_answer": "54 orang",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "RAT-02",
+    0.16
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "2bb08b542335",
+  "image": "2bb08b542335.jpeg",
+  "grade": 7,
+  "topic": "Application of Integers",
+  "question": "Dalam sebuah sesi latihan selam, kedalaman posisi penyelam diukur dari permukaan air kolam yang ditetapkan sebagai titik nol. Posisi di atas permukaan air dinyatakan dengan bilangan positif, sedangkan kedalaman di bawah permukaan air dinyatakan dengan bilangan negatif.\n\nTiga penyelam mencatat posisi mereka sebagai berikut:\n* Penyelam A: Berada pada posisi 1 meter di bawah permukaan air.\n* Penyelam B: Berada pada posisi 5 meter di bawah permukaan air.\nSeorang penyelam ketiga, Penyelam C, berada di antara Penyelam A dan Penyelam B. Diketahui pula bahwa posisi Penyelam C tepat berada di tengah-tengah antara posisi Penyelam A dan Penyelam B pada garis bilangan. Bilangan bulat yang menunjukkan posisi penyelam C adalah…",
+  "question_image": null,
+  "correct_answer": "-3",
+  "past_labels": [
+   [
+    "NONE",
+    0.66
+   ],
+   [
+    "WOP-01",
+    0.12
+   ],
+   [
+    "INT-04",
+    0.12
+   ],
+   [
+    "INT-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "d5eb56f691c5",
+  "image": "d5eb56f691c5.jpeg",
+  "grade": 12,
+  "topic": "Combination",
+  "question": "Dari 6 siswa pria dan 4 siswa wanita akan dipilih 5 orang untuk mewakili sekolah dalam suatu kegiatan pameran. Jika tim tersebut harus memiliki paling sedikit 2 siswa pria, banyak cara pemilihan tim tersebut adalah ....",
+  "question_image": null,
+  "correct_answer": "246",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "PRO-04",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.13
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "WOP-02",
+    0.03
+   ],
+   [
+    "ANS-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "6d9810f9226a",
+  "image": "6d9810f9226a.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Dua buah bus antar kota berangkat dari terminal yang sama. Bus Sentosa berangkat setiap 48 menit sekali, sedangkan Bus Jaya berangkat setiap 72 menit sekali. Kedua bus tersebut berangkat bersama-sama untuk pertama kalinya pada pukul 08.00 pagi. Pada pukul berapakah kedua bus tersebut akan berangkat bersama-sama untuk ketiga kalinya?",
+  "question_image": null,
+  "correct_answer": "12.48",
+  "past_labels": [
+   [
+    "KPF-02",
+    0.3
+   ],
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "MEA-02",
+    0.19
+   ],
+   [
+    "KPF-01",
+    0.12
+   ],
+   [
+    "ANS-01",
+    0.05
+   ],
+   [
+    "KPF-04",
+    0.03
+   ]
+  ]
+ }
+]

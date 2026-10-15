@@ -1,0 +1,282 @@
+[
+ {
+  "id": "68dd3da26f79",
+  "image": "68dd3da26f79.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Panitia lomba menggambar menyediakan 84 lembar kertas gambar. Kertas-kertas tersebut dibagikan kepada beberapa kelompok peserta secara merata. Jika setiap kelompok mendapatkan tepat 7 lembar kertas gambar dan tidak ada kertas yang tersisa, berapa banyak kelompok yang mengikuti lomba menggambar tersebut?",
+  "question_image": null,
+  "correct_answer": "12",
+  "past_labels": [
+   [
+    "NONE",
+    0.48
+   ],
+   [
+    "OPS-02",
+    0.21
+   ],
+   [
+    "WOP-02",
+    0.11
+   ],
+   [
+    "WOP-01",
+    0.08
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "3ae61b98a11b",
+  "image": "3ae61b98a11b.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Hasil dari 68.450 + 23.180 - 45.290 adalah…",
+  "question_image": null,
+  "correct_answer": "46.340",
+  "past_labels": [
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "OPS-01",
+    0.33
+   ],
+   [
+    "PV-01",
+    0.1
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "904154e3baad",
+  "image": "904154e3baad.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Sebuah botol berisi $\\dfrac{9}{10}$ liter air. Leo meminum $\\dfrac{2}{10}$ liter, lalu ia mengisi kembali botol tersebut sebanyak $\\dfrac{3}{10}$ liter. Berapa liter air yang ada di dalam botol sekarang?",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{10}{10}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.49
+   ],
+   [
+    "CAL-01",
+    0.21
+   ],
+   [
+    "FRA-06",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "FRA-01",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "53863b79fd35",
+  "image": "53863b79fd35.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Volume gabungan bangun ruang seperti gambar di samping adalah . . . $\\text{cm}^3$",
+  "question_image": "q_53863b79fd35_3d2c4f9e-fcde-48a2-9c17-b58a45fa29f6.png",
+  "correct_answer": "1350",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "VIS-01",
+    0.37
+   ],
+   [
+    "MEA-04",
+    0.06
+   ],
+   [
+    "MEA-03",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "78f5ceb7edf2",
+  "image": "78f5ceb7edf2.jpeg",
+  "grade": 7,
+  "topic": "Angle",
+  "question": "Pada rancangan rel kereta, dua batang rel dibuat sejajar dan dipotong oleh sebuah batang penyangga melintang. \nBatang penyangga memotong rel atas di titik P dan rel bawah di titik Q. \n\nDi titik P, sudut yang terbentuk di sisi kanan-atas berukuran (5x+5)°. \nDi titik Q, sudut yang terbentuk di sisi kanan-atas (menghadap arah yang sama dengan sudut di titik P) berukuran (7x−35)°. \n\nBesar sudut di titik Q yang bersebelahan lurus dengan sudut (7x−35)° adalah ...",
+  "question_image": null,
+  "correct_answer": "$75^{\\circ}$",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.65
+   ],
+   [
+    "NONE",
+    0.22
+   ],
+   [
+    "ANS-02",
+    0.05
+   ],
+   [
+    "ALG-06",
+    0.05
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "67c5c3a9ca99",
+  "image": "67c5c3a9ca99.jpeg",
+  "grade": 11,
+  "topic": "Value and Form of a Function",
+  "question": "Diketahui fungsi rasional $f(x) = \\dfrac{2x^2-x-3}{x+1}$ untuk $x \\neq -1$. Jika nilai $f(a) = 5$, maka nilai dari $3a - 2$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "10",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.43
+   ],
+   [
+    "OOO-01",
+    0.17
+   ],
+   [
+    "EXP-03",
+    0.11
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "0225b85cb9e7",
+  "image": "0225b85cb9e7.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah mangkuk melengkung berbentuk setengah bola terbuka (tanpa tutup) memiliki luas permukaan luar $32\\pi\\text{ cm}^2$. Jika setengah bola dengan ukuran yang sama persis dibuat dalam bentuk padat (pejal), maka luas permukaan total benda pejal tersebut adalah $\\dots\\text{ cm}^2$.\r\n(nyatakan jawaban dalam bentuk $\\pi$)",
+  "question_image": null,
+  "correct_answer": "$48\\pi$",
+  "past_labels": [
+   [
+    "MEA-04",
+    0.44
+   ],
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "02d602881d44",
+  "image": "02d602881d44.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Panitia jalan sehat memasang pos penanganan medis di sepanjang rute kegiatan. Pos pertama dipasang pada kilometer ke-3, pos kedua pada kilometer ke-7, pos ketiga pada kilometer ke-11, dan seterusnya mengikuti pola yang sama. Jika pos terakhir dipasang pada kilometer ke-55, maka banyak pos penanganan medis yang dipasang oleh panitia adalah…",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "CAL-01",
+    0.27
+   ],
+   [
+    "SEQ-02",
+    0.22
+   ],
+   [
+    "FRM-01",
+    0.07
+   ],
+   [
+    "REL-01",
+    0.02
+   ],
+   [
+    "SIM-01",
+    0.02
+   ]
+  ]
+ }
+]

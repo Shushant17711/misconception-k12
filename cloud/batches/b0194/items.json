@@ -1,0 +1,282 @@
+[
+ {
+  "id": "e42bdf4f9c48",
+  "image": "e42bdf4f9c48.jpeg",
+  "grade": 6,
+  "topic": "Speed",
+  "question": "$4 \\text{ m/detik} = \\dots \\text{ km/jam}$",
+  "question_image": null,
+  "correct_answer": "14,4",
+  "past_labels": [
+   [
+    "MEA-02",
+    0.57
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "Dec-02",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "6b32a9d03271",
+  "image": "6b32a9d03271.jpeg",
+  "grade": 11,
+  "topic": "Function Operations",
+  "question": "Sebuah kebun berbentuk persegi panjang memiliki fungsi panjang $f(x) = 2x + 10$ (dalam meter). Pemilik kebun tidak mengetahui fungsi lebarnya, namun pihak pengelola kawasan menginformasikan bahwa fungsi keliling untuk seluruh kapling di blok tersebut mengikuti rumus $k(x) = 6x + 30$ (dalam meter), dengan $x$ adalah variabel desain tata ruang. Jika pada hari ini keliling kebun tersebut diukur secara langsung dan menunjukkan angka tepat $90\\text{ meter}$, berapakah luas total hamparan kebun tersebut?",
+  "question_image": null,
+  "correct_answer": "$450\\text{ m}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "FUN-01",
+    0.15
+   ],
+   [
+    "QUA-02",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "6d76ef446842",
+  "image": "6d76ef446842.jpeg",
+  "grade": 8,
+  "topic": "Angle",
+  "question": "Besar sudut ABD adalah …",
+  "question_image": "q_6d76ef446842_e69884ee-14e7-4f63-a8c0-741d47b8fe0a.png",
+  "correct_answer": "$70^\\circ$",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.54
+   ],
+   [
+    "ANS-02",
+    0.15
+   ],
+   [
+    "ALG-06",
+    0.15
+   ],
+   [
+    "ALG-05",
+    0.12
+   ],
+   [
+    "NONE",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "e04615bbb121",
+  "image": "e04615bbb121.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Selisih tabungan milik Andi dengan tabungan milik Esa adalah …\n",
+  "question_image": "q_e04615bbb121_830fcdc2-c265-4803-bfd5-9a0d647deb34.png",
+  "correct_answer": "Rp10.000",
+  "past_labels": [
+   [
+    "NONE",
+    0.71
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "63d3d8c68088",
+  "image": "63d3d8c68088.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Dua buah bus antar kota berangkat dari terminal yang sama. Bus Sentosa berangkat setiap 48 menit sekali, sedangkan Bus Jaya berangkat setiap 72 menit sekali. Kedua bus tersebut berangkat bersama-sama untuk pertama kalinya pada pukul 08.00 pagi. Pada pukul berapakah kedua bus tersebut akan berangkat bersama-sama untuk ketiga kalinya?",
+  "question_image": null,
+  "correct_answer": "12.48",
+  "past_labels": [
+   [
+    "KPF-02",
+    0.3
+   ],
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "MEA-02",
+    0.19
+   ],
+   [
+    "KPF-01",
+    0.12
+   ],
+   [
+    "ANS-01",
+    0.05
+   ],
+   [
+    "KPF-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "b27c449a3b8b",
+  "image": "b27c449a3b8b.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Luas permukaan bangun ruang disamping adalah $\\dots\\text{ cm}^2$.",
+  "question_image": "q_b27c449a3b8b_6792c375-4c03-4cde-94df-e56952c6f9d7.png",
+  "correct_answer": "1.232",
+  "past_labels": [
+   [
+    "NONE",
+    0.45
+   ],
+   [
+    "VIS-01",
+    0.26
+   ],
+   [
+    "MEA-04",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "71f2f2b28153",
+  "image": "71f2f2b28153.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Bilangan kelipatan 7 yang lebih dari 28 dan kurang dari 58 adalah..",
+  "question_image": null,
+  "correct_answer": "35,42,49,56",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "OTH-00",
+    0.16
+   ],
+   [
+    "WOP-02",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "ANS-01",
+    0.05
+   ],
+   [
+    "OPS-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "7bde5f16eec0",
+  "image": "7bde5f16eec0.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Diketahui a, b, c tiga bilangan asli berurutan ($a \\lt b \\lt c$) dan $b^2 = 16$.\nNilai dari $\\dfrac{a^2b^3c^{-1}}{a^{-2}bc^2}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{1296}{125}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "EXP-02",
+    0.19
+   ],
+   [
+    "Dec-02",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.04
+   ]
+  ]
+ }
+]

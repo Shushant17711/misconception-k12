@@ -1,0 +1,282 @@
+[
+ {
+  "id": "5b7ddd9b6a85",
+  "image": "5b7ddd9b6a85.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Selisih antara penjualan buku pada hari Senin dan hari Kamis adalah …",
+  "question_image": "q_5b7ddd9b6a85_29c50fb4-efd1-41c9-8bcb-8deaaa28715f.png",
+  "correct_answer": "20 buku",
+  "past_labels": [
+   [
+    "NONE",
+    0.71
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "f0a6c6701e59",
+  "image": "f0a6c6701e59.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Diketahui empat data adalah:\n\n$\\\n2n,\\ 2n + 1,\\ 3n - 2,\\ n + 1\n$\n\nJika rata-rata keempat data tersebut adalah 8, maka simpangan rata-rata dari data tersebut adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "1,5",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "STA-01",
+    0.15
+   ],
+   [
+    "OTH-00",
+    0.13
+   ],
+   [
+    "STA-03",
+    0.13
+   ],
+   [
+    "STA-05",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "653cafd4a73f",
+  "image": "653cafd4a73f.jpeg",
+  "grade": 7,
+  "topic": "Applications of Linear Equations in One Variable",
+  "question": "Seorang pedagang membeli 4 lusin buku tulis dengan harga total tertentu. \nJika ia membayar dengan uang Rp200.000,00 dan mendapat kembalian Rp8.000,00, berapakah harga 1 buku tulis tersebut? ",
+  "question_image": null,
+  "correct_answer": "Rp4.000,00",
+  "past_labels": [
+   [
+    "NONE",
+    0.71
+   ],
+   [
+    "WOP-01",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OOO-02",
+    0.04
+   ],
+   [
+    "ALG-03",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "f9c3f747349d",
+  "image": "f9c3f747349d.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah truk mengangkut boks bantuan sosial dengan total berat 18.900 kg. Boks-boks tersebut akan diturunkan secara bertahap setiap harinya dalam jumlah yang sama selama 3 minggu penuh hingga habis. Berat boks yang diturunkan truk tersebut setiap harinya adalah… kg.",
+  "question_image": null,
+  "correct_answer": "900",
+  "past_labels": [
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "ANS-02",
+    0.25
+   ],
+   [
+    "OPS-01",
+    0.2
+   ],
+   [
+    "PV-01",
+    0.12
+   ],
+   [
+    "OPS-02",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "850c52f21b62",
+  "image": "850c52f21b62.jpeg",
+  "grade": 8,
+  "topic": "Measures of Central Tendency",
+  "question": "Tinggi badan lima siswa (dalam cm) adalah\n\n$\\\n160,\\;165,\\;170,\\;175,\\;\\text{dan } x.\n$\n\nJika rata-rata tinggi badan kelima siswa tersebut adalah $168$ cm, maka tinggi badan siswa kelima adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "170",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "STA-01",
+    0.14
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "STA-04",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "9b330774487c",
+  "image": "9b330774487c.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Tentukan hasil akhir dari operasi hitung bilangan berpangkat berikut: $\\dfrac{32^{\\frac{3}{5}} \\times 3^2}{16^0 + \\left(\\frac{1}{3}\\right)^2}$",
+  "question_image": null,
+  "correct_answer": "64,8",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.3
+   ],
+   [
+    "EXP-04",
+    0.14
+   ],
+   [
+    "REL-01",
+    0.14
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "EXP-02",
+    0.07
+   ],
+   [
+    "INT-03",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "945d0d924c0a",
+  "image": "945d0d924c0a.jpeg",
+  "grade": 7,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Perhatikan gambar setengah bola pejal di samping. Jika seluruh permukaan bangun tersebut dicat, luas area yang dicat adalah . . . $\\text{cm}^2$.",
+  "question_image": "q_945d0d924c0a_e4cc830b-7a3d-4b31-b0d5-90555388cb6d.png",
+  "correct_answer": "942",
+  "past_labels": [
+   [
+    "NONE",
+    0.52
+   ],
+   [
+    "VIS-01",
+    0.28
+   ],
+   [
+    "MEA-04",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "a7c1709e3f85",
+  "image": "a7c1709e3f85.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Diketahui $k(\\sqrt{7}+1)$ merupakan bentuk sederhana dari $\\dfrac{12}{\\sqrt{7}-1}$, dengan $k$ adalah bilangan bulat.\n\nNilai dari $\\dfrac{k+3}{\\sqrt{k}}$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{5\\sqrt{2}}{2}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.28
+   ],
+   [
+    "EXP-07",
+    0.24
+   ],
+   [
+    "WOP-02",
+    0.16
+   ],
+   [
+    "EXP-04",
+    0.07
+   ],
+   [
+    "ALG-04",
+    0.05
+   ],
+   [
+    "FRA-04",
+    0.04
+   ]
+  ]
+ }
+]

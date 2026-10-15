@@ -1,0 +1,282 @@
+[
+ {
+  "id": "542a7f0b2123",
+  "image": "542a7f0b2123.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f : x \\to x + 2$ dan $h : x \\to x^2 - 2$.\r\nJika $(f \\circ g \\circ h)(x) = 2x^2 + 4$, maka $(h^{-1} \\circ g^{-1} \\circ f^{-1})(x)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\sqrt{\\dfrac{x - 4}{2}}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.26
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "FUN-01",
+    0.18
+   ],
+   [
+    "INV-01",
+    0.17
+   ],
+   [
+    "RAT-02",
+    0.04
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "8d7be89c83c5",
+  "image": "8d7be89c83c5.jpeg",
+  "grade": 12,
+  "topic": "Permutation",
+  "question": "Suatu kelompok belajar terdiri dari 6 siswa (3 laki-laki dan 3 perempuan) akan melakukan presentasi bergantian. Guru menetapkan aturan bahwa siswa laki-laki dan perempuan harus tampil berselang-seling (L-P-L-P-L-P atau P-L-P-L-P-L). Banyak susunan urutan presentasi yang dapat dibentuk adalah ...",
+  "question_image": null,
+  "correct_answer": "72",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.45
+   ],
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "6e7951f0f54a",
+  "image": "6e7951f0f54a.jpeg",
+  "grade": 10,
+  "topic": "Operations on Radicals",
+  "question": "Sederhanakan bentuk berikut menjadi bentuk paling sederhana ($x>0$):\r\n\r\n$$\\sqrt{5x^3} + \\sqrt{20x^3}$$",
+  "question_image": null,
+  "correct_answer": "$3x\\sqrt{5x}$",
+  "past_labels": [
+   [
+    "EXP-07",
+    0.48
+   ],
+   [
+    "EXP-04",
+    0.28
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.03
+   ],
+   [
+    "OTH-00",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "a8b498a7b98d",
+  "image": "a8b498a7b98d.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari $\\left(\\dfrac{2a^5b^{-5}}{32a^9b^{-1}}\\right)^{-1}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$(2ab)^4$",
+  "past_labels": [
+   [
+    "ALG-04",
+    0.25
+   ],
+   [
+    "NONE",
+    0.2
+   ],
+   [
+    "OTH-00",
+    0.16
+   ],
+   [
+    "INT-03",
+    0.15
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "d49cf280ff08",
+  "image": "d49cf280ff08.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Sebuah permainan papan memiliki aturan perubahan skor sebagai berikut:\r\n* Petak Merah: Skor dikalikan dengan -2.\r\n* Petak Biru: Skor dibagi dengan -3.\r\nDika memulai permainan dengan skor -36. Dika berada di petak awal dan wajib melangkah tepat 2 kali. \r\n\r\nJika Dika melangkah ke petak biru, kemudian dilanjutkan ke petak merah, skor akhir yang diperoleh Dika adalah… ",
+  "question_image": null,
+  "correct_answer": "-24",
+  "past_labels": [
+   [
+    "INT-02",
+    0.44
+   ],
+   [
+    "NONE",
+    0.28
+   ],
+   [
+    "WOP-02",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.07
+   ],
+   [
+    "INT-04",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "c4d9b465c8c6",
+  "image": "c4d9b465c8c6.jpeg",
+  "grade": 6,
+  "topic": "Comparison of Fractions",
+  "question": "Ibu memiliki empat buah kantong belanja dengan berat sebagai berikut:\n* Kantong A = 3,25 kg\n* Kantong B = 0,4 kg lebih berat dari Kantong A\n* Kantong C = 0,15 kg lebih ringan dari Kantong B\n* Kantong D = 3,48 kg\nUrutan kantong belanja dari yang paling berat ke paling ringan adalah ...",
+  "question_image": null,
+  "correct_answer": "Kantong B, Kantong C, Kantong D, Kantong A",
+  "past_labels": [
+   [
+    "Dec-01",
+    0.27
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.21
+   ],
+   [
+    "Dec-02",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "PV-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "122687005a10",
+  "image": "122687005a10.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Diagram di samping menyajikan berbagai jenis ikan yang dipelihara Caca. Jika total seluruh ikan ada 120 ekor, selisih antara banyak ikan guppy dan ikan cupang adalah . . . ekor.",
+  "question_image": "q_122687005a10_d8144bb5-ce72-40ea-94e6-a6b1de56ec62.png",
+  "correct_answer": "18",
+  "past_labels": [
+   [
+    "NONE",
+    0.57
+   ],
+   [
+    "VIS-01",
+    0.11
+   ],
+   [
+    "WOP-01",
+    0.09
+   ],
+   [
+    "UNT-01",
+    0.05
+   ],
+   [
+    "RAT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "81a7f4dd57bd",
+  "image": "81a7f4dd57bd.jpeg",
+  "grade": 12,
+  "topic": "Probability of Compound Events",
+  "question": "Dari satu set kartu bridge lengkap (52 kartu) diambil satu kartu secara acak. Peluang terambilnya kartu bergambar Hati (Heart) atau kartu bergambar tokoh (King, Queen, Jack) adalah .... (nyatakan nilai dalam bentuk paling sederhana)",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{11}{26}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "PRO-04",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "PRO-02",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.04
+   ]
+  ]
+ }
+]

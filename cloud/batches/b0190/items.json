@@ -1,0 +1,282 @@
+[
+ {
+  "id": "f607911648bc",
+  "image": "f607911648bc.jpeg",
+  "grade": 9,
+  "topic": "Applications of geometric sequences and series",
+  "question": "Jumlah bakteri dalam sebuah percobaan menjadi $2$ kali lipat setiap jam.  \nPada awal percobaan terdapat $40$ bakteri.  \nSetelah beberapa jam jumlah bakteri menjadi $640$ bakteri.\n\nLama waktu yang diperlukan adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "4 jam",
+  "past_labels": [
+   [
+    "NONE",
+    0.89
+   ],
+   [
+    "WOP-01",
+    0.01
+   ],
+   [
+    "FRM-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ],
+   [
+    "CAL-01",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "db666ba6bbfb",
+  "image": "db666ba6bbfb.jpeg",
+  "grade": 9,
+  "topic": "Introduction to Three-Dimensional Shapes",
+  "question": "Pak Ridwan ingin membuat tumpeng nasi berbentuk kerucut untuk acara syukuran. Ia juga ingin membuat tutup pelindung transparan dari bahan mika berbentuk kerucut tanpa alas untuk menutupi tumpeng tersebut agar terhindar dari debu.\n\nPerhitungan yang tepat yang digunakan Pak Ridwan untuk menentukan banyaknya beras yang dibutuhkan dan luas bahan mika yang diperlukan berturut-turut adalah …",
+  "question_image": null,
+  "correct_answer": "Volume kerucut dan luas selimut kerucut",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "FRM-01",
+    0.23
+   ],
+   [
+    "MEA-04",
+    0.11
+   ],
+   [
+    "MEA-01",
+    0.11
+   ],
+   [
+    "MEA-05",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "24f6d8f46712",
+  "image": "24f6d8f46712.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Sebuah laboratorium mengukur kadar zat besi dalam sampel tanah menggunakan komputer. Layar komputer menampilkan hasil analisis dalam bentuk nilai tempat desimal, yaitu: 2 persepuluhan, 2 perseratusan, dan  5 perseribu. Peneliti harus mencatat kadar zat besi tersebut ke dalam laporan dalam bentuk pecahan biasa paling sederhana. Bentuk pecahan biasa paling sederhana yang harus dicatat oleh peneliti adalah...",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{9}{40}$",
+  "past_labels": [
+   [
+    "Dec-02",
+    0.23
+   ],
+   [
+    "CAL-01",
+    0.22
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.13
+   ],
+   [
+    "FRA-05",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "5e5f9e7c76de",
+  "image": "5e5f9e7c76de.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah koperasi memiliki kas awal sebesar Rp75.000. Koperasi mengeluarkan uang sebesar Rp24.500 untuk perlengkapan kantor dan Rp16.850 untuk membayar listrik. Koperasi menerima setoran dari hasil penjualan barang sebesar Rp31.200. Saldo kas koperasi saat ini adalah…",
+  "question_image": null,
+  "correct_answer": "Rp64.850",
+  "past_labels": [
+   [
+    "OPS-01",
+    0.43
+   ],
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "PV-01",
+    0.08
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "9ed759276b0f",
+  "image": "9ed759276b0f.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Diketahui 8a+4=3a-11. Nilai dari 2a+5 adalah ….",
+  "question_image": null,
+  "correct_answer": "-1",
+  "past_labels": [
+   [
+    "ALG-06",
+    0.29
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "INT-04",
+    0.17
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "ALG-04",
+    0.07
+   ],
+   [
+    "ALG-05",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "de3450bb7c46",
+  "image": "de3450bb7c46.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Kelipatan Persekutuan Terkecil dari tiga bilangan berikut: 6, 8  dan 9 adalah…",
+  "question_image": null,
+  "correct_answer": "72",
+  "past_labels": [
+   [
+    "NONE",
+    0.4
+   ],
+   [
+    "ANS-01",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "KPF-04",
+    0.07
+   ],
+   [
+    "KPF-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "21b25d8f9ea6",
+  "image": "21b25d8f9ea6.jpeg",
+  "grade": 11,
+  "topic": "Types of Functions",
+  "question": "Fungsi-fungsi berikut adalah fungsi-fungsi dari himpunan A={a,b,c} ke himpunan B={1,2,3}.\r\n(i)    f={(a,1), (b,2), (c,2)}\r\n(ii)   g={(a,1), (b,1), (c,1)}\r\n(iii)  h={(a,2), (b,3), (c,1)}\r\n(iv)  k={(a,1), (b,3), (c,2)}\r\nYang merupakan fungsi surjektif adalah….\r",
+  "question_image": null,
+  "correct_answer": "(iii) dan (iv)",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.39
+   ],
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "VIS-01",
+    0.16
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "CHK-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "cd54ca6c0dff",
+  "image": "cd54ca6c0dff.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Sebuah toko sepatu mencatat hasil penjualan selama 5 bulan (Januari-Mei) dalam diagram garis di samping. \n\nTotal seluruh sepatu yang terjual selama 5 bulan adalah 150 pasang. Selisih antara penjualan pada bulan Januari dengan bulan Mei adalah . . . .",
+  "question_image": "q_cd54ca6c0dff_49485f28-9abe-4b7d-9640-204034d9f61d.png",
+  "correct_answer": "15 pasang",
+  "past_labels": [
+   [
+    "NONE",
+    0.71
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ }
+]

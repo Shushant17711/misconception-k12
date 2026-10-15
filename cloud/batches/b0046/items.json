@@ -1,0 +1,282 @@
+[
+ {
+  "id": "1712b1ff64af",
+  "image": "1712b1ff64af.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Sebuah toko mengalami kerugian Rp 15.000 per hari selama 12 hari pertama bulan ini. Pada 8 hari berikutnya toko untung Rp 22.000 per hari. \r\n\r\nKondisi keuangan toko tersebut selama 20 hari beroperasi apakah mengalami keuntungan atau kerugian? Berapa besarnya keuntungan atau kerugian yang dialami toko tersebut? \r",
+  "question_image": null,
+  "correct_answer": "Toko rugi total Rp 4.000",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "INT-04",
+    0.26
+   ],
+   [
+    "ANS-01",
+    0.11
+   ],
+   [
+    "OOO-01",
+    0.08
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "113feb7783af",
+  "image": "113feb7783af.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Tante Linda memiliki 40 kue cokelat dan 52 kue keju. Ia berencana membagikan kue-kue tersebut secara merata ke dalam beberapa wadah plastik untuk diberikan kepada tetangganya. Namun, sebelum dimasukkan ke dalam wadah, Leo memakan 4 kue cokelat dan 4 kue keju. Jika sisa kue tersebut ingin dibagi habis ke dalam wadah dengan jumlah dan jenis yang sama banyak tanpa ada kue yang tersisa, Tentukan banyak wadah maksimal yang harus disiapkan Tante Linda!`",
+  "question_image": null,
+  "correct_answer": "12",
+  "past_labels": [
+   [
+    "KPF-04",
+    0.29
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "WOP-01",
+    0.14
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "KPF-02",
+    0.08
+   ],
+   [
+    "KPF-01",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "8710558dc113",
+  "image": "8710558dc113.jpeg",
+  "grade": 7,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Perhatikan gambar di samping. Jika tinggi segitiga TAB 15 cm, maka luas permukaan bangun di samping adalah . . . $\\text{cm}^2$",
+  "question_image": "q_8710558dc113_2f753132-e422-41f1-ad91-b7e0947c05d3.png",
+  "correct_answer": "169",
+  "past_labels": [
+   [
+    "NONE",
+    0.45
+   ],
+   [
+    "VIS-01",
+    0.26
+   ],
+   [
+    "MEA-04",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "3acf043202b2",
+  "image": "3acf043202b2.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Tentukan hasil dari operasi hitung berikut dalam bentuk pecahan campuran\n\n$$ \\dfrac{3}{4} + \\dfrac{1}{2} : \\dfrac{2}{3} = $$",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{1}{2}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "FRA-01",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.12
+   ],
+   [
+    "CAL-01",
+    0.12
+   ],
+   [
+    "FRA-06",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "52c6f590f196",
+  "image": "52c6f590f196.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Diketahui fungsi eksponen $f(x) = 3^{2x+1} - 5$.\r\nJika nilai fungsi di titik $x = a$ adalah $22$, maka nilai dari $f(a^2 - 2a)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{14}{3}$",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.27
+   ],
+   [
+    "EXP-02",
+    0.22
+   ],
+   [
+    "SEQ-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "29c328f04344",
+  "image": "29c328f04344.jpeg",
+  "grade": 6,
+  "topic": "Comparison of Fractions",
+  "question": "Ibu memiliki empat buah kantong belanja dengan berat sebagai berikut:\n* Kantong A = 3,25 kg\n* Kantong B = 0,4 kg lebih berat dari Kantong A\n* Kantong C = 0,15 kg lebih ringan dari Kantong B\n* Kantong D = 3,48 kg\nUrutan kantong belanja dari yang paling berat ke paling ringan adalah ...",
+  "question_image": null,
+  "correct_answer": "Kantong B, Kantong C, Kantong D, Kantong A",
+  "past_labels": [
+   [
+    "Dec-01",
+    0.27
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.21
+   ],
+   [
+    "Dec-02",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "PV-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "cfcbc7494497",
+  "image": "cfcbc7494497.jpeg",
+  "grade": 6,
+  "topic": "Integer Value",
+  "question": "Diketahui empat bilangan bulat, \n\n$P = -18, Q = -25, R = -12,$ dan $S = -30$.\n\n Hubungan perbandingan yang benar untuk mengurutkan bilangan tersebut dari yang terbesar ke yang terkecil adalah . . . .",
+  "question_image": null,
+  "correct_answer": "$R>P>Q>S$",
+  "past_labels": [
+   [
+    "NONE",
+    0.76
+   ],
+   [
+    "INT-04",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "11cee59c0ff5",
+  "image": "11cee59c0ff5.jpeg",
+  "grade": 6,
+  "topic": "Operations on Integers",
+  "question": "Sebuah kapal selam mula-mula berada di kedalaman 12 meter di bawah permukaan laut. Kapal tersebut kemudian bergerak turun lagi sejauh 8 meter. \n\nTepat setelah itu, kapal selam mengaktifkan mesin pendorong otomatis yang membuatnya bergerak naik ke atas dengan kecepatan 3 meter setiap menitnya selama 5 menit. \n\nDi manakah posisi kapal selam tersebut sekarang?",
+  "question_image": null,
+  "correct_answer": "-5",
+  "past_labels": [
+   [
+    "INT-04",
+    0.41
+   ],
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ }
+]

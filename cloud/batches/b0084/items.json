@@ -1,0 +1,282 @@
+[
+ {
+  "id": "f7183d025617",
+  "image": "f7183d025617.jpeg",
+  "grade": 12,
+  "topic": "Counting Rules",
+  "question": "Diberikan himpunan angka {1, 2, 3, 4, 5, 6, 7}. Dari angka-angka tersebut, akan disusun bilangan ganjil yang terdiri dari 4 angka berbeda. Banyak susunan bilangan ganjil yang dapat terbentuk adalah...",
+  "question_image": null,
+  "correct_answer": "480",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.33
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "PRO-04",
+    0.25
+   ],
+   [
+    "FRM-01",
+    0.14
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "552225688cbc",
+  "image": "552225688cbc.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Nilai rata-rata produksi baju harian menggunakan Rataan Sementara = 135 adalah …",
+  "question_image": "q_552225688cbc_2a6264a9-76bb-4fbd-8e7c-91cde4188ad1.png",
+  "correct_answer": "140,33",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "VIS-01",
+    0.29
+   ],
+   [
+    "STA-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "STA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "9eb8b80d8c49",
+  "image": "9eb8b80d8c49.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk paling sederhana dari pecahan $\\frac{12}{\\sqrt{7} + \\sqrt{3}}$ adalah…",
+  "question_image": null,
+  "correct_answer": "$3(\\sqrt{7} - \\sqrt{3})$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.41
+   ],
+   [
+    "ALG-04",
+    0.23
+   ],
+   [
+    "EXP-07",
+    0.21
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "92189b8207da",
+  "image": "92189b8207da.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Sebuah toko sepatu mencatat hasil penjualan selama 5 bulan (Januari-Mei) dalam diagram garis di samping. \n\nTotal seluruh sepatu yang terjual selama 5 bulan adalah 150 pasang. Selisih antara penjualan pada bulan Januari dengan bulan Mei adalah . . . .",
+  "question_image": "q_92189b8207da_49485f28-9abe-4b7d-9640-204034d9f61d.png",
+  "correct_answer": "15 pasang",
+  "past_labels": [
+   [
+    "NONE",
+    0.71
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "2d35cfad623e",
+  "image": "2d35cfad623e.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Nilai dari $\\dfrac{^2\\log^2 32 - \\text{dari } {^2\\log^2 2}}{^2\\log 64}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "4",
+  "past_labels": [
+   [
+    "LOG-02",
+    0.32
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-02",
+    0.13
+   ],
+   [
+    "ALG-06",
+    0.05
+   ],
+   [
+    "EXP-06",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "ec88c5653e6a",
+  "image": "ec88c5653e6a.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Titik C(2,4) didilatasikan dengan pusat (1,1) dan faktor skala 3, kemudian direfleksikan terhadap garis y = -x. Koordinat bayangan akhir titik C adalah...",
+  "question_image": null,
+  "correct_answer": "(-10,-4)",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.52
+   ],
+   [
+    "OOO-01",
+    0.18
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "70a6dc7b0335",
+  "image": "70a6dc7b0335.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f : x \\to x + 2$ dan $h : x \\to x^2 - 2$.\r\nJika $(f \\circ g \\circ h)(x) = 2x^2 + 4$, maka $(h^{-1} \\circ g^{-1} \\circ f^{-1})(x)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\sqrt{\\dfrac{x - 4}{2}}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.26
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "FUN-01",
+    0.18
+   ],
+   [
+    "INV-01",
+    0.17
+   ],
+   [
+    "RAT-02",
+    0.04
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "0f82751e59c2",
+  "image": "0f82751e59c2.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Caca les matematika setiap 12 hari sekali, Nara les matematika 18 hari sekali dan Leo les matematika setiap 20 hari sekali. Jika hari ini mereka pergi les bersama-sama untuk pertama kalinya, berapa hari lagi mereka akan pergi les bersama-sama untuk ketiga kalinya…",
+  "question_image": null,
+  "correct_answer": "360 hari",
+  "past_labels": [
+   [
+    "KPF-02",
+    0.6
+   ],
+   [
+    "ANS-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "KPF-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": "828ca16ad6af",
+  "image": "828ca16ad6af.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Titik $A(a, b)$ dicerminkan terhadap garis $x = 2$, kemudian dilanjutkan dengan translasi oleh matriks $T = \\begin{pmatrix} -3 \\\\ 4 \\end{pmatrix}$. Jika koordinat bayangan akhir titik tersebut adalah $A''(1, 7)$, maka nilai dari $a + b$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.46
+   ],
+   [
+    "INT-04",
+    0.16
+   ],
+   [
+    "ALG-06",
+    0.15
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "ba1fc2c99140",
+  "image": "ba1fc2c99140.jpeg",
+  "grade": 8,
+  "topic": "Exponents",
+  "question": "Perhatikan hubungan beberapa bilangan berpangkat berikut.\n1. $3^4 > 2^5$\n2. $2^{-3} > 4^{-1}$\n3. $10^{-2} < 5^2$\n4. $(-15)^0 = 1$\nHubungan yang tepat ditunjukkan oleh nomor $\\ldots$",
+  "question_image": null,
+  "correct_answer": "1) , 3) dan 4)",
+  "past_labels": [
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "OTH-00",
+    0.24
+   ],
+   [
+    "EXP-01",
+    0.2
+   ],
+   [
+    "VIS-01",
+    0.14
+   ],
+   [
+    "EXP-02",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "76584aff1c6d",
+  "image": "76584aff1c6d.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Saat ini, umur seorang Ibu adalah 3 kali umur anaknya. Diketahui bahwa 4 tahun yang lalu, jumlah umur mereka berdua adalah 48 tahun. Berapakah umur sang Ibu 5 tahun yang akan datang?",
+  "question_image": null,
+  "correct_answer": "47 tahun",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.45
+   ],
+   [
+    "ALG-06",
+    0.17
+   ],
+   [
+    "ALG-04",
+    0.07
+   ],
+   [
+    "ALG-05",
+    0.06
+   ],
+   [
+    "NONE",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "7ab12bbb0e63",
+  "image": "7ab12bbb0e63.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Caca memiliki beberapa buah manik-manik. Jumlah manik-manik Caca merupakan bilangan kelipatan 7 yang nilainya terletak di antara 30 dan 45. Jika manik-manik tersebut dikelompokkan ke dalam wadah yang masing-masing berisi 6 buah, ternyata tidak ada manik-manik yang tersisa. Jumlah manik-manik yang dimiliki Caca adalah…",
+  "question_image": null,
+  "correct_answer": "42",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "WOP-01",
+    0.25
+   ],
+   [
+    "OTH-00",
+    0.18
+   ],
+   [
+    "WOP-02",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "efa3c6cba468",
+  "image": "efa3c6cba468.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Seorang petani memanen 75 kg buah apel dan 105 kg buah jeruk. Ia ingin memasukkan buah-buahan tersebut ke dalam beberapa keranjang secara merata tanpa ada yang tersisa. Namun setelah diperiksa, terdapat 5 buah apel dan 7 jeruk yang busuk sehingga harus dibuang. Jika setiap keranjang harus memuat buah apel yang sama banyak dan buah jeruk yang sama banyak. Maka jumlah keranjang paling banyak yang dapat disiapkan oleh petani tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.5
+   ],
+   [
+    "ANS-01",
+    0.21
+   ],
+   [
+    "KPF-02",
+    0.08
+   ],
+   [
+    "KPF-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "FRM-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "6594a9b2b05b",
+  "image": "6594a9b2b05b.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Jika diketahui persamaan $3^x \\times 3^2 = 81$, maka nilai $x$ yang memenuhi adalah…",
+  "question_image": null,
+  "correct_answer": "2",
+  "past_labels": [
+   [
+    "EXP-06",
+    0.21
+   ],
+   [
+    "ANS-02",
+    0.18
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "EXP-02",
+    0.09
+   ],
+   [
+    "OTH-00",
+    0.07
+   ],
+   [
+    "INT-03",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "d57cc0305f75",
+  "image": "d57cc0305f75.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Diketahui: \nY = 3.600 : 48 \nX = 63.750 : Y\n\nNilai yang tepat untuk menggantikan huruf X adalah…",
+  "question_image": null,
+  "correct_answer": "850",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "PV-01",
+    0.2
+   ],
+   [
+    "OPS-02",
+    0.16
+   ],
+   [
+    "OPS-01",
+    0.13
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "a4ab39840ef1",
+  "image": "a4ab39840ef1.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Di dalam sebuah kantong terdapat 5 bola merah dan beberapa bola biru. Peluang terambilnya satu bola merah adalah $\\frac{1}{3}$ . \n\nJika dilakukan pengambilan dua bola satu per satu dengan pengembalian, peluang terambilnya **bola pertama biru dan bola kedua juga biru** adalah...",
+  "question_image": null,
+  "correct_answer": "$\\frac{4}{9}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "PRO-04",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "PRO-02",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.04
+   ]
+  ]
+ }
+]

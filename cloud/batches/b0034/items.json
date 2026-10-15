@@ -1,0 +1,282 @@
+[
+ {
+  "id": "8addb8f0c989",
+  "image": "8addb8f0c989.jpeg",
+  "grade": 7,
+  "topic": "Angle",
+  "question": "Dua garis sejajar dipotong oleh sebuah garis transversal.  \nJumlah kedua sudut tersebut adalah ...\n",
+  "question_image": "q_8addb8f0c989_dd6aca04-379b-44cd-be21-ab27887498f7.png",
+  "correct_answer": "$150^{\\circ}$",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.57
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "ANS-02",
+    0.06
+   ],
+   [
+    "ALG-06",
+    0.06
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "2a5e26b595ab",
+  "image": "2a5e26b595ab.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor Persekutuan Terbesar dari tiga bilangan berikut: 20, 40, dan 60 adalah…",
+  "question_image": null,
+  "correct_answer": "20",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.44
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "KPF-04",
+    0.1
+   ],
+   [
+    "KPF-03",
+    0.07
+   ],
+   [
+    "REL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "05dd6e6cb3bb",
+  "image": "05dd6e6cb3bb.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Berdasarkan diagram garis, suhu badan pasien mengalami penurunan yang paling besar pada jam …\n",
+  "question_image": "q_05dd6e6cb3bb_187b3e4c-e5ea-4545-aede-ef2bf57815c2.png",
+  "correct_answer": "Jam 12.00 ke 13.00",
+  "past_labels": [
+   [
+    "NONE",
+    0.46
+   ],
+   [
+    "WOP-01",
+    0.27
+   ],
+   [
+    "VIS-01",
+    0.09
+   ],
+   [
+    "UNT-01",
+    0.04
+   ],
+   [
+    "RAT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "4fb2951d75c3",
+  "image": "4fb2951d75c3.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Diketahui: \r\nY = 3.600 : 48 \r\nX = 63.750 : Y\r\n\r\nNilai yang tepat untuk menggantikan huruf X adalah…",
+  "question_image": null,
+  "correct_answer": "850",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "PV-01",
+    0.2
+   ],
+   [
+    "OPS-02",
+    0.16
+   ],
+   [
+    "OPS-01",
+    0.13
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "ba237e7ffcd2",
+  "image": "ba237e7ffcd2.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Toko Maju Jaya menerima kiriman beras setiap 12 hari sekali dan kiriman minyak goreng setiap 18 hari sekali. Pada hari Selasa, toko tersebut menerima kiriman beras dan minyak goreng secara bersamaan untuk pertama kalinya. Pada hari apakah toko tersebut akan menerima kiriman beras dan minyak goreng bersamaan untuk kedua kalinya?",
+  "question_image": null,
+  "correct_answer": "Rabu",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.26
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.19
+   ],
+   [
+    "KPF-01",
+    0.17
+   ],
+   [
+    "KPF-02",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "c17b657a6166",
+  "image": "c17b657a6166.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Nara membeli pita merah sepanjang 18 meter, pita biru sepanjang 24 meter, dan pita kuning sepanjang 30 meter. Nara ingin mengetahui panjang paling kecil yang merupakan kelipatan ketiga panjang pita tersebut…",
+  "question_image": null,
+  "correct_answer": "360",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.14
+   ],
+   [
+    "KPF-01",
+    0.14
+   ],
+   [
+    "KPF-03",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "ac44bf862bef",
+  "image": "ac44bf862bef.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Gambar di samping adalah data jumlah murid di SD Ceria. Kelas yang memiliki murid paling banyak adalah . . . yaitu sebanyak . . . orang.",
+  "question_image": "q_ac44bf862bef_61cdf870-15a8-4d89-add8-24324c5825a4.png",
+  "correct_answer": "Kelas V ; 30",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "VIS-01",
+    0.24
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "a1cf6dfcca97",
+  "image": "a1cf6dfcca97.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Sebuah histogram menunjukkan data dengan kelas-kelas yang memiliki titik tengah sebagai berikut. \nRagam dari data tersebut adalah... \n",
+  "question_image": "q_a1cf6dfcca97_74bc10f9-b9a0-49e3-bf91-68b4c0893baa.png",
+  "correct_answer": "90,67",
+  "past_labels": [
+   [
+    "NONE",
+    0.66
+   ],
+   [
+    "STA-05",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "STA-04",
+    0.04
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ }
+]

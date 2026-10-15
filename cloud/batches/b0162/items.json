@@ -1,0 +1,282 @@
+[
+ {
+  "id": "a8d6a7567b5e",
+  "image": "a8d6a7567b5e.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Seorang pemilik warung mencatat jumlah pengunjung harian (x, dalam puluhan orang) dan pendapatan hariannya (y, dalam puluh ribu rupiah) selama 4 hari. Data yang diperoleh adalah sebagai berikut:\n\n* Pengunjung (x): 1, 2, 3, 4\n* Pendapatan (y): 4, 7, 10, 13\n\nJika diketahui SSxx = 5 dan SSxy = 15, maka perkiraan pendapatan harian jika jumlah pengunjung mencapai 70 orang adalah …\n",
+  "question_image": null,
+  "correct_answer": "22",
+  "past_labels": [
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "WOP-01",
+    0.17
+   ],
+   [
+    "ANS-02",
+    0.17
+   ],
+   [
+    "MEA-02",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "1df1ccf23ca1",
+  "image": "1df1ccf23ca1.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Sebuah pabrik daur ulang plastik mampu mengolah sampah plastik seberat $16\\frac{3}{4}\\text{ Kg}$ setiap menitnya. Jika pabrik tersebut beroperasi secara terus-menerus selama 1 jam, total sampah plastik yang berhasil diolah oleh pabrik tersebut$\\dots\\text{ Kg}$",
+  "question_image": null,
+  "correct_answer": "1005",
+  "past_labels": [
+   [
+    "FRA-05",
+    0.35
+   ],
+   [
+    "NONE",
+    0.2
+   ],
+   [
+    "REL-01",
+    0.12
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "fab6fb8acceb",
+  "image": "fab6fb8acceb.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Diketahui fungsi\r\n\r\n$f(x) = \\dfrac{2^x \\cdot 2^{x+3}}{2^{x-3}}$\r\n\r\nTentukan nilai $f(3) - f(-3)$.",
+  "question_image": null,
+  "correct_answer": "504",
+  "past_labels": [
+   [
+    "NONE",
+    0.25
+   ],
+   [
+    "INT-03",
+    0.19
+   ],
+   [
+    "EXP-05",
+    0.19
+   ],
+   [
+    "SEQ-01",
+    0.13
+   ],
+   [
+    "FUN-01",
+    0.09
+   ],
+   [
+    "OTH-00",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "d7677e7ef092",
+  "image": "d7677e7ef092.jpeg",
+  "grade": 7,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Penampang melintang suatu selokan mempunyai bentuk seperti gambar di bawah. \n\nGambar tersebut menunjukkan bentuk potongan melintang (tampak samping) dari selokan tersebut. \n\nDiketahui lebar bagian atas selokan adalah 2 m, kedalamannya adalah 0,8 m, dan lebar bagian bawahnya adalah 1,6 m. \n\nVolume tanah yang harus dibuang jika panjang selokan 50 m adalah . . . $\\text{m}^3$",
+  "question_image": "q_d7677e7ef092_703c35bb-968d-47f4-b4a8-a584279db7c6.png",
+  "correct_answer": "72",
+  "past_labels": [
+   [
+    "NONE",
+    0.48
+   ],
+   [
+    "MEA-03",
+    0.3
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "MEA-04",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "1d5ae19d9384",
+  "image": "1d5ae19d9384.jpeg",
+  "grade": 8,
+  "topic": "Measures of Dispersion",
+  "question": "Diagram garis menunjukkan jumlah gelas air yang diminum seorang atlet selama 12 hari berturut-turut.\n\nKuartil atas $(Q_3)$ dari data tersebut adalah $\\ldots$",
+  "question_image": "q_1d5ae19d9384_7b959754-8f3d-409f-958b-e447f76c1706.png",
+  "correct_answer": "9",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "VIS-01",
+    0.23
+   ],
+   [
+    "STA-05",
+    0.07
+   ],
+   [
+    "STA-04",
+    0.05
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "922c12dfe615",
+  "image": "922c12dfe615.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Sebuah laboratorium penelitian biologi mengamati pertumbuhan amoeba. Mula-mula terdapat $2^3$ amoeba di dalam wadah pengamatan. Setiap satu jam, setiap amoeba membelah diri menjadi dua. Jumlah total amoeba setelah waktu pengamatan berjalan selama $5\\text{ jam}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$2^8$",
+  "past_labels": [
+   [
+    "SEQ-01",
+    0.35
+   ],
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.04
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "5fae52fe91c4",
+  "image": "5fae52fe91c4.jpeg",
+  "grade": 11,
+  "topic": "Value and Form of a Function",
+  "question": "Diketahui fungsi rasional $f(x) = \\dfrac{2x^2-x-3}{x+1}$ untuk $x \\neq -1$. Jika nilai $f(a) = 5$, maka nilai dari $3a - 2$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "10",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.43
+   ],
+   [
+    "OOO-01",
+    0.17
+   ],
+   [
+    "EXP-03",
+    0.11
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "1d0a9f4a2458",
+  "image": "1d0a9f4a2458.jpeg",
+  "grade": 6,
+  "topic": "Operations on Integers",
+  "question": "Jika $12 \\times (-4) + 75 : 3 = x$\nmaka nilai $x$ adalah . . . .",
+  "question_image": null,
+  "correct_answer": "-23",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.37
+   ],
+   [
+    "INT-04",
+    0.2
+   ],
+   [
+    "INT-02",
+    0.18
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ }
+]

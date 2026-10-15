@@ -1,0 +1,282 @@
+[
+ {
+  "id": "7c4bc7bd9d90",
+  "image": "7c4bc7bd9d90.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Jika $a^b = c$, maka ${^a\\log c} = b$ dan diketahui $2^{x+3} = 64$, tentukan nilai $x$ yang memenuhi persamaan tersebut!",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "ALG-06",
+    0.31
+   ],
+   [
+    "EXP-06",
+    0.31
+   ],
+   [
+    "LOG-02",
+    0.12
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "76b7663b1e98",
+  "image": "76b7663b1e98.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari operasi $\\frac{(a^2 \\times b^3)^4}{a^5 \\times b^7}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$a^3 \\times b^5$",
+  "past_labels": [
+   [
+    "NONE",
+    0.42
+   ],
+   [
+    "EXP-02",
+    0.17
+   ],
+   [
+    "OTH-00",
+    0.16
+   ],
+   [
+    "INT-03",
+    0.04
+   ],
+   [
+    "INT-04",
+    0.03
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "a11c1f7f8e54",
+  "image": "a11c1f7f8e54.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari \r\n$\\sqrt{400} - \\sqrt{144} + \\sqrt{625} \\div \\sqrt{25}$\r\nadalah...",
+  "question_image": null,
+  "correct_answer": "13",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.29
+   ],
+   [
+    "EXP-07",
+    0.26
+   ],
+   [
+    "EXP-04",
+    0.24
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "940798d1dc40",
+  "image": "940798d1dc40.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Bu Rani memiliki gulungan kain sepanjang $15\\text{ meter}$. Ia menggunakan kain tersebut untuk membuat $4\\text{ buah}$ baju seragam, di mana masing-masing baju membutuhkan $1\\dfrac{3}{4}\\text{ meter}$ kain. Sisa kain yang belum terpakai akan dipotong-potong menjadi kain taplak meja kecil yang masing-masing panjangnya $\\dfrac{2}{3}\\text{ meter}$. Banyak taplak meja kecil yang dapat dibuat Bu Rani adalah .... buah",
+  "question_image": null,
+  "correct_answer": "12",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "ANS-01",
+    0.28
+   ],
+   [
+    "FRA-06",
+    0.18
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "FRA-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "0498895388ca",
+  "image": "0498895388ca.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Seorang penjual buah memiliki persediaan 333 buah apel dan 250 buah jeruk di tokonya. Menjelang siang, seorang pembeli datang dan membeli 129 buah apel. Sisa Apel yang belum terjual di toko adalah. . .",
+  "question_image": null,
+  "correct_answer": "204",
+  "past_labels": [
+   [
+    "WOP-02",
+    0.51
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "OPS-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "OPS-02",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "b49397dd274e",
+  "image": "b49397dd274e.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f(x) = \\dfrac{x - 1}{x + 1}$ dan $g(x) = 3x$.\r\nJumlah semua nilai $x$ yang mungkin sehingga $f(g(x)) = g(f(x))$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{4}{3}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "FRA-06",
+    0.19
+   ],
+   [
+    "FUN-01",
+    0.1
+   ],
+   [
+    "INV-01",
+    0.08
+   ],
+   [
+    "EXP-04",
+    0.06
+   ],
+   [
+    "RAT-02",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "3069e105822a",
+  "image": "3069e105822a.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Sebuah perusahaan mencatat hubungan antara biaya iklan ($x$ dalam juta Rupiah) dengan omzet penjualan ($y$ dalam miliar Rupiah) dengan model $\\hat{y} = 0,5x + 2$. \n\nData biaya iklan yang dimiliki berkisar antara 10–50 juta Rupiah. Jika perusahaan memutuskan untuk menaikkan biaya iklan menjadi 60 juta Rupiah, maka  estimasi omzetnya adalah ...miliar rupiah",
+  "question_image": null,
+  "correct_answer": "32",
+  "past_labels": [
+   [
+    "NONE",
+    0.52
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.05
+   ],
+   [
+    "WOP-02",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "49ce7f3c50c5",
+  "image": "49ce7f3c50c5.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Tentukan hasil dari operasi hitung berikut dalam bentuk pecahan campuran\n\n$$ \\dfrac{3}{4} + \\dfrac{1}{2} : \\dfrac{2}{3} = $$",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{1}{2}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "FRA-01",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.12
+   ],
+   [
+    "CAL-01",
+    0.12
+   ],
+   [
+    "FRA-06",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.04
+   ]
+  ]
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": "1b13cd1de60b",
+  "image": "1b13cd1de60b.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Seorang teknisi mencatat suhu sebuah mesin pendingin turun secara tetap 4 °C setiap 5 menit. Suhu awal mesin 18 °C. Mesin akan otomatis berhenti saat suhu mencapai −30 °C atau lebih rendah. \n\nWaktu paling singkat yang diperlukan hingga mesin berhenti otomatis adalah… ",
+  "question_image": null,
+  "correct_answer": "60 menit",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "INT-04",
+    0.27
+   ],
+   [
+    "OOO-01",
+    0.13
+   ],
+   [
+    "INT-02",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "f9f08783caa2",
+  "image": "f9f08783caa2.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Nilai rata-rata produksi baju harian menggunakan Rataan Sementara = 135 adalah …",
+  "question_image": "q_f9f08783caa2_2a6264a9-76bb-4fbd-8e7c-91cde4188ad1.png",
+  "correct_answer": "140,33",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "VIS-01",
+    0.29
+   ],
+   [
+    "STA-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "STA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "d395eb7e548a",
+  "image": "d395eb7e548a.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Leo berlatih futsal setiap 6 hari sekali dan berlatih badminton setiap 8 hari sekali. \n\nJika pada tanggal 2 April Leo melakukan kedua latihan tersebut di hari yang sama, pada tanggal berapa Leo akan melakukan kedua latihan tersebut di hari yang sama lagi?",
+  "question_image": null,
+  "correct_answer": "26 April",
+  "past_labels": [
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.19
+   ],
+   [
+    "CAL-01",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.12
+   ],
+   [
+    "KPF-02",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "0136d0148f07",
+  "image": "0136d0148f07.jpeg",
+  "grade": 6,
+  "topic": "Introduction to Integers",
+  "question": "Perhatikan beberapa operasi bilangan berikut!\n\nOperasi bilangan di atas yang menghasilkan bilangan bulat ditunjukkan oleh nomor...",
+  "question_image": "q_0136d0148f07_ef06cd19-5e36-430b-bb73-e9289ae3cdce.png",
+  "correct_answer": "(iv) saja",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.4
+   ],
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "EXP-07",
+    0.14
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "eb9fe4d1abc3",
+  "image": "eb9fe4d1abc3.jpeg",
+  "grade": 10,
+  "topic": "Exponential Applications (Exponents)",
+  "question": "Suatu zat di laboratorium mengalami peluruhan sedemikian sehingga setiap 20 menit, massa zat yang tersisa menjadi 40% dari massa sebelumnya. Jika massa awal zat adalah 100 gram, berapakah massa zat yang tersisa setelah 1 jam?",
+  "question_image": null,
+  "correct_answer": "6,4 gram",
+  "past_labels": [
+   [
+    "NONE",
+    0.59
+   ],
+   [
+    "Dec-02",
+    0.23
+   ],
+   [
+    "CAL-01",
+    0.07
+   ],
+   [
+    "SEQ-01",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "1ba37c507525",
+  "image": "1ba37c507525.jpeg",
+  "grade": 12,
+  "topic": "Counting Rules",
+  "question": "Sebuah bank membuat kode PIN transaksi ATM yang terdiri dari 6 digit angka, nol tidak termasuk. Manajemen bank menetapkan aturan keamanan bahwa angka pertama dan angka terakhir pada PIN tersebut harus merupakan bilangan genap, dan angka boleh berulang pada posisi mana pun. Banyaknya variasi kode PIN yang dapat dibentuk adalah...",
+  "question_image": null,
+  "correct_answer": "104.976",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.43
+   ],
+   [
+    "OTH-00",
+    0.28
+   ],
+   [
+    "FRM-01",
+    0.18
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "0379f44df0de",
+  "image": "0379f44df0de.jpeg",
+  "grade": 12,
+  "topic": "Permutation",
+  "question": "Seorang nasabah bank ingin membuat kode PIN ATM yang terdiri dari 4 angka berbeda dari digit 1, 2, 3, 4, 5, 6, 7. Jika digit pertama harus berupa angka ganjil, banyaknya PIN yang dapat dibuat adalah ...",
+  "question_image": null,
+  "correct_answer": "480",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.58
+   ],
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "f6e2483a6a06",
+  "image": "f6e2483a6a06.jpeg",
+  "grade": 10,
+  "topic": "Operations on Radicals",
+  "question": "Sebuah taman berbentuk persegi memiliki luas $200x^2\\text{ m}^2$. Untuk memasang pagar di salah satu sisi taman, tukang taman perlu mengetahui panjang sisi taman dalam bentuk akar paling sederhana. Tentukan panjang sisi taman tersebut.",
+  "question_image": null,
+  "correct_answer": "$10x\\sqrt{2}\\text{ m}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.38
+   ],
+   [
+    "OTH-00",
+    0.16
+   ],
+   [
+    "ALG-01",
+    0.15
+   ],
+   [
+    "EXP-07",
+    0.13
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "OOO-01",
+    0.02
+   ]
+  ]
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": "30ccf54eaf95",
+  "image": "30ccf54eaf95.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Dalam suatu ujian dengan 40 soal, jawaban benar diberi skor 4, salah diberi skor -2, dan tidak dijawab diberi skor -1. \r\n\r\nJika Leo menjawab benar 28 soal dan salah 9 soal, total skor yang diperoleh Leo adalah . . .",
+  "question_image": null,
+  "correct_answer": "91",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "WOP-02",
+    0.14
+   ],
+   [
+    "OOO-01",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.08
+   ],
+   [
+    "INT-02",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "5c2ea7edf3e9",
+  "image": "5c2ea7edf3e9.jpeg",
+  "grade": 11,
+  "topic": "Types of Functions",
+  "question": "Dalam sebuah ulangan remedial matematika, seorang guru mengumumkan bahwa nilai yang diberikan akan berkisar dari 60 sampai 100, dengan setiap siswa mendapatkan nilai berupa bilangan bulat. Banyak siswa yang mengikuti ulangan remedial ini adalah 42 orang. Jika f memetakan setiap siswa ke nilai ulangannya, maka sifat fungsi f yang mungkin terjadi (yaitu tidak mustahil terjadi, tergantung bagaimana nilai didistribusikan ke siswa) adalah . . .",
+  "question_image": null,
+  "correct_answer": "Surjektif",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.64
+   ],
+   [
+    "CHK-01",
+    0.16
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "ANS-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "41778b395fa0",
+  "image": "41778b395fa0.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Tante Linda memiliki 40 kue cokelat dan 52 kue keju. Ia berencana membagikan kue-kue tersebut secara merata ke dalam beberapa wadah plastik untuk diberikan kepada tetangganya. Namun, sebelum dimasukkan ke dalam wadah, Leo memakan 4 kue cokelat dan 4 kue keju. Jika sisa kue tersebut ingin dibagi habis ke dalam wadah dengan jumlah dan jenis yang sama banyak tanpa ada kue yang tersisa, Tentukan banyak wadah maksimal yang harus disiapkan Tante Linda!",
+  "question_image": null,
+  "correct_answer": "12",
+  "past_labels": [
+   [
+    "KPF-04",
+    0.29
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "WOP-01",
+    0.14
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "KPF-02",
+    0.08
+   ],
+   [
+    "KPF-01",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "a982bce1bd63",
+  "image": "a982bce1bd63.jpeg",
+  "grade": 7,
+  "topic": "Measures of Dispersion",
+  "question": "Dalam sebuah himpunan data yang terdiri dari 4 bilangan asli, jangkauannya adalah 12. \nJika bilangan terkecil adalah 5 dan median data tersebut adalah 10, berapakah bilangan terbesar dalam data tersebut?",
+  "question_image": null,
+  "correct_answer": "17",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "WOP-02",
+    0.19
+   ],
+   [
+    "STA-05",
+    0.07
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "STA-04",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "c630fcd020b7",
+  "image": "c630fcd020b7.jpeg",
+  "grade": 11,
+  "topic": "Function Operations",
+  "question": "Sebuah kebun berbentuk persegi panjang memiliki fungsi panjang $f(x) = 2x + 10$ (dalam meter). Pemilik kebun tidak mengetahui fungsi lebarnya, namun pihak pengelola kawasan menginformasikan bahwa fungsi keliling untuk seluruh kapling di blok tersebut mengikuti rumus $k(x) = 6x + 30$ (dalam meter), dengan $x$ adalah variabel desain tata ruang. Jika pada hari ini keliling kebun tersebut diukur secara langsung dan menunjukkan angka tepat $90\\text{ meter}$, berapakah luas total hamparan kebun tersebut?",
+  "question_image": null,
+  "correct_answer": "$450\\text{ m}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "FUN-01",
+    0.15
+   ],
+   [
+    "QUA-02",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "810cf3dcd1ac",
+  "image": "810cf3dcd1ac.jpeg",
+  "grade": 9,
+  "topic": "Application of Two-Variable Linear Equation Systems",
+  "question": "Dua keluarga mengunjungi sebuah museum. Keluarga pertama yang terdiri dari 3 dewasa dan 2 anak-anak membayar total tiket sebesar Rp115.000,00. Keluarga kedua yang terdiri dari 2 dewasa dan 5 anak-anak membayar total tiket sebesar Rp150.000,00. Berapakah total biaya tiket yang harus dibayar oleh sebuah rombongan yang terdiri dari 1 dewasa dan 1 anak-anak?",
+  "question_image": null,
+  "correct_answer": "Rp45.000,00",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "ANS-01",
+    0.4
+   ],
+   [
+    "Dec-02",
+    0.07
+   ],
+   [
+    "WOP-02",
+    0.04
+   ],
+   [
+    "SIM-01",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "27bd6461c730",
+  "image": "27bd6461c730.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f(x) = \\dfrac{x - 1}{x + 1}$ dan $g(x) = 3x$.\nJumlah semua nilai $x$ yang mungkin sehingga $f(g(x)) = g(f(x))$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{4}{3}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "FRA-06",
+    0.19
+   ],
+   [
+    "FUN-01",
+    0.1
+   ],
+   [
+    "INV-01",
+    0.08
+   ],
+   [
+    "EXP-04",
+    0.06
+   ],
+   [
+    "RAT-02",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "491db13c827a",
+  "image": "491db13c827a.jpeg",
+  "grade": 12,
+  "topic": "Introduction to Geometric Transformation",
+  "question": "Persamaan bayangan dari garis 2x - y + 4 = 0 oleh dilatasi dengan pusat P(1, 2) dan faktor skala 2 adalah...",
+  "question_image": null,
+  "correct_answer": "2x - y + 8 =0",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.29
+   ],
+   [
+    "OTH-00",
+    0.17
+   ],
+   [
+    "INT-04",
+    0.17
+   ],
+   [
+    "ALG-04",
+    0.17
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "COR-01",
+    0.04
+   ]
+  ]
+ }
+]

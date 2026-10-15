@@ -1,0 +1,282 @@
+[
+ {
+  "id": "27b3308bc5fb",
+  "image": "27b3308bc5fb.jpeg",
+  "grade": 11,
+  "topic": "Value and Form of a Function",
+  "question": "Diketahui fungsi:\n$f(x) \\begin{cases} 3x + 1 & \\text{untuk } x < 2 \\\\ x^2 - 1 & \\text{untuk } x \\geqslant 2 \\end{cases}$\nNilai dari $f(-3) + f(4)$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "7",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.25
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.15
+   ],
+   [
+    "INT-04",
+    0.15
+   ],
+   [
+    "EXP-03",
+    0.1
+   ],
+   [
+    "NONE",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "d02a583af169",
+  "image": "d02a583af169.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Toko Maju Jaya menerima kiriman beras setiap 12 hari sekali dan kiriman minyak goreng setiap 18 hari sekali. Pada hari Selasa, toko tersebut menerima kiriman beras dan minyak goreng secara bersamaan untuk pertama kalinya. Pada hari apakah toko tersebut akan menerima kiriman beras dan minyak goreng bersamaan untuk kedua kalinya?",
+  "question_image": null,
+  "correct_answer": "Rabu",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.26
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.19
+   ],
+   [
+    "KPF-01",
+    0.17
+   ],
+   [
+    "KPF-02",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "55ac41789ca6",
+  "image": "55ac41789ca6.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Toko alat tulis CoLearnShop menjual 2 buku dan 1 pensil seharga Rp19.000. Jika harga sebuah pensil Rp3.000, maka harga sebuah buku adalah ....",
+  "question_image": null,
+  "correct_answer": "Rp8.000",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.37
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ALG-04",
+    0.08
+   ],
+   [
+    "ALG-05",
+    0.07
+   ],
+   [
+    "NONE",
+    0.06
+   ],
+   [
+    "INT-04",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "dd0c0b3c0f32",
+  "image": "dd0c0b3c0f32.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Jika jarak bilangan m ke titik 0 adalah 6 satuan, dan jarak bilangan n ke titik 0 adalah 4 satuan, maka nilai dari m-n adalah…",
+  "question_image": "q_dd0c0b3c0f32_db9c6ab6-0a37-4979-98a5-16c61d5a7285.png",
+  "correct_answer": "-10",
+  "past_labels": [
+   [
+    "NONE",
+    0.48
+   ],
+   [
+    "INT-04",
+    0.18
+   ],
+   [
+    "VIS-01",
+    0.12
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "b25dfcb066c5",
+  "image": "b25dfcb066c5.jpeg",
+  "grade": 11,
+  "topic": "Value and Form of a Function",
+  "question": "Diketahui fungsi f(x) memenuhi kondisi f(x+2) = 3 f(x) - 1 untuk setiap x bilangan real. Jika diketahui nilai f(1) = 2, maka nilai dari f(5) adalah . . . .",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "FUN-01",
+    0.29
+   ],
+   [
+    "EXP-03",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "abfeda95a9e7",
+  "image": "abfeda95a9e7.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Titik $B(-2, 3)$ dirotasikan sebesar $180^\\circ$ dengan pusat $O(0, 0)$, kemudian dilanjutkan dengan dilatasi yang berpusat di $O(0, 0)$ dengan faktor skala $k = -2$. Jika bayangan akhir yang terbentuk adalah $B''(p, q)$, maka nilai dari $2p - q$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "-14",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.33
+   ],
+   [
+    "CAL-01",
+    0.25
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "OTH-00",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.05
+   ],
+   [
+    "OOO-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "b511702f5818",
+  "image": "b511702f5818.jpeg",
+  "grade": 7,
+  "topic": "Measures of Dispersion",
+  "question": "Data pengamatan menunjukkan nilai yang telah diurutkan: \n5, 7, 10, 12, 15, 18, 21, 25, $n$\n\nJika diketahui nilai $n$ adalah dua kali median, \ntentukan nilai jangkauan data tersebut!",
+  "question_image": null,
+  "correct_answer": "25",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "STA-05",
+    0.29
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "STA-04",
+    0.06
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "a089f7341a5c",
+  "image": "a089f7341a5c.jpeg",
+  "grade": 7,
+  "topic": "Measures of Dispersion",
+  "question": "Seorang pedagang mencatat berat semangka yang terjual dalam satu hari. \nData tersebut disajikan dalam tabel frekuensi di samping:\n\nBerapakah jangkauan dari berat semangka yang terjual tersebut?",
+  "question_image": "q_a089f7341a5c_81aee03f-87cd-4278-8b13-b7ecbf2d7cab.png",
+  "correct_answer": "3,4 kg",
+  "past_labels": [
+   [
+    "NONE",
+    0.6
+   ],
+   [
+    "STA-05",
+    0.07
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "STA-04",
+    0.05
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ }
+]

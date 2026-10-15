@@ -1,0 +1,282 @@
+[
+ {
+  "id": "e9195149ae35",
+  "image": "e9195149ae35.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Jika $f(x) = \\dfrac{1}{x - 4}$ dan $f^{-1}$ invers dari $f$, maka $f^{-1}(x) = 2$ untuk nilai $x$ sama dengan$\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{1}{2}$",
+  "past_labels": [
+   [
+    "INV-01",
+    0.52
+   ],
+   [
+    "ALG-06",
+    0.18
+   ],
+   [
+    "FUN-01",
+    0.12
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "ALG-04",
+    0.04
+   ],
+   [
+    "NONE",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "b7f656328750",
+  "image": "b7f656328750.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah perpustakaan sekolah memiliki total 45.000 koleksi buku fiksi dan non-fiksi. Di antara koleksi tersebut, sebanyak 24.500 buku adalah buku fiksi. Hari ini, perpustakaan menerima kiriman buku fiksi sebanyak 3.200 buku. \n\nSelisih banyaknya buku fiksi dan non-fiksi di perpustakaan sekarang adalah… \n",
+  "question_image": null,
+  "correct_answer": "7.200 buku",
+  "past_labels": [
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "ANS-02",
+    0.21
+   ],
+   [
+    "WOP-01",
+    0.19
+   ],
+   [
+    "OPS-01",
+    0.17
+   ],
+   [
+    "PV-01",
+    0.1
+   ],
+   [
+    "OPS-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "41c00c6d2102",
+  "image": "41c00c6d2102.jpeg",
+  "grade": 11,
+  "topic": "Correlation",
+  "question": "Data mengenai usia mobil (tahun) dan harga jualnya (puluh juta rupiah) menunjukkan tren tertentu. Berikut data yang tercatat:\n\n* Usia (x): 1, 2, 3, 4\n* Harga (y): 12, 10, 8, 6\nNilai koefisien korelasi (r) untuk hubungan x dan y adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "-1",
+  "past_labels": [
+   [
+    "STA-01",
+    0.47
+   ],
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "WOP-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ],
+   [
+    "CAL-01",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "02b4dfe4805e",
+  "image": "02b4dfe4805e.jpeg",
+  "grade": 7,
+  "topic": "Applications of Linear Equations in One Variable",
+  "question": "Sebuah persegi panjang memiliki panjang (2x + 5) cm dan lebar (x + 2) cm. \nJika keliling persegi panjang tersebut adalah 44 cm, berapakah lebar dari persegi panjang tersebut? ",
+  "question_image": null,
+  "correct_answer": "7",
+  "past_labels": [
+   [
+    "NONE",
+    0.59
+   ],
+   [
+    "WOP-01",
+    0.13
+   ],
+   [
+    "CAL-01",
+    0.06
+   ],
+   [
+    "ANS-02",
+    0.06
+   ],
+   [
+    "OOO-02",
+    0.06
+   ],
+   [
+    "ALG-03",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "6ce4ed10f945",
+  "image": "6ce4ed10f945.jpeg",
+  "grade": 11,
+  "topic": "Value and Form of a Function",
+  "question": "Diketahui fungsi rasional $f(x) = \\dfrac{2x^2-x-3}{x+1}$ untuk $x \\neq -1$. Jika nilai $f(a) = 5$, maka nilai dari $3a - 2$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "10",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.43
+   ],
+   [
+    "OOO-01",
+    0.17
+   ],
+   [
+    "EXP-03",
+    0.11
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "106ac213244e",
+  "image": "106ac213244e.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Roni memiliki uang sebesar $\\text{Rp}150.000{,}00$. Sebesar $\\dfrac{1}{3}$ bagian ditabung, lalu $0{,}4$ dari sisa uangnya digunakan untuk membeli buku. Sisa uang terakhir dibagikan kepada 2 adiknya sama banyak. Besar uang yang diterima oleh masing-masing adik Roni adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "Rp30.000,00",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.37
+   ],
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "OTH-00",
+    0.09
+   ],
+   [
+    "ANS-02",
+    0.09
+   ],
+   [
+    "FRA-06",
+    0.04
+   ],
+   [
+    "FRA-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "eea429683423",
+  "image": "eea429683423.jpeg",
+  "grade": 7,
+  "topic": "Applications of Linear Equations in One Variable",
+  "question": "Dua kali suatu bilangan jika dikurangi 7 hasilnya sama dengan bilangan itu sendiri ditambah 5. \nBilangan yang dimaksud adalah...",
+  "question_image": null,
+  "correct_answer": "12",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "WOP-01",
+    0.27
+   ],
+   [
+    "ALG-03",
+    0.22
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "ANS-02",
+    0.05
+   ],
+   [
+    "OOO-02",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "59bcea4febf6",
+  "image": "59bcea4febf6.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Ahmad, Budi, dan Cici menyusun kartu nilai tempat sehingga membentuk bilangan sebagai berikut: \n- Ahmad: 4 puluhan ribu, 5 ratusan, 2 ribuan, 8 satuan \n- Budi: 4 puluhan ribu, 2 ribuan, 5 puluhan, 8 satuan \n- Cici: 4 puluhan ribu, 5 ribuan, 2 ratusan, 8 puluhan \nUrutan bilangan dari yang terkecil sampai terbesar adalah milik… \n",
+  "question_image": null,
+  "correct_answer": "Budi, Ahmad, Cici",
+  "past_labels": [
+   [
+    "PV-01",
+    0.4
+   ],
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "OPS-01",
+    0.11
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "OPS-02",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ }
+]

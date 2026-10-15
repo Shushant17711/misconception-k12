@@ -1,0 +1,282 @@
+[
+ {
+  "id": "e11988c7da33",
+  "image": "e11988c7da33.jpeg",
+  "grade": 11,
+  "topic": "Function Operations",
+  "question": "Diketahui $f(x) = x + 2$ dan $g(x) = x^2 - 4$. Tentukan bentuk paling sederhana dari $\\left(\\dfrac{g}{f}\\right)(x)$.",
+  "question_image": null,
+  "correct_answer": "$x - 2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.66
+   ],
+   [
+    "QUA-02",
+    0.2
+   ],
+   [
+    "FUN-01",
+    0.08
+   ],
+   [
+    "OOO-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "8b3018a1aa80",
+  "image": "8b3018a1aa80.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah gudang memiliki persediaan 85.000 kotak susu. Gudang tersebut menyalurkan bantuan susu ke Kecamatan A sebanyak 27.500 dan ke Kecamatan B sebanyak 34.850 kotak. Sisa susu yang ada di gudang tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "22.650 kotak",
+  "past_labels": [
+   [
+    "OPS-01",
+    0.67
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "PV-01",
+    0.06
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "OPS-02",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "f3586f13d6c0",
+  "image": "f3586f13d6c0.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Sebuah kapal penelitian samudra mengukur suhu air laut di sekitar gunung api bawah laut. Pada kedalaman 50 meter di bawah permukaan laut, suhu air dicatat sebesar 18°C. Setiap kapal menyelam turun sebesar 40 meter, suhu air laut mengalami penurunan sebesar 3°C. Namun, ketika kapal mendekati area rekahan magma pada kedalaman 250 meter di bawah permukaan laut, suhu air melonjak naik sebesar 11°C akibat panas bumi. Maka suhu air laut yang diukur oleh kapal penelitian pada kedalaman 250 meter tersebut adalah… °C",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "WOP-01",
+    0.19
+   ],
+   [
+    "OOO-01",
+    0.13
+   ],
+   [
+    "INT-04",
+    0.11
+   ],
+   [
+    "INT-02",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "b20acb2d4797",
+  "image": "b20acb2d4797.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Perhatikan grafik regresi yang menunjukkan hubungan antara Lama Pemakaian Laptop dan Sisa Baterai di samping!\n\nGaris best-fit pada diagram tersebut memotong sumbu Y di angka 100 dan melewati titik koordinat (4, 60). \n\nPersamaan garis regresi yang paling tepat untuk memodelkan data tersebut adalah ....",
+  "question_image": "q_b20acb2d4797_59ec0d6f-7dbd-4716-8818-6481abe3ca98.png",
+  "correct_answer": "$\\hat{y} = -10x + 100$",
+  "past_labels": [
+   [
+    "NONE",
+    0.68
+   ],
+   [
+    "WOP-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "INT-04",
+    0.03
+   ],
+   [
+    "WOP-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "64e3944b24d5",
+  "image": "64e3944b24d5.jpeg",
+  "grade": 9,
+  "topic": "Application of Two-Variable Linear Equation Systems",
+  "question": "Keliling sebuah kebun berbentuk persegi panjang adalah $56\\text{ m}$. Panjang kebun tersebut $4\\text{ m}$ lebihnya dari lebarnya. Luas kebun persegi panjang tersebut adalah$\\dots\\text{ m}^2$",
+  "question_image": null,
+  "correct_answer": "192",
+  "past_labels": [
+   [
+    "NONE",
+    0.77
+   ],
+   [
+    "ANS-01",
+    0.07
+   ],
+   [
+    "Dec-02",
+    0.07
+   ],
+   [
+    "WOP-02",
+    0.04
+   ],
+   [
+    "SIM-01",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "f213b147c253",
+  "image": "f213b147c253.jpeg",
+  "grade": 12,
+  "topic": "Permutation",
+  "question": "Suatu kelompok belajar terdiri dari 6 siswa (3 laki-laki dan 3 perempuan) akan melakukan presentasi bergantian. Guru menetapkan aturan bahwa siswa laki-laki dan perempuan harus tampil berselang-seling (L-P-L-P-L-P atau P-L-P-L-P-L). Banyak susunan urutan presentasi yang dapat dibentuk adalah ...",
+  "question_image": null,
+  "correct_answer": "72",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.45
+   ],
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "21e62ec7492f",
+  "image": "21e62ec7492f.jpeg",
+  "grade": 5,
+  "topic": "Solving daily life problems related to LCM and GCD",
+  "question": "Leo berlatih futsal setiap 6 hari sekali dan berlatih badminton setiap 8 hari sekali. \n\nJika pada tanggal 2 April Leo melakukan kedua latihan tersebut di hari yang sama, pada tanggal berapa Leo akan melakukan kedua latihan tersebut di hari yang sama lagi?",
+  "question_image": null,
+  "correct_answer": "26 April",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.26
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "CAL-01",
+    0.16
+   ],
+   [
+    "OTH-00",
+    0.11
+   ],
+   [
+    "FRM-01",
+    0.11
+   ],
+   [
+    "KPF-01",
+    0.1
+   ]
+  ]
+ },
+ {
+  "id": "e69dcf6dd435",
+  "image": "e69dcf6dd435.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Diketahui $f(x) = \\dfrac{2x + 1}{3x + 4}, x \\neq -\\dfrac{4}{3}$, jika $f^{-1}$ adalah invers dari $f$, maka $f^{-1}(3) = \\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{11}{7}$",
+  "past_labels": [
+   [
+    "INV-01",
+    0.29
+   ],
+   [
+    "ALG-06",
+    0.25
+   ],
+   [
+    "ALG-04",
+    0.22
+   ],
+   [
+    "CAL-01",
+    0.11
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "NONE",
+    0.02
+   ]
+  ]
+ }
+]

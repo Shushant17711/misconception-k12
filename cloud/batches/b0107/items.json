@@ -1,0 +1,282 @@
+[
+ {
+  "id": "646b511fa4f4",
+  "image": "646b511fa4f4.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Perubahan suhu $(^\\circ\\text{C})$ di suatu kota selama beberapa hari dicatat pada tabel berikut.\n\nRagam data tersebut adalah $\\ldots$",
+  "question_image": "q_646b511fa4f4_dcf1cfc8-1786-4170-a828-bb3d5669b2e8.png",
+  "correct_answer": "3,2",
+  "past_labels": [
+   [
+    "STA-04",
+    0.38
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "STA-05",
+    0.07
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "746c86b4b3f4",
+  "image": "746c86b4b3f4.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Sebuah jajar genjang memiliki panjang alas sebesar $2\\sqrt{5} - \\sqrt{2}$ dan tinggi sebesar $t\\text{ cm}$. Jika luas daerah jajar genjang tersebut adalah $9\\text{ cm}$, hitunglah tinggi $t$ dari jajar genjang tersebut dalam bentuk penyebut rasional yang paling sederhana!",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{2\\sqrt{5} + \\sqrt{2}}{2}$",
+  "past_labels": [
+   [
+    "FRA-04",
+    0.29
+   ],
+   [
+    "NONE",
+    0.25
+   ],
+   [
+    "EXP-07",
+    0.21
+   ],
+   [
+    "EXP-04",
+    0.06
+   ],
+   [
+    "ALG-04",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "f3aaf7dc99de",
+  "image": "f3aaf7dc99de.jpeg",
+  "grade": 10,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{6}{\\sqrt{5} - \\sqrt{2}}$ dapat dinyatakan sebagai $a\\left(\\sqrt{b} + \\sqrt{c}\\right)$, dengan $a$, $b$, dan $c$ bilangan bulat.\r\n\r\nJika $b > c$, maka nilai $\\dfrac{b}{\\sqrt{c}}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{5\\sqrt{2}}{2}$",
+  "past_labels": [
+   [
+    "ALG-04",
+    0.2
+   ],
+   [
+    "OTH-00",
+    0.17
+   ],
+   [
+    "ANS-01",
+    0.16
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "EXP-07",
+    0.1
+   ],
+   [
+    "EXP-04",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "03dcf439f821",
+  "image": "03dcf439f821.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Jika jarak bilangan m ke titik 0 adalah 6 satuan, dan jarak bilangan n ke titik 0 adalah 4 satuan, maka nilai dari m-n adalah…",
+  "question_image": "q_03dcf439f821_db9c6ab6-0a37-4979-98a5-16c61d5a7285.png",
+  "correct_answer": "-10",
+  "past_labels": [
+   [
+    "NONE",
+    0.48
+   ],
+   [
+    "INT-04",
+    0.18
+   ],
+   [
+    "VIS-01",
+    0.12
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "96322466ee0d",
+  "image": "96322466ee0d.jpeg",
+  "grade": 6,
+  "topic": "Integer Value",
+  "question": "Empat buah kapal selam berada pada posisi kedalaman berikut.\n- Kapal W berada di 220m di bawah permukaan laut, lalu naik sejauh 70m.\n- Kapal X berada di 55m di bawah permukaan laut lalu turun lagi 25m.\n- Kapal Y berada di -210m dan tetap di posisi tersebut.\n- Kapal Z berada di 300m di bawah permukaan laut lalu naik 175m.\nKapal selam yang berada paling dekat dengan permukaan laut adalah . . . .",
+  "question_image": null,
+  "correct_answer": "Kapal X",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "INT-04",
+    0.32
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "f07cc00b7fab",
+  "image": "f07cc00b7fab.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari hasil operasi hitung 25 - (-17) + (-34) - 12 adalah...",
+  "question_image": null,
+  "correct_answer": "-4",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "INT-03",
+    0.23
+   ],
+   [
+    "CAL-01",
+    0.13
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-04",
+    0.07
+   ],
+   [
+    "INT-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "2b66d36e0411",
+  "image": "2b66d36e0411.jpeg",
+  "grade": 7,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Luas permukaan limas dengan alas persegi panjang di samping adalah …. $\\text{cm}^2$",
+  "question_image": "q_2b66d36e0411_2f6df60c-e40c-4664-90b2-c9400d6675ae.png",
+  "correct_answer": "564",
+  "past_labels": [
+   [
+    "NONE",
+    0.53
+   ],
+   [
+    "MEA-04",
+    0.27
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "b945f6de883c",
+  "image": "b945f6de883c.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor Persekutuan Terbesar dari bilangan 54 dan 90 adalah…",
+  "question_image": null,
+  "correct_answer": "18",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.41
+   ],
+   [
+    "KPF-04",
+    0.21
+   ],
+   [
+    "KPF-01",
+    0.17
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "KPF-03",
+    0.05
+   ],
+   [
+    "REL-01",
+    0.02
+   ]
+  ]
+ }
+]

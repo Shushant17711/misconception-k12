@@ -1,0 +1,282 @@
+[
+ {
+  "id": "fe0ea08a2d39",
+  "image": "fe0ea08a2d39.jpeg",
+  "grade": 10,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk $\\dfrac{2\\sqrt{5} + \\sqrt{2}}{\\sqrt{2} - \\sqrt{5}}$ dapat disederhanakan menjadi $\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\sqrt{10} - 4$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.18
+   ],
+   [
+    "ALG-04",
+    0.17
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "INT-04",
+    0.14
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "EXP-07",
+    0.08
+   ]
+  ]
+ },
+ {
+  "id": "eac822ae25fc",
+  "image": "eac822ae25fc.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Sebuah segitiga siku-siku memiliki panjang sisi siku-siku $\\sqrt{18}\\text{ cm}$ dan $\\sqrt{32}\\text{ cm}$. Jika diketahui sisi miringnya $\\sqrt{50}\\text{ cm}$, maka keliling segitiga tersebut adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$12\\sqrt{2}\\text{ cm}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.52
+   ],
+   [
+    "EXP-07",
+    0.26
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "dd61734022d1",
+  "image": "dd61734022d1.jpeg",
+  "grade": 8,
+  "topic": "Exponents",
+  "question": "Pak Andi membeli sebuah sepeda motor baru pada tahun 2024 (tahun ke-0) seharga Rp 24.000.000. \nSetiap tahun, harga jual kembali sepeda motor tersebut menyusut menjadi $\\dfrac{3}{4}$​ dari harga tahun sebelumnya. \n\nPerbandingan harga sepeda motor pada tahun ke-0 terhadap harga pada tahun ke-2 adalah …",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{16}{9}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "OTH-00",
+    0.19
+   ],
+   [
+    "EXP-01",
+    0.12
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "328fea9eb9ce",
+  "image": "328fea9eb9ce.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Diketahui tiga bilangan bulat berbeda p, q, r, memenuhi operasi hitung campuran berikut: \r\n\r\np x (q + r) = -24 \r\n\r\nJika p = 6 dan q = -9, maka nilai dari p - q x r adalah…",
+  "question_image": null,
+  "correct_answer": "51",
+  "past_labels": [
+   [
+    "INT-04",
+    0.27
+   ],
+   [
+    "NONE",
+    0.22
+   ],
+   [
+    "ALG-06",
+    0.17
+   ],
+   [
+    "OOO-01",
+    0.13
+   ],
+   [
+    "INT-02",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "a8b80f5e5db1",
+  "image": "a8b80f5e5db1.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Diketahui fungsi eksponen $f(x) = 3^{2x+1} - 5$.\nJika nilai fungsi di titik $x = a$ adalah $22$, maka nilai dari $f(a^2 - 2a)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{14}{3}$",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.27
+   ],
+   [
+    "EXP-02",
+    0.22
+   ],
+   [
+    "SEQ-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "dc087c792155",
+  "image": "dc087c792155.jpeg",
+  "grade": 7,
+  "topic": "Applications of Linear Equations in One Variable",
+  "question": "Sebuah persegi panjang memiliki panjang (2x + 5) cm dan lebar (x + 2) cm. \nJika keliling persegi panjang tersebut adalah 44 cm, berapakah lebar dari persegi panjang tersebut? ",
+  "question_image": null,
+  "correct_answer": "7",
+  "past_labels": [
+   [
+    "NONE",
+    0.59
+   ],
+   [
+    "WOP-01",
+    0.13
+   ],
+   [
+    "CAL-01",
+    0.06
+   ],
+   [
+    "ANS-02",
+    0.06
+   ],
+   [
+    "OOO-02",
+    0.06
+   ],
+   [
+    "ALG-03",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "902d3e771c75",
+  "image": "902d3e771c75.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Nilai dari operasi bilangan berpangkat $\\dfrac{2^5 \\times 3^4 \\times 2^2}{2^4 \\times 3^2}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "72",
+  "past_labels": [
+   [
+    "EXP-02",
+    0.26
+   ],
+   [
+    "EXP-01",
+    0.19
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.07
+   ],
+   [
+    "INT-03",
+    0.06
+   ],
+   [
+    "INT-04",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "e08da3ec1f38",
+  "image": "e08da3ec1f38.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Doni membawa motornya ke bengkel untuk mengganti oli. Kapasitas tangki oli motor tersebut adalah $0,7\\text{ L}$. Mesin pengisian oli otomatis di bengkel itu hanya memiliki tombol-tombol berikut:\n\n$\\text{Tombol A: }\\dfrac{13}{20}\\text{ L}$ \n\n$\\text{Tombol B: }\\dfrac{4}{5}\\text{ L}$\n\n$\\text{Tombol C: }\\dfrac{3}{5}\\text{ L}$\n\n$\\text{Tombol D: }\\dfrac{3}{4}\\text{ L}$\n\nUntuk menghindari tangki meluap, teknisi harus memilih tombol dengan volume terbesar yang tidak melebihi $0,7\\text{ L}$. Tombol yang dipilih teknisi adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "Tombol A",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.34
+   ],
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "OTH-00",
+    0.12
+   ],
+   [
+    "CHK-01",
+    0.1
+   ],
+   [
+    "Dec-02",
+    0.04
+   ],
+   [
+    "FRA-05",
+    0.04
+   ]
+  ]
+ }
+]

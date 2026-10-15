@@ -1,0 +1,282 @@
+[
+ {
+  "id": "a0553c0d6f14",
+  "image": "a0553c0d6f14.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Di sebuah turnamen futsal setiap tim bermain sebanyak 10 kali. Aturan penilaian yang digunakan adalah: \r\n* Menang mendapat skor 4 \r\n* Kalah mendapat skor -2 \r\n* Seri mendapat skor -1\r\nTim Garuda berhasil memenangkan 6 pertandingan. Jika Tim Garuda tidak pernah mendapat hasil seri, maka total skor yang diperoleh Tim Garuda adalah… ",
+  "question_image": null,
+  "correct_answer": "16",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "INT-04",
+    0.21
+   ],
+   [
+    "OOO-01",
+    0.1
+   ],
+   [
+    "INT-02",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "58dda05ba284",
+  "image": "58dda05ba284.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Dua buah jam di kamar Caca diatur untuk berdering secara berkala. Jam A berdering setiap 45 menit sekali, sedangkan jam B berdering setiap 60 menit sekali. Jika kedua jam beker tersebut berdering bersama-sama untuk pertama kalinya pada pukul 09.15. Kedua jam beker tersebut akan berdering bersama-sama untuk kedua kalinya pada pukul ….",
+  "question_image": null,
+  "correct_answer": "12.15",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "KPF-01",
+    0.22
+   ],
+   [
+    "ANS-01",
+    0.11
+   ],
+   [
+    "KPF-02",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "MEA-02",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "e2847c20c8e0",
+  "image": "e2847c20c8e0.jpeg",
+  "grade": 6,
+  "topic": "Operations on Integers",
+  "question": "Jika $12 \\times (-4) + 75 : 3 = x$\nmaka nilai $x$ adalah . . . .",
+  "question_image": null,
+  "correct_answer": "-23",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.37
+   ],
+   [
+    "INT-04",
+    0.2
+   ],
+   [
+    "INT-02",
+    0.18
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "5c29acdc92b0",
+  "image": "5c29acdc92b0.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari $2\\sqrt{6} \\times \\sqrt{8} - \\sqrt{75}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$3\\sqrt{3}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.53
+   ],
+   [
+    "EXP-07",
+    0.27
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "38a15497e385",
+  "image": "38a15497e385.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Kereta menuju Jakarta akan berangkat setiap 10 menit sekali, sedangkan kereta menuju Bekasi berangkat setiap 15 menit sekali. Jika kedua kereta tersebut berangkat bersama-sama untuk pertama kalinya pada pukul 19.00 dari stasiun. Kapan kereta berangkat bersama lagi untuk ketiga kalinya?",
+  "question_image": null,
+  "correct_answer": "20.00",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "KPF-02",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.1
+   ],
+   [
+    "KPF-01",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "FRM-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "7a97c92cf1be",
+  "image": "7a97c92cf1be.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Seorang peneliti menggambar diagram pencar untuk melihat hubungan antara Suhu (X) dan Penjualan Es Krim (Y). \n\nIa menarik garis best-fit yang melewati dua titik di grid, yaitu (3, 25) dan (5, 40).\n\nBerdasarkan informasi tersebut, nilai gradien (m) dari persamaan garis regresinya adalah ....",
+  "question_image": "q_7a97c92cf1be_96c45bcc-7965-4920-bd14-79a7af1b0102.png",
+  "correct_answer": "7,5",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "LIN-01",
+    0.24
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "INT-04",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "d9c8f7427d79",
+  "image": "d9c8f7427d79.jpeg",
+  "grade": 6,
+  "topic": "Introduction to Integers",
+  "question": "Perhatikan angka-angka berikut: \n Manakah yang merupakan bilangan bulat?",
+  "question_image": "q_d9c8f7427d79_b72f5833-8aaf-4cb8-8541-17a4b03f5d69.png",
+  "correct_answer": "nan",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.5
+   ],
+   [
+    "EXP-07",
+    0.28
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "2d52e71194ef",
+  "image": "2d52e71194ef.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Nara membeli pita merah sepanjang 18 meter, pita biru sepanjang 24 meter, dan pita kuning sepanjang 30 meter. Nara ingin mengetahui panjang paling kecil yang merupakan kelipatan ketiga panjang pita tersebut…",
+  "question_image": null,
+  "correct_answer": "360",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.14
+   ],
+   [
+    "KPF-01",
+    0.14
+   ],
+   [
+    "KPF-03",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.06
+   ]
+  ]
+ }
+]

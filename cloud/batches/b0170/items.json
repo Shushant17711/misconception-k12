@@ -1,0 +1,282 @@
+[
+ {
+  "id": "1e9583e085ed",
+  "image": "1e9583e085ed.jpeg",
+  "grade": 8,
+  "topic": "Probability of an Event",
+  "question": "Dua buah dadu bermata enam dilambungkan bersama-sama sebanyak satu kali. \nPeluang munculnya mata dadu dengan jumlah tepat 10 adalah …",
+  "question_image": null,
+  "correct_answer": "$0,083$",
+  "past_labels": [
+   [
+    "NONE",
+    0.45
+   ],
+   [
+    "ANS-01",
+    0.21
+   ],
+   [
+    "PRO-04",
+    0.16
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "8270f33a0777",
+  "image": "8270f33a0777.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "$2,45 - 1\\dfrac{1}{4}$\nHasil dari operasi hitung di atas dalam bentuk pecahan biasa yang paling sederhana adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{6}{5}$",
+  "past_labels": [
+   [
+    "Dec-02",
+    0.23
+   ],
+   [
+    "INT-04",
+    0.18
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.13
+   ],
+   [
+    "FRA-05",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "4b26fbf46910",
+  "image": "4b26fbf46910.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "$f : x \\to x + 2$ dan $h : x \\to x^2 - 2$.\nJika $(f \\circ g \\circ h)(x) = 2x^2 + 4$, maka $g(x) = \\dots$",
+  "question_image": null,
+  "correct_answer": "$2x + 6$",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.24
+   ],
+   [
+    "INV-01",
+    0.23
+   ],
+   [
+    "ALG-04",
+    0.2
+   ],
+   [
+    "FRM-01",
+    0.1
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "EXP-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "06506f9bcc54",
+  "image": "06506f9bcc54.jpeg",
+  "grade": 6,
+  "topic": "Operations on Integers",
+  "question": "Akibat musim kemarau panjang, volume air di sebuah waduk menyusut sebesar 4 cm setiap harinya. Penyusutan ini terjadi secara konstan selama 3 minggu. \n\nPemerintah daerah kemudian menyalakan pompa air darurat untuk mengisi waduk, sehingga air naik 5 cm setiap jamnya selama 12 jam. \n\nBerapakah perubahan total ketinggian air waduk tersebut secara keseluruhan? (gunakan bilangan negatif(-) untuk penyusutan)\n",
+  "question_image": null,
+  "correct_answer": "-24",
+  "past_labels": [
+   [
+    "INT-04",
+    0.41
+   ],
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "MEA-02",
+    0.12
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "49aa680fa20f",
+  "image": "49aa680fa20f.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Ibu memiliki persediaan gula pasir di dapur sebanyak $3\\dfrac{1}{3}\\text{ kg}$. Ibu menggunakan $\\dfrac{3}{5}$ bagian dari seluruh gula pasir tersebut untuk membuat adonan kue bolu.\n\nBanyaknya gula pasir yang digunakan Ibu untuk membuat kue bolu adalah...",
+  "question_image": null,
+  "correct_answer": "$2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "FRA-06",
+    0.27
+   ],
+   [
+    "WOP-01",
+    0.16
+   ],
+   [
+    "FRA-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "3a6e374fb6bd",
+  "image": "3a6e374fb6bd.jpeg",
+  "grade": 6,
+  "topic": "Conversion of Rational Numbers",
+  "question": "Bentuk desimal dari bilangan rasional berikut adalah . . .\n",
+  "question_image": "q_3a6e374fb6bd_6aa7f650-2cbd-4531-a220-1e3d8f54e458.png",
+  "correct_answer": "$0,34375$",
+  "past_labels": [
+   [
+    "NONE",
+    0.58
+   ],
+   [
+    "OPS-02",
+    0.26
+   ],
+   [
+    "Dec-02",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "efa9246cd411",
+  "image": "efa9246cd411.jpeg",
+  "grade": 11,
+  "topic": "Function Operations",
+  "question": "Sebuah kebun berbentuk persegi panjang memiliki fungsi panjang $f(x) = 2x + 10$ (dalam meter). Pemilik kebun tidak mengetahui fungsi lebarnya, namun pihak pengelola kawasan menginformasikan bahwa fungsi keliling untuk seluruh kapling di blok tersebut mengikuti rumus $k(x) = 6x + 30$ (dalam meter), dengan $x$ adalah variabel desain tata ruang. Jika pada hari ini keliling kebun tersebut diukur secara langsung dan menunjukkan angka tepat $90\\text{ meter}$, berapakah luas total hamparan kebun tersebut?",
+  "question_image": null,
+  "correct_answer": "$450\\text{ m}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "FUN-01",
+    0.15
+   ],
+   [
+    "QUA-02",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "1f55d48c9274",
+  "image": "1f55d48c9274.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari (−6) × 8 : (−4) × (−3) adalah…",
+  "question_image": null,
+  "correct_answer": "-36",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.59
+   ],
+   [
+    "NONE",
+    0.16
+   ],
+   [
+    "INT-02",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ }
+]

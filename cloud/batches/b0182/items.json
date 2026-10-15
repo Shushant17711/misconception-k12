@@ -1,0 +1,282 @@
+[
+ {
+  "id": "b19a336564dc",
+  "image": "b19a336564dc.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Diagram di samping menyajikan berbagai jenis ikan yang dipelihara Caca. Jika total seluruh ikan ada 120 ekor, selisih antara banyak ikan guppy dan ikan cupang adalah . . . ekor.",
+  "question_image": "q_b19a336564dc_d8144bb5-ce72-40ea-94e6-a6b1de56ec62.png",
+  "correct_answer": "18",
+  "past_labels": [
+   [
+    "NONE",
+    0.57
+   ],
+   [
+    "VIS-01",
+    0.11
+   ],
+   [
+    "WOP-01",
+    0.09
+   ],
+   [
+    "UNT-01",
+    0.05
+   ],
+   [
+    "RAT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "43effc9a1188",
+  "image": "43effc9a1188.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Toko Maju Jaya menerima kiriman beras setiap 12 hari sekali dan kiriman minyak goreng setiap 18 hari sekali. Pada hari Selasa, toko tersebut menerima kiriman beras dan minyak goreng secara bersamaan untuk pertama kalinya. Pada hari apakah toko tersebut akan menerima kiriman beras dan minyak goreng bersamaan untuk kedua kalinya?",
+  "question_image": null,
+  "correct_answer": "Rabu",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.26
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.19
+   ],
+   [
+    "KPF-01",
+    0.17
+   ],
+   [
+    "KPF-02",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "91be1e6c6d96",
+  "image": "91be1e6c6d96.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Sebuah toko buku menerima kiriman 84 buah penggaris baru. Penggaris-penggaris tersebut akan diikat menjadi beberapa bundel, dimana setiap bundel diikat menggunakan 1 tali pengikat. Penjaga toko sudah menyiapkan 20 tali pengikat. Jika setiap bundel berisi 6 buah penggaris, maka tali pengikat yang tersisa ada …. tali",
+  "question_image": null,
+  "correct_answer": "6",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "OPS-01",
+    0.14
+   ],
+   [
+    "WOP-02",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "d8540152d60d",
+  "image": "d8540152d60d.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Di sebuah turnamen futsal setiap tim bermain sebanyak 10 kali. Aturan penilaian yang digunakan adalah: \n* Menang mendapat skor 4 \n* Kalah mendapat skor -2 \n* Seri mendapat skor -1\nTim Garuda berhasil memenangkan 6 pertandingan. Jika Tim Garuda tidak pernah mendapat hasil seri, maka total skor yang diperoleh Tim Garuda adalah… ",
+  "question_image": null,
+  "correct_answer": "16",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "INT-04",
+    0.21
+   ],
+   [
+    "OOO-01",
+    0.1
+   ],
+   [
+    "INT-02",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "3dcb095bd6bd",
+  "image": "3dcb095bd6bd.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah wadah berbentuk tabung terbuka (tanpa tutup) memiliki diameter alas $20\\text{ cm}$ dan tinggi $15\\text{ cm}$. Luas permukaan bahan yang dibutuhkan untuk membuat wadah tersebut adalah $\\dots\\text{ cm}^2$.",
+  "question_image": null,
+  "correct_answer": "1.256",
+  "past_labels": [
+   [
+    "NONE",
+    0.53
+   ],
+   [
+    "CAL-01",
+    0.17
+   ],
+   [
+    "MEA-04",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "61eb75e8f4fb",
+  "image": "61eb75e8f4fb.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "$2,45 - 1\\dfrac{1}{4}$\nHasil dari operasi hitung di atas dalam bentuk pecahan biasa yang paling sederhana adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{6}{5}$",
+  "past_labels": [
+   [
+    "Dec-02",
+    0.23
+   ],
+   [
+    "INT-04",
+    0.18
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.13
+   ],
+   [
+    "FRA-05",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "3dbca4e4d87d",
+  "image": "3dbca4e4d87d.jpeg",
+  "grade": 11,
+  "topic": "Function Operations",
+  "question": "Diketahui fungsi $f(x) = x + 3$, $g(x) = x - 1$, dan $h(x) = 2x$.\nHasil dari operasi hitung $(f + g \\times h)(x)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$2x^2 - x + 3$",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "FUN-01",
+    0.23
+   ],
+   [
+    "OOO-01",
+    0.19
+   ],
+   [
+    "QUA-02",
+    0.09
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "57eee67cab7a",
+  "image": "57eee67cab7a.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Gambar di samping adalah data jumlah murid di SD Ceria. Kelas yang memiliki murid paling banyak adalah . . . yaitu sebanyak . . . orang.",
+  "question_image": "q_57eee67cab7a_61cdf870-15a8-4d89-add8-24324c5825a4.png",
+  "correct_answer": "Kelas V ; 30",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "VIS-01",
+    0.24
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ }
+]

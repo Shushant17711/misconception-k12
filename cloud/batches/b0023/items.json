@@ -1,0 +1,282 @@
+[
+ {
+  "id": "fbd97c8ffa8b",
+  "image": "fbd97c8ffa8b.jpeg",
+  "grade": 10,
+  "topic": "Rationalizing the Denominator",
+  "question": "Rasionalkan bentuk berikut ini: \r\n$\\dfrac{8}{\\sqrt[3]{a^2}}$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{8\\sqrt[3]{a}}{a}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.29
+   ],
+   [
+    "EXP-07",
+    0.22
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.1
+   ],
+   [
+    "VIS-01",
+    0.1
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "307075ef2b69",
+  "image": "307075ef2b69.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Dua buah bus antar kota berangkat dari terminal yang sama. Bus Sentosa berangkat setiap 48 menit sekali, sedangkan Bus Jaya berangkat setiap 72 menit sekali. Kedua bus tersebut berangkat bersama-sama untuk pertama kalinya pada pukul 08.00 pagi. Pada pukul berapakah kedua bus tersebut akan berangkat bersama-sama untuk ketiga kalinya?",
+  "question_image": null,
+  "correct_answer": "12.48",
+  "past_labels": [
+   [
+    "KPF-02",
+    0.3
+   ],
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "MEA-02",
+    0.19
+   ],
+   [
+    "KPF-01",
+    0.12
+   ],
+   [
+    "ANS-01",
+    0.05
+   ],
+   [
+    "KPF-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "9e73c478dd09",
+  "image": "9e73c478dd09.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Lampu hias A menyala setiap 8 detik sekali, sedangkan lampu hias B menyala setiap 12 detik sekali. Kedua lampu tersebut menyala bersama-sama untuk pertama kalinya pada pukul 19.00. Hitunglah berapa kali kedua lampu tersebut akan menyala secara bersamaan dalam kurun waktu 2 menit setelah pukul 19.00!",
+  "question_image": null,
+  "correct_answer": "5",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.24
+   ],
+   [
+    "KPF-01",
+    0.22
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "KPF-02",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.11
+   ],
+   [
+    "KPF-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "722d6226db0a",
+  "image": "722d6226db0a.jpeg",
+  "grade": 10,
+  "topic": "Exponential Applications (Exponents)",
+  "question": "Suatu zat di laboratorium mengalami peluruhan sedemikian sehingga setiap 20 menit, massa zat yang tersisa menjadi 40% dari massa sebelumnya. Jika massa awal zat adalah 100 gram, berapakah massa zat yang tersisa setelah 1 jam?",
+  "question_image": null,
+  "correct_answer": "6,4 gram",
+  "past_labels": [
+   [
+    "NONE",
+    0.59
+   ],
+   [
+    "Dec-02",
+    0.23
+   ],
+   [
+    "CAL-01",
+    0.07
+   ],
+   [
+    "SEQ-01",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "317af272b801",
+  "image": "317af272b801.jpeg",
+  "grade": 10,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk $\\dfrac{2\\sqrt{5} + \\sqrt{2}}{\\sqrt{2} - \\sqrt{5}}$ dapat disederhanakan menjadi $\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\sqrt{10} - 4$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.18
+   ],
+   [
+    "ALG-04",
+    0.17
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "INT-04",
+    0.14
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "EXP-07",
+    0.08
+   ]
+  ]
+ },
+ {
+  "id": "35f8ec6a00ad",
+  "image": "35f8ec6a00ad.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Sebuah gedung pertunjukan menata susunan kursi penonton membentuk pola barisan aritmetika. Pada baris pertama terdapat 17 kursi, baris kedua terdapat 24 kursi, baris ketiga terdapat 31 kursi, dan seterusnya dengan jumlah kursi yang selalu bertambah secara tetap pada setiap baris. Banyaknya kursi yang berada pada baris ke-20 adalah……kursi",
+  "question_image": null,
+  "correct_answer": "150",
+  "past_labels": [
+   [
+    "SEQ-02",
+    0.33
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "FRM-01",
+    0.21
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "REL-01",
+    0.02
+   ],
+   [
+    "SIM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "d4b01c2d3e4a",
+  "image": "d4b01c2d3e4a.jpeg",
+  "grade": 7,
+  "topic": "Angle",
+  "question": "Jika besar β = (4x - 20)° dan ε = 100°, maka besar sudut $\\frac{1}{2}$ α adalah ... ",
+  "question_image": "q_d4b01c2d3e4a_7c8e574c-d3da-4799-a84c-684941b40035.png",
+  "correct_answer": "50°\n",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.81
+   ],
+   [
+    "NONE",
+    0.06
+   ],
+   [
+    "ANS-02",
+    0.05
+   ],
+   [
+    "ALG-06",
+    0.05
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "1ec6e157dd4b",
+  "image": "1ec6e157dd4b.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor persekutuan terbesar dari 40, 60, dan 100 adalah… ",
+  "question_image": null,
+  "correct_answer": "20",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.35
+   ],
+   [
+    "FRM-01",
+    0.26
+   ],
+   [
+    "KPF-04",
+    0.17
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "KPF-03",
+    0.09
+   ],
+   [
+    "REL-01",
+    0.01
+   ]
+  ]
+ }
+]

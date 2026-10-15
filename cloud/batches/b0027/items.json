@@ -1,0 +1,282 @@
+[
+ {
+  "id": "e3cb8f54fd0b",
+  "image": "e3cb8f54fd0b.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "4.200 x 16 : 25 = …",
+  "question_image": null,
+  "correct_answer": "2.688",
+  "past_labels": [
+   [
+    "NONE",
+    0.28
+   ],
+   [
+    "OPS-01",
+    0.25
+   ],
+   [
+    "PV-01",
+    0.2
+   ],
+   [
+    "Dec-02",
+    0.14
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "OPS-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "82343085c81d",
+  "image": "82343085c81d.jpeg",
+  "grade": 10,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari \n$\\sqrt{400} - \\sqrt{144} + \\sqrt{625} \\div \\sqrt{25}$\nadalah...",
+  "question_image": null,
+  "correct_answer": "13",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.29
+   ],
+   [
+    "EXP-07",
+    0.26
+   ],
+   [
+    "EXP-04",
+    0.24
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "ec6b50042529",
+  "image": "ec6b50042529.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah yayasan sosial mendistribusikan 54.000 paket sembako menggunakan rombongan mobil bak terbuka. Yayasan tersebut memiliki 12 mobil bak terbuka yang selalu berangkat bersama-sama. Setiap mobil dapat memuat 75 paket sembako dalam sekali jalan. \r\n\r\nJika semua paket sembako akan didistribusikan, maka rombongan mobil bak tersebut harus bolak-balik sebanyak…\r",
+  "question_image": null,
+  "correct_answer": "60 kali",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "WOP-01",
+    0.17
+   ],
+   [
+    "OPS-01",
+    0.14
+   ],
+   [
+    "PV-01",
+    0.08
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "ef0c7b06437e",
+  "image": "ef0c7b06437e.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Caca memiliki $5\\text{ kg}$ tepung terigu di dapur. Sebanyak $\\dfrac{4}{15}$ bagian dari tepung tersebut digunakan untuk membuat adonan bakwan. Dari tepung yang digunakan untuk bakwan itu, $\\dfrac{3}{4}$ bagiannya dicampur dengan bumbu rempah.\n\nBanyak tepung terigu yang dicampur dengan bumbu rempah $\\dots\\text{ kg}$",
+  "question_image": null,
+  "correct_answer": "$1$",
+  "past_labels": [
+   [
+    "NONE",
+    0.49
+   ],
+   [
+    "FRA-06",
+    0.25
+   ],
+   [
+    "WOP-01",
+    0.14
+   ],
+   [
+    "FRA-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "d8ceb39e5956",
+  "image": "d8ceb39e5956.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Titik C(2,4) didilatasikan dengan pusat (1,1) dan faktor skala 3, kemudian direfleksikan terhadap garis y = -x. Koordinat bayangan akhir titik C adalah...",
+  "question_image": null,
+  "correct_answer": "(-10,-4)",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.52
+   ],
+   [
+    "OOO-01",
+    0.18
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "9e4d3d3d0a8c",
+  "image": "9e4d3d3d0a8c.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari $\\frac{a^{-3} \\times a^5}{a^{-4}}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$a^6$",
+  "past_labels": [
+   [
+    "INT-03",
+    0.4
+   ],
+   [
+    "NONE",
+    0.16
+   ],
+   [
+    "INT-04",
+    0.12
+   ],
+   [
+    "FRA-03",
+    0.1
+   ],
+   [
+    "EXP-02",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "934fdbb34eb0",
+  "image": "934fdbb34eb0.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Seorang pengrajin bambu membuat caping berbentuk kerucut dengan diameter $56\\text{ cm}$ dan tinggi $21\\text{ cm}$. Bagian luar caping tersebut akan dicat seluruhnya. Diketahui satu kaleng cat seharga $\\text{Rp}30.000{,}00$ dapat digunakan untuk mengecat permukaan seluas $15.400\\text{ cm}^2$. Jika pengrajin tersebut akan mengecat 30 caping, maka biaya yang diperlukan adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "Rp180.000,00",
+  "past_labels": [
+   [
+    "MEA-04",
+    0.44
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "9b340a6b415e",
+  "image": "9b340a6b415e.jpeg",
+  "grade": 7,
+  "topic": "Applications of Linear Equations in One Variable",
+  "question": "Dua kali suatu bilangan jika dikurangi 7 hasilnya sama dengan bilangan itu sendiri ditambah 5. \nBilangan yang dimaksud adalah...",
+  "question_image": null,
+  "correct_answer": "12",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "WOP-01",
+    0.27
+   ],
+   [
+    "ALG-03",
+    0.22
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "ANS-02",
+    0.05
+   ],
+   [
+    "OOO-02",
+    0.05
+   ]
+  ]
+ }
+]

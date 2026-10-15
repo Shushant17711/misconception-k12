@@ -1,0 +1,282 @@
+[
+ {
+  "id": "ef41a71a579f",
+  "image": "ef41a71a579f.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari $2\\sqrt{6} \\times \\sqrt{8} - \\sqrt{75}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$3\\sqrt{3}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.53
+   ],
+   [
+    "EXP-07",
+    0.27
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "a3354b65fad0",
+  "image": "a3354b65fad0.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Nara membeli pita merah sepanjang 18 meter, pita biru sepanjang 24 meter, dan pita kuning sepanjang 30 meter. Nara ingin mengetahui panjang paling kecil yang merupakan kelipatan ketiga panjang pita tersebut…",
+  "question_image": null,
+  "correct_answer": "360",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.14
+   ],
+   [
+    "KPF-01",
+    0.14
+   ],
+   [
+    "KPF-03",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "794a9914501a",
+  "image": "794a9914501a.jpeg",
+  "grade": 7,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Banyak siswa yang menyukai matematika adalah …",
+  "question_image": "q_794a9914501a_88ea8875-6752-40c4-b16c-4f5ca1f73a92.png",
+  "correct_answer": "54 orang",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "RAT-02",
+    0.16
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "6028d1f17c15",
+  "image": "6028d1f17c15.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Jika $3(2x - 5) + 4 = 5(x + 3) - 2$ mempunyai penyelesaian $x = p$, maka nilai $4p + 7$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "103",
+  "past_labels": [
+   [
+    "ALG-04",
+    0.27
+   ],
+   [
+    "OPS-01",
+    0.19
+   ],
+   [
+    "WOP-01",
+    0.1
+   ],
+   [
+    "ALG-05",
+    0.08
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "INT-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "74bbca1958aa",
+  "image": "74bbca1958aa.jpeg",
+  "grade": 6,
+  "topic": "Comparison of Fractions",
+  "question": "Ibu memiliki empat buah kantong belanja dengan berat sebagai berikut:\r\n* Kantong A = 3,25 kg\r\n* Kantong B = 0,4 kg lebih berat dari Kantong A\r\n* Kantong C = 0,15 kg lebih ringan dari Kantong B\r\n* Kantong D = 3,48 kg\r\nUrutan kantong belanja dari yang paling berat ke paling ringan adalah ...",
+  "question_image": null,
+  "correct_answer": "Kantong B, Kantong C, Kantong D, Kantong A",
+  "past_labels": [
+   [
+    "Dec-01",
+    0.27
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.21
+   ],
+   [
+    "Dec-02",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "PV-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "3ac2255eacec",
+  "image": "3ac2255eacec.jpeg",
+  "grade": 4,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Perhatikan data di samping. Jika siswa yang dinyatakan lulus adalah mereka yang memiliki nilai di atas 79, maka banyak siswa yang belum lulus adalah …. orang.",
+  "question_image": "q_3ac2255eacec_42304acd-337d-4bd4-a93d-83a048479b45.png",
+  "correct_answer": "35",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "WOP-01",
+    0.2
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "1631b6043fe5",
+  "image": "1631b6043fe5.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "$2,45 - 1\\dfrac{1}{4}$\r\nHasil dari operasi hitung di atas dalam bentuk pecahan biasa yang paling sederhana adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{6}{5}$",
+  "past_labels": [
+   [
+    "Dec-02",
+    0.23
+   ],
+   [
+    "INT-04",
+    0.18
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.13
+   ],
+   [
+    "FRA-05",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "049e346ee65e",
+  "image": "049e346ee65e.jpeg",
+  "grade": 8,
+  "topic": "Probability of an Event",
+  "question": "Sebuah dadu dilempar sebanyak 40 kali. \nHasil yang tercatat: mata 1 muncul 7 kali, mata 2 muncul 6 kali, mata 3 muncul 5 kali, mata 4 muncul 8 kali, dan mata 5 muncul 6 kali. \n\nPeluang empirik munculnya mata dadu 6 adalah ...",
+  "question_image": null,
+  "correct_answer": "$\\frac{1}{5}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.34
+   ],
+   [
+    "ANS-02",
+    0.25
+   ],
+   [
+    "PRO-04",
+    0.19
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.05
+   ]
+  ]
+ }
+]

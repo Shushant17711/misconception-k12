@@ -1,0 +1,282 @@
+[
+ {
+  "id": "528856283246",
+  "image": "528856283246.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Seorang arsitektur landscape sedang mendesain taman berbentuk persegi panjang dengan panjang $\\sqrt{180}$ meter dan lebar $\\sqrt{80}$ meter. \r\n\r\nIa ingin memasang pagar pembatas tepat pada garis diagonal taman tersebut. \r\n\r\nMenggunakan Teorema Pythagoras, panjang pagar diagonal tersebut adalah $\\sqrt{(\\sqrt{180})^2 + (\\sqrt{80})^2}$ meter. \r\n\r\nBentuk paling sederhana dari panjang pagar diagonal taman tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "$2\\sqrt{65}$ meter",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.46
+   ],
+   [
+    "EXP-07",
+    0.24
+   ],
+   [
+    "NONE",
+    0.2
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "84620b1bf5b8",
+  "image": "84620b1bf5b8.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari (−6) × 8 : (−4) × (−3) adalah…",
+  "question_image": null,
+  "correct_answer": "-36",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.59
+   ],
+   [
+    "NONE",
+    0.16
+   ],
+   [
+    "INT-02",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "cf36dbb7eed7",
+  "image": "cf36dbb7eed7.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Kelipatan Persekutuan Terkecil dari tiga bilangan berikut: 6, 8  dan 9 adalah…",
+  "question_image": null,
+  "correct_answer": "72",
+  "past_labels": [
+   [
+    "NONE",
+    0.4
+   ],
+   [
+    "ANS-01",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "KPF-04",
+    0.07
+   ],
+   [
+    "KPF-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "45115aefed99",
+  "image": "45115aefed99.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Dalam sebuah uji coba laboratorium, suhu awal cairan kimia adalah -8°C. Cairan tersebut dipanaskan sehingga suhunya naik sebesar 4°C setiap 3 menit. Setelah 15 menit dipanaskan, terjadi gangguan mesin yang menyebabkan suhu cairan turun sebesar 18°C. Suhu akhir cairan tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "-6°C",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "OOO-01",
+    0.13
+   ],
+   [
+    "INT-04",
+    0.11
+   ],
+   [
+    "INT-02",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "f9e63d1ae8cb",
+  "image": "f9e63d1ae8cb.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Data di bawah ini menunjukkan pertumbuhan investasi modal awal (dalam jutaan rupiah) selama beberapa tahun ($t$).\r\n\r\nPada tahun ke-$0$ ($t = 0$), modal awal adalah $\\text{Rp10.000.000,00}$.\r\n\r\nPada tahun ke-$2$ ($t = 2$), modal berkembang menjadi $\\text{Rp14.400.000,00}$.\r\n\r\nJika model pertumbuhan tersebut mengikuti fungsi eksponen $W(t) = M_0 \\cdot (1 + r)^t$, total nilai investasi pada akhir tahun ke-$4$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "Rp20.736.000,00",
+  "past_labels": [
+   [
+    "SEQ-01",
+    0.39
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "OTH-00",
+    0.13
+   ],
+   [
+    "RAT-01",
+    0.13
+   ],
+   [
+    "FUN-01",
+    0.06
+   ],
+   [
+    "EXP-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "3f2677393f45",
+  "image": "3f2677393f45.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Jika jarak bilangan m ke titik 0 adalah 6 satuan, dan jarak bilangan n ke titik 0 adalah 4 satuan, maka nilai dari m-n adalah…",
+  "question_image": "q_3f2677393f45_db9c6ab6-0a37-4979-98a5-16c61d5a7285.png",
+  "correct_answer": "-10",
+  "past_labels": [
+   [
+    "NONE",
+    0.48
+   ],
+   [
+    "INT-04",
+    0.18
+   ],
+   [
+    "VIS-01",
+    0.12
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "ca01112504c4",
+  "image": "ca01112504c4.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari $5\\sqrt{27} - 3\\sqrt{12} + \\sqrt{48}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$13\\sqrt{3}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.52
+   ],
+   [
+    "EXP-07",
+    0.21
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "e0ed350bfb3b",
+  "image": "e0ed350bfb3b.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Sebuah pabrik daur ulang plastik mampu mengolah sampah plastik seberat $16\\frac{3}{4}\\text{ Kg}$ setiap menitnya. Jika pabrik tersebut beroperasi secara terus-menerus selama 1 jam, total sampah plastik yang berhasil diolah oleh pabrik tersebut$\\dots\\text{ Kg}$",
+  "question_image": null,
+  "correct_answer": "1005",
+  "past_labels": [
+   [
+    "FRA-05",
+    0.35
+   ],
+   [
+    "NONE",
+    0.2
+   ],
+   [
+    "REL-01",
+    0.12
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.04
+   ]
+  ]
+ }
+]

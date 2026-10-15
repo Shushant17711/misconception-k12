@@ -1,0 +1,282 @@
+[
+ {
+  "id": "c5a6e4813bd4",
+  "image": "c5a6e4813bd4.jpeg",
+  "grade": 9,
+  "topic": "Application of Two-Variable Linear Equation Systems",
+  "question": "Keliling sebuah kebun berbentuk persegi panjang adalah $56\\text{ m}$. Panjang kebun tersebut $4\\text{ m}$ lebihnya dari lebarnya. Luas kebun persegi panjang tersebut adalah$\\dots\\text{ m}^2$",
+  "question_image": null,
+  "correct_answer": "192",
+  "past_labels": [
+   [
+    "NONE",
+    0.77
+   ],
+   [
+    "ANS-01",
+    0.07
+   ],
+   [
+    "Dec-02",
+    0.07
+   ],
+   [
+    "WOP-02",
+    0.04
+   ],
+   [
+    "SIM-01",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "fc4292a17d91",
+  "image": "fc4292a17d91.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Caca membeli satu kantong tepung terigu. Sebanyak $\\dfrac{4}{15}$ bagian digunakan untuk membuat mendoan dan $\\dfrac{6}{15}$ bagian digunakan untuk membuat bakwan. Total tepung terigu yang Caca gunakan adalah $\\ldots$ bagian",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{10}{15}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "WOP-01",
+    0.29
+   ],
+   [
+    "FRA-06",
+    0.09
+   ],
+   [
+    "FRA-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "6ddc19aee11c",
+  "image": "6ddc19aee11c.jpeg",
+  "grade": 11,
+  "topic": "Value and Form of a Function",
+  "question": "Diketahui $f(x) = x^2 + 2x - 3$. Tentukan $f(2a - 1)$ dinyatakan dalam $a$.",
+  "question_image": null,
+  "correct_answer": "$4a^2 - 4$",
+  "past_labels": [
+   [
+    "EXP-03",
+    0.37
+   ],
+   [
+    "FUN-01",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "ALG-04",
+    0.09
+   ],
+   [
+    "ANS-02",
+    0.09
+   ],
+   [
+    "ALG-02",
+    0.09
+   ]
+  ]
+ },
+ {
+  "id": "de07c1fd045f",
+  "image": "de07c1fd045f.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari:\n$100 - 60 : 10 \\times ( -3 ) = $. . .",
+  "question_image": null,
+  "correct_answer": "118",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.62
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "INT-03",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "82365c2ab9c9",
+  "image": "82365c2ab9c9.jpeg",
+  "grade": 6,
+  "topic": "Comparison of Fractions",
+  "question": "Ibu memiliki empat buah kantong belanja dengan berat sebagai berikut:\n* Kantong A = 3,25 kg\n* Kantong B = 0,4 kg lebih berat dari Kantong A\n* Kantong C = 0,15 kg lebih ringan dari Kantong B\n* Kantong D = 3,48 kg\nUrutan kantong belanja dari yang paling berat ke paling ringan adalah ...",
+  "question_image": null,
+  "correct_answer": "Kantong B, Kantong C, Kantong D, Kantong A",
+  "past_labels": [
+   [
+    "Dec-01",
+    0.27
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.21
+   ],
+   [
+    "Dec-02",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "PV-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "0d793d60c754",
+  "image": "0d793d60c754.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Gambar di samping adalah data jumlah murid di SD Ceria. Kelas yang memiliki murid paling banyak adalah . . . yaitu sebanyak . . . orang.",
+  "question_image": "q_0d793d60c754_61cdf870-15a8-4d89-add8-24324c5825a4.png",
+  "correct_answer": "Kelas V ; 30",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "VIS-01",
+    0.24
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "ca8a5047e785",
+  "image": "ca8a5047e785.jpeg",
+  "grade": 9,
+  "topic": "Angle",
+  "question": "Besar sudut BAE adalah …",
+  "question_image": "q_ca8a5047e785_4f9adb85-17b2-4a95-8a13-dd9ad56d381c.png",
+  "correct_answer": "$100^\\circ$",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.77
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "ANS-02",
+    0.06
+   ],
+   [
+    "ALG-06",
+    0.06
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "567d40278b6f",
+  "image": "567d40278b6f.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Seorang pemilik warung mencatat jumlah pengunjung harian (x, dalam puluhan orang) dan pendapatan hariannya (y, dalam puluh ribu rupiah) selama 4 hari. Data yang diperoleh adalah sebagai berikut:\n\n* Pengunjung (x): 1, 2, 3, 4\n* Pendapatan (y): 4, 7, 10, 13\n\nJika diketahui SSxx = 5 dan SSxy = 15, maka perkiraan pendapatan harian jika jumlah pengunjung mencapai 70 orang adalah …\n",
+  "question_image": null,
+  "correct_answer": "22",
+  "past_labels": [
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "WOP-01",
+    0.17
+   ],
+   [
+    "ANS-02",
+    0.17
+   ],
+   [
+    "MEA-02",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ]
+  ]
+ }
+]

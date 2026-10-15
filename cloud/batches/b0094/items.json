@@ -1,0 +1,282 @@
+[
+ {
+  "id": "44642de8de3a",
+  "image": "44642de8de3a.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Exponents",
+  "question": "Diketahui $3^{2a} = 5$.\nTentukan nilai dari $9^a \\times 3^{-a}$.",
+  "question_image": null,
+  "correct_answer": "$\\sqrt{5}$",
+  "past_labels": [
+   [
+    "EXP-01",
+    0.39
+   ],
+   [
+    "EXP-02",
+    0.22
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.11
+   ],
+   [
+    "EXP-04",
+    0.06
+   ],
+   [
+    "FRA-03",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "61051b95038e",
+  "image": "61051b95038e.jpeg",
+  "grade": 8,
+  "topic": "Angle",
+  "question": "Pada rancangan rel kereta, dua batang rel dibuat sejajar dan dipotong oleh sebuah batang penyangga melintang. \nBatang penyangga memotong rel atas di titik P dan rel bawah di titik Q. \n\nDi titik P, sudut yang terbentuk di sisi kanan-atas berukuran (5x+5)°. \nDi titik Q, sudut yang terbentuk di sisi kanan-atas (menghadap arah yang sama dengan sudut di titik P) berukuran (7x−35)°. \n\nBesar sudut di titik Q yang bersebelahan lurus dengan sudut (7x−35)° adalah ...",
+  "question_image": null,
+  "correct_answer": "$75^{\\circ}$",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.65
+   ],
+   [
+    "NONE",
+    0.22
+   ],
+   [
+    "ANS-02",
+    0.05
+   ],
+   [
+    "ALG-06",
+    0.05
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "875f90b4f507",
+  "image": "875f90b4f507.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Nilai $Q_2$ dari data histogram tersebut adalah...",
+  "question_image": "q_875f90b4f507_dd6443a8-aa35-4db4-b5c8-5dd1a1472294.png",
+  "correct_answer": "54,5",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "VIS-01",
+    0.34
+   ],
+   [
+    "CAL-01",
+    0.12
+   ],
+   [
+    "STA-05",
+    0.04
+   ],
+   [
+    "STA-04",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "09d9287c6ce1",
+  "image": "09d9287c6ce1.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Seorang pekerja bangunan menumpuk batu bata untuk pembuatan dinding. Pada tumpukan paling atas terdapat 10 batu bata, tumpukan di bawahnya terdapat 14 batu bata, dan seterusnya bertambah 4 batu bata pada setiap tumpukan di bawahnya. Jika tumpukan batu bata yang paling bawah (tumpukan terakhir) terdiri dari 58 batu bata, tentukan jumlah seluruh batu bata yang ada pada tumpukan tersebut!",
+  "question_image": null,
+  "correct_answer": "442",
+  "past_labels": [
+   [
+    "NONE",
+    0.42
+   ],
+   [
+    "SEQ-02",
+    0.27
+   ],
+   [
+    "CAL-01",
+    0.12
+   ],
+   [
+    "FRM-01",
+    0.09
+   ],
+   [
+    "REL-01",
+    0.03
+   ],
+   [
+    "SIM-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "b3e4b29a1726",
+  "image": "b3e4b29a1726.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Nilai dari $\\dfrac{^2\\log^2 32 - \\text{dari } {^2\\log^2 2}}{^2\\log 64}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "4",
+  "past_labels": [
+   [
+    "LOG-02",
+    0.32
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-02",
+    0.13
+   ],
+   [
+    "ALG-06",
+    0.05
+   ],
+   [
+    "EXP-06",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "11efa77e879e",
+  "image": "11efa77e879e.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Diketahui FPB dari 48 dan 72 adalah Y. \nNilai dari Y + 5 adalah… ",
+  "question_image": null,
+  "correct_answer": "29",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "KPF-04",
+    0.21
+   ],
+   [
+    "KPF-01",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.12
+   ],
+   [
+    "KPF-03",
+    0.05
+   ],
+   [
+    "REL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "fe03b20b58fe",
+  "image": "fe03b20b58fe.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Nara membeli pita merah sepanjang 18 meter, pita biru sepanjang 24 meter, dan pita kuning sepanjang 30 meter. Nara ingin mengetahui panjang paling kecil yang merupakan kelipatan ketiga panjang pita tersebut…",
+  "question_image": null,
+  "correct_answer": "360",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.14
+   ],
+   [
+    "KPF-01",
+    0.14
+   ],
+   [
+    "KPF-03",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "80ac7bcbfb21",
+  "image": "80ac7bcbfb21.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Diketahui barisan aritmatika berikut:\r\nx, 15, y, 29,....\r\nTentukan nilai dari suku ke-10 pada barisan tersebut!\r",
+  "question_image": null,
+  "correct_answer": "71",
+  "past_labels": [
+   [
+    "SEQ-02",
+    0.42
+   ],
+   [
+    "CAL-01",
+    0.17
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "FRM-01",
+    0.1
+   ],
+   [
+    "REL-01",
+    0.08
+   ],
+   [
+    "SIM-01",
+    0.08
+   ]
+  ]
+ }
+]

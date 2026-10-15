@@ -1,0 +1,282 @@
+[
+ {
+  "id": "a68addaeaad2",
+  "image": "a68addaeaad2.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah yayasan sosial mendistribusikan 54.000 paket sembako menggunakan rombongan mobil bak terbuka. Yayasan tersebut memiliki 12 mobil bak terbuka yang selalu berangkat bersama-sama. Setiap mobil dapat memuat 75 paket sembako dalam sekali jalan. \n\nJika semua paket sembako akan didistribusikan, maka rombongan mobil bak tersebut harus bolak-balik sebanyak…\n",
+  "question_image": null,
+  "correct_answer": "60 kali",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "WOP-01",
+    0.17
+   ],
+   [
+    "OPS-01",
+    0.14
+   ],
+   [
+    "PV-01",
+    0.08
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "4f79eaf6e465",
+  "image": "4f79eaf6e465.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Seekor lumba-lumba berada pada kedalaman 8 m di bawah permukaan laut. Di atasnya terdapat burung pelikan yang terbang 5 m di atas permukaan laut. Lumba-lumba tersebut melompat ke atas sejauh 11 m menembus permukaan laut. Sementara burung pelikan menukik ke bawah sejauh 1 m. Jarak vertikal antara lumba-lumba dan burung pelikan tersebut ketika bergerak bersamaan adalah…",
+  "question_image": null,
+  "correct_answer": "1 m",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "INT-04",
+    0.27
+   ],
+   [
+    "OOO-01",
+    0.13
+   ],
+   [
+    "INT-02",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "e80d0bad7527",
+  "image": "e80d0bad7527.jpeg",
+  "grade": 11,
+  "topic": "Matrix Operations",
+  "question": "Diketahui matriks $A=\\begin{pmatrix}2 & 3\\\\1 & x\\end{pmatrix}$ dan $B=\\begin{pmatrix}1 & 0\\\\2 & 1\\end{pmatrix}$.\n\nJika $\\det(A\\times B)=7$, maka nilai $\\det(A)$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "7",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "cb833ed8f8bd",
+  "image": "cb833ed8f8bd.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Seorang siswa sedang berlatih menghitung persamaan garis regresi secara manual. \n\nIa mencatat data lama menyirami tanaman (X, dalam menit) dan tinggi tanaman (Y, dalam cm) selama 3 hari berturut-turut ke dalam tabel di samping.\n\nBerdasarkan tabel hasil pengamatan, persamaan garis regresi linear yang tepat adalah …",
+  "question_image": "q_cb833ed8f8bd_6f2ea46f-c471-4f46-a4d9-f5bb7581f23e.png",
+  "correct_answer": "$\\hat{y} = 2,5x$",
+  "past_labels": [
+   [
+    "NONE",
+    0.51
+   ],
+   [
+    "FRM-01",
+    0.2
+   ],
+   [
+    "WOP-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "INT-04",
+    0.03
+   ],
+   [
+    "WOP-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "c3c4ac055917",
+  "image": "c3c4ac055917.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah tabung memiliki jari-jari awal $7\\text{ cm}$ dan tinggi $14\\text{ cm}$. Jika jari-jari tabung tersebut diperbesar menjadi 2 kali semula, sedangkan tingginya dipotong menjadi $\\dfrac{1}{2}$ kali semula, selisih luas permukaan total tabung setelah diubah dibanding sebelum diubah adalah $\\dots\\text{ cm}^2$.",
+  "question_image": null,
+  "correct_answer": "924",
+  "past_labels": [
+   [
+    "MEA-04",
+    0.37
+   ],
+   [
+    "FRM-01",
+    0.29
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "87b07634d9ed",
+  "image": "87b07634d9ed.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Sebuah toko online memberikan diskon member $15\\%$ dari harga awal, dilanjutkan potongan ongkir tetap $\\text{Rp}10.000$ dari total setelah diskon.\r\nNyatakan total harga akhir sebagai fungsi komposisi dari harga awal $x$.",
+  "question_image": null,
+  "correct_answer": "$H(x) = 0,85x - 10.000$",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "RAT-02",
+    0.28
+   ],
+   [
+    "WOP-02",
+    0.09
+   ],
+   [
+    "ANS-02",
+    0.09
+   ],
+   [
+    "FUN-01",
+    0.05
+   ],
+   [
+    "INV-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "6019c94426df",
+  "image": "6019c94426df.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk sederhana dari $\\sqrt[3]{\\dfrac{54}{64}}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{3}{4}\\sqrt[3]{2}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.38
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "OTH-00",
+    0.16
+   ],
+   [
+    "EXP-07",
+    0.13
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "8834af15b70c",
+  "image": "8834af15b70c.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Seorang perajin mainan ingin melapisi 2 buah bola bekel dengan lapisan karet khusus agar tidak licin. Masing-masing bola bekel tersebut memiliki diameter $14\\text{ cm}$. Perajin tersebut membeli satu paket gel karet yang diklaim dapat melapisi permukaan benda hingga total luas $1300\\text{ cm}^2$. Jika perajin ingin mengetahui sisa kapasitas gel karet yang tidak terpakai setelah kedua bola selesai dilapisi, berapakah sisa luas yang tersedia? (Gunakan $\\pi = \\dfrac{22}{7}$)",
+  "question_image": null,
+  "correct_answer": "$68\\text{ cm}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.46
+   ],
+   [
+    "MEA-04",
+    0.24
+   ],
+   [
+    "EXP-01",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ }
+]

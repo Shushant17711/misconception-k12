@@ -1,0 +1,282 @@
+[
+ {
+  "id": "55cef57b0ae5",
+  "image": "55cef57b0ae5.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Saat ini, umur seorang Ibu adalah 3 kali umur anaknya. Diketahui bahwa 4 tahun yang lalu, jumlah umur mereka berdua adalah 48 tahun. Berapakah umur sang Ibu 5 tahun yang akan datang?",
+  "question_image": null,
+  "correct_answer": "47 tahun",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.45
+   ],
+   [
+    "ALG-06",
+    0.17
+   ],
+   [
+    "ALG-04",
+    0.07
+   ],
+   [
+    "ALG-05",
+    0.06
+   ],
+   [
+    "NONE",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "e4381834b957",
+  "image": "e4381834b957.jpeg",
+  "grade": 9,
+  "topic": "Introduction to Three-Dimensional Shapes",
+  "question": "Sebuah wadah penyimpanan alat tulis dibuat dengan menggabungkan sebuah tabung dan sebuah setengah bola padat. Bidang datar (lingkaran) dari setengah bola tersebut dipasang tepat berhimpit sempurna dengan mulut bagian atas tabung, sedangkan permukaan melengkungnya menghadap ke luar.\n\nUntuk menentukan luas permukaan total benda gabungan tersebut, bagian permukaan manakah dari kedua bangun penyusun yang TIDAK boleh diikutsertakan dalam perhitungan?",
+  "question_image": null,
+  "correct_answer": "Bidang datar (lingkaran) setengah bola",
+  "past_labels": [
+   [
+    "NONE",
+    0.53
+   ],
+   [
+    "OTH-00",
+    0.21
+   ],
+   [
+    "FRM-01",
+    0.08
+   ],
+   [
+    "MEA-05",
+    0.08
+   ],
+   [
+    "MEA-04",
+    0.04
+   ],
+   [
+    "MEA-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "f2e71b3b668b",
+  "image": "f2e71b3b668b.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Diketahui empat data adalah:\n\n$\\\n2n,\\ 2n + 1,\\ 3n - 2,\\ n + 1\n$\n\nJika rata-rata keempat data tersebut adalah 8, maka simpangan rata-rata dari data tersebut adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "1,5",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "STA-01",
+    0.15
+   ],
+   [
+    "OTH-00",
+    0.13
+   ],
+   [
+    "STA-03",
+    0.13
+   ],
+   [
+    "STA-05",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "52db259514fc",
+  "image": "52db259514fc.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "$f : x \\to x + 2$ dan $h : x \\to x^2 - 2$.\r\nJika $(f \\circ g \\circ h)(x) = 2x^2 + 4$, maka $g(x) = \\dots$",
+  "question_image": null,
+  "correct_answer": "$2x + 6$",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.24
+   ],
+   [
+    "INV-01",
+    0.23
+   ],
+   [
+    "ALG-04",
+    0.2
+   ],
+   [
+    "FRM-01",
+    0.1
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "EXP-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "8e7eb08fe04c",
+  "image": "8e7eb08fe04c.jpeg",
+  "grade": 8,
+  "topic": "Exponents",
+  "question": "Hasil dari \n\n$(0{,}2)^{-3} + (-0{,}5)^{-2} - 7^{0}$\n\nadalah …",
+  "question_image": null,
+  "correct_answer": "128",
+  "past_labels": [
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "INT-04",
+    0.19
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "EXP-01",
+    0.1
+   ],
+   [
+    "EXP-02",
+    0.05
+   ],
+   [
+    "FRM-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "f982406bcbd4",
+  "image": "f982406bcbd4.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "$f : x \\to x + 2$ dan $h : x \\to x^2 - 2$.\r\nJika $(f \\circ g \\circ h)(x) = 2x^2 + 4$, maka $g(x) = \\dots$",
+  "question_image": null,
+  "correct_answer": "$2x + 6$",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.24
+   ],
+   [
+    "INV-01",
+    0.23
+   ],
+   [
+    "ALG-04",
+    0.2
+   ],
+   [
+    "FRM-01",
+    0.1
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "EXP-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "e3c3a278ee34",
+  "image": "e3c3a278ee34.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah toko alat tulis menerima kiriman 84.672 pensil. Pensil tersebut akan dimasukkan ke dalam beberapa kotak dengan jumlah yang sama. Empat siswa memberikan pendapat berikut.\r\n* Andi: \"Jika ada 288 kotak, setiap kotak berisi 294 pensil.\"\r\n* Beni: \"Jika ada 294 kotak, setiap kotak berisi 288 pensil.\"\r\n* Citra: \"Pendapat Andi dan Beni sama-sama benar.\"\r\n* Dinda: \"Salah satu dari Andi atau Beni pasti salah.\"\r\nPernyataan yang benar adalah ...",
+  "question_image": null,
+  "correct_answer": "Andi, Beni, dan Citra benar",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "OPS-01",
+    0.29
+   ],
+   [
+    "ANS-01",
+    0.17
+   ],
+   [
+    "PV-01",
+    0.08
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "a0edda93a177",
+  "image": "a0edda93a177.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Panitia jalan sehat memasang pos penanganan medis di sepanjang rute kegiatan. Pos pertama dipasang pada kilometer ke-3, pos kedua pada kilometer ke-7, pos ketiga pada kilometer ke-11, dan seterusnya mengikuti pola yang sama. Jika pos terakhir dipasang pada kilometer ke-55, maka banyak pos penanganan medis yang dipasang oleh panitia adalah…",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "CAL-01",
+    0.27
+   ],
+   [
+    "SEQ-02",
+    0.22
+   ],
+   [
+    "FRM-01",
+    0.07
+   ],
+   [
+    "REL-01",
+    0.02
+   ],
+   [
+    "SIM-01",
+    0.02
+   ]
+  ]
+ }
+]

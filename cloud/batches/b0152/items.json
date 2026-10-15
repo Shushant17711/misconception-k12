@@ -1,0 +1,282 @@
+[
+ {
+  "id": "c3bff5a23639",
+  "image": "c3bff5a23639.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Nilai dari operasi bilangan berpangkat $\\dfrac{2^5 \\times 3^4 \\times 2^2}{2^4 \\times 3^2}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "72",
+  "past_labels": [
+   [
+    "EXP-02",
+    0.26
+   ],
+   [
+    "EXP-01",
+    0.19
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.07
+   ],
+   [
+    "INT-03",
+    0.06
+   ],
+   [
+    "INT-04",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "bcdc45e72a16",
+  "image": "bcdc45e72a16.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Diketahui tiga bilangan bulat berbeda p, q, r, memenuhi operasi hitung campuran berikut: \r\n\r\np x (q + r) = -24 \r\n\r\nJika p = 6 dan q = -9, maka nilai dari p - q x r adalah…",
+  "question_image": null,
+  "correct_answer": "51",
+  "past_labels": [
+   [
+    "INT-04",
+    0.27
+   ],
+   [
+    "NONE",
+    0.22
+   ],
+   [
+    "ALG-06",
+    0.17
+   ],
+   [
+    "OOO-01",
+    0.13
+   ],
+   [
+    "INT-02",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "556a6c76c050",
+  "image": "556a6c76c050.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Pak Doni memiliki $6\\dfrac{3}{4}\\text{ liter}$ minyak goreng. Minyak goreng tersebut digunakan untuk menggoreng makanan sebanyak $1\\dfrac{1}{2}\\text{ liter}$. Sisa minyak goreng akan dimasukkan ke dalam beberapa kantong plastik. Jika setiap kantong plastik berisi $\\dfrac{3}{8}\\text{ liter}$ minyak, banyak kantong plastik yang dibutuhkan Pak Doni adalah $\\dots$ kantong",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "WOP-01",
+    0.16
+   ],
+   [
+    "CAL-01",
+    0.14
+   ],
+   [
+    "FRA-06",
+    0.05
+   ],
+   [
+    "FRA-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "f08664d1f099",
+  "image": "f08664d1f099.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Sebuah toko pakaian menerima kiriman kaos kaki dalam 8 kardus besar. Setiap kardus besar berisi 6 kotak kecil, dan setiap kotak kecil berisi 15 pasang kaos kaki. Jika toko tersebut sudah menjual 220 pasang kaos kaki, berapakah sisa pasang kaos kaki yang belum terjual?",
+  "question_image": null,
+  "correct_answer": "500 pasang",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "WOP-02",
+    0.33
+   ],
+   [
+    "WOP-01",
+    0.1
+   ],
+   [
+    "ANS-01",
+    0.07
+   ],
+   [
+    "OPS-02",
+    0.05
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "2047964a5f5f",
+  "image": "2047964a5f5f.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Data di bawah ini menunjukkan pertumbuhan investasi modal awal (dalam jutaan rupiah) selama beberapa tahun ($t$).\r\n\r\nPada tahun ke-$0$ ($t = 0$), modal awal adalah $\\text{Rp10.000.000,00}$.\r\n\r\nPada tahun ke-$2$ ($t = 2$), modal berkembang menjadi $\\text{Rp14.400.000,00}$.\r\n\r\nJika model pertumbuhan tersebut mengikuti fungsi eksponen $W(t) = M_0 \\cdot (1 + r)^t$, total nilai investasi pada akhir tahun ke-$4$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "Rp20.736.000,00",
+  "past_labels": [
+   [
+    "SEQ-01",
+    0.39
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "OTH-00",
+    0.13
+   ],
+   [
+    "RAT-01",
+    0.13
+   ],
+   [
+    "FUN-01",
+    0.06
+   ],
+   [
+    "EXP-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "42747e1d1915",
+  "image": "42747e1d1915.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Di sebuah turnamen futsal setiap tim bermain sebanyak 10 kali. Aturan penilaian yang digunakan adalah: \r\n* Menang mendapat skor 4 \r\n* Kalah mendapat skor -2 \r\n* Seri mendapat skor -1\r\nTim Garuda berhasil memenangkan 6 pertandingan. Jika Tim Garuda tidak pernah mendapat hasil seri, maka total skor yang diperoleh Tim Garuda adalah… ",
+  "question_image": null,
+  "correct_answer": "16",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "INT-04",
+    0.21
+   ],
+   [
+    "OOO-01",
+    0.1
+   ],
+   [
+    "INT-02",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "73b01b9cc724",
+  "image": "73b01b9cc724.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Lampu hias A menyala setiap 8 detik sekali, sedangkan lampu hias B menyala setiap 12 detik sekali. Kedua lampu tersebut menyala bersama-sama untuk pertama kalinya pada pukul 19.00. Hitunglah berapa kali kedua lampu tersebut akan menyala secara bersamaan dalam kurun waktu 2 menit setelah pukul 19.00!",
+  "question_image": null,
+  "correct_answer": "5",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.24
+   ],
+   [
+    "KPF-01",
+    0.22
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "KPF-02",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.11
+   ],
+   [
+    "KPF-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "46e8989ced7d",
+  "image": "46e8989ced7d.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari:\n$100 - 60 : 10 \\times ( -3 ) = $. . .",
+  "question_image": null,
+  "correct_answer": "118",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.62
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "INT-03",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ }
+]

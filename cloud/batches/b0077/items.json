@@ -1,0 +1,282 @@
+[
+ {
+  "id": "63ff008cb1e4",
+  "image": "63ff008cb1e4.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Gambar di samping adalah data jumlah murid di SD Ceria. Kelas yang memiliki murid paling banyak adalah . . . yaitu sebanyak . . . orang.",
+  "question_image": "q_63ff008cb1e4_61cdf870-15a8-4d89-add8-24324c5825a4.png",
+  "correct_answer": "Kelas V ; 30",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "VIS-01",
+    0.24
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "ed73cde32d3d",
+  "image": "ed73cde32d3d.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Bilangan kelipatan 9 yang merupakan bilangan ganjil dan nilainya lebih kecil dari 60 adalah…",
+  "question_image": null,
+  "correct_answer": "9, 27, 45",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "WOP-02",
+    0.16
+   ],
+   [
+    "WOP-01",
+    0.13
+   ],
+   [
+    "ANS-01",
+    0.09
+   ],
+   [
+    "OPS-02",
+    0.06
+   ],
+   [
+    "OPS-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "11e47a429033",
+  "image": "11e47a429033.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Exponents",
+  "question": "Sederhanakan bentuk $32^{\\frac{3}{5}} \\times 9^{-\\frac{1}{2}} \\div 2^{-1}$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{16}{3}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.22
+   ],
+   [
+    "EXP-01",
+    0.22
+   ],
+   [
+    "FRA-03",
+    0.22
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.11
+   ],
+   [
+    "EXP-02",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "314a5fb287aa",
+  "image": "314a5fb287aa.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Disediakan lima kartu angka yang berisi angka: 4, 1, 8, 5, dan 0. \r\nNara diminta menyusun bilangan puluhan ribu dengan aturan nilai tempat sebagai berikut: \r\n- Angka 4 menempati nilai tempat puluhan ribu \r\n- Angka 1 menempati nilai tempat ribuan \r\nNara menyusun bilangan terbesar yang mungkin dibuat dan bilangan terkecil yang mungkin dibuat. Jika kedua bilangan tersebut ditulis secara berurutan mulai dari yang terbesar, maka pasangan bilangannya adalah… \r",
+  "question_image": null,
+  "correct_answer": "41.850 dan 41.058",
+  "past_labels": [
+   [
+    "PV-01",
+    0.37
+   ],
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "OPS-01",
+    0.14
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "151efb4d6c0c",
+  "image": "151efb4d6c0c.jpeg",
+  "grade": 11,
+  "topic": "Coefficient of Determination",
+  "question": "Seorang guru olahraga mencatat hubungan antara jumlah sesi latihan per minggu (x) dan waktu tempuh lari 100 meter (detik) siswanya (y). Data yang diperoleh adalah sebagai berikut:\n* Sesi Latihan (x): 1, 2, 3, 4\n* Waktu Tempuh (y): 18, 15, 13, 12\nJika diketahui nilai SSxx = 5, SSyy = 21, dan SSxy = −9, maka koefisien determinasi (r²) dari data tersebut adalah ....",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{81}{105}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.85
+   ],
+   [
+    "WOP-01",
+    0.01
+   ],
+   [
+    "FRM-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ],
+   [
+    "CAL-01",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "06ddd6c01af7",
+  "image": "06ddd6c01af7.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Diketahui rata-rata perubahan suhu adalah $-1^\\circ \\text{C}$.\n\nNilai $x$ adalah $\\ldots$",
+  "question_image": "q_06ddd6c01af7_18afebdb-8753-442e-837c-cd1c8a55b8de.png",
+  "correct_answer": "2",
+  "past_labels": [
+   [
+    "NONE",
+    0.4
+   ],
+   [
+    "STA-01",
+    0.25
+   ],
+   [
+    "INT-04",
+    0.16
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "486edd51b30a",
+  "image": "486edd51b30a.jpeg",
+  "grade": 11,
+  "topic": "Function Operations",
+  "question": "Diketahui fungsi $f(x) = \\dfrac{2x+3}{x-1}$ untuk $x \\neq 1$, dan $g(x) = \\dfrac{x-2}{x-1}$ untuk $x \\neq 1$.\n\nJika didefinisikan sebuah fungsi baru $h(x) = (f - g)(x)$, maka nilai dari $h(3)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "4",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "FUN-01",
+    0.27
+   ],
+   [
+    "QUA-02",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "81622211abcb",
+  "image": "81622211abcb.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Seorang pedagang buah memiliki persediaan 850 gram buah jeruk. Ia menjual 325 gram jeruk pada pagi hari dan 105 gram jeruk pada sore hari. Jika sisa jeruk tersebut dibungkus kembali ke dalam 4 kantong plastik dengan berat yang sama, Berat pada setiap kantong plastik adalah…gram",
+  "question_image": null,
+  "correct_answer": "105",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "OPS-02",
+    0.18
+   ],
+   [
+    "WOP-02",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "ANS-01",
+    0.05
+   ],
+   [
+    "OPS-01",
+    0.02
+   ]
+  ]
+ }
+]

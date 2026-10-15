@@ -1,0 +1,282 @@
+[
+ {
+  "id": "5bcd17e60cde",
+  "image": "5bcd17e60cde.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Diketahui $x$ dan $y$ adalah bilangan bulat positif yang memenuhi persamaan:\n\n$\\sqrt{x} + \\sqrt{y} = \\sqrt{180}$\n\nJika nilai $x = 45$, maka nilai dari $\\sqrt{x \\cdot y}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "45",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.43
+   ],
+   [
+    "EXP-07",
+    0.26
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ALG-06",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "5f6968016f0a",
+  "image": "5f6968016f0a.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Ibu memanen sebanyak 72 buah jeruk dari kebun belakang rumah. Ibu ingin memasukkan seluruh jeruk tersebut ke dalam beberapa kantong plastik secara merata. Jika setiap kantong plastik hanya dapat memuat maksimal 4 buah jeruk, berapa banyak kantong plastik minimal yang harus disediakan oleh Ibu?",
+  "question_image": null,
+  "correct_answer": "18",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "WOP-01",
+    0.3
+   ],
+   [
+    "WOP-02",
+    0.13
+   ],
+   [
+    "ANS-01",
+    0.07
+   ],
+   [
+    "OPS-02",
+    0.05
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "b12dd383a858",
+  "image": "b12dd383a858.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Ragam (varians) dari data tersebut adalah...",
+  "question_image": "q_b12dd383a858_199a53db-6260-400c-82b1-66e0a33029e0.png",
+  "correct_answer": "19,04",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "STA-04",
+    0.21
+   ],
+   [
+    "STA-05",
+    0.07
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "e0d89632f44c",
+  "image": "e0d89632f44c.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Nara membeli pita merah sepanjang 18 meter, pita biru sepanjang 24 meter, dan pita kuning sepanjang 30 meter. Nara ingin mengetahui panjang paling kecil yang merupakan kelipatan ketiga panjang pita tersebut…",
+  "question_image": null,
+  "correct_answer": "360",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.14
+   ],
+   [
+    "KPF-01",
+    0.14
+   ],
+   [
+    "KPF-03",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "39cdccfa73c7",
+  "image": "39cdccfa73c7.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Diketahui 8a+4=3a-11. Nilai dari 2a+5 adalah ….",
+  "question_image": null,
+  "correct_answer": "-1",
+  "past_labels": [
+   [
+    "ALG-06",
+    0.29
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "INT-04",
+    0.17
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "ALG-04",
+    0.07
+   ],
+   [
+    "ALG-05",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "14b9cdc287a5",
+  "image": "14b9cdc287a5.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Sebuah laboratorium penelitian biologi mengamati pertumbuhan amoeba. Mula-mula terdapat $2^3$ amoeba di dalam wadah pengamatan. Setiap satu jam, setiap amoeba membelah diri menjadi dua. Jumlah total amoeba setelah waktu pengamatan berjalan selama $5\\text{ jam}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$2^8$",
+  "past_labels": [
+   [
+    "SEQ-01",
+    0.35
+   ],
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.04
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "88e363766cbd",
+  "image": "88e363766cbd.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Tante Linda memiliki 40 kue cokelat dan 52 kue keju. Ia berencana membagikan kue-kue tersebut secara merata ke dalam beberapa wadah plastik untuk diberikan kepada tetangganya. Namun, sebelum dimasukkan ke dalam wadah, Leo memakan 4 kue cokelat dan 4 kue keju. Jika sisa kue tersebut ingin dibagi habis ke dalam wadah dengan jumlah dan jenis yang sama banyak tanpa ada kue yang tersisa, Tentukan banyak wadah maksimal yang harus disiapkan Tante Linda!",
+  "question_image": null,
+  "correct_answer": "12",
+  "past_labels": [
+   [
+    "KPF-04",
+    0.29
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "WOP-01",
+    0.14
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "KPF-02",
+    0.08
+   ],
+   [
+    "KPF-01",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "da445f276ed5",
+  "image": "da445f276ed5.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Seorang atlet lari mencatat waktu tempuh ($y$ dalam menit) berdasarkan jarak lari ($x$ dalam km). Persamaannya adalah $\\hat{y} = 5x + 2$. \n\nData yang tercatat selama ini adalah untuk jarak 1 km sampai 10 km. Estimasi waktu yang dibutuhkan atlet tersebut jika ia menempuh jarak 5,5 km adalah ... menit",
+  "question_image": null,
+  "correct_answer": "29,5\n",
+  "past_labels": [
+   [
+    "NONE",
+    0.58
+   ],
+   [
+    "MEA-03",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": "a3749bb13574",
+  "image": "a3749bb13574.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Perhatikan grafik regresi yang menunjukkan hubungan antara Lama Pemakaian Laptop dan Sisa Baterai di samping!\n\nGaris best-fit pada diagram tersebut memotong sumbu Y di angka 100 dan melewati titik koordinat (4, 60). \n\nPersamaan garis regresi yang paling tepat untuk memodelkan data tersebut adalah ....",
+  "question_image": "q_a3749bb13574_59ec0d6f-7dbd-4716-8818-6481abe3ca98.png",
+  "correct_answer": "$\\hat{y} = -10x + 100$",
+  "past_labels": [
+   [
+    "NONE",
+    0.68
+   ],
+   [
+    "WOP-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "INT-04",
+    0.03
+   ],
+   [
+    "WOP-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "1af38aa924c8",
+  "image": "1af38aa924c8.jpeg",
+  "grade": 10,
+  "topic": "Operations on Radicals",
+  "question": "Sederhanakan bentuk berikut menjadi bentuk paling sederhana ($x>0$):\r\n\r\n$$\\sqrt{5x^3} + \\sqrt{20x^3}$$",
+  "question_image": null,
+  "correct_answer": "$3x\\sqrt{5x}$",
+  "past_labels": [
+   [
+    "EXP-07",
+    0.48
+   ],
+   [
+    "EXP-04",
+    0.28
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.03
+   ],
+   [
+    "OTH-00",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "06e57253dde2",
+  "image": "06e57253dde2.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk paling sederhana dari $\\sqrt{288}$ adalah…",
+  "question_image": null,
+  "correct_answer": "$12\\sqrt{2}$",
+  "past_labels": [
+   [
+    "EXP-07",
+    0.43
+   ],
+   [
+    "EXP-04",
+    0.3
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "4f59194c6c28",
+  "image": "4f59194c6c28.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Seorang pemilik warung mencatat jumlah pengunjung harian (x, dalam puluhan orang) dan pendapatan hariannya (y, dalam puluh ribu rupiah) selama 4 hari. Data yang diperoleh adalah sebagai berikut:\n\n* Pengunjung (x): 1, 2, 3, 4\n* Pendapatan (y): 4, 7, 10, 13\n\nJika diketahui SSxx = 5 dan SSxy = 15, maka perkiraan pendapatan harian jika jumlah pengunjung mencapai 70 orang adalah …\n",
+  "question_image": null,
+  "correct_answer": "22",
+  "past_labels": [
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "WOP-01",
+    0.17
+   ],
+   [
+    "ANS-02",
+    0.17
+   ],
+   [
+    "MEA-02",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "577a80022fcc",
+  "image": "577a80022fcc.jpeg",
+  "grade": 4,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Total siswa yang memilih ekstrakurikuler olahraga adalah …\n",
+  "question_image": "q_577a80022fcc_82adb361-2ba0-4fc3-a1dc-59c866f5274b.png",
+  "correct_answer": "260",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "ANS-02",
+    0.15
+   ],
+   [
+    "PV-01",
+    0.15
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "8cc1a3c3c7b9",
+  "image": "8cc1a3c3c7b9.jpeg",
+  "grade": 9,
+  "topic": "Area of Flat Shapes",
+  "question": "Luas bangun di samping adalah ….",
+  "question_image": "q_8cc1a3c3c7b9_edb27b6a-6ce3-47c3-a048-24704d90dd3e.png",
+  "correct_answer": "$120\\ \\text{cm}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.46
+   ],
+   [
+    "VIS-01",
+    0.38
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "MEA-04",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "8dbb89daf916",
+  "image": "8dbb89daf916.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Kelipatan Persekutuan Terkecil dari tiga bilangan berikut: 6, 8  dan 9 adalah…",
+  "question_image": null,
+  "correct_answer": "72",
+  "past_labels": [
+   [
+    "NONE",
+    0.4
+   ],
+   [
+    "ANS-01",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "KPF-04",
+    0.07
+   ],
+   [
+    "KPF-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "b1557c296c10",
+  "image": "b1557c296c10.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Seorang teknisi mencatat suhu sebuah mesin pendingin turun secara tetap 4 °C setiap 5 menit. Suhu awal mesin 18 °C. Mesin akan otomatis berhenti saat suhu mencapai −30 °C atau lebih rendah. \n\nWaktu paling singkat yang diperlukan hingga mesin berhenti otomatis adalah… ",
+  "question_image": null,
+  "correct_answer": "60 menit",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "INT-04",
+    0.27
+   ],
+   [
+    "OOO-01",
+    0.13
+   ],
+   [
+    "INT-02",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ }
+]

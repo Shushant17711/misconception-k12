@@ -1,0 +1,282 @@
+[
+ {
+  "id": "f87a29164790",
+  "image": "f87a29164790.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Ibu memiliki persediaan beras sebanyak $2\\dfrac{1}{4}\\text{ kg}$. Untuk makan siang dan makan malam, total Ibu menggunakan beras sebanyak $1\\dfrac{2}{5}\\text{ kg}$. Karena khawatir kurang, Ibu membeli lagi beras sebanyak $\\dfrac{3}{10}\\text{ kg}$. Persediaan beras Ibu sekarang adalah .... (nyatakan dalam pecahan campuran)",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{3}{20}$",
+  "past_labels": [
+   [
+    "FRA-01",
+    0.38
+   ],
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "FRA-06",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "5ac2eb0ca877",
+  "image": "5ac2eb0ca877.jpeg",
+  "grade": 4,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Gambar di samping adalah data jumlah murid di SD Ceria. Kelas yang memiliki murid paling banyak adalah . . . yaitu sebanyak . . . orang.",
+  "question_image": "q_5ac2eb0ca877_61cdf870-15a8-4d89-add8-24324c5825a4.png",
+  "correct_answer": "Kelas V ; 30",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "VIS-01",
+    0.24
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "e633e7854989",
+  "image": "e633e7854989.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari $5\\sqrt{27} - 3\\sqrt{12} + \\sqrt{48}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$13\\sqrt{3}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.52
+   ],
+   [
+    "EXP-07",
+    0.21
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "bb5e8e3b3ed0",
+  "image": "bb5e8e3b3ed0.jpeg",
+  "grade": 12,
+  "topic": "Probability of Compound Events",
+  "question": "Dalam sebuah kotak terdapat 3 bola merah dan 2 bola putih. Diambil 2 bola sekaligus secara acak. Peluang terambil minimal 1 bola merah adalah ...",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{9}{10}$",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.33
+   ],
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "WOP-01",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "PRO-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "d1ec0c1c090f",
+  "image": "d1ec0c1c090f.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Dua buah jam di kamar Caca diatur untuk berdering secara berkala. Jam A berdering setiap 45 menit sekali, sedangkan jam B berdering setiap 60 menit sekali. Jika kedua jam beker tersebut berdering bersama-sama untuk pertama kalinya pada pukul 09.15. Kedua jam beker tersebut akan berdering bersama-sama untuk kedua kalinya pada pukul ….",
+  "question_image": null,
+  "correct_answer": "12.15",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "KPF-01",
+    0.22
+   ],
+   [
+    "ANS-01",
+    0.11
+   ],
+   [
+    "KPF-02",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "MEA-02",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "b0fa03dd8ac6",
+  "image": "b0fa03dd8ac6.jpeg",
+  "grade": 7,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Gambar di samping adalah sketsa kemasan “cokelat king” yang baru.\n\nJika cokelat mengisi seluruh ruang dalam kemasan tersebut, maka banyak cokelat yang muat dalam kemasan tersebut adalah . . . $\\text{cm}^3$",
+  "question_image": "q_b0fa03dd8ac6_cf0e1df4-e5f8-4a9f-9b3b-51e2e29e576d.png",
+  "correct_answer": "140",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "MEA-04",
+    0.24
+   ],
+   [
+    "VIS-01",
+    0.09
+   ],
+   [
+    "MEA-03",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "70243b287516",
+  "image": "70243b287516.jpeg",
+  "grade": 12,
+  "topic": "Probability of Compound Events",
+  "question": "Dalam sebuah kantong terdapat 5 bola merah, 4 bola putih, dan 3 bola biru. Dari kantong tersebut diambil 2 bola sekaligus secara acak. Peluang terambilnya kedua bola berwarna merah atau keduanya berwarna putih adalah ....",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{8}{33}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "PRO-04",
+    0.28
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.06
+   ],
+   [
+    "PRO-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "81716a67c7c0",
+  "image": "81716a67c7c0.jpeg",
+  "grade": 10,
+  "topic": "Operations on Radicals",
+  "question": "Sebuah taman berbentuk persegi memiliki luas $200x^2\\text{ m}^2$. Untuk memasang pagar di salah satu sisi taman, tukang taman perlu mengetahui panjang sisi taman dalam bentuk akar paling sederhana. Tentukan panjang sisi taman tersebut.",
+  "question_image": null,
+  "correct_answer": "$10x\\sqrt{2}\\text{ m}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.38
+   ],
+   [
+    "OTH-00",
+    0.16
+   ],
+   [
+    "ALG-01",
+    0.15
+   ],
+   [
+    "EXP-07",
+    0.13
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "OOO-01",
+    0.02
+   ]
+  ]
+ }
+]

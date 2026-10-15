@@ -1,0 +1,282 @@
+[
+ {
+  "id": "4850d3f59b02",
+  "image": "4850d3f59b02.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Diketahui $f(x) = \\dfrac{4x - k}{x - 3}$, dan $f^{-1}$ adalah invers dari $f$, Jika nilai dari $f^{-1}(2) = 1$, maka nilai $k$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "8",
+  "past_labels": [
+   [
+    "ALG-06",
+    0.26
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "INV-01",
+    0.17
+   ],
+   [
+    "ALG-05",
+    0.17
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "ALG-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "68ca8deea8d9",
+  "image": "68ca8deea8d9.jpeg",
+  "grade": 7,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Volume bangun di samping adalah . . . $\\text{cm}^3$",
+  "question_image": "q_68ca8deea8d9_c19def7f-428b-4363-9a3c-f06a1b533e0a.png",
+  "correct_answer": "1080",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "MEA-04",
+    0.28
+   ],
+   [
+    "VIS-01",
+    0.11
+   ],
+   [
+    "MEA-03",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "9831b5525031",
+  "image": "9831b5525031.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari $\\left( \\frac{x^5 \\cdot y^2}{x^2 \\cdot y} \\right)^3$ adalah..",
+  "question_image": null,
+  "correct_answer": "$x^9 \\cdot y^3$",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.22
+   ],
+   [
+    "NONE",
+    0.16
+   ],
+   [
+    "EXP-02",
+    0.11
+   ],
+   [
+    "OTH-00",
+    0.09
+   ],
+   [
+    "INT-03",
+    0.07
+   ],
+   [
+    "INT-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "f035f73d74aa",
+  "image": "f035f73d74aa.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Dalam suatu ujian dengan 40 soal, jawaban benar diberi skor 4, salah diberi skor -2, dan tidak dijawab diberi skor -1. \r\n\r\nJika Leo menjawab benar 28 soal dan salah 9 soal, total skor yang diperoleh Leo adalah . . .",
+  "question_image": null,
+  "correct_answer": "91",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "WOP-02",
+    0.14
+   ],
+   [
+    "OOO-01",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.08
+   ],
+   [
+    "INT-02",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "7690be5792e5",
+  "image": "7690be5792e5.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Nara membeli pita merah sepanjang 18 meter, pita biru sepanjang 24 meter, dan pita kuning sepanjang 30 meter. Nara ingin mengetahui panjang paling kecil yang merupakan kelipatan ketiga panjang pita tersebut…",
+  "question_image": null,
+  "correct_answer": "360",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.14
+   ],
+   [
+    "KPF-01",
+    0.14
+   ],
+   [
+    "KPF-03",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "ddc46d9e849d",
+  "image": "ddc46d9e849d.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Sebuah lahan kosong memiliki luas terukur yang dinyatakan dengan desimal $0,48$ bagian dari total area. Saat diubah menjadi bentuk pecahan biasa paling sederhana $\\dfrac{p}{q}$, nilai pembilang $p$ dan penyebut $q$ dijadikan sebagai ukuran panjang dan lebar sebuah persegi panjang (dalam meter). Keliling persegi panjang tersebut adalah$\\dots\\text{ meter}$",
+  "question_image": null,
+  "correct_answer": "74",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.2
+   ],
+   [
+    "Dec-02",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.12
+   ],
+   [
+    "FRA-04",
+    0.12
+   ],
+   [
+    "MEA-01",
+    0.12
+   ],
+   [
+    "NONE",
+    0.1
+   ]
+  ]
+ },
+ {
+  "id": "c72810206898",
+  "image": "c72810206898.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Rata-rata kelompok P adalah 70 (10 orang). \nRata-rata kelompok Q adalah 80 (10 orang). \nRata-rata kelompok R adalah 90 (20 orang). \n\nTanpa menghitung langsung, rata-rata gabungan ketiga kelompok tersebut $\\ldots$",
+  "question_image": null,
+  "correct_answer": "$\\text{Lebih dari } 80$",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "STA-01",
+    0.34
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "STA-04",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "9d9b4f5eef8a",
+  "image": "9d9b4f5eef8a.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Jika m merupakan penyelesaian dari 2(3x-2) - 4 = 4(x-1), maka nilai m-3 adalah ….",
+  "question_image": null,
+  "correct_answer": "-1",
+  "past_labels": [
+   [
+    "NONE",
+    0.2
+   ],
+   [
+    "ANS-02",
+    0.19
+   ],
+   [
+    "ALG-04",
+    0.13
+   ],
+   [
+    "INT-04",
+    0.11
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "ANS-01",
+    0.09
+   ]
+  ]
+ }
+]

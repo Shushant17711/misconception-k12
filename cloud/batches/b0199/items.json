@@ -1,0 +1,282 @@
+[
+ {
+  "id": "72a4a0e2a425",
+  "image": "72a4a0e2a425.jpeg",
+  "grade": 7,
+  "topic": "Application of Integers",
+  "question": "Dalam sebuah sesi latihan selam, kedalaman posisi penyelam diukur dari permukaan air kolam yang ditetapkan sebagai titik nol. Posisi di atas permukaan air dinyatakan dengan bilangan positif, sedangkan kedalaman di bawah permukaan air dinyatakan dengan bilangan negatif.\n\nTiga penyelam mencatat posisi mereka sebagai berikut:\n* Penyelam A: Berada pada posisi 1 meter di bawah permukaan air.\n* Penyelam B: Berada pada posisi 5 meter di bawah permukaan air.\nSeorang penyelam ketiga, Penyelam C, berada di antara Penyelam A dan Penyelam B. Diketahui pula bahwa posisi Penyelam C tepat berada di tengah-tengah antara posisi Penyelam A dan Penyelam B pada garis bilangan. Bilangan bulat yang menunjukkan posisi penyelam C adalah…",
+  "question_image": null,
+  "correct_answer": "-3",
+  "past_labels": [
+   [
+    "NONE",
+    0.66
+   ],
+   [
+    "WOP-01",
+    0.12
+   ],
+   [
+    "INT-04",
+    0.12
+   ],
+   [
+    "INT-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "a97c3ea659c6",
+  "image": "a97c3ea659c6.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Ragam (varians) dari data tersebut adalah...",
+  "question_image": "q_a97c3ea659c6_199a53db-6260-400c-82b1-66e0a33029e0.png",
+  "correct_answer": "19,04",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "STA-04",
+    0.21
+   ],
+   [
+    "STA-05",
+    0.07
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "85d8efc449fd",
+  "image": "85d8efc449fd.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Sebuah pabrik daur ulang plastik mampu mengolah sampah plastik seberat $16\\frac{3}{4}\\text{ Kg}$ setiap menitnya. Jika pabrik tersebut beroperasi secara terus-menerus selama 1 jam, total sampah plastik yang berhasil diolah oleh pabrik tersebut$\\dots\\text{ Kg}$",
+  "question_image": null,
+  "correct_answer": "1005",
+  "past_labels": [
+   [
+    "FRA-05",
+    0.35
+   ],
+   [
+    "NONE",
+    0.2
+   ],
+   [
+    "REL-01",
+    0.12
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "1c8c96125f9d",
+  "image": "1c8c96125f9d.jpeg",
+  "grade": 8,
+  "topic": "Angle",
+  "question": "Jika α = (x + 25)° dan β = (2x - 15)°, maka nilai α+β adalah... \n",
+  "question_image": "q_1c8c96125f9d_0fcb8b25-b20b-435f-9c2f-a616662bb31e.png",
+  "correct_answer": "130°\n",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.86
+   ],
+   [
+    "NONE",
+    0.04
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "ALG-06",
+    0.04
+   ],
+   [
+    "ALG-05",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "d4a55f361281",
+  "image": "d4a55f361281.jpeg",
+  "grade": 12,
+  "topic": "Counting Rules",
+  "question": "Panitia sebuah lomba ingin membuat nomor dada peserta yang terdiri dari 3 digit angka berbeda yang disusun dari angka-angka 1, 2, 3, 4, 5, 6, dan 7. Panitia menetapkan aturan bahwa nomor peserta yang dibentuk harus bernilai lebih dari 400. Banyaknya nomor dada peserta yang dapat dibuat oleh panitia adalah...",
+  "question_image": null,
+  "correct_answer": "120",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.5
+   ],
+   [
+    "OTH-00",
+    0.32
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "1be6d05c43d9",
+  "image": "1be6d05c43d9.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Tentukan nilai logaritma berikut:\r\n$ \\dfrac{^4\\log 16 + {^{27}\\log 81}}{^2\\log \\dfrac{1}{8}} $",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{10}{9}$",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.26
+   ],
+   [
+    "LOG-02",
+    0.19
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "OOO-01",
+    0.12
+   ],
+   [
+    "INT-02",
+    0.12
+   ],
+   [
+    "ALG-06",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "4b03b2b3ee0b",
+  "image": "4b03b2b3ee0b.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Sebuah segitiga siku-siku memiliki panjang sisi siku-siku $\\sqrt{18}\\text{ cm}$ dan $\\sqrt{32}\\text{ cm}$. Jika diketahui sisi miringnya $\\sqrt{50}\\text{ cm}$, maka keliling segitiga tersebut adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$12\\sqrt{2}\\text{ cm}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.52
+   ],
+   [
+    "EXP-07",
+    0.26
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "d0d4408abf7b",
+  "image": "d0d4408abf7b.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk pangkat pecahan yang paling sederhana dari $\\sqrt[3]{a \\times \\sqrt{a}}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$a^{\\frac{1}{2}}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.62
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "EXP-07",
+    0.06
+   ],
+   [
+    "OOO-01",
+    0.01
+   ]
+  ]
+ }
+]

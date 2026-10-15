@@ -1,0 +1,282 @@
+[
+ {
+  "id": "b3b927d087bd",
+  "image": "b3b927d087bd.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Dua buah bus antar kota berangkat dari terminal yang sama. Bus Sentosa berangkat setiap 48 menit sekali, sedangkan Bus Jaya berangkat setiap 72 menit sekali. Kedua bus tersebut berangkat bersama-sama untuk pertama kalinya pada pukul 08.00 pagi. Pada pukul berapakah kedua bus tersebut akan berangkat bersama-sama untuk ketiga kalinya?",
+  "question_image": null,
+  "correct_answer": "12.48",
+  "past_labels": [
+   [
+    "KPF-02",
+    0.3
+   ],
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "MEA-02",
+    0.19
+   ],
+   [
+    "KPF-01",
+    0.12
+   ],
+   [
+    "ANS-01",
+    0.05
+   ],
+   [
+    "KPF-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "85e7d0d70173",
+  "image": "85e7d0d70173.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Seorang petani memanen 75 kg buah apel dan 105 kg buah jeruk. Ia ingin memasukkan buah-buahan tersebut ke dalam beberapa keranjang secara merata tanpa ada yang tersisa. Namun setelah diperiksa, terdapat 5 buah apel dan 7 jeruk yang busuk sehingga harus dibuang. Jika setiap keranjang harus memuat buah apel yang sama banyak dan buah jeruk yang sama banyak. Maka jumlah keranjang paling banyak yang dapat disiapkan oleh petani tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.5
+   ],
+   [
+    "ANS-01",
+    0.21
+   ],
+   [
+    "KPF-02",
+    0.08
+   ],
+   [
+    "KPF-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "FRM-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "f03f0b0ea54f",
+  "image": "f03f0b0ea54f.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Tentukan hasil dari $\\dfrac{2}{3} + \\left(\\dfrac{2}{4} - \\dfrac{2}{6}\\right) = \\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{5}{6}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.74
+   ],
+   [
+    "FRA-06",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "FRA-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "86424d5cd36f",
+  "image": "86424d5cd36f.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Nilai $Q_1$ dari data histogram tersebut adalah...",
+  "question_image": "q_86424d5cd36f_13e309c9-6635-4996-a8df-69896426f9f1.png",
+  "correct_answer": "49,5\n",
+  "past_labels": [
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "VIS-01",
+    0.23
+   ],
+   [
+    "Dec-02",
+    0.18
+   ],
+   [
+    "STA-05",
+    0.07
+   ],
+   [
+    "STA-04",
+    0.05
+   ],
+   [
+    "FRM-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "c9989bee56af",
+  "image": "c9989bee56af.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Sebuah lahan kosong memiliki luas terukur yang dinyatakan dengan desimal $0,48$ bagian dari total area. Saat diubah menjadi bentuk pecahan biasa paling sederhana $\\dfrac{p}{q}$, nilai pembilang $p$ dan penyebut $q$ dijadikan sebagai ukuran panjang dan lebar sebuah persegi panjang (dalam meter). Keliling persegi panjang tersebut adalah$\\dots\\text{ meter}$",
+  "question_image": null,
+  "correct_answer": "74",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.2
+   ],
+   [
+    "Dec-02",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.12
+   ],
+   [
+    "FRA-04",
+    0.12
+   ],
+   [
+    "MEA-01",
+    0.12
+   ],
+   [
+    "NONE",
+    0.1
+   ]
+  ]
+ },
+ {
+  "id": "8992633b4c0b",
+  "image": "8992633b4c0b.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Toko “Segar” mencatat total penjualan buah sebanyak 200 kg dalam satu hari. \n\nBerapakah persentase penjualan untuk buah Anggur?",
+  "question_image": "q_8992633b4c0b_ce1e890b-499b-4e00-a18c-afc93d3dec51.png",
+  "correct_answer": "0.2",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "VIS-01",
+    0.24
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "248d30abc837",
+  "image": "248d30abc837.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari (−6) × 8 : (−4) × (−3) adalah…",
+  "question_image": null,
+  "correct_answer": "-36",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.59
+   ],
+   [
+    "NONE",
+    0.16
+   ],
+   [
+    "INT-02",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "d8ceb5eff919",
+  "image": "d8ceb5eff919.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Sebuah permainan papan memiliki aturan perubahan skor sebagai berikut:\n* Petak Merah: Skor dikalikan dengan -2.\n* Petak Biru: Skor dibagi dengan -3.\nDika memulai permainan dengan skor -36. Dika berada di petak awal dan wajib melangkah tepat 2 kali. \n\nJika Dika melangkah ke petak biru, kemudian dilanjutkan ke petak merah, skor akhir yang diperoleh Dika adalah… ",
+  "question_image": null,
+  "correct_answer": "-24",
+  "past_labels": [
+   [
+    "INT-02",
+    0.44
+   ],
+   [
+    "NONE",
+    0.28
+   ],
+   [
+    "WOP-02",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.07
+   ],
+   [
+    "INT-04",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ }
+]

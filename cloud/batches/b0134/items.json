@@ -1,0 +1,282 @@
+[
+ {
+  "id": "b2fd910f3d60",
+  "image": "b2fd910f3d60.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "250 x 12 : 6 = … ",
+  "question_image": null,
+  "correct_answer": "500",
+  "past_labels": [
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "ANS-02",
+    0.25
+   ],
+   [
+    "OPS-01",
+    0.2
+   ],
+   [
+    "PV-01",
+    0.12
+   ],
+   [
+    "OPS-02",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "7f0930cd7c6c",
+  "image": "7f0930cd7c6c.jpeg",
+  "grade": 6,
+  "topic": "Comparison of Fractions",
+  "question": "Diberikan empat buah bilangan desimal sebagai berikut:\r\n0,375 ; 0,335 ; 0,308 ; 0,35\r\nTanda yang tepat untuk mengurutkan keempat bilangan tersebut dari nilai yang terbesar ke terkecil adalah ...\r",
+  "question_image": null,
+  "correct_answer": "0,375 > 0,35 > 0,335 > 0,308",
+  "past_labels": [
+   [
+    "Dec-01",
+    0.56
+   ],
+   [
+    "Dec-02",
+    0.28
+   ],
+   [
+    "NONE",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "PV-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "d1e65015aa38",
+  "image": "d1e65015aa38.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Toko Maju Jaya menerima kiriman beras setiap 12 hari sekali dan kiriman minyak goreng setiap 18 hari sekali. Pada hari Selasa, toko tersebut menerima kiriman beras dan minyak goreng secara bersamaan untuk pertama kalinya. Pada hari apakah toko tersebut akan menerima kiriman beras dan minyak goreng bersamaan untuk kedua kalinya?",
+  "question_image": null,
+  "correct_answer": "Rabu",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.26
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.19
+   ],
+   [
+    "KPF-01",
+    0.17
+   ],
+   [
+    "KPF-02",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "de68144fd711",
+  "image": "de68144fd711.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari operasi hitung -24 + 72 : (-6) x 3 - (-15) adalah…",
+  "question_image": null,
+  "correct_answer": "-45",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.35
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "INT-04",
+    0.24
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "f249d4557077",
+  "image": "f249d4557077.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Diketahui total seluruh siswa di kelas 4 SD Cerdas adalah 70 orang.\n\nJika jumlah siswa yang memiliki hobi paling sedikit digabungkan dengan jumlah siswa yang hobi bermain musik, maka totalnya adalah ... siswa\n",
+  "question_image": "q_f249d4557077_f9b708f0-29b7-49d9-af7b-c94b19260552.png",
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.71
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "9a637f507aea",
+  "image": "9a637f507aea.jpeg",
+  "grade": 6,
+  "topic": "Operations on Integers",
+  "question": "Sebuah kapal selam mula-mula berada di kedalaman 12 meter di bawah permukaan laut. Kapal tersebut kemudian bergerak turun lagi sejauh 8 meter. \n\nTepat setelah itu, kapal selam mengaktifkan mesin pendorong otomatis yang membuatnya bergerak naik ke atas dengan kecepatan 3 meter setiap menitnya selama 5 menit. \n\nDi manakah posisi kapal selam tersebut sekarang?",
+  "question_image": null,
+  "correct_answer": "-5",
+  "past_labels": [
+   [
+    "INT-04",
+    0.41
+   ],
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "2bf0bb4fa882",
+  "image": "2bf0bb4fa882.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Leo memiliki kayu sepanjang $\\dfrac{4}{5}$ meter. Kayu tersebut dipotong untuk membuat bingkai foto sepanjang $\\dfrac{1}{4}$ meter dan sisanya dipotong lagi sepanjang $\\dfrac{2}{10}$ meter untuk kerajinan lain. Sisa panjang kayu Leo adalah $\\dots$ meter",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{7}{20}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "ANS-01",
+    0.18
+   ],
+   [
+    "FRA-06",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "FRA-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "d92c009694af",
+  "image": "d92c009694af.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Dua buah jam di kamar Caca diatur untuk berdering secara berkala. Jam A berdering setiap 45 menit sekali, sedangkan jam B berdering setiap 60 menit sekali. Jika kedua jam beker tersebut berdering bersama-sama untuk pertama kalinya pada pukul 09.15. Kedua jam beker tersebut akan berdering bersama-sama untuk kedua kalinya pada pukul ….",
+  "question_image": null,
+  "correct_answer": "12.15",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "KPF-01",
+    0.22
+   ],
+   [
+    "ANS-01",
+    0.11
+   ],
+   [
+    "KPF-02",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "MEA-02",
+    0.07
+   ]
+  ]
+ }
+]

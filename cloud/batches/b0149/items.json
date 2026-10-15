@@ -1,0 +1,282 @@
+[
+ {
+  "id": "375e489bda93",
+  "image": "375e489bda93.jpeg",
+  "grade": 6,
+  "topic": "Integer Value",
+  "question": "Lima buah titik A, B, C, D, dan E terletak pada satu garis bilangan bulat tegak (vertikal). Diketahui informasi sebagai berikut.\n- Titik C berada tepat di tengah-tengah garis tersebut dan melambangkan bilangan -2.\n- Jarak antara titik A dan C adalah 7 satuan, dimana posisi A berada di bawah C.\n- Titik B berada 4 satuan di atas titik A.\n- Titik D melambangkan bilangan bulat positif terkecil.\n- Titik E berada 5 satuan di bawah titik D.\nUrutan kelima titik tersebut dari yang memiliki nilai bilangan bulat terkecil ke terbesar adalah . . .",
+  "question_image": null,
+  "correct_answer": "A,B,E,C,D",
+  "past_labels": [
+   [
+    "NONE",
+    0.84
+   ],
+   [
+    "INT-04",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "b1dcdf9dc148",
+  "image": "b1dcdf9dc148.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Di sebuah turnamen futsal setiap tim bermain sebanyak 10 kali. Aturan penilaian yang digunakan adalah: \r\n* Menang mendapat skor 4 \r\n* Kalah mendapat skor -2 \r\n* Seri mendapat skor -1\r\nTim Garuda berhasil memenangkan 6 pertandingan. Jika Tim Garuda tidak pernah mendapat hasil seri, maka total skor yang diperoleh Tim Garuda adalah… ",
+  "question_image": null,
+  "correct_answer": "16",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "INT-04",
+    0.21
+   ],
+   [
+    "OOO-01",
+    0.1
+   ],
+   [
+    "INT-02",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "2cb1959ec620",
+  "image": "2cb1959ec620.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Hasil dari 68.450 + 23.180 - 45.290 adalah…",
+  "question_image": null,
+  "correct_answer": "46.340",
+  "past_labels": [
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "OPS-01",
+    0.33
+   ],
+   [
+    "PV-01",
+    0.1
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "4e1c83a04933",
+  "image": "4e1c83a04933.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Nara membeli pita merah sepanjang 18 meter, pita biru sepanjang 24 meter, dan pita kuning sepanjang 30 meter. Nara ingin mengetahui panjang paling kecil yang merupakan kelipatan ketiga panjang pita tersebut…",
+  "question_image": null,
+  "correct_answer": "360",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.14
+   ],
+   [
+    "KPF-01",
+    0.14
+   ],
+   [
+    "KPF-03",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "8c05e0547d46",
+  "image": "8c05e0547d46.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Paman tukang kayu memiliki sebuah balok kayu utuh dengan ukuran panjang 20 cm, lebar 15 cm, dan tinggi 10 cm.\n \nUntuk membuat sebuah hiasan, Paman melubangi bagian tengah balok kayu tersebut. \n\nLubang yang dibuat Paman berbentuk kubus dengan panjang rusuk 5 cm. \n\nVolume kayu Paman yang tersisa sekarang adalah . . . $\\text{cm}^3$",
+  "question_image": null,
+  "correct_answer": "2875",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "UNT-01",
+    0.23
+   ],
+   [
+    "VIS-01",
+    0.11
+   ],
+   [
+    "MEA-04",
+    0.08
+   ],
+   [
+    "MEA-03",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "69a130fb729a",
+  "image": "69a130fb729a.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Jika $a^b = c$, maka ${^a\\log c} = b$ dan diketahui $2^{x+3} = 64$, tentukan nilai $x$ yang memenuhi persamaan tersebut!",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "ALG-06",
+    0.31
+   ],
+   [
+    "EXP-06",
+    0.31
+   ],
+   [
+    "LOG-02",
+    0.12
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "9d07441bd51b",
+  "image": "9d07441bd51b.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Di dalam sebuah kotak terdapat 1 kodi pensil warna. \nDiketahui 25% dari total pensil tersebut berwarna biru, dan sisanya berwarna merah. \n\nJika diambil dua pensil satu per satu tanpa dikembalikan, peluang terambilnya **pensil merah pada pengambilan pertama dan pensil biru pada pengambilan kedua** adalah...",
+  "question_image": null,
+  "correct_answer": "$\\frac{15}{76}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.51
+   ],
+   [
+    "PRO-01",
+    0.17
+   ],
+   [
+    "PRO-04",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "PRO-02",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "f1dd7744f96c",
+  "image": "f1dd7744f96c.jpeg",
+  "grade": 12,
+  "topic": "Introduction to Geometric Transformation",
+  "question": "Persamaan bayangan dari garis 3x+4y-12 =0 jika dicerminkan terhadap garis x = 2 adalah ….",
+  "question_image": null,
+  "correct_answer": "3x - 4y =0",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.48
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.05
+   ],
+   [
+    "ALG-04",
+    0.05
+   ],
+   [
+    "COR-01",
+    0.05
+   ]
+  ]
+ }
+]

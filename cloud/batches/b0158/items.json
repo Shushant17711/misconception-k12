@@ -1,0 +1,282 @@
+[
+ {
+  "id": "28f2ac59a9bf",
+  "image": "28f2ac59a9bf.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Rata-rata nilai pada tabel tersebut adalah 7.\n\nNilai a adalah …",
+  "question_image": "q_28f2ac59a9bf_b19b9a1f-0db8-4ed2-b16b-9d6ee88cdf14.png",
+  "correct_answer": "25",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "ALG-05",
+    0.22
+   ],
+   [
+    "STA-01",
+    0.14
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "1d21a3099d6d",
+  "image": "1d21a3099d6d.jpeg",
+  "grade": 5,
+  "topic": "Solving daily life problems related to LCM and GCD",
+  "question": "Leo berlatih futsal setiap 6 hari sekali dan berlatih badminton setiap 8 hari sekali. \n\nJika pada tanggal 2 April Leo melakukan kedua latihan tersebut di hari yang sama, pada tanggal berapa Leo akan melakukan kedua latihan tersebut di hari yang sama lagi?",
+  "question_image": null,
+  "correct_answer": "26 April",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.26
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "CAL-01",
+    0.16
+   ],
+   [
+    "OTH-00",
+    0.11
+   ],
+   [
+    "FRM-01",
+    0.11
+   ],
+   [
+    "KPF-01",
+    0.1
+   ]
+  ]
+ },
+ {
+  "id": "7fa37fb3d806",
+  "image": "7fa37fb3d806.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Nilai dari $\\dfrac{^2\\log^2 32 - \\text{dari } {^2\\log^2 2}}{^2\\log 64}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "4",
+  "past_labels": [
+   [
+    "LOG-02",
+    0.32
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-02",
+    0.13
+   ],
+   [
+    "ALG-06",
+    0.05
+   ],
+   [
+    "EXP-06",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "80fadd3eb974",
+  "image": "80fadd3eb974.jpeg",
+  "grade": 12,
+  "topic": "Introduction to Geometric Transformation",
+  "question": "Persamaan bayangan dari garis 2x - y + 4 = 0 oleh dilatasi dengan pusat P(1, 2) dan faktor skala 2 adalah...",
+  "question_image": null,
+  "correct_answer": "2x - y + 8 =0",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.29
+   ],
+   [
+    "OTH-00",
+    0.17
+   ],
+   [
+    "INT-04",
+    0.17
+   ],
+   [
+    "ALG-04",
+    0.17
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "COR-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "207d864348da",
+  "image": "207d864348da.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Nilai Kuartil Atas $Q_3$ dari data adalah...",
+  "question_image": "q_207d864348da_560e5592-a2a7-4de4-b793-479c879f75e5.png",
+  "correct_answer": "7,21",
+  "past_labels": [
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "STA-04",
+    0.18
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "STA-05",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "35dc84db8f08",
+  "image": "35dc84db8f08.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Nilai dari $\\dfrac{^2\\log^2 32 - \\text{dari } {^2\\log^2 2}}{^2\\log 64}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "4",
+  "past_labels": [
+   [
+    "LOG-02",
+    0.32
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-02",
+    0.13
+   ],
+   [
+    "ALG-06",
+    0.05
+   ],
+   [
+    "EXP-06",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "fb3264e61c05",
+  "image": "fb3264e61c05.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Sebuah diagram lingkaran menggambarkan besar uang jajan 5 orang anak. Leo, Nara, Caca dan Nana memiliki persentase berturut-turut 20%, 15%, 25% dan 30%. Sisanya dimiliki oleh Andi. jika uang jajan Andi 50.000 lebih sedikit dari Nana, berapakah total uang jajan kelima anak tersebut?\n",
+  "question_image": null,
+  "correct_answer": "Rp250.000\n",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "WOP-01",
+    0.17
+   ],
+   [
+    "CAL-01",
+    0.14
+   ],
+   [
+    "WOP-02",
+    0.14
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "18d80be71205",
+  "image": "18d80be71205.jpeg",
+  "grade": 6,
+  "topic": "Speed",
+  "question": "$4 \\text{ m/detik} = \\dots \\text{ km/jam}$",
+  "question_image": null,
+  "correct_answer": "14,4",
+  "past_labels": [
+   [
+    "MEA-02",
+    0.57
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "Dec-02",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": "d80058c9fb78",
+  "image": "d80058c9fb78.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari operasi hitung -24 + 72 : (-6) x 3 - (-15) adalah…",
+  "question_image": null,
+  "correct_answer": "-45",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.35
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "INT-04",
+    0.24
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "c40c28b6850b",
+  "image": "c40c28b6850b.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Dalam rangka bakti sosial, seluruh siswa kelas 4 yang berjumlah 25 anak sepakat untuk mengumpulkan buku cerita bekas. Setiap anak membawa 2 ikat besar buku. Jika di dalam setiap ikat besar tersebut terdapat lagi 5 buah buku cerita, total seluruh buku cerita yang berhasil dikumpulkan oleh kelas tersebut untuk didonasikan adalah…",
+  "question_image": null,
+  "correct_answer": "250",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.39
+   ],
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "WOP-02",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.03
+   ],
+   [
+    "OPS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "4b528c50fbd9",
+  "image": "4b528c50fbd9.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Di dalam sebuah kantong terdapat 5 bola merah dan beberapa bola biru. Peluang terambilnya satu bola merah adalah $\\frac{1}{3}$ . \n\nJika dilakukan pengambilan dua bola satu per satu dengan pengembalian, peluang terambilnya **bola pertama biru dan bola kedua juga biru** adalah...",
+  "question_image": null,
+  "correct_answer": "$\\frac{4}{9}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "PRO-04",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "PRO-02",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "f397e1c1bbd1",
+  "image": "f397e1c1bbd1.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Tante Linda memiliki 40 kue cokelat dan 52 kue keju. Ia berencana membagikan kue-kue tersebut secara merata ke dalam beberapa wadah plastik untuk diberikan kepada tetangganya. Namun, sebelum dimasukkan ke dalam wadah, Leo memakan 4 kue cokelat dan 4 kue keju. Jika sisa kue tersebut ingin dibagi habis ke dalam wadah dengan jumlah dan jenis yang sama banyak tanpa ada kue yang tersisa, Tentukan banyak wadah maksimal yang harus disiapkan Tante Linda!",
+  "question_image": null,
+  "correct_answer": "12",
+  "past_labels": [
+   [
+    "KPF-04",
+    0.29
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "WOP-01",
+    0.14
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "KPF-02",
+    0.08
+   ],
+   [
+    "KPF-01",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "4ca0fc281dc7",
+  "image": "4ca0fc281dc7.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Perhatikan jumlah uang saku 3 siswa berikut!\nUrutan nama siswa dari yang uang sakunya paling banyak adalah…",
+  "question_image": "q_4ca0fc281dc7_b768877b-75ca-412d-b571-3f943905d5b1.png",
+  "correct_answer": "Budi - Andi - Caca",
+  "past_labels": [
+   [
+    "NONE",
+    0.7
+   ],
+   [
+    "WOP-02",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "ANS-01",
+    0.05
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "OPS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "5ebedd5cc88f",
+  "image": "5ebedd5cc88f.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Data di bawah ini menunjukkan pertumbuhan investasi modal awal (dalam jutaan rupiah) selama beberapa tahun ($t$).\n\nPada tahun ke-$0$ ($t = 0$), modal awal adalah $\\text{Rp10.000.000,00}$.\n\nPada tahun ke-$2$ ($t = 2$), modal berkembang menjadi $\\text{Rp14.400.000,00}$.\n\nJika model pertumbuhan tersebut mengikuti fungsi eksponen $W(t) = M_0 \\cdot (1 + r)^t$, total nilai investasi pada akhir tahun ke-$4$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "Rp20.736.000,00",
+  "past_labels": [
+   [
+    "SEQ-01",
+    0.39
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "OTH-00",
+    0.13
+   ],
+   [
+    "RAT-01",
+    0.13
+   ],
+   [
+    "FUN-01",
+    0.06
+   ],
+   [
+    "EXP-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "01f78715df68",
+  "image": "01f78715df68.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Kelipatan Persekutuan Terkecil dari bilangan 10, 15 dan 25 adalah…",
+  "question_image": null,
+  "correct_answer": "150",
+  "past_labels": [
+   [
+    "KPF-04",
+    0.4
+   ],
+   [
+    "NONE",
+    0.25
+   ],
+   [
+    "KPF-03",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "KPF-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "19d175560f3d",
+  "image": "19d175560f3d.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Ibu Guru memiliki 36 buah pensil. Pensil-pensil tersebut akan dibagikan ke dalam beberapa kotak pensil (lebih dari satu) sehingga setiap kotak berisi pensil dalam jumlah yang sama banyak tanpa ada pensil yang tersisa. Kemungkinan banyaknya kotak pensil yang dapat dibuat oleh Ibu Guru…Kotak",
+  "question_image": null,
+  "correct_answer": "2, 3, 4, 6, 9, 12, 18, atau 36",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "ANS-01",
+    0.29
+   ],
+   [
+    "KPF-04",
+    0.13
+   ],
+   [
+    "WOP-02",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.03
+   ]
+  ]
+ }
+]

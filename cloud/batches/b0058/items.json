@@ -1,0 +1,282 @@
+[
+ {
+  "id": "d32ec5fd8ae5",
+  "image": "d32ec5fd8ae5.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari $2\\sqrt{6} \\times \\sqrt{8} - \\sqrt{75}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$3\\sqrt{3}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.53
+   ],
+   [
+    "EXP-07",
+    0.27
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "f20f25154b6e",
+  "image": "f20f25154b6e.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Jika m merupakan penyelesaian dari 2(3x-2) - 4 = 4(x-1), maka nilai m-3 adalah ….",
+  "question_image": null,
+  "correct_answer": "-1",
+  "past_labels": [
+   [
+    "NONE",
+    0.2
+   ],
+   [
+    "ANS-02",
+    0.19
+   ],
+   [
+    "ALG-04",
+    0.13
+   ],
+   [
+    "INT-04",
+    0.11
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "ANS-01",
+    0.09
+   ]
+  ]
+ },
+ {
+  "id": "6afeebce7c10",
+  "image": "6afeebce7c10.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Tentukan hasil dari operasi hitung berikut dalam bentuk pecahan campuran\n\n$$ \\dfrac{3}{4} + \\dfrac{1}{2} : \\dfrac{2}{3} = $$",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{1}{2}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "FRA-01",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.12
+   ],
+   [
+    "CAL-01",
+    0.12
+   ],
+   [
+    "FRA-06",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "58fa5a7e86fb",
+  "image": "58fa5a7e86fb.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Toko alat tulis CoLearnShop menjual 2 buku dan 1 pensil seharga Rp19.000. Jika harga sebuah pensil Rp3.000, maka harga sebuah buku adalah ....",
+  "question_image": null,
+  "correct_answer": "Rp8.000",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.37
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ALG-04",
+    0.08
+   ],
+   [
+    "ALG-05",
+    0.07
+   ],
+   [
+    "NONE",
+    0.06
+   ],
+   [
+    "INT-04",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "60c447f7e7c4",
+  "image": "60c447f7e7c4.jpeg",
+  "grade": 12,
+  "topic": "Probability of Compound Events",
+  "question": "Dalam sebuah seleksi beasiswa yang diikuti oleh 50 siswa, panitia mencatat kriteria kepemilikan sertifikat sebagai berikut:\n\n* Sebanyak 25 siswa memiliki sertifikat prestasi akademik.\n* Sejumlah siswa memiliki sertifikat prestasi non-akademik.\n* 8 siswa diketahui memiliki kedua jenis sertifikat tersebut.\n\nJika peluang terpilihnya seorang siswa yang memiliki sertifikat prestasi akademik atau non-akademik adalah 0,64, maka berapakah jumlah siswa yang hanya memiliki sertifikat prestasi non-akademik saja?",
+  "question_image": null,
+  "correct_answer": "7",
+  "past_labels": [
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "CAL-01",
+    0.22
+   ],
+   [
+    "FRM-01",
+    0.22
+   ],
+   [
+    "PRO-04",
+    0.11
+   ],
+   [
+    "PRO-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "0988d98b8b0a",
+  "image": "0988d98b8b0a.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Seorang teknisi mencatat suhu sebuah mesin pendingin turun secara tetap 4 °C setiap 5 menit. Suhu awal mesin 18 °C. Mesin akan otomatis berhenti saat suhu mencapai −30 °C atau lebih rendah. \n\nWaktu paling singkat yang diperlukan hingga mesin berhenti otomatis adalah… ",
+  "question_image": null,
+  "correct_answer": "60 menit",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "INT-04",
+    0.27
+   ],
+   [
+    "OOO-01",
+    0.13
+   ],
+   [
+    "INT-02",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "8d58aec50d00",
+  "image": "8d58aec50d00.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Tentukan hasil dari operasi hitung berikut dalam bentuk pecahan campuran\n\n$$ \\dfrac{3}{4} + \\dfrac{1}{2} : \\dfrac{2}{3} = $$",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{1}{2}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "FRA-01",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.12
+   ],
+   [
+    "CAL-01",
+    0.12
+   ],
+   [
+    "FRA-06",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "5a59e5d04aae",
+  "image": "5a59e5d04aae.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Jika $12 \\times (-4) + 75 : 3 = x$\nmaka nilai $x$ adalah . . . .",
+  "question_image": null,
+  "correct_answer": "-23",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.37
+   ],
+   [
+    "INT-04",
+    0.2
+   ],
+   [
+    "INT-02",
+    0.18
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ }
+]

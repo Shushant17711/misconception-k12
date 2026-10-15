@@ -1,0 +1,282 @@
+[
+ {
+  "id": "49011b914357",
+  "image": "49011b914357.jpeg",
+  "grade": 12,
+  "topic": "Probability of Compound Events",
+  "question": "Pada sebuah sekolah yang memiliki 80 siswa kelas 8, terdapat pendataan mengenai keikutsertaan OSIS maupun pramuka. \nData menunjukkan:\n\n* Sebanyak 48 siswa aktif sebagai anggota Pramuka.\n* Peluang seorang siswa yang terpilih secara acak aktif di kedua organisasi (OSIS dan Pramuka) adalah 0,15.\n* Peluang seorang siswa yang terpilih secara acak tidak aktif di OSIS maupun Pramuka adalah 0,1.\n\nBerapakah peluang seorang siswa yang terpilih secara acak aktif sebagai anggota OSIS? ",
+  "question_image": null,
+  "correct_answer": "0,45",
+  "past_labels": [
+   [
+    "NONE",
+    0.51
+   ],
+   [
+    "PRO-04",
+    0.13
+   ],
+   [
+    "FRM-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.07
+   ],
+   [
+    "PRO-02",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "1e7a134078c5",
+  "image": "1e7a134078c5.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Sebuah segitiga siku-siku memiliki panjang sisi siku-siku $\\sqrt{18}\\text{ cm}$ dan $\\sqrt{32}\\text{ cm}$. Jika diketahui sisi miringnya $\\sqrt{50}\\text{ cm}$, maka keliling segitiga tersebut adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$12\\sqrt{2}\\text{ cm}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.52
+   ],
+   [
+    "EXP-07",
+    0.26
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "697f053a80a6",
+  "image": "697f053a80a6.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Diketahui: \nY = 3.600 : 48 \nX = 63.750 : Y\n\nNilai yang tepat untuk menggantikan huruf X adalah…",
+  "question_image": null,
+  "correct_answer": "850",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "PV-01",
+    0.2
+   ],
+   [
+    "OPS-02",
+    0.16
+   ],
+   [
+    "OPS-01",
+    0.13
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "2abee0f58178",
+  "image": "2abee0f58178.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Faktor dari 24 yang merupakan bilangan ganjil adalah…",
+  "question_image": null,
+  "correct_answer": "1 dan 3",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "WOP-02",
+    0.16
+   ],
+   [
+    "WOP-01",
+    0.13
+   ],
+   [
+    "ANS-01",
+    0.09
+   ],
+   [
+    "OPS-02",
+    0.06
+   ],
+   [
+    "OPS-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "06b6cb6a53f7",
+  "image": "06b6cb6a53f7.jpeg",
+  "grade": 4,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Dari diagram gambar di samping, selisih banyak buku pada toko buku Graha Media dan Media Ilmu adalah . . . .",
+  "question_image": "q_06b6cb6a53f7_289b413e-1ced-441e-b325-cf0d26b7d9ed.png",
+  "correct_answer": "625 buku",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "VIS-01",
+    0.31
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.02
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "bcf00da98a14",
+  "image": "bcf00da98a14.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Sebuah kotak berisi 20 bola yang diberi nomor 1 hingga 20. \nDua bola diambil satu per satu dengan pengembalian. \n\nPeluang terambilnya **bola pertama bilangan prima dan bola kedua bilangan genap yang juga kelipatan 3** adalah...",
+  "question_image": null,
+  "correct_answer": "$\\frac{3}{50}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.51
+   ],
+   [
+    "OTH-00",
+    0.17
+   ],
+   [
+    "PRO-04",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "PRO-02",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "7ff82338ebea",
+  "image": "7ff82338ebea.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Caca memiliki beberapa buah manik-manik. Jumlah manik-manik Caca merupakan bilangan kelipatan 7 yang nilainya terletak di antara 30 dan 45. Jika manik-manik tersebut dikelompokkan ke dalam wadah yang masing-masing berisi 6 buah, ternyata tidak ada manik-manik yang tersisa. Jumlah manik-manik yang dimiliki Caca adalah…",
+  "question_image": null,
+  "correct_answer": "42",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "WOP-01",
+    0.25
+   ],
+   [
+    "OTH-00",
+    0.18
+   ],
+   [
+    "WOP-02",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "29b0157edf54",
+  "image": "29b0157edf54.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Diketahui tiga bilangan bulat berbeda p, q, r, memenuhi operasi hitung campuran berikut: \r\n\r\np x (q + r) = -24 \r\n\r\nJika p = 6 dan q = -9, maka nilai dari p - q x r adalah…",
+  "question_image": null,
+  "correct_answer": "51",
+  "past_labels": [
+   [
+    "INT-04",
+    0.27
+   ],
+   [
+    "NONE",
+    0.22
+   ],
+   [
+    "ALG-06",
+    0.17
+   ],
+   [
+    "OOO-01",
+    0.13
+   ],
+   [
+    "INT-02",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": "9aa6e257fb65",
+  "image": "9aa6e257fb65.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Titik $A(a, b)$ dicerminkan terhadap garis $x = 2$, kemudian dilanjutkan dengan translasi oleh matriks $T = \\begin{pmatrix} -3 \\\\ 4 \\end{pmatrix}$. Jika koordinat bayangan akhir titik tersebut adalah $A''(1, 7)$, maka nilai dari $a + b$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.46
+   ],
+   [
+    "INT-04",
+    0.16
+   ],
+   [
+    "ALG-06",
+    0.15
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "b1618083f6a5",
+  "image": "b1618083f6a5.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Ibu membeli tepung terigu sebanyak $2\\dfrac{10}{8}\\text{ kg}$ untuk membuat kue di dapur. Saat ditimbang menggunakan timbangan digital, berat tepung terigu tersebut muncul dalam bentuk bilangan desimal. Angka desimal yang tertera pada layar timbangan adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "3,25",
+  "past_labels": [
+   [
+    "FRA-05",
+    0.38
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "ANS-01",
+    0.2
+   ],
+   [
+    "Dec-02",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "105b3e25e469",
+  "image": "105b3e25e469.jpeg",
+  "grade": 6,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari:\n$100 - 60 : 10 \\times ( -3 ) = $. . .",
+  "question_image": null,
+  "correct_answer": "118",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.62
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "INT-03",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "5206290f6d72",
+  "image": "5206290f6d72.jpeg",
+  "grade": 7,
+  "topic": "Angle",
+  "question": "Dua garis sejajar dipotong oleh sebuah garis transversal.  \nJumlah kedua sudut tersebut adalah ...\n",
+  "question_image": "q_5206290f6d72_dd6aca04-379b-44cd-be21-ab27887498f7.png",
+  "correct_answer": "$150^{\\circ}$",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.57
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "ANS-02",
+    0.06
+   ],
+   [
+    "ALG-06",
+    0.06
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "630166c86d5d",
+  "image": "630166c86d5d.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Sebuah taman berbentuk persegi panjang memiliki panjang (2x + 3) meter dan lebar (x - 1) meter. Jika keliling taman tersebut adalah 34 meter, maka nilai x yang memenuhi adalah...",
+  "question_image": null,
+  "correct_answer": "5",
+  "past_labels": [
+   [
+    "INT-04",
+    0.19
+   ],
+   [
+    "FRM-01",
+    0.16
+   ],
+   [
+    "OOO-02",
+    0.16
+   ],
+   [
+    "WOP-01",
+    0.08
+   ],
+   [
+    "ALG-04",
+    0.08
+   ],
+   [
+    "ALG-05",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "17c6c4300fde",
+  "image": "17c6c4300fde.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f(x) = 2x - 1$, $g(x) = x^2$, dan $h(x) = x + 2$.\r\nTentukan $(f \\circ g \\circ h)(x)$.",
+  "question_image": null,
+  "correct_answer": "$2x^2 + 8x + 7$",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.33
+   ],
+   [
+    "INT-04",
+    0.14
+   ],
+   [
+    "EXP-03",
+    0.14
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "INV-01",
+    0.06
+   ],
+   [
+    "EXP-04",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "5f60c664506f",
+  "image": "5f60c664506f.jpeg",
+  "grade": 10,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk $\\dfrac{2\\sqrt{5} + \\sqrt{2}}{\\sqrt{2} - \\sqrt{5}}$ dapat disederhanakan menjadi $\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\sqrt{10} - 4$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.18
+   ],
+   [
+    "ALG-04",
+    0.17
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "INT-04",
+    0.14
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "EXP-07",
+    0.08
+   ]
+  ]
+ },
+ {
+  "id": "cb037a50a39b",
+  "image": "cb037a50a39b.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor Persekutuan Terbesar dari bilangan 54 dan 90 adalah…",
+  "question_image": null,
+  "correct_answer": "18",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.41
+   ],
+   [
+    "KPF-04",
+    0.21
+   ],
+   [
+    "KPF-01",
+    0.17
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "KPF-03",
+    0.05
+   ],
+   [
+    "REL-01",
+    0.02
+   ]
+  ]
+ }
+]

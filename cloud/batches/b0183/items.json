@@ -1,0 +1,282 @@
+[
+ {
+  "id": "95b7206f6c9f",
+  "image": "95b7206f6c9f.jpeg",
+  "grade": 9,
+  "topic": "Application of Two-Variable Linear Equation Systems",
+  "question": "Di sebuah toko alat tulis, 2 buku tulis dan 4 pulpen seharga Rp17.000,00. Sedangkan 4 buku tulis dan 2 pulpen seharga Rp19.000,00. Jika harga sebuah buku tulis adalah x rupiah dan harga sebuah pulpen adalah y rupiah, maka harga masing - masing 1 buku tulis dan 1 pulpen adalah ....",
+  "question_image": null,
+  "correct_answer": "Rp3.500,00 & Rp2.500,00",
+  "past_labels": [
+   [
+    "NONE",
+    0.45
+   ],
+   [
+    "Dec-02",
+    0.3
+   ],
+   [
+    "SIM-01",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.05
+   ],
+   [
+    "WOP-02",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "4ef3c3331cb4",
+  "image": "4ef3c3331cb4.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari hasil operasi hitung 25 - (-17) + (-34) - 12 adalah...",
+  "question_image": null,
+  "correct_answer": "-4",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "INT-03",
+    0.23
+   ],
+   [
+    "CAL-01",
+    0.13
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-04",
+    0.07
+   ],
+   [
+    "INT-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "8768f11a2735",
+  "image": "8768f11a2735.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Nara memiliki dua helai pita hias. Pita pertama memiliki panjang 32 cm dan pita kedua memiliki panjang 60 cm. Nara ingin memotong kedua pita tersebut menjadi beberapa bagian yang sama panjang tanpa ada sisa pita yang terbuang. Maka berapa panjang maksimal setiap potongan pita yang diperoleh Nara?",
+  "question_image": null,
+  "correct_answer": "4 cm",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.36
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.1
+   ],
+   [
+    "KPF-02",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "bfdd7ce67127",
+  "image": "bfdd7ce67127.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Dalam suatu ujian dengan 40 soal, jawaban benar diberi skor 4, salah diberi skor -2, dan tidak dijawab diberi skor -1. \r\n\r\nJika Leo menjawab benar 28 soal dan salah 9 soal, total skor yang diperoleh Leo adalah . . .",
+  "question_image": null,
+  "correct_answer": "91",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "WOP-02",
+    0.14
+   ],
+   [
+    "OOO-01",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.08
+   ],
+   [
+    "INT-02",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "bced09ef34c0",
+  "image": "bced09ef34c0.jpeg",
+  "grade": 7,
+  "topic": "Applications of Linear Equations in One Variable",
+  "question": "Umur Andi 3 tahun lebih muda dari umur Budi. \nJika jumlah umur mereka adalah 27 tahun, berapakah umur Budi?",
+  "question_image": null,
+  "correct_answer": "15 tahun",
+  "past_labels": [
+   [
+    "NONE",
+    0.49
+   ],
+   [
+    "ANS-02",
+    0.16
+   ],
+   [
+    "OOO-02",
+    0.16
+   ],
+   [
+    "WOP-01",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "ALG-03",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "470af3889e9f",
+  "image": "470af3889e9f.jpeg",
+  "grade": 11,
+  "topic": "Application of Functions",
+  "question": "Sebuah perusahaan taksi menetapkan tarif awal (flagfall) sebesar Rp9.000 dan tarif per kilometer sebesar Rp5.200. Berapakah biaya yang harus dibayar penumpang jika menempuh jarak 15 km?",
+  "question_image": null,
+  "correct_answer": "Rp87.000",
+  "past_labels": [
+   [
+    "NONE",
+    0.92
+   ],
+   [
+    "WOP-01",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "569a42d052c0",
+  "image": "569a42d052c0.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Dalam sebuah uji coba laboratorium, suhu awal cairan kimia adalah -8°C. Cairan tersebut dipanaskan sehingga suhunya naik sebesar 4°C setiap 3 menit. Setelah 15 menit dipanaskan, terjadi gangguan mesin yang menyebabkan suhu cairan turun sebesar 18°C. Suhu akhir cairan tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "-6°C",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "OOO-01",
+    0.13
+   ],
+   [
+    "INT-04",
+    0.11
+   ],
+   [
+    "INT-02",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "97ca04597dac",
+  "image": "97ca04597dac.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Sebuah akuarium berbentuk balok memiliki volume $600.000$ cm$^3$. \n\nJika panjang dan lebar akuarium berturut-turut $150$ cm dan $80$ cm, maka tinggi akuarium tersebut adalah … cm. ",
+  "question_image": null,
+  "correct_answer": "50",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "MEA-04",
+    0.24
+   ],
+   [
+    "MEA-03",
+    0.24
+   ],
+   [
+    "VIS-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ }
+]

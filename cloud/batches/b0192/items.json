@@ -1,0 +1,282 @@
+[
+ {
+  "id": "4309b7e9181d",
+  "image": "4309b7e9181d.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk pangkat pecahan yang paling sederhana dari $\\sqrt[3]{a \\times \\sqrt{a}}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$a^{\\frac{1}{2}}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.62
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "EXP-07",
+    0.06
+   ],
+   [
+    "OOO-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "fc3ff301c741",
+  "image": "fc3ff301c741.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Sebuah laboratorium penelitian biologi mengamati pertumbuhan amoeba. Mula-mula terdapat $2^3$ amoeba di dalam wadah pengamatan. Setiap satu jam, setiap amoeba membelah diri menjadi dua. Jumlah total amoeba setelah waktu pengamatan berjalan selama $5\\text{ jam}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$2^8$",
+  "past_labels": [
+   [
+    "SEQ-01",
+    0.35
+   ],
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.04
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "53729ff0c267",
+  "image": "53729ff0c267.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari $\\dfrac{15p^5q^{-3}}{3p^2q} \\times (q^2)^3$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$5p^3q^2$",
+  "past_labels": [
+   [
+    "EXP-02",
+    0.32
+   ],
+   [
+    "OTH-00",
+    0.18
+   ],
+   [
+    "INT-04",
+    0.16
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "INT-03",
+    0.05
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "459a59248346",
+  "image": "459a59248346.jpeg",
+  "grade": 6,
+  "topic": "Integer Value",
+  "question": "Empat kota di dunia memiliki suhu udara sebagai berikut.\n- Kota A memiliki suhu $5^{\\circ}$C di bawah nol.\n- Kota B memiliki $2^{\\circ}$C di atas nol.\n- Kota C memiliki suhu $7^{\\circ}$C lebih dingin dari Kota A. \n- Kota D memiliki suhu $5^{\\circ}$C lebih hangat dari kota B.\nUrutan kota dari yang memiliki suhu paling dingin ke yang paling hangat adalah . . .",
+  "question_image": null,
+  "correct_answer": "Kota C, Kota A, Kota B, Kota D",
+  "past_labels": [
+   [
+    "NONE",
+    0.84
+   ],
+   [
+    "INT-04",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "2d5f9ec9bd97",
+  "image": "2d5f9ec9bd97.jpeg",
+  "grade": 5,
+  "topic": "Solving daily life problems related to LCM and GCD",
+  "question": "Sebanyak 16 siswa dan 24 siswi SD Ceria akan mengikuti kegiatan pramuka. \n\nMereka akan dibagi menjadi beberapa kelompok. \n\nSetiap kelompok berisi siswa dan siswi sama banyak. Banyak siswi yang ada di setiap kelompok adalah . . . orang.",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.4
+   ],
+   [
+    "KPF-01",
+    0.26
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "CAL-01",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "c617b516697b",
+  "image": "c617b516697b.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Boni memiliki 524 butir kelereng di dalam wadah. Ia memberikan 158 butir kelereng kepada adiknya untuk bermain, dan 36 diberikan kepada temannya. Sisa kelereng yang dimiliki Boni sekarang adalah...",
+  "question_image": null,
+  "correct_answer": "330",
+  "past_labels": [
+   [
+    "NONE",
+    0.64
+   ],
+   [
+    "WOP-02",
+    0.11
+   ],
+   [
+    "WOP-01",
+    0.08
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "ff38d4f6d298",
+  "image": "ff38d4f6d298.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Pak Doni memiliki $6\\dfrac{3}{4}\\text{ liter}$ minyak goreng. Minyak goreng tersebut digunakan untuk menggoreng makanan sebanyak $1\\dfrac{1}{2}\\text{ liter}$. Sisa minyak goreng akan dimasukkan ke dalam beberapa kantong plastik. Jika setiap kantong plastik berisi $\\dfrac{3}{8}\\text{ liter}$ minyak, banyak kantong plastik yang dibutuhkan Pak Doni adalah $\\dots$ kantong",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "WOP-01",
+    0.16
+   ],
+   [
+    "CAL-01",
+    0.14
+   ],
+   [
+    "FRA-06",
+    0.05
+   ],
+   [
+    "FRA-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "bfb4c4ab54f4",
+  "image": "bfb4c4ab54f4.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari $\\dfrac{15p^5q^{-3}}{3p^2q} \\times (q^2)^3$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$5p^3q^2$",
+  "past_labels": [
+   [
+    "EXP-02",
+    0.32
+   ],
+   [
+    "OTH-00",
+    0.18
+   ],
+   [
+    "INT-04",
+    0.16
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "INT-03",
+    0.05
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ }
+]

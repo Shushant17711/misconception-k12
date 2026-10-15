@@ -1,0 +1,282 @@
+[
+ {
+  "id": "9de5a8b3d043",
+  "image": "9de5a8b3d043.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Nara memiliki dua helai pita hias. Pita pertama memiliki panjang 32 cm dan pita kedua memiliki panjang 60 cm. Nara ingin memotong kedua pita tersebut menjadi beberapa bagian yang sama panjang tanpa ada sisa pita yang terbuang. Maka berapa panjang maksimal setiap potongan pita yang diperoleh Nara?",
+  "question_image": null,
+  "correct_answer": "4 cm",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.36
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.1
+   ],
+   [
+    "KPF-02",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "ca21b2a0766d",
+  "image": "ca21b2a0766d.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Exponents",
+  "question": "Sebuah sinyal radio memiliki kekuatan awal $2^5$ satuan. Setiap kali melewati satu penghalang tembok, kekuatan sinyal dikalikan dengan faktor $2^{-2}$. Jika sinyal tersebut melewati 3 penghalang tembok, kekuatan sinyal setelahnya adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{1}{2}$",
+  "past_labels": [
+   [
+    "EXP-01",
+    0.56
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.11
+   ],
+   [
+    "EXP-04",
+    0.06
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "FRA-03",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "4fd8fd4faeef",
+  "image": "4fd8fd4faeef.jpeg",
+  "grade": 8,
+  "topic": "Measures of Central Tendency",
+  "question": "Jumlah pengunjung sebuah pameran selama enam hari berturut-turut adalah 120, 140, 150, x, 180, dan 190 orang.\n\nJika rata-rata jumlah pengunjung selama enam hari tersebut adalah 160 orang, maka nilai $x$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "180",
+  "past_labels": [
+   [
+    "NONE",
+    0.46
+   ],
+   [
+    "STA-01",
+    0.29
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "STA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "ea3913e01169",
+  "image": "ea3913e01169.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Nilai median dari data berdasarkan histogram berikut adalah ...\n",
+  "question_image": "q_ea3913e01169_380e29e8-1c03-4042-ba56-c4ce0e3e0034.png",
+  "correct_answer": "53,36 kg",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "STA-05",
+    0.11
+   ],
+   [
+    "VIS-01",
+    0.1
+   ],
+   [
+    "STA-04",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "0615d995de24",
+  "image": "0615d995de24.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Berat badan seekor kucing peliharaan tercatat 2,625 kg pada timbangan digital dokter hewan. Berat kucing jika dinyatakan sebagai pecahan campuran paling sederhana adalah…",
+  "question_image": null,
+  "correct_answer": "$2\\dfrac{5}{8}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "OTH-00",
+    0.23
+   ],
+   [
+    "Dec-02",
+    0.14
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "FRA-05",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "6f4efcbda92b",
+  "image": "6f4efcbda92b.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah wadah berbentuk tabung terbuka (tanpa tutup) memiliki diameter alas $20\\text{ cm}$ dan tinggi $15\\text{ cm}$. Luas permukaan bahan yang dibutuhkan untuk membuat wadah tersebut adalah $\\dots\\text{ cm}^2$.",
+  "question_image": null,
+  "correct_answer": "1.256",
+  "past_labels": [
+   [
+    "NONE",
+    0.53
+   ],
+   [
+    "CAL-01",
+    0.17
+   ],
+   [
+    "MEA-04",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "6656a7ed8c35",
+  "image": "6656a7ed8c35.jpeg",
+  "grade": 11,
+  "topic": "Residuals",
+  "question": "Dalam analisis regresi, selisih antara nilai asli dari observasi (data di lapangan) dengan nilai prediksi dari garis regresi disebut sebagai residu (error). \n\nSaat mengevaluasi seberapa akurat sebuah garis regresi, ahli statistik selalu menghitung kuadrat dari residu tersebut.\n\nNilai residu harus dikuadratkan terlebih dahulu sebelum dijumlahkan supaya …",
+  "question_image": null,
+  "correct_answer": "Agar residu yang bernilai negatif (berada di bawah garis) dan positif (berada di atas garis) tidak saling meniadakan saat dijumlahkan",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.5
+   ],
+   [
+    "NONE",
+    0.29
+   ],
+   [
+    "EXP-01",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "0924b92454d6",
+  "image": "0924b92454d6.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Pak Budi memiliki sebidang tanah pertanian. Sebanyak $\\dfrac{2}{5}$ bagian tanah ditanami padi, $\\dfrac{3}{8}$ bagian ditanami jagung, dan sisanya dibuat kolam ikan. Bagian tanah yang dibuat kolam ikan dalam bentuk desimal adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "0,225",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.38
+   ],
+   [
+    "CAL-01",
+    0.23
+   ],
+   [
+    "OPS-02",
+    0.12
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "Dec-02",
+    0.04
+   ],
+   [
+    "FRA-05",
+    0.04
+   ]
+  ]
+ }
+]

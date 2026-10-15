@@ -1,0 +1,282 @@
+[
+ {
+  "id": "4932c084ad45",
+  "image": "4932c084ad45.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Tentukan hasil dari\n$\\dfrac{25}{30} - \\left(\\dfrac{10}{30} + \\dfrac{7}{30}\\right)$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{8}{30}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.59
+   ],
+   [
+    "FRA-06",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.09
+   ],
+   [
+    "FRA-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "d36246a59bc6",
+  "image": "d36246a59bc6.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Nara memiliki dua helai pita hias. Pita pertama memiliki panjang 32 cm dan pita kedua memiliki panjang 60 cm. Nara ingin memotong kedua pita tersebut menjadi beberapa bagian yang sama panjang tanpa ada sisa pita yang terbuang. Maka berapa panjang maksimal setiap potongan pita yang diperoleh Nara?",
+  "question_image": null,
+  "correct_answer": "4 cm",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.36
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.1
+   ],
+   [
+    "KPF-02",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "dfaef13be702",
+  "image": "dfaef13be702.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Seorang pekerja bangunan menumpuk batu bata untuk pembuatan dinding. Pada tumpukan paling atas terdapat 10 batu bata, tumpukan di bawahnya terdapat 14 batu bata, dan seterusnya bertambah 4 batu bata pada setiap tumpukan di bawahnya. Jika tumpukan batu bata yang paling bawah (tumpukan terakhir) terdiri dari 58 batu bata, tentukan jumlah seluruh batu bata yang ada pada tumpukan tersebut!",
+  "question_image": null,
+  "correct_answer": "442",
+  "past_labels": [
+   [
+    "NONE",
+    0.42
+   ],
+   [
+    "SEQ-02",
+    0.27
+   ],
+   [
+    "CAL-01",
+    0.12
+   ],
+   [
+    "FRM-01",
+    0.09
+   ],
+   [
+    "REL-01",
+    0.03
+   ],
+   [
+    "SIM-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "d59787cc6e13",
+  "image": "d59787cc6e13.jpeg",
+  "grade": 8,
+  "topic": "Measures of Central Tendency",
+  "question": "Diketahui rata-rata perubahan suhu adalah $-1^\\circ \\text{C}$.\n\nNilai $x$ adalah $\\ldots$",
+  "question_image": "q_d59787cc6e13_18afebdb-8753-442e-837c-cd1c8a55b8de.png",
+  "correct_answer": "2",
+  "past_labels": [
+   [
+    "NONE",
+    0.4
+   ],
+   [
+    "STA-01",
+    0.25
+   ],
+   [
+    "INT-04",
+    0.16
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "44cd6ef77ef1",
+  "image": "44cd6ef77ef1.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Pada sebuah simulator radar pertahanan, posisi awal sebuah kapal selam terdeteksi pada titik koordinat A(4, -6). Kapal tersebut bergerak mengikuti pola instruksi dua transformasi berturut-turut: pertama, direfleksikan terhadap garis y = -x, kemudian dilanjutkan dengan rotasi sebesar 90° berlawanan arah jarum jam dengan pusat titik P(1, 2). Posisi koordinat akhir kapal selam tersebut berada pada... ",
+  "question_image": null,
+  "correct_answer": "(7,7)",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.53
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "OTH-00",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.05
+   ],
+   [
+    "OOO-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "e2e4a3c97750",
+  "image": "e2e4a3c97750.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah gudang memiliki persediaan 85.000 kotak susu. Gudang tersebut menyalurkan bantuan susu ke Kecamatan A sebanyak 27.500 dan ke Kecamatan B sebanyak 34.850 kotak. Sisa susu yang ada di gudang tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "22.650 kotak",
+  "past_labels": [
+   [
+    "OPS-01",
+    0.67
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "PV-01",
+    0.06
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "OPS-02",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "90491f2a20a2",
+  "image": "90491f2a20a2.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Sederhanakan bentuk aljabar berpangkat berikut menjadi bentuk pangkat positif: $\\dfrac{\\left(a^{-3} \\cdot b^2\\right)}{a^{-11} \\cdot b^4}$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{a^8}{b^2}$",
+  "past_labels": [
+   [
+    "INT-04",
+    0.29
+   ],
+   [
+    "EXP-02",
+    0.19
+   ],
+   [
+    "INT-03",
+    0.17
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "1e95c4b994d5",
+  "image": "1e95c4b994d5.jpeg",
+  "grade": 10,
+  "topic": "Exponential Applications (Exponents)",
+  "question": "Seorang pasien disuntik obat sebanyak 200 mg. Setiap 4 jam, dosis obat di dalam tubuh pasien akan meluruh dan tersisa 50% dari dosis jam sebelumnya. Sisa obat yang ada di dalam tubuh pasien setelah 12 jam adalah...",
+  "question_image": null,
+  "correct_answer": "25 mg",
+  "past_labels": [
+   [
+    "NONE",
+    0.65
+   ],
+   [
+    "SEQ-01",
+    0.2
+   ],
+   [
+    "CAL-01",
+    0.06
+   ],
+   [
+    "Dec-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ }
+]

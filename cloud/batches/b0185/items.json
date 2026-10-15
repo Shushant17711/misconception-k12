@@ -1,0 +1,282 @@
+[
+ {
+  "id": "98e99c1c3fb8",
+  "image": "98e99c1c3fb8.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah toko alat tulis menerima kiriman 84.672 pensil. Pensil tersebut akan dimasukkan ke dalam beberapa kotak dengan jumlah yang sama. Empat siswa memberikan pendapat berikut.\r\n* Andi: \"Jika ada 288 kotak, setiap kotak berisi 294 pensil.\"\r\n* Beni: \"Jika ada 294 kotak, setiap kotak berisi 288 pensil.\"\r\n* Citra: \"Pendapat Andi dan Beni sama-sama benar.\"\r\n* Dinda: \"Salah satu dari Andi atau Beni pasti salah.\"\r\nPernyataan yang benar adalah ...",
+  "question_image": null,
+  "correct_answer": "Andi, Beni, dan Citra benar",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "OPS-01",
+    0.29
+   ],
+   [
+    "ANS-01",
+    0.17
+   ],
+   [
+    "PV-01",
+    0.08
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "6b1157a62bfa",
+  "image": "6b1157a62bfa.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Seorang petani mencatat jumlah pupuk yang digunakan (x, dalam kg) dan hasil panen yang diperoleh (y, dalam kg) selama beberapa musim. Data yang diperoleh adalah sebagai berikut:\n\n* Pupuk (x): 5, 10, 15, 20\n* Hasil Panen (y): 30, 50, 70, 90\n\nJika diketahui SSxx = 125 dan SSxy = 500, petani ingin memperkirakan hasil panen jika menggunakan 12 kg pupuk. Perkiraan hasil panen dan jenis prediksi yang tepat adalah ....",
+  "question_image": null,
+  "correct_answer": "58 kg, interpolasi",
+  "past_labels": [
+   [
+    "NONE",
+    0.68
+   ],
+   [
+    "WOP-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "INT-04",
+    0.03
+   ],
+   [
+    "WOP-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "51eda60df38f",
+  "image": "51eda60df38f.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari (−6) × 8 : (−4) × (−3) adalah…",
+  "question_image": null,
+  "correct_answer": "-36",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.59
+   ],
+   [
+    "NONE",
+    0.16
+   ],
+   [
+    "INT-02",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "7cec352d6878",
+  "image": "7cec352d6878.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Seorang perajin mainan ingin melapisi 2 buah bola bekel dengan lapisan karet khusus agar tidak licin. Masing-masing bola bekel tersebut memiliki diameter $14\\text{ cm}$. Perajin tersebut membeli satu paket gel karet yang diklaim dapat melapisi permukaan benda hingga total luas $1300\\text{ cm}^2$. Jika perajin ingin mengetahui sisa kapasitas gel karet yang tidak terpakai setelah kedua bola selesai dilapisi, berapakah sisa luas yang tersedia? (Gunakan $\\pi = \\dfrac{22}{7}$)",
+  "question_image": null,
+  "correct_answer": "$68\\text{ cm}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.46
+   ],
+   [
+    "MEA-04",
+    0.24
+   ],
+   [
+    "EXP-01",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "ca26ec043253",
+  "image": "ca26ec043253.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Sebuah laboratorium penelitian biologi mengamati pertumbuhan amoeba. Mula-mula terdapat $2^3$ amoeba di dalam wadah pengamatan. Setiap satu jam, setiap amoeba membelah diri menjadi dua. Jumlah total amoeba setelah waktu pengamatan berjalan selama $5\\text{ jam}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$2^8$",
+  "past_labels": [
+   [
+    "SEQ-01",
+    0.35
+   ],
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.04
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "0a17d0edacde",
+  "image": "0a17d0edacde.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Perhatikan diagram di samping! \nJika diketahui sebanyak 15 siswa gemar makan mie rebus, maka banyak siswa seluruhnya adalah ... orang.",
+  "question_image": "q_0a17d0edacde_792ffb7a-944a-4e8d-8c03-b1884a1e6bdc.png",
+  "correct_answer": "54 orang",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "CAL-01",
+    0.16
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "832e883378f9",
+  "image": "832e883378f9.jpeg",
+  "grade": 11,
+  "topic": "Value and Form of a Function",
+  "question": "Diketahui $f(x) = x^2 + 2x - 3$. Tentukan $f(2a - 1)$ dinyatakan dalam $a$.",
+  "question_image": null,
+  "correct_answer": "$4a^2 - 4$",
+  "past_labels": [
+   [
+    "EXP-03",
+    0.37
+   ],
+   [
+    "FUN-01",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "ALG-04",
+    0.09
+   ],
+   [
+    "ANS-02",
+    0.09
+   ],
+   [
+    "ALG-02",
+    0.09
+   ]
+  ]
+ },
+ {
+  "id": "a32c6c1621f6",
+  "image": "a32c6c1621f6.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor persekutuan terbesar dari 40, 60, dan 100 adalah… ",
+  "question_image": null,
+  "correct_answer": "20",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.35
+   ],
+   [
+    "FRM-01",
+    0.26
+   ],
+   [
+    "KPF-04",
+    0.17
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "KPF-03",
+    0.09
+   ],
+   [
+    "REL-01",
+    0.01
+   ]
+  ]
+ }
+]

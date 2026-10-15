@@ -1,0 +1,282 @@
+[
+ {
+  "id": "fdb068b0dba7",
+  "image": "fdb068b0dba7.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Hasil dari 68.450 + 23.180 - 45.290 adalah…",
+  "question_image": null,
+  "correct_answer": "46.340",
+  "past_labels": [
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "OPS-01",
+    0.33
+   ],
+   [
+    "PV-01",
+    0.1
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "6472856a5de4",
+  "image": "6472856a5de4.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Seorang petani memanen 75 kg buah apel dan 105 kg buah jeruk. Ia ingin memasukkan buah-buahan tersebut ke dalam beberapa keranjang secara merata tanpa ada yang tersisa. Namun setelah diperiksa, terdapat 5 buah apel dan 7 jeruk yang busuk sehingga harus dibuang. Jika setiap keranjang harus memuat buah apel yang sama banyak dan buah jeruk yang sama banyak. Maka jumlah keranjang paling banyak yang dapat disiapkan oleh petani tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.5
+   ],
+   [
+    "ANS-01",
+    0.21
+   ],
+   [
+    "KPF-02",
+    0.08
+   ],
+   [
+    "KPF-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "FRM-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "539b37b3a30f",
+  "image": "539b37b3a30f.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Dalam sebuah seleksi tim olimpiade sekolah yang diikuti oleh 60 siswa, terdapat dua bidang uji yaitu Matematika dan Fisika.\nData yang diperoleh adalah sebagai berikut:\n\n* Sebanyak 36 siswa dinyatakan lulus pada uji Matematika.\n* Peluang seorang siswa yang terpilih secara acak dinyatakan lulus pada kedua bidang uji tersebut adalah 0,2.\n* Peluang seorang siswa yang terpilih secara acak dinyatakan lulus uji Matematika atau Fisika adalah 0,8.\n\nBerapakah peluang seorang siswa yang terpilih secara acak dinyatakan lulus pada uji Fisika? ",
+  "question_image": null,
+  "correct_answer": "0,4",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "FRM-01",
+    0.22
+   ],
+   [
+    "PRO-04",
+    0.11
+   ],
+   [
+    "CAL-01",
+    0.06
+   ],
+   [
+    "PRO-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "91ede77e400c",
+  "image": "91ede77e400c.jpeg",
+  "grade": 4,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Pada pukul 11.00 sampai 12.00 pasien mengalami kenaikan suhu sehingga dokter harus memberikan obat penurun demam.\nBerapakah kenaikan suhu nya?",
+  "question_image": "q_91ede77e400c_7697bae3-ac42-4618-9405-aa58506f724e.png",
+  "correct_answer": "$2^\\circ\\text{C}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "VIS-01",
+    0.21
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "12fb81019a43",
+  "image": "12fb81019a43.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor Persekutuan Terbesar dari bilangan 54 dan 90 adalah…",
+  "question_image": null,
+  "correct_answer": "18",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.41
+   ],
+   [
+    "KPF-04",
+    0.21
+   ],
+   [
+    "KPF-01",
+    0.17
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "KPF-03",
+    0.05
+   ],
+   [
+    "REL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "afcab1615d97",
+  "image": "afcab1615d97.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Sebuah toko alat tulis menjual pensil secara paket. Setiap paket berisi 5 buah pensil. Kakak ingin membeli pensil tersebut untuk dibagikan kepada beberapa anak di panti asuhan. Jika Kakak membutuhkan pensil dengan jumlah di antara 32 dan 48 buah, tuliskan semua kemungkinan jumlah pensil yang dapat dibeli Kakak sesuai dengan paket kemasan yang tersedia!",
+  "question_image": null,
+  "correct_answer": "35, 40, 45",
+  "past_labels": [
+   [
+    "NONE",
+    0.64
+   ],
+   [
+    "WOP-02",
+    0.11
+   ],
+   [
+    "WOP-01",
+    0.08
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "f6aafd45001f",
+  "image": "f6aafd45001f.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Tentukan nilai logaritma berikut:\r\n$ \\dfrac{^4\\log 16 + {^{27}\\log 81}}{^2\\log \\dfrac{1}{8}} $",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{10}{9}$",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.26
+   ],
+   [
+    "LOG-02",
+    0.19
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "OOO-01",
+    0.12
+   ],
+   [
+    "INT-02",
+    0.12
+   ],
+   [
+    "ALG-06",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "9759556267c7",
+  "image": "9759556267c7.jpeg",
+  "grade": 8,
+  "topic": "Exponents",
+  "question": "Pak Andi membeli sebuah sepeda motor baru pada tahun 2024 (tahun ke-0) seharga Rp 24.000.000. \nSetiap tahun, harga jual kembali sepeda motor tersebut menyusut menjadi $\\dfrac{3}{4}$​ dari harga tahun sebelumnya. \n\nPerbandingan harga sepeda motor pada tahun ke-0 terhadap harga pada tahun ke-2 adalah …",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{16}{9}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "OTH-00",
+    0.19
+   ],
+   [
+    "EXP-01",
+    0.12
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.03
+   ]
+  ]
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": "419f8ff63411",
+  "image": "419f8ff63411.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Dalam sebuah seleksi beasiswa yang diikuti oleh 50 siswa, panitia mencatat kriteria kepemilikan sertifikat sebagai berikut:\n\n* Sebanyak 25 siswa memiliki sertifikat prestasi akademik.\n* Sejumlah siswa memiliki sertifikat prestasi non-akademik.\n* 8 siswa diketahui memiliki kedua jenis sertifikat tersebut.\n\nJika peluang terpilihnya seorang siswa yang memiliki sertifikat prestasi akademik atau non-akademik adalah 0,64, maka berapakah jumlah siswa yang hanya memiliki sertifikat prestasi non-akademik saja?",
+  "question_image": null,
+  "correct_answer": "7",
+  "past_labels": [
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "CAL-01",
+    0.22
+   ],
+   [
+    "FRM-01",
+    0.22
+   ],
+   [
+    "PRO-04",
+    0.11
+   ],
+   [
+    "PRO-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "dd6f9938dbdb",
+  "image": "dd6f9938dbdb.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari $\\dfrac{a^6 \\times (b^2)^3}{b^4 \\times a^2}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$a^4b^2$",
+  "past_labels": [
+   [
+    "EXP-02",
+    0.32
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "OTH-00",
+    0.18
+   ],
+   [
+    "INT-03",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "bf3c46f03047",
+  "image": "bf3c46f03047.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Dalam sebuah lomba lari, seorang pelari telah menempuh jarak $3\\dfrac{5}{8}$ dari total lintasan sepanjang $5\\text{ km}$. Panitia lomba mencatat progres pelari menggunakan alat GPS yang menampilkan jarak tempuh dalam bentuk desimal. Jarak tempuh yang ditampilkan alat GPS tersebut dalam bentuk desimal adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "3,625",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "WOP-02",
+    0.2
+   ],
+   [
+    "FRA-05",
+    0.13
+   ],
+   [
+    "OPS-02",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.07
+   ],
+   [
+    "Dec-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "023bd5f48075",
+  "image": "023bd5f48075.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Sebuah gedung pertunjukan menata susunan kursi penonton membentuk pola barisan aritmetika. Pada baris pertama terdapat 17 kursi, baris kedua terdapat 24 kursi, baris ketiga terdapat 31 kursi, dan seterusnya dengan jumlah kursi yang selalu bertambah secara tetap pada setiap baris. Banyaknya kursi yang berada pada baris ke-20 adalah……kursi",
+  "question_image": null,
+  "correct_answer": "150",
+  "past_labels": [
+   [
+    "SEQ-02",
+    0.33
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "FRM-01",
+    0.21
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "REL-01",
+    0.02
+   ],
+   [
+    "SIM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "2a0b4f301c8b",
+  "image": "2a0b4f301c8b.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Sebuah monumen mini berbentuk balok pada bagian bawah dan kubus di atasnya. \n\nPanjang dan lebar balok adalah 12 cm dan 6 cm, sedangkan tingginya 8 cm. \n\nJika lebar balok sama persis dengan panjang rusuk kubus yang ada di atasnya, volume total monumen tersebut adalah . . . $\\text{cm}^3$",
+  "question_image": null,
+  "correct_answer": "792",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "WOP-01",
+    0.14
+   ],
+   [
+    "OTH-00",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "MEA-04",
+    0.05
+   ],
+   [
+    "MEA-03",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "04823036ce85",
+  "image": "04823036ce85.jpeg",
+  "grade": 8,
+  "topic": "Exponents",
+  "question": "$\\dfrac{2^{-3} \\times 4^2}{2^0} = \\ldots$",
+  "question_image": null,
+  "correct_answer": "$2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.34
+   ],
+   [
+    "OTH-00",
+    0.24
+   ],
+   [
+    "EXP-02",
+    0.11
+   ],
+   [
+    "FRM-01",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "EXP-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "df0ba741a0f9",
+  "image": "df0ba741a0f9.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Panitia jalan sehat memasang pos penanganan medis di sepanjang rute kegiatan. Pos pertama dipasang pada kilometer ke-3, pos kedua pada kilometer ke-7, pos ketiga pada kilometer ke-11, dan seterusnya mengikuti pola yang sama. Jika pos terakhir dipasang pada kilometer ke-55, maka banyak pos penanganan medis yang dipasang oleh panitia adalah…",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "CAL-01",
+    0.27
+   ],
+   [
+    "SEQ-02",
+    0.22
+   ],
+   [
+    "FRM-01",
+    0.07
+   ],
+   [
+    "REL-01",
+    0.02
+   ],
+   [
+    "SIM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "4cd8bb410148",
+  "image": "4cd8bb410148.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Kelipatan Persekutuan Terkecil dari bilangan 10, 15 dan 25 adalah…",
+  "question_image": null,
+  "correct_answer": "150",
+  "past_labels": [
+   [
+    "KPF-04",
+    0.4
+   ],
+   [
+    "NONE",
+    0.25
+   ],
+   [
+    "KPF-03",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "KPF-01",
+    0.04
+   ]
+  ]
+ }
+]

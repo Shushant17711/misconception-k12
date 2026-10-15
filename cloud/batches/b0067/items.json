@@ -1,0 +1,282 @@
+[
+ {
+  "id": "0969609de11b",
+  "image": "0969609de11b.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Seorang arsitektur landscape sedang mendesain taman berbentuk persegi panjang dengan panjang $\\sqrt{180}$ meter dan lebar $\\sqrt{80}$ meter. \r\n\r\nIa ingin memasang pagar pembatas tepat pada garis diagonal taman tersebut. \r\n\r\nMenggunakan Teorema Pythagoras, panjang pagar diagonal tersebut adalah $\\sqrt{(\\sqrt{180})^2 + (\\sqrt{80})^2}$ meter. \r\n\r\nBentuk paling sederhana dari panjang pagar diagonal taman tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "$2\\sqrt{65}$ meter",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.46
+   ],
+   [
+    "EXP-07",
+    0.24
+   ],
+   [
+    "NONE",
+    0.2
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "6d63754817f6",
+  "image": "6d63754817f6.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Diketahui barisan aritmatika dengan variabel yang hilang sebagai berikut:\r\n42, a, 26, b,...\r\nMaka nilai a adalah…\r",
+  "question_image": null,
+  "correct_answer": "34",
+  "past_labels": [
+   [
+    "SEQ-02",
+    0.43
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "CAL-01",
+    0.16
+   ],
+   [
+    "FRM-01",
+    0.14
+   ],
+   [
+    "REL-01",
+    0.01
+   ],
+   [
+    "SIM-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "69d875fec924",
+  "image": "69d875fec924.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Suhu udara di dalam sebuah ruang pendingin awal mulanya adalah -6°C. Ketika mesin pendingin dimatikan untuk perawatan, suhu udara di dalam ruangan tersebut naik sebesar 3°C setiap 10 menit. Berapakah suhu udara di dalam ruang pendingin tersebut setelah mesin dimatikan selama 40 menit?",
+  "question_image": null,
+  "correct_answer": "6°C",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "OOO-01",
+    0.16
+   ],
+   [
+    "INT-04",
+    0.13
+   ],
+   [
+    "INT-02",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "3faad506f730",
+  "image": "3faad506f730.jpeg",
+  "grade": 12,
+  "topic": "Counting Rules",
+  "question": "Diberikan himpunan angka {1, 2, 3, 4, 5, 6, 7}. Dari angka-angka tersebut, akan disusun bilangan ganjil yang terdiri dari 4 angka berbeda. Banyak susunan bilangan ganjil yang dapat terbentuk adalah...",
+  "question_image": null,
+  "correct_answer": "480",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.33
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "PRO-04",
+    0.25
+   ],
+   [
+    "FRM-01",
+    0.14
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "784330fca5bb",
+  "image": "784330fca5bb.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari $5\\sqrt{27} - 3\\sqrt{12} + \\sqrt{48}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$13\\sqrt{3}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.52
+   ],
+   [
+    "EXP-07",
+    0.21
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "101849b01d20",
+  "image": "101849b01d20.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Diketahui barisan aritmatika berikut:\r\nx, 15, y, 29,....\r\nTentukan nilai dari suku ke-10 pada barisan tersebut!\r",
+  "question_image": null,
+  "correct_answer": "71",
+  "past_labels": [
+   [
+    "SEQ-02",
+    0.42
+   ],
+   [
+    "CAL-01",
+    0.17
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "FRM-01",
+    0.1
+   ],
+   [
+    "REL-01",
+    0.08
+   ],
+   [
+    "SIM-01",
+    0.08
+   ]
+  ]
+ },
+ {
+  "id": "189b55257017",
+  "image": "189b55257017.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Jika $3(2x - 5) + 4 = 5(x + 3) - 2$ mempunyai penyelesaian $x = p$, maka nilai $4p + 7$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "103",
+  "past_labels": [
+   [
+    "ALG-04",
+    0.27
+   ],
+   [
+    "OPS-01",
+    0.19
+   ],
+   [
+    "WOP-01",
+    0.1
+   ],
+   [
+    "ALG-05",
+    0.08
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "INT-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "ddd58f8b29b2",
+  "image": "ddd58f8b29b2.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Rata-rata nilai pada tabel tersebut adalah 7.\n\nNilai a adalah …",
+  "question_image": "q_ddd58f8b29b2_b19b9a1f-0db8-4ed2-b16b-9d6ee88cdf14.png",
+  "correct_answer": "25",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "ALG-05",
+    0.22
+   ],
+   [
+    "STA-01",
+    0.14
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ }
+]

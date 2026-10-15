@@ -1,0 +1,282 @@
+[
+ {
+  "id": "3de0326723eb",
+  "image": "3de0326723eb.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Ibu Guru memiliki 36 buah pensil. Pensil-pensil tersebut akan dibagikan ke dalam beberapa kotak pensil (lebih dari satu) sehingga setiap kotak berisi pensil dalam jumlah yang sama banyak tanpa ada pensil yang tersisa. Kemungkinan banyaknya kotak pensil yang dapat dibuat oleh Ibu Guru…Kotak",
+  "question_image": null,
+  "correct_answer": "2, 3, 4, 6, 9, 12, 18, atau 36",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "ANS-01",
+    0.29
+   ],
+   [
+    "KPF-04",
+    0.13
+   ],
+   [
+    "WOP-02",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "9f8d77210d77",
+  "image": "9f8d77210d77.jpeg",
+  "grade": 11,
+  "topic": "Function Operations",
+  "question": "Jika $f(x) = x - 4$ maka $f(x) + [f(x)]^2 - 3f(x) = \\dots$",
+  "question_image": null,
+  "correct_answer": "$x^2 - 10x + 24$",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "FUN-01",
+    0.15
+   ],
+   [
+    "QUA-02",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "783c821c125d",
+  "image": "783c821c125d.jpeg",
+  "grade": 6,
+  "topic": "Comparison of Fractions",
+  "question": "Diberikan empat buah bilangan desimal sebagai berikut:\n0,375 ; 0,335 ; 0,308 ; 0,35\nTanda yang tepat untuk mengurutkan keempat bilangan tersebut dari nilai yang terbesar ke terkecil adalah ...\n",
+  "question_image": null,
+  "correct_answer": "0,375 > 0,35 > 0,335 > 0,308",
+  "past_labels": [
+   [
+    "Dec-01",
+    0.56
+   ],
+   [
+    "Dec-02",
+    0.28
+   ],
+   [
+    "NONE",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "PV-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "3ad68be0162b",
+  "image": "3ad68be0162b.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari \r\n$\\sqrt{400} - \\sqrt{144} + \\sqrt{625} \\div \\sqrt{25}$\r\nadalah...",
+  "question_image": null,
+  "correct_answer": "13",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.29
+   ],
+   [
+    "EXP-07",
+    0.26
+   ],
+   [
+    "EXP-04",
+    0.24
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "8fe2801c8121",
+  "image": "8fe2801c8121.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Dua buah jam di kamar Caca diatur untuk berdering secara berkala. Jam A berdering setiap 45 menit sekali, sedangkan jam B berdering setiap 60 menit sekali. Jika kedua jam beker tersebut berdering bersama-sama untuk pertama kalinya pada pukul 09.15. Kedua jam beker tersebut akan berdering bersama-sama untuk kedua kalinya pada pukul ….",
+  "question_image": null,
+  "correct_answer": "12.15",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "KPF-01",
+    0.22
+   ],
+   [
+    "ANS-01",
+    0.11
+   ],
+   [
+    "KPF-02",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "MEA-02",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "df4a3ce7c690",
+  "image": "df4a3ce7c690.jpeg",
+  "grade": 8,
+  "topic": "Exponents",
+  "question": "Hasil dari \n\n$(0{,}2)^{-3} + (-0{,}5)^{-2} - 7^{0}$\n\nadalah …",
+  "question_image": null,
+  "correct_answer": "128",
+  "past_labels": [
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "INT-04",
+    0.19
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "EXP-01",
+    0.1
+   ],
+   [
+    "EXP-02",
+    0.05
+   ],
+   [
+    "FRM-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "06a2e0135342",
+  "image": "06a2e0135342.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Di sebuah turnamen futsal setiap tim bermain sebanyak 10 kali. Aturan penilaian yang digunakan adalah: \r\n* Menang mendapat skor 4 \r\n* Kalah mendapat skor -2 \r\n* Seri mendapat skor -1\r\nTim Garuda berhasil memenangkan 6 pertandingan. Jika Tim Garuda tidak pernah mendapat hasil seri, maka total skor yang diperoleh Tim Garuda adalah… ",
+  "question_image": null,
+  "correct_answer": "16",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "INT-04",
+    0.21
+   ],
+   [
+    "OOO-01",
+    0.1
+   ],
+   [
+    "INT-02",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "44c949a038c3",
+  "image": "44c949a038c3.jpeg",
+  "grade": 9,
+  "topic": "Applications of geometric sequences and series",
+  "question": "Sebuah bola dijatuhkan dari ketinggian $80$ cm.  \nSetiap kali memantul, tinggi pantulannya menjadi $\\tfrac{1}{2}$ dari tinggi sebelumnya.\n\nTotal jarak yang ditempuh bola sampai pantulan ke-$3$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "220 cm",
+  "past_labels": [
+   [
+    "NONE",
+    0.89
+   ],
+   [
+    "WOP-01",
+    0.01
+   ],
+   [
+    "FRM-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ],
+   [
+    "CAL-01",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ }
+]

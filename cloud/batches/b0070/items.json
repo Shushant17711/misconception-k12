@@ -1,0 +1,282 @@
+[
+ {
+  "id": "4d2d04b8a428",
+  "image": "4d2d04b8a428.jpeg",
+  "grade": 8,
+  "topic": "Measures of Central Tendency",
+  "question": "Waktu yang dibutuhkan (dalam menit) oleh 10 siswa untuk menyelesaikan sebuah ujian matematika adalah sebagai berikut:\n\n$48,\\ 52,\\ 55,\\ 50,\\ 47,\\ 53,\\ 49,\\ 54,\\ 51,\\ x$\n\nDiketahui rata-rata waktu yang dibutuhkan seluruh siswa adalah $51$ menit.  \n\nNilai $x$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "51",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "STA-01",
+    0.18
+   ],
+   [
+    "WOP-01",
+    0.08
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "STA-04",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "d21f7d572d77",
+  "image": "d21f7d572d77.jpeg",
+  "grade": 7,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Keluarga Leo memiliki total pendapatan Rp8.000.000 per bulan. \nData pengeluaran bulanan digambarkan dalam diagram lingkaran.\n\nBerapakah selisih antara anggaran yang dikeluarkan untuk kebutuhan makanan dan anggaran untuk pendidikan? \n",
+  "question_image": "q_d21f7d572d77_41594ec6-f393-4bfa-89ab-72f63687f779.png",
+  "correct_answer": "Rp 1.200.000",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "RAT-02",
+    0.31
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "c7dd764066b6",
+  "image": "c7dd764066b6.jpeg",
+  "grade": 7,
+  "topic": "Angle",
+  "question": "Jika besar β = (4x - 20)° dan ε = 100°, maka besar sudut $\\frac{1}{2}$ α adalah ... ",
+  "question_image": "q_c7dd764066b6_7c8e574c-d3da-4799-a84c-684941b40035.png",
+  "correct_answer": "50°\n",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.81
+   ],
+   [
+    "NONE",
+    0.06
+   ],
+   [
+    "ANS-02",
+    0.05
+   ],
+   [
+    "ALG-06",
+    0.05
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "d6e94deebbea",
+  "image": "d6e94deebbea.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari operasi hitung -24 + 72 : (-6) x 3 - (-15) adalah…",
+  "question_image": null,
+  "correct_answer": "-45",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.35
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "INT-04",
+    0.24
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "1d93392f7380",
+  "image": "1d93392f7380.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Diketahui $f(x) = \\dfrac{2x + 1}{3x + 4}, x \\neq -\\dfrac{4}{3}$, jika $f^{-1}$ adalah invers dari $f$, maka $f^{-1}(3) = \\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{11}{7}$",
+  "past_labels": [
+   [
+    "INV-01",
+    0.29
+   ],
+   [
+    "ALG-06",
+    0.25
+   ],
+   [
+    "ALG-04",
+    0.22
+   ],
+   [
+    "CAL-01",
+    0.11
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "NONE",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "b8d951c5d11b",
+  "image": "b8d951c5d11b.jpeg",
+  "grade": 8,
+  "topic": "Probability of an Event",
+  "question": "Dari satu set kartu remi (bridge) berjumlah 52 kartu, seluruh kartu bergambar (Jack, Queen, dan King) dikeluarkan terlebih dahulu. \nKemudian sebuah kartu diambil secara acak dari kartu yang tersisa. \n\nPeluang teoritik terambilnya kartu hati adalah ... ",
+  "question_image": null,
+  "correct_answer": "$\\frac{1}{4}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "PRO-04",
+    0.28
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "95dd529a52cb",
+  "image": "95dd529a52cb.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "$2,45 - 1\\dfrac{1}{4}$\r\nHasil dari operasi hitung di atas dalam bentuk pecahan biasa yang paling sederhana adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{6}{5}$",
+  "past_labels": [
+   [
+    "Dec-02",
+    0.23
+   ],
+   [
+    "INT-04",
+    0.18
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.13
+   ],
+   [
+    "FRA-05",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "280f571d4d31",
+  "image": "280f571d4d31.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "$f : x \\to x + 2$ dan $h : x \\to x^2 - 2$.\r\nJika $(f \\circ g \\circ h)(x) = 2x^2 + 4$, maka $g(x) = \\dots$",
+  "question_image": null,
+  "correct_answer": "$2x + 6$",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.24
+   ],
+   [
+    "INV-01",
+    0.23
+   ],
+   [
+    "ALG-04",
+    0.2
+   ],
+   [
+    "FRM-01",
+    0.1
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "EXP-04",
+    0.03
+   ]
+  ]
+ }
+]

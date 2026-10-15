@@ -1,0 +1,282 @@
+[
+ {
+  "id": "bb8861b701c8",
+  "image": "bb8861b701c8.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Nara membeli pita merah sepanjang 18 meter, pita biru sepanjang 24 meter, dan pita kuning sepanjang 30 meter. Nara ingin mengetahui panjang paling kecil yang merupakan kelipatan ketiga panjang pita tersebut…",
+  "question_image": null,
+  "correct_answer": "360",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.14
+   ],
+   [
+    "KPF-01",
+    0.14
+   ],
+   [
+    "KPF-03",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "0508aa405d16",
+  "image": "0508aa405d16.jpeg",
+  "grade": 7,
+  "topic": "Angle",
+  "question": "Besar sudut ABD adalah …",
+  "question_image": "q_0508aa405d16_e69884ee-14e7-4f63-a8c0-741d47b8fe0a.png",
+  "correct_answer": "$70^\\circ$",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.54
+   ],
+   [
+    "ANS-02",
+    0.15
+   ],
+   [
+    "ALG-06",
+    0.15
+   ],
+   [
+    "ALG-05",
+    0.12
+   ],
+   [
+    "NONE",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "a9a2c5bf2c4e",
+  "image": "a9a2c5bf2c4e.jpeg",
+  "grade": 12,
+  "topic": "Counting Rules",
+  "question": "Panitia sebuah lomba ingin membuat nomor dada peserta yang terdiri dari 3 digit angka berbeda yang disusun dari angka-angka 1, 2, 3, 4, 5, 6, dan 7. Panitia menetapkan aturan bahwa nomor peserta yang dibentuk harus bernilai lebih dari 400. Banyaknya nomor dada peserta yang dapat dibuat oleh panitia adalah...",
+  "question_image": null,
+  "correct_answer": "120",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.5
+   ],
+   [
+    "OTH-00",
+    0.32
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "45c1f917d11a",
+  "image": "45c1f917d11a.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Kelipatan Persekutuan Terkecil dari bilangan 42 dan 45 adalah…",
+  "question_image": null,
+  "correct_answer": "630",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.42
+   ],
+   [
+    "NONE",
+    0.25
+   ],
+   [
+    "KPF-01",
+    0.15
+   ],
+   [
+    "KPF-04",
+    0.06
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "KPF-03",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "d116295bfbb9",
+  "image": "d116295bfbb9.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Dalam sebuah seleksi beasiswa yang diikuti oleh 50 siswa, panitia mencatat kriteria kepemilikan sertifikat sebagai berikut:\n\n* Sebanyak 25 siswa memiliki sertifikat prestasi akademik.\n* Sejumlah siswa memiliki sertifikat prestasi non-akademik.\n* 8 siswa diketahui memiliki kedua jenis sertifikat tersebut.\n\nJika peluang terpilihnya seorang siswa yang memiliki sertifikat prestasi akademik atau non-akademik adalah 0,64, maka berapakah jumlah siswa yang hanya memiliki sertifikat prestasi non-akademik saja?",
+  "question_image": null,
+  "correct_answer": "7",
+  "past_labels": [
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "CAL-01",
+    0.22
+   ],
+   [
+    "FRM-01",
+    0.22
+   ],
+   [
+    "PRO-04",
+    0.11
+   ],
+   [
+    "PRO-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "30306548e4b2",
+  "image": "30306548e4b2.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Diagram lingkaran menunjukkan hobi dari 120 siswa kelas 7. \n\nJika 6 siswa yang hobi Sepak Bola pindah hobi ke Musik, berapakah persentase baru untuk siswa yang hobi Musik?",
+  "question_image": "q_30306548e4b2_ed39a567-e549-4515-9dd8-8f18e9cc0d39.png",
+  "correct_answer": "20%",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "UNT-01",
+    0.17
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "32c4c4a41d7e",
+  "image": "32c4c4a41d7e.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Diketahui fungsi eksponen $f(x) = 3^{2x+1} - 5$.\r\nJika nilai fungsi di titik $x = a$ adalah $22$, maka nilai dari $f(a^2 - 2a)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{14}{3}$",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.27
+   ],
+   [
+    "EXP-02",
+    0.22
+   ],
+   [
+    "SEQ-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "ff748a5ee285",
+  "image": "ff748a5ee285.jpeg",
+  "grade": 11,
+  "topic": "Value and Form of a Function",
+  "question": "Diketahui $f(x) = x^2 + 2x - 3$. Tentukan $f(2a - 1)$ dinyatakan dalam $a$.",
+  "question_image": null,
+  "correct_answer": "$4a^2 - 4$",
+  "past_labels": [
+   [
+    "EXP-03",
+    0.37
+   ],
+   [
+    "FUN-01",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "ALG-04",
+    0.09
+   ],
+   [
+    "ANS-02",
+    0.09
+   ],
+   [
+    "ALG-02",
+    0.09
+   ]
+  ]
+ }
+]

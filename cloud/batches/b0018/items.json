@@ -1,0 +1,282 @@
+[
+ {
+  "id": "64a64587c01d",
+  "image": "64a64587c01d.jpeg",
+  "grade": 7,
+  "topic": "Angle",
+  "question": "Besar sudut ABD adalah …",
+  "question_image": "q_64a64587c01d_e69884ee-14e7-4f63-a8c0-741d47b8fe0a.png",
+  "correct_answer": "$70^\\circ$",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.54
+   ],
+   [
+    "ANS-02",
+    0.15
+   ],
+   [
+    "ALG-06",
+    0.15
+   ],
+   [
+    "ALG-05",
+    0.12
+   ],
+   [
+    "NONE",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "5b34eba5d9d4",
+  "image": "5b34eba5d9d4.jpeg",
+  "grade": 7,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Data pekerjaan orang tua dari 240 siswa di SMP CoLearn ditunjukkan oleh diagram lingkaran.\n\nBerapakah jumlah orang tua siswa yang bekerja sebagai petani? ",
+  "question_image": "q_5b34eba5d9d4_ae31a63c-4403-4604-a0a1-2ffbb0f5b228.png",
+  "correct_answer": "10 orang",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "UNT-01",
+    0.27
+   ],
+   [
+    "VIS-01",
+    0.18
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "2f3308dc37e5",
+  "image": "2f3308dc37e5.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Sebuah es batu bersuhu -6℃ dikeluarkan dari kulkas. \r\nSetiap 3 menit, suhu es batu naik sebesar 2℃. \r\n\r\nSuhu es batu setelah 15 menit adalah . . .\r",
+  "question_image": null,
+  "correct_answer": "4",
+  "past_labels": [
+   [
+    "NONE",
+    0.48
+   ],
+   [
+    "WOP-01",
+    0.16
+   ],
+   [
+    "OOO-01",
+    0.11
+   ],
+   [
+    "INT-04",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "2e6cf67e3903",
+  "image": "2e6cf67e3903.jpeg",
+  "grade": 12,
+  "topic": "Permutation",
+  "question": "Suatu kelompok belajar terdiri dari 6 siswa (3 laki-laki dan 3 perempuan) akan melakukan presentasi bergantian. Guru menetapkan aturan bahwa siswa laki-laki dan perempuan harus tampil berselang-seling (L-P-L-P-L-P atau P-L-P-L-P-L). Banyak susunan urutan presentasi yang dapat dibentuk adalah ...",
+  "question_image": null,
+  "correct_answer": "72",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.45
+   ],
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "58475fd90613",
+  "image": "58475fd90613.jpeg",
+  "grade": 7,
+  "topic": "Applications of Linear Equations in One Variable",
+  "question": "Tiga bilangan bulat berurutan jika dijumlahkan hasilnya adalah 54. \nBilangan yang terbesar dari ketiga bilangan tersebut adalah... \n",
+  "question_image": null,
+  "correct_answer": "19",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "WOP-01",
+    0.27
+   ],
+   [
+    "CAL-01",
+    0.22
+   ],
+   [
+    "ANS-02",
+    0.05
+   ],
+   [
+    "OOO-02",
+    0.05
+   ],
+   [
+    "ALG-03",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "7225f0754692",
+  "image": "7225f0754692.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Perhatikan daftar harga jajan di kantin berikut: \r\nJika uang saku ani Rp 4.200, jajan manakah yang bisa dibeli ani?",
+  "question_image": "q_7225f0754692_4f22de0e-e683-495d-b115-486e4b293f74.png",
+  "correct_answer": "Lolipop",
+  "past_labels": [
+   [
+    "NONE",
+    0.64
+   ],
+   [
+    "WOP-02",
+    0.11
+   ],
+   [
+    "WOP-01",
+    0.08
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "94c413b6ce79",
+  "image": "94c413b6ce79.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Jika $3(2x - 5) + 4 = 5(x + 3) - 2$ mempunyai penyelesaian $x = p$, maka nilai $4p + 7$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "103",
+  "past_labels": [
+   [
+    "ALG-04",
+    0.27
+   ],
+   [
+    "OPS-01",
+    0.19
+   ],
+   [
+    "WOP-01",
+    0.1
+   ],
+   [
+    "ALG-05",
+    0.08
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "INT-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "0d535371393d",
+  "image": "0d535371393d.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Kelipatan Persekutuan Terkecil dari bilangan 42 dan 45 adalah…",
+  "question_image": null,
+  "correct_answer": "630",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.42
+   ],
+   [
+    "NONE",
+    0.25
+   ],
+   [
+    "KPF-01",
+    0.15
+   ],
+   [
+    "KPF-04",
+    0.06
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "KPF-03",
+    0.04
+   ]
+  ]
+ }
+]

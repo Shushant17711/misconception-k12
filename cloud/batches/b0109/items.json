@@ -1,0 +1,282 @@
+[
+ {
+  "id": "7fc6f6005dcf",
+  "image": "7fc6f6005dcf.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Ayah membeli 4 kotak telur. Jika total telur yang dibeli oleh Ayah adalah 96 butir, isi telur di dalam setiap kotak adalah…",
+  "question_image": null,
+  "correct_answer": "24",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "OPS-02",
+    0.25
+   ],
+   [
+    "WOP-02",
+    0.13
+   ],
+   [
+    "WOP-01",
+    0.1
+   ],
+   [
+    "ANS-01",
+    0.07
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "34d11df55c99",
+  "image": "34d11df55c99.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor Persekutuan Terbesar dari bilangan 54 dan 90 adalah…",
+  "question_image": null,
+  "correct_answer": "18",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.41
+   ],
+   [
+    "KPF-04",
+    0.21
+   ],
+   [
+    "KPF-01",
+    0.17
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "KPF-03",
+    0.05
+   ],
+   [
+    "REL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "f0b9a337254f",
+  "image": "f0b9a337254f.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Diketahui: \nY = 3.600 : 48 \nX = 63.750 : Y\n\nNilai yang tepat untuk menggantikan huruf X adalah…",
+  "question_image": null,
+  "correct_answer": "850",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "PV-01",
+    0.2
+   ],
+   [
+    "OPS-02",
+    0.16
+   ],
+   [
+    "OPS-01",
+    0.13
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "3ed8ea6bd9c1",
+  "image": "3ed8ea6bd9c1.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Dari diagram gambar di samping, selisih banyak buku pada toko buku Graha Media dan Media Ilmu adalah . . . .",
+  "question_image": "q_3ed8ea6bd9c1_289b413e-1ced-441e-b325-cf0d26b7d9ed.png",
+  "correct_answer": "625 buku",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "VIS-01",
+    0.31
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.02
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "22d0278f3d0d",
+  "image": "22d0278f3d0d.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Pada tes penerimaan siswa baru, Nara diberikan 10 soal untuk diselesaikan dengan ketentuan skor: \n\n* benar = 5\n* salah = -1\n* tidak menjawab = 0\n\nJika Nara mengerjakan 8 soal dan hanya 6 soal bernilai benar, berapa total skor yang diperoleh Nara?",
+  "question_image": null,
+  "correct_answer": "28",
+  "past_labels": [
+   [
+    "NONE",
+    0.29
+   ],
+   [
+    "WOP-02",
+    0.27
+   ],
+   [
+    "WOP-01",
+    0.14
+   ],
+   [
+    "OOO-01",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.08
+   ],
+   [
+    "INT-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "ae540a3014be",
+  "image": "ae540a3014be.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Jika $x$ dan $y$ adalah bilangan real positif, bentuk paling sederhana dari $\\sqrt{75x^4y^3}$ adalah…\r",
+  "question_image": null,
+  "correct_answer": "$5x^2y\\sqrt{3y}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.43
+   ],
+   [
+    "NONE",
+    0.24
+   ],
+   [
+    "EXP-07",
+    0.17
+   ],
+   [
+    "EXP-02",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "fb06cff14542",
+  "image": "fb06cff14542.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Diketahui $f(x) = \\dfrac{4x - k}{x - 3}$, dan $f^{-1}$ adalah invers dari $f$, Jika nilai dari $f^{-1}(2) = 1$, maka nilai $k$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "8",
+  "past_labels": [
+   [
+    "ALG-06",
+    0.26
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "INV-01",
+    0.17
+   ],
+   [
+    "ALG-05",
+    0.17
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "ALG-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "bccf05b6169f",
+  "image": "bccf05b6169f.jpeg",
+  "grade": 9,
+  "topic": "Introduction to Three-Dimensional Shapes",
+  "question": "Perhatikan empat kegiatan berikut!\r\n(1) Menentukan banyaknya cat yang dibutuhkan untuk melapisi seluruh permukaan luar kubah masjid berbentuk setengah bola.\r\n(2) Menentukan banyaknya liter minyak yang dapat ditampung sampai penuh oleh sebuah drum berbentuk tabung.\r\n(3) Menentukan luas kertas kado yang dibutuhkan untuk membungkus kotak wadah pensil berbentuk tabung.\r\n(4) Menentukan banyaknya adonan es krim yang diperlukan untuk mengisi cetakan berbentuk kerucut.\r\nManakah dari kegiatan di atas yang seluruhnya menggunakan konsep Luas Permukaan?\r",
+  "question_image": null,
+  "correct_answer": "1 dan 3",
+  "past_labels": [
+   [
+    "NONE",
+    0.52
+   ],
+   [
+    "MEA-05",
+    0.31
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.03
+   ],
+   [
+    "MEA-04",
+    0.03
+   ],
+   [
+    "MEA-01",
+    0.03
+   ]
+  ]
+ }
+]

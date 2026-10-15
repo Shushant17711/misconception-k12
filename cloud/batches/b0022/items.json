@@ -1,0 +1,282 @@
+[
+ {
+  "id": "2c84cc669b8e",
+  "image": "2c84cc669b8e.jpeg",
+  "grade": 8,
+  "topic": "Probability of an Event",
+  "question": "Dari satu set kartu remi (bridge) berjumlah 52 kartu, seluruh kartu bergambar (Jack, Queen, dan King) dikeluarkan terlebih dahulu. \nKemudian sebuah kartu diambil secara acak dari kartu yang tersisa. \n\nPeluang teoritik terambilnya kartu hati adalah ... ",
+  "question_image": null,
+  "correct_answer": "$\\frac{1}{4}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "PRO-04",
+    0.28
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "93073144acad",
+  "image": "93073144acad.jpeg",
+  "grade": 10,
+  "topic": "Rationalizing the Denominator",
+  "question": "Rasionalkan bentuk berikut ini: \r\n$\\dfrac{8}{\\sqrt[3]{a^2}}$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{8\\sqrt[3]{a}}{a}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.29
+   ],
+   [
+    "EXP-07",
+    0.22
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.1
+   ],
+   [
+    "VIS-01",
+    0.1
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "aec6526a0008",
+  "image": "aec6526a0008.jpeg",
+  "grade": 6,
+  "topic": "Operations on Integers",
+  "question": "Pada tes penerimaan siswa baru, Nara diberikan 10 soal untuk diselesaikan dengan ketentuan skor: \n\n* benar = 5\n* salah = -1\n* tidak menjawab = 0\n\nJika Nara mengerjakan 8 soal dan hanya 6 soal bernilai benar, berapa total skor yang diperoleh Nara?",
+  "question_image": null,
+  "correct_answer": "28",
+  "past_labels": [
+   [
+    "NONE",
+    0.29
+   ],
+   [
+    "WOP-02",
+    0.27
+   ],
+   [
+    "WOP-01",
+    0.14
+   ],
+   [
+    "OOO-01",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.08
+   ],
+   [
+    "INT-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "d70ef114c539",
+  "image": "d70ef114c539.jpeg",
+  "grade": 11,
+  "topic": "Application of Functions",
+  "question": "Proses pembuatan kertas di suatu pabrik melalui dua tahap. Tahap I menggunakan mesin A menghasilkan bahan setengah jadi $m$ mengikuti fungsi $m(x) = 2x - 5$, di mana $x$ adalah kayu (dalam ton). Tahap II menggunakan mesin B menghasilkan kertas jadi $y$ mengikuti fungsi $y(m) = m^2 + 3m - 2$. Jika kayu yang tersedia sebanyak $10\\text{ ton}$, berapa ton kertas jadi yang dihasilkan?",
+  "question_image": null,
+  "correct_answer": "268 ton",
+  "past_labels": [
+   [
+    "NONE",
+    0.94
+   ],
+   [
+    "WOP-01",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "c4bc3315f307",
+  "image": "c4bc3315f307.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Tentukan nilai logaritma berikut:\r\n$ ^3\\log \\dfrac{1}{81} + {^2\\log 64} + {^6\\log 36} $",
+  "question_image": null,
+  "correct_answer": "4",
+  "past_labels": [
+   [
+    "LOG-02",
+    0.32
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ALG-06",
+    0.05
+   ],
+   [
+    "EXP-06",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "1b37f99a8c12",
+  "image": "1b37f99a8c12.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk paling sederhana dari $\\sqrt{288}$ adalah…",
+  "question_image": null,
+  "correct_answer": "$12\\sqrt{2}$",
+  "past_labels": [
+   [
+    "EXP-07",
+    0.43
+   ],
+   [
+    "EXP-04",
+    0.3
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "26bbe6159991",
+  "image": "26bbe6159991.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Rata-rata kelompok P adalah 70 (10 orang). \nRata-rata kelompok Q adalah 80 (10 orang). \nRata-rata kelompok R adalah 90 (20 orang). \n\nTanpa menghitung langsung, rata-rata gabungan ketiga kelompok tersebut $\\ldots$",
+  "question_image": null,
+  "correct_answer": "$\\text{Lebih dari } 80$",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "STA-01",
+    0.34
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "STA-04",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "ce67b170f573",
+  "image": "ce67b170f573.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Nara memiliki dua helai pita hias. Pita pertama memiliki panjang 32 cm dan pita kedua memiliki panjang 60 cm. Nara ingin memotong kedua pita tersebut menjadi beberapa bagian yang sama panjang tanpa ada sisa pita yang terbuang. Maka berapa panjang maksimal setiap potongan pita yang diperoleh Nara?",
+  "question_image": null,
+  "correct_answer": "4 cm",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.36
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.1
+   ],
+   [
+    "KPF-02",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.05
+   ]
+  ]
+ }
+]

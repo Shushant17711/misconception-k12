@@ -1,0 +1,282 @@
+[
+ {
+  "id": "d9c327e2866e",
+  "image": "d9c327e2866e.jpeg",
+  "grade": 10,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk $\\dfrac{2\\sqrt{5} + \\sqrt{2}}{\\sqrt{2} - \\sqrt{5}}$ dapat disederhanakan menjadi $\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\sqrt{10} - 4$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.18
+   ],
+   [
+    "ALG-04",
+    0.17
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "INT-04",
+    0.14
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "EXP-07",
+    0.08
+   ]
+  ]
+ },
+ {
+  "id": "d567673c575a",
+  "image": "d567673c575a.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Toko Maju Jaya menerima kiriman beras setiap 12 hari sekali dan kiriman minyak goreng setiap 18 hari sekali. Pada hari Selasa, toko tersebut menerima kiriman beras dan minyak goreng secara bersamaan untuk pertama kalinya. Pada hari apakah toko tersebut akan menerima kiriman beras dan minyak goreng bersamaan untuk kedua kalinya?",
+  "question_image": null,
+  "correct_answer": "Rabu",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.26
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.19
+   ],
+   [
+    "KPF-01",
+    0.17
+   ],
+   [
+    "KPF-02",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "192a7d634ee3",
+  "image": "192a7d634ee3.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Data pekerjaan orang tua dari 240 siswa di SMP CoLearn ditunjukkan oleh diagram lingkaran.\n\nBerapakah jumlah orang tua siswa yang bekerja sebagai petani? ",
+  "question_image": "q_192a7d634ee3_ae31a63c-4403-4604-a0a1-2ffbb0f5b228.png",
+  "correct_answer": "10 orang",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "UNT-01",
+    0.27
+   ],
+   [
+    "VIS-01",
+    0.18
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "477f88891a87",
+  "image": "477f88891a87.jpeg",
+  "grade": 9,
+  "topic": "Angle",
+  "question": "Jika garis $A$ sejajar dengan garis $B$, kemudian dipotong oleh suatu garis, maka nilai $x$ adalah $\\ldots$",
+  "question_image": "q_477f88891a87_49d7f7ea-7d5f-4e91-ace9-707a12e9a50a.png",
+  "correct_answer": "30",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.76
+   ],
+   [
+    "ALG-06",
+    0.15
+   ],
+   [
+    "NONE",
+    0.04
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "ALG-05",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "9af7d76de35e",
+  "image": "9af7d76de35e.jpeg",
+  "grade": 8,
+  "topic": "Measures of Dispersion",
+  "question": "Simpangan kuartil data berikut adalah …",
+  "question_image": "q_9af7d76de35e_6013468c-0812-4590-8155-d058809ef893.png",
+  "correct_answer": "$0{,}5$",
+  "past_labels": [
+   [
+    "STA-05",
+    0.49
+   ],
+   [
+    "NONE",
+    0.29
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "STA-04",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "41284f6800b1",
+  "image": "41284f6800b1.jpeg",
+  "grade": 8,
+  "topic": "Measures of Dispersion",
+  "question": "Diagram garis menunjukkan jumlah gelas air yang diminum seorang atlet selama 12 hari berturut-turut.\n\nKuartil atas $(Q_3)$ dari data tersebut adalah $\\ldots$",
+  "question_image": "q_41284f6800b1_7b959754-8f3d-409f-958b-e447f76c1706.png",
+  "correct_answer": "9",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "VIS-01",
+    0.23
+   ],
+   [
+    "STA-05",
+    0.07
+   ],
+   [
+    "STA-04",
+    0.05
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "494776183dbd",
+  "image": "494776183dbd.jpeg",
+  "grade": 11,
+  "topic": "Function Operations",
+  "question": "Sebuah kebun berbentuk persegi panjang memiliki fungsi panjang $f(x) = 2x + 10$ (dalam meter). Pemilik kebun tidak mengetahui fungsi lebarnya, namun pihak pengelola kawasan menginformasikan bahwa fungsi keliling untuk seluruh kapling di blok tersebut mengikuti rumus $k(x) = 6x + 30$ (dalam meter), dengan $x$ adalah variabel desain tata ruang. Jika pada hari ini keliling kebun tersebut diukur secara langsung dan menunjukkan angka tepat $90\\text{ meter}$, berapakah luas total hamparan kebun tersebut?",
+  "question_image": null,
+  "correct_answer": "$450\\text{ m}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "FUN-01",
+    0.15
+   ],
+   [
+    "QUA-02",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "4d11565f49ca",
+  "image": "4d11565f49ca.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Rata-rata tabungan 40 siswa adalah Rp100.000. \nJika 10 orang siswa ditambahkan ke kelompok tersebut, rata-rata tabungan menjadi Rp110.000.\n\nBerapakah rata-rata tabungan 10 siswa yang baru masuk tersebut? ",
+  "question_image": null,
+  "correct_answer": "Rp150.000",
+  "past_labels": [
+   [
+    "NONE",
+    0.63
+   ],
+   [
+    "STA-01",
+    0.12
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "STA-04",
+    0.03
+   ]
+  ]
+ }
+]

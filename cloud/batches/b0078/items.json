@@ -1,0 +1,282 @@
+[
+ {
+  "id": "13618b0b22f3",
+  "image": "13618b0b22f3.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Dalam rangka bakti sosial, seluruh siswa kelas 4 yang berjumlah 25 anak sepakat untuk mengumpulkan buku cerita bekas. Setiap anak membawa 2 ikat besar buku. Jika di dalam setiap ikat besar tersebut terdapat lagi 5 buah buku cerita, total seluruh buku cerita yang berhasil dikumpulkan oleh kelas tersebut untuk didonasikan adalah…",
+  "question_image": null,
+  "correct_answer": "250",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.39
+   ],
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "WOP-02",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.03
+   ],
+   [
+    "OPS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "2b9c6c49a42d",
+  "image": "2b9c6c49a42d.jpeg",
+  "grade": 7,
+  "topic": "Angle",
+  "question": "Jika garis $A$ sejajar dengan garis $B$, kemudian dipotong oleh suatu garis, maka nilai $x$ adalah $\\ldots$",
+  "question_image": "q_2b9c6c49a42d_49d7f7ea-7d5f-4e91-ace9-707a12e9a50a.png",
+  "correct_answer": "30",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.76
+   ],
+   [
+    "ALG-06",
+    0.15
+   ],
+   [
+    "NONE",
+    0.04
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "ALG-05",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "3adc0cff3b08",
+  "image": "3adc0cff3b08.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f(x) = 2x - 7$ dan $g(x) = 2x$, maka $(f \\circ g)^{-1}(x)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{x + 7}{4}$",
+  "past_labels": [
+   [
+    "INV-01",
+    0.3
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "FUN-01",
+    0.12
+   ],
+   [
+    "EXP-04",
+    0.07
+   ],
+   [
+    "RAT-02",
+    0.07
+   ],
+   [
+    "ALG-04",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "5752f68677ae",
+  "image": "5752f68677ae.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Diketahui barisan aritmatika dengan variabel yang hilang sebagai berikut:\r\n42, a, 26, b,...\r\nMaka nilai a adalah…\r",
+  "question_image": null,
+  "correct_answer": "34",
+  "past_labels": [
+   [
+    "SEQ-02",
+    0.43
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "CAL-01",
+    0.16
+   ],
+   [
+    "FRM-01",
+    0.14
+   ],
+   [
+    "REL-01",
+    0.01
+   ],
+   [
+    "SIM-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "7d2a5c5b5093",
+  "image": "7d2a5c5b5093.jpeg",
+  "grade": 12,
+  "topic": "Permutation",
+  "question": "Suatu kelompok belajar terdiri dari 6 siswa (3 laki-laki dan 3 perempuan) akan melakukan presentasi bergantian. Guru menetapkan aturan bahwa siswa laki-laki dan perempuan harus tampil berselang-seling (L-P-L-P-L-P atau P-L-P-L-P-L). Banyak susunan urutan presentasi yang dapat dibentuk adalah ...",
+  "question_image": null,
+  "correct_answer": "72",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.45
+   ],
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "62dcd0f2c0c3",
+  "image": "62dcd0f2c0c3.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Diketahui a, b, c tiga bilangan asli berurutan ($a \\lt b \\lt c$) dan $b^2 = 16$.\nNilai dari $\\dfrac{a^2b^3c^{-1}}{a^{-2}bc^2}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{1296}{125}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "EXP-02",
+    0.19
+   ],
+   [
+    "Dec-02",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "15079c55b6fa",
+  "image": "15079c55b6fa.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f(x) = 2x - 1$, $g(x) = x^2$, dan $h(x) = x + 2$.\r\nTentukan $(f \\circ g \\circ h)(x)$.",
+  "question_image": null,
+  "correct_answer": "$2x^2 + 8x + 7$",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.33
+   ],
+   [
+    "INT-04",
+    0.14
+   ],
+   [
+    "EXP-03",
+    0.14
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "INV-01",
+    0.06
+   ],
+   [
+    "EXP-04",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "98f42473ea4c",
+  "image": "98f42473ea4c.jpeg",
+  "grade": 9,
+  "topic": "Application of Two-Variable Linear Equation Systems",
+  "question": "Sebuah tempat parkir memiliki tarif berbeda untuk motor dan mobil.\r\n* Pada hari Senin, terdapat 2 motor dan 3 mobil dengan total pendapatan parkir Rp19.000,00.\r\n* Pada hari Selasa, 4 motor dan 1 mobil dengan total pendapatan parkir Rp13.000,00.\r\nSelisih tarif parkir 1 mobil dan 1 motor adalah ....",
+  "question_image": null,
+  "correct_answer": "Rp3.000,00",
+  "past_labels": [
+   [
+    "NONE",
+    0.82
+   ],
+   [
+    "ANS-01",
+    0.05
+   ],
+   [
+    "Dec-02",
+    0.05
+   ],
+   [
+    "WOP-02",
+    0.03
+   ],
+   [
+    "SIM-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.0
+   ]
+  ]
+ }
+]

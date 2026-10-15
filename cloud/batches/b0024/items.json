@@ -1,0 +1,282 @@
+[
+ {
+  "id": "f2b11af2e485",
+  "image": "f2b11af2e485.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Sederhanakan bentuk aljabar berpangkat berikut menjadi bentuk pangkat positif: $\\dfrac{\\left(a^{-3} \\cdot b^2\\right)}{a^{-11} \\cdot b^4}$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{a^8}{b^2}$",
+  "past_labels": [
+   [
+    "INT-04",
+    0.29
+   ],
+   [
+    "EXP-02",
+    0.19
+   ],
+   [
+    "INT-03",
+    0.17
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "ae5549fa1354",
+  "image": "ae5549fa1354.jpeg",
+  "grade": 11,
+  "topic": "Correlation",
+  "question": "Data mengenai usia mobil (tahun) dan harga jualnya (puluh juta rupiah) menunjukkan tren tertentu. Berikut data yang tercatat:\n\n* Usia (x): 1, 2, 3, 4\n* Harga (y): 12, 10, 8, 6\nNilai koefisien korelasi (r) untuk hubungan x dan y adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "-1",
+  "past_labels": [
+   [
+    "STA-01",
+    0.47
+   ],
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "WOP-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ],
+   [
+    "CAL-01",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "569d8619117d",
+  "image": "569d8619117d.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari hasil operasi hitung 25 - (-17) + (-34) - 12 adalah...",
+  "question_image": null,
+  "correct_answer": "-4",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "INT-03",
+    0.23
+   ],
+   [
+    "CAL-01",
+    0.13
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-04",
+    0.07
+   ],
+   [
+    "INT-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "2c562fda5290",
+  "image": "2c562fda5290.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor Persekutuan Terbesar dari bilangan 54 dan 90 adalah…",
+  "question_image": null,
+  "correct_answer": "18",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.41
+   ],
+   [
+    "KPF-04",
+    0.21
+   ],
+   [
+    "KPF-01",
+    0.17
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "KPF-03",
+    0.05
+   ],
+   [
+    "REL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "0f744c0f7577",
+  "image": "0f744c0f7577.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Leo memiliki 36 buah pulpen biru dan 48 buah pulpen hitam. Ia ingin mengemas pulpen-pulpen tersebut ke dalam beberapa kotak hadiah untuk dibagikan kepada teman-temannya. Semua kotak berisi pulpen biru sama banyak dan pulpen hitam sama banyak. Banyak pulpen biru yang ada di dalam masing-masing kotak tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.38
+   ],
+   [
+    "KPF-01",
+    0.17
+   ],
+   [
+    "ANS-02",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "NONE",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "98a0cdc63d1e",
+  "image": "98a0cdc63d1e.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Jika $f(x) = \\dfrac{1}{x - 4}$ dan $f^{-1}$ invers dari $f$, maka $f^{-1}(x) = 2$ untuk nilai $x$ sama dengan$\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{1}{2}$",
+  "past_labels": [
+   [
+    "INV-01",
+    0.52
+   ],
+   [
+    "ALG-06",
+    0.18
+   ],
+   [
+    "FUN-01",
+    0.12
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "ALG-04",
+    0.04
+   ],
+   [
+    "NONE",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "8325d8a2f475",
+  "image": "8325d8a2f475.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Pada sebuah sekolah yang memiliki 80 siswa kelas 8, terdapat pendataan mengenai keikutsertaan OSIS maupun pramuka. \nData menunjukkan:\n\n* Sebanyak 48 siswa aktif sebagai anggota Pramuka.\n* Peluang seorang siswa yang terpilih secara acak aktif di kedua organisasi (OSIS dan Pramuka) adalah 0,15.\n* Peluang seorang siswa yang terpilih secara acak tidak aktif di OSIS maupun Pramuka adalah 0,1.\n\nBerapakah peluang seorang siswa yang terpilih secara acak aktif sebagai anggota OSIS? ",
+  "question_image": null,
+  "correct_answer": "0,45",
+  "past_labels": [
+   [
+    "NONE",
+    0.51
+   ],
+   [
+    "PRO-04",
+    0.13
+   ],
+   [
+    "FRM-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.07
+   ],
+   [
+    "PRO-02",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "1acc03885467",
+  "image": "1acc03885467.jpeg",
+  "grade": 11,
+  "topic": "Types of Functions",
+  "question": "Diberikan tiga fungsi berikut:\r\n\r\n(I) $f: \\mathbb{R} \\to \\mathbb{R}$ dengan $f(x) = 5x - 2$\r\n\r\n(II) $g: \\mathbb{R} \\to [1, \\infty)$ dengan $g(x) = |x| + 1$\r\n\r\n(III) $h: [0, \\infty) \\to \\mathbb{R}$ dengan $h(x) = x^2 + 3$\r\n\r\nSifat fungsi untuk masing-masing fungsi tersebut secara berturut-turut adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "Bijektif, surjektif, injektif",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.68
+   ],
+   [
+    "ANS-01",
+    0.14
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "CHK-01",
+    0.03
+   ]
+  ]
+ }
+]

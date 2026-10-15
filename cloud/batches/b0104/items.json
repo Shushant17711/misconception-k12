@@ -1,0 +1,282 @@
+[
+ {
+  "id": "7de7298c47ec",
+  "image": "7de7298c47ec.jpeg",
+  "grade": 7,
+  "topic": "Measures of Dispersion",
+  "question": "Data nilai ujian matematika sekelompok siswa disajikan dalam diagram lingkaran. \nDiketahui total siswa adalah 36 orang. \nBerapakah jangkauan dari banyaknya siswa yang mendapatkan nilai-nilai tersebut?",
+  "question_image": "q_7de7298c47ec_dcc5d532-ac70-417e-bb71-2c3f6c3bc869.png",
+  "correct_answer": "6 siswa",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "WOP-01",
+    0.21
+   ],
+   [
+    "STA-05",
+    0.09
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "STA-04",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "b6e613c6ce65",
+  "image": "b6e613c6ce65.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Toko Maju Jaya menerima kiriman beras setiap 12 hari sekali dan kiriman minyak goreng setiap 18 hari sekali. Pada hari Selasa, toko tersebut menerima kiriman beras dan minyak goreng secara bersamaan untuk pertama kalinya. Pada hari apakah toko tersebut akan menerima kiriman beras dan minyak goreng bersamaan untuk kedua kalinya?",
+  "question_image": null,
+  "correct_answer": "Rabu",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.26
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.19
+   ],
+   [
+    "KPF-01",
+    0.17
+   ],
+   [
+    "KPF-02",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "c1a27866f0b1",
+  "image": "c1a27866f0b1.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Sebuah histogram menunjukkan data dengan kelas-kelas sebagai berikut. \nSimpangan rata-rata dari data tersebut adalah...",
+  "question_image": "q_c1a27866f0b1_3c3c040a-348d-4f1c-93fc-f66cc339f9bb.png",
+  "correct_answer": "3,8",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "STA-01",
+    0.19
+   ],
+   [
+    "STA-05",
+    0.07
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "STA-04",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "78d4d1dda7a6",
+  "image": "78d4d1dda7a6.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Saat ini, umur seorang Ibu adalah 3 kali umur anaknya. Diketahui bahwa 4 tahun yang lalu, jumlah umur mereka berdua adalah 48 tahun. Berapakah umur sang Ibu 5 tahun yang akan datang?",
+  "question_image": null,
+  "correct_answer": "47 tahun",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.45
+   ],
+   [
+    "ALG-06",
+    0.17
+   ],
+   [
+    "ALG-04",
+    0.07
+   ],
+   [
+    "ALG-05",
+    0.06
+   ],
+   [
+    "NONE",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "f05cf81de378",
+  "image": "f05cf81de378.jpeg",
+  "grade": 12,
+  "topic": "Permutation",
+  "question": "Tiga orang siswa laki-laki dan dua orang siswa perempuan akan duduk berdampingan pada 5 kursi yang diatur sejajar di bioskop. Jika siswa laki-laki harus selalu duduk berkelompok di sebelah kiri dan siswa perempuan berkelompok di sebelah kanan, banyaknya cara mereka duduk adalah ...",
+  "question_image": null,
+  "correct_answer": "12",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.28
+   ],
+   [
+    "NONE",
+    0.24
+   ],
+   [
+    "FRM-01",
+    0.22
+   ],
+   [
+    "WOP-01",
+    0.22
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "9156f4150631",
+  "image": "9156f4150631.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Ibu membeli tepung terigu sebanyak $2\\dfrac{10}{8}\\text{ kg}$ untuk membuat kue di dapur. Saat ditimbang menggunakan timbangan digital, berat tepung terigu tersebut muncul dalam bentuk bilangan desimal. Angka desimal yang tertera pada layar timbangan adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "3,25",
+  "past_labels": [
+   [
+    "FRA-05",
+    0.38
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "ANS-01",
+    0.2
+   ],
+   [
+    "Dec-02",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "350dd29188c7",
+  "image": "350dd29188c7.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Sebuah titik $P(x, y)$ dicerminkan terhadap garis $y = -2$, kemudian dilanjutkan dengan rotasi sebesar $90^\\circ$ berlawanan arah jarum jam dengan pusat $O(0, 0)$. Jika koordinat bayangan akhir titik tersebut adalah $P''(4, 3)$, maka koordinat titik asal $P$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "(3,0)",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.46
+   ],
+   [
+    "OTH-00",
+    0.18
+   ],
+   [
+    "COR-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "4cd38aed8c5f",
+  "image": "4cd38aed8c5f.jpeg",
+  "grade": 12,
+  "topic": "Counting Rules",
+  "question": "Sebuah bank membuat kode PIN transaksi ATM yang terdiri dari 6 digit angka, nol tidak termasuk. Manajemen bank menetapkan aturan keamanan bahwa angka pertama dan angka terakhir pada PIN tersebut harus merupakan bilangan genap, dan angka boleh berulang pada posisi mana pun. Banyaknya variasi kode PIN yang dapat dibentuk adalah...",
+  "question_image": null,
+  "correct_answer": "104.976",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.43
+   ],
+   [
+    "OTH-00",
+    0.28
+   ],
+   [
+    "FRM-01",
+    0.18
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ }
+]

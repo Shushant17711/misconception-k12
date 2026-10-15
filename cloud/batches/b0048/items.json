@@ -1,0 +1,282 @@
+[
+ {
+  "id": "ad2831d90fb8",
+  "image": "ad2831d90fb8.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Sebuah lahan kosong memiliki luas terukur yang dinyatakan dengan desimal $0,48$ bagian dari total area. Saat diubah menjadi bentuk pecahan biasa paling sederhana $\\dfrac{p}{q}$, nilai pembilang $p$ dan penyebut $q$ dijadikan sebagai ukuran panjang dan lebar sebuah persegi panjang (dalam meter). Keliling persegi panjang tersebut adalah$\\dots\\text{ meter}$",
+  "question_image": null,
+  "correct_answer": "74",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.2
+   ],
+   [
+    "Dec-02",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.12
+   ],
+   [
+    "FRA-04",
+    0.12
+   ],
+   [
+    "MEA-01",
+    0.12
+   ],
+   [
+    "NONE",
+    0.1
+   ]
+  ]
+ },
+ {
+  "id": "6d2e6d68887a",
+  "image": "6d2e6d68887a.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Titik $B(-2, 3)$ dirotasikan sebesar $180^\\circ$ dengan pusat $O(0, 0)$, kemudian dilanjutkan dengan dilatasi yang berpusat di $O(0, 0)$ dengan faktor skala $k = -2$. Jika bayangan akhir yang terbentuk adalah $B''(p, q)$, maka nilai dari $2p - q$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "-14",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.33
+   ],
+   [
+    "CAL-01",
+    0.25
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "OTH-00",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.05
+   ],
+   [
+    "OOO-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "6b7faf1fd29f",
+  "image": "6b7faf1fd29f.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Sebuah balok mainan memiliki ukuran panjang $2\\dfrac{2}{5}\\text{ meter}$, lebar $\\dfrac{13}{15}\\text{ meter}$, dan tinggi $\\dfrac{5}{13}\\text{ meter}$. Volume balok tersebut adalah $\\dots\\text{ m}^3$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{4}{5}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "FRA-06",
+    0.27
+   ],
+   [
+    "ANS-01",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "FRA-05",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "afaae39c2360",
+  "image": "afaae39c2360.jpeg",
+  "grade": 7,
+  "topic": "Measures of Dispersion",
+  "question": "Data nilai ujian matematika sekelompok siswa disajikan dalam diagram lingkaran. \nDiketahui total siswa adalah 36 orang. \nBerapakah jangkauan dari banyaknya siswa yang mendapatkan nilai-nilai tersebut?",
+  "question_image": "q_afaae39c2360_dcc5d532-ac70-417e-bb71-2c3f6c3bc869.png",
+  "correct_answer": "6 siswa",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "WOP-01",
+    0.21
+   ],
+   [
+    "STA-05",
+    0.09
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "STA-04",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "ee9818cae8cc",
+  "image": "ee9818cae8cc.jpeg",
+  "grade": 9,
+  "topic": "Introduction to Three-Dimensional Shapes",
+  "question": "Pak Ridwan ingin membuat tumpeng nasi berbentuk kerucut untuk acara syukuran. Ia juga ingin membuat tutup pelindung transparan dari bahan mika berbentuk kerucut tanpa alas untuk menutupi tumpeng tersebut agar terhindar dari debu.\n\nPerhitungan yang tepat yang digunakan Pak Ridwan untuk menentukan banyaknya beras yang dibutuhkan dan luas bahan mika yang diperlukan berturut-turut adalah …",
+  "question_image": null,
+  "correct_answer": "Volume kerucut dan luas selimut kerucut",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "FRM-01",
+    0.23
+   ],
+   [
+    "MEA-04",
+    0.11
+   ],
+   [
+    "MEA-01",
+    0.11
+   ],
+   [
+    "MEA-05",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "260934bf9cd2",
+  "image": "260934bf9cd2.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah tabung memiliki jari-jari awal $7\\text{ cm}$ dan tinggi $14\\text{ cm}$. Jika jari-jari tabung tersebut diperbesar menjadi 2 kali semula, sedangkan tingginya dipotong menjadi $\\dfrac{1}{2}$ kali semula, selisih luas permukaan total tabung setelah diubah dibanding sebelum diubah adalah $\\dots\\text{ cm}^2$.",
+  "question_image": null,
+  "correct_answer": "924",
+  "past_labels": [
+   [
+    "MEA-04",
+    0.37
+   ],
+   [
+    "FRM-01",
+    0.29
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "6e6461a5daac",
+  "image": "6e6461a5daac.jpeg",
+  "grade": 12,
+  "topic": "Probability of Compound Events",
+  "question": "Dari 40 siswa di suatu kelas, 25 siswa menyukai Matematika, 20 siswa menyukai Fisika, 10 siswa menyukai keduanya, dan 5 siswa tidak menyukai keduanya. Jika dipilih satu siswa secara acak, peluang terpilih siswa yang hanya menyukai Matematika atau hanya menyukai Fisika adalah ....",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{5}{8}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "SET-01",
+    0.19
+   ],
+   [
+    "PRO-04",
+    0.11
+   ],
+   [
+    "CAL-01",
+    0.06
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "PRO-02",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "498352b1d382",
+  "image": "498352b1d382.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Dua buah jam di kamar Caca diatur untuk berdering secara berkala. Jam A berdering setiap 45 menit sekali, sedangkan jam B berdering setiap 60 menit sekali. Jika kedua jam beker tersebut berdering bersama-sama untuk pertama kalinya pada pukul 09.15. Kedua jam beker tersebut akan berdering bersama-sama untuk kedua kalinya pada pukul ….",
+  "question_image": null,
+  "correct_answer": "12.15",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "KPF-01",
+    0.22
+   ],
+   [
+    "ANS-01",
+    0.11
+   ],
+   [
+    "KPF-02",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "MEA-02",
+    0.07
+   ]
+  ]
+ }
+]

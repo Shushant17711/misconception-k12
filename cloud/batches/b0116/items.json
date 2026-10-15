@@ -1,0 +1,282 @@
+[
+ {
+  "id": "55df823fe504",
+  "image": "55df823fe504.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk pangkat pecahan yang paling sederhana dari $\\sqrt[3]{a \\times \\sqrt{a}}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$a^{\\frac{1}{2}}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.62
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "EXP-07",
+    0.06
+   ],
+   [
+    "OOO-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "528bc47646d7",
+  "image": "528bc47646d7.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Selisih antara penjualan buku pada hari Senin dan hari Kamis adalah …",
+  "question_image": "q_528bc47646d7_29c50fb4-efd1-41c9-8bcb-8deaaa28715f.png",
+  "correct_answer": "20 buku",
+  "past_labels": [
+   [
+    "NONE",
+    0.71
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "619975189dcb",
+  "image": "619975189dcb.jpeg",
+  "grade": 12,
+  "topic": "Introduction to Geometric Transformation",
+  "question": "Sebuah transformasi geometri pada bidang Kartesius diwakili oleh matriks transformasi $M = \\begin{bmatrix} 0 & -1 \\\\ 1 & 0 \\end{bmatrix}$. Jenis transformasi yang direpresentasikan oleh matriks tersebut adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "Rotasi 90° berlawanan arah jarum jam dengan pusat O (0,0)",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.39
+   ],
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "OTH-00",
+    0.06
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "ALG-04",
+    0.06
+   ],
+   [
+    "COR-01",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "685054c0e98c",
+  "image": "685054c0e98c.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Dalam sebuah kompetisi matematika yang terdiri dari 30 soal, aturan penilaiannya adalah: \nsetiap jawaban benar mendapat poin 4, jawaban salah mendapat poin -2, dan tidak dijawab mendapat poin -1.\n\nTim A dan Tim B sama-sama berhasil menjawab 20 soal dengan benar. Namun, karena terburu-buru, Tim A memilih mengosongkan 4 soal dan menebak sisanya yang ternyata salah. \nSementara itu, Tim B memilih untuk mengosongkan (tidak menjawab) seluruh sisa soal tersebut.\n\nBerdasarkan situasi di atas, tim manakah yang memperoleh skor lebih tinggi? Dan berapakah skornya?\n",
+  "question_image": null,
+  "correct_answer": "Tim B, 70",
+  "past_labels": [
+   [
+    "NONE",
+    0.34
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "UNT-01",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.11
+   ],
+   [
+    "INT-04",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "a4db252752da",
+  "image": "a4db252752da.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{18}{5 + \\sqrt{7}}$ dapat dinyatakan sebagai $a - \\sqrt{7}$ dengan $a$ adalah bilangan bulat. Nilai dari $\\dfrac{3}{\\sqrt{a}}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{3\\sqrt{5}}{5}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "EXP-07",
+    0.24
+   ],
+   [
+    "EXP-04",
+    0.07
+   ],
+   [
+    "ALG-04",
+    0.05
+   ],
+   [
+    "FRA-04",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "6200584174c0",
+  "image": "6200584174c0.jpeg",
+  "grade": 8,
+  "topic": "Measures of Dispersion",
+  "question": "Diagram batang menunjukkan tinggi tanaman:\n\nSimpangan kuartil adalah …",
+  "question_image": "q_6200584174c0_530a1947-445b-496d-9368-0dd86b248958.png",
+  "correct_answer": "1",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "STA-05",
+    0.29
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "STA-04",
+    0.06
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "6eda52211ec6",
+  "image": "6eda52211ec6.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah tempat penyimpanan gabah (silo) berbentuk gabungan tabung dan kerucut di bagian atasnya. jari-jari alas tabung sekaligus jari-jari alas kerucut adalah 7 m, tinggi tabung 10 m, dan tinggi kerucut 24 m.\nSilo tersebut akan dilapisi cat pelindung pada seluruh permukaan luarnya, kecuali bagian alas tabung yang menempel ke tanah. Tentukan luas permukaan yang perlu dicat!\n",
+  "question_image": null,
+  "correct_answer": "$990\\text{ m}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "UNT-01",
+    0.15
+   ],
+   [
+    "MEA-04",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "FRM-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "b6a5538dfaf9",
+  "image": "b6a5538dfaf9.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Sebuah perusahaan logistik mencatat pengiriman barang harian yang membentuk pola deret aritmatika. Pada hari ke-3, perusahaan tersebut berhasil mengirimkan 18 ton barang, sedangkan pada hari ke-7, barang yang terkirim mencapai 34 ton. Total akumulasi barang yang berhasil dikirimkan perusahaan tersebut dalam 10 hari pertama… ton",
+  "question_image": null,
+  "correct_answer": "280",
+  "past_labels": [
+   [
+    "SEQ-02",
+    0.33
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "CAL-01",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.11
+   ],
+   [
+    "REL-01",
+    0.04
+   ],
+   [
+    "SIM-01",
+    0.04
+   ]
+  ]
+ }
+]

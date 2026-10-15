@@ -1,0 +1,282 @@
+[
+ {
+  "id": "4d45f9d9fbdc",
+  "image": "4d45f9d9fbdc.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Kelipatan Persekutuan Terkecil dari bilangan 10, 15 dan 25 adalah…",
+  "question_image": null,
+  "correct_answer": "150",
+  "past_labels": [
+   [
+    "KPF-04",
+    0.4
+   ],
+   [
+    "NONE",
+    0.25
+   ],
+   [
+    "KPF-03",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "KPF-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "0fc8cb7ee6f8",
+  "image": "0fc8cb7ee6f8.jpeg",
+  "grade": 7,
+  "topic": "Application of Integers",
+  "question": "Sebuah mal memiliki lantai di atas tanah dan beberapa lantai di bawah tanah (basement). Lantai dasar dinyatakan sebagai titik nol. \nRiko berada di tempat parkir yang terletak 4 lantai di bawah lantai dasar. Karena ada barang yang tertinggal di lantai yang lebih bawah, Riko harus turun sejauh 2 lantai. \n\nJika posisi Riko digambarkan pada garis bilangan vertikal, bilangan bulat yang tepat untuk menunjukkan posisi akhir Riko sekarang adalah… \n",
+  "question_image": null,
+  "correct_answer": "-6",
+  "past_labels": [
+   [
+    "NONE",
+    0.42
+   ],
+   [
+    "INT-04",
+    0.39
+   ],
+   [
+    "WOP-01",
+    0.11
+   ],
+   [
+    "INT-01",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "4b2170acc060",
+  "image": "4b2170acc060.jpeg",
+  "grade": 9,
+  "topic": "Application of Two-Variable Linear Equation Systems",
+  "question": "Tujuh tahun yang lalu, jumlah umur seorang ayah dan anaknya adalah 46 tahun. Saat ini, selisih umur ayah dan anak tersebut adalah 24 tahun. Berapakah umur ayah 3 tahun yang akan datang?",
+  "question_image": null,
+  "correct_answer": "45",
+  "past_labels": [
+   [
+    "NONE",
+    0.65
+   ],
+   [
+    "ANS-01",
+    0.11
+   ],
+   [
+    "Dec-02",
+    0.11
+   ],
+   [
+    "WOP-02",
+    0.05
+   ],
+   [
+    "SIM-01",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "a59bf9c7258e",
+  "image": "a59bf9c7258e.jpeg",
+  "grade": 6,
+  "topic": "Introduction to Integers",
+  "question": "Perhatikan angka-angka berikut: \nManakah yang bukan merupakan bilangan bulat?",
+  "question_image": "q_a59bf9c7258e_972c6b83-e951-43c3-8262-e371583f5468.png",
+  "correct_answer": "nan",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.6
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "EXP-07",
+    0.14
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "387e97658201",
+  "image": "387e97658201.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Exponents",
+  "question": "Sebuah sinyal radio memiliki kekuatan awal $2^5$ satuan. Setiap kali melewati satu penghalang tembok, kekuatan sinyal dikalikan dengan faktor $2^{-2}$. Jika sinyal tersebut melewati 3 penghalang tembok, kekuatan sinyal setelahnya adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{1}{2}$",
+  "past_labels": [
+   [
+    "EXP-01",
+    0.56
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.11
+   ],
+   [
+    "EXP-04",
+    0.06
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "FRA-03",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "ae4938969a28",
+  "image": "ae4938969a28.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Dalam kegiatan Pramuka, dua regu mengumpulkan kayu bakar untuk api unggun. Regu A mengumpulkan kayu sebanyak $3^3$ batang pada hari pertama dan $3^1$ batang pada hari kedua. Kayu-kayu tersebut kemudian diikat menjadi $3$ tumpukan yang isinya sama banyak. Sedangkan, regu B mengumpulkan $2^5$ batang pada hari pertama dan $2^2$ batang pada hari kedua. Kemudian, mengikatnya menjadi dua tumpukan yang isinya sama banyak. Tumpukan regu manakah yang berisi kayu lebih banyak?",
+  "question_image": null,
+  "correct_answer": "Tumpukan Regu B",
+  "past_labels": [
+   [
+    "NONE",
+    0.2
+   ],
+   [
+    "EXP-02",
+    0.14
+   ],
+   [
+    "OTH-00",
+    0.11
+   ],
+   [
+    "INT-03",
+    0.09
+   ],
+   [
+    "INT-04",
+    0.08
+   ],
+   [
+    "ALG-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "8ad45c7b6bc5",
+  "image": "8ad45c7b6bc5.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Dalam sebuah kompetisi matematika tingkat SMP yang terdiri dari 30 soal, aturan penilaian yang digunakan adalah sebagai berikut:\n* Jawaban benar diberi skor 4\n* Jawaban salah diberi skor -2\n* Soal yang tidak dijawab diberi skor -1\nSeorang siswa bernama Rian berhasil menjawab benar 22 soal dan tidak menjawab 3 soal. Total skor yang diperoleh siswa dalam kompetisi tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "75",
+  "past_labels": [
+   [
+    "NONE",
+    0.42
+   ],
+   [
+    "ANS-01",
+    0.26
+   ],
+   [
+    "OOO-01",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.08
+   ],
+   [
+    "INT-02",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "6d6a1e819c50",
+  "image": "6d6a1e819c50.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Sebuah kapal selam mula-mula berada di kedalaman 12 meter di bawah permukaan laut. Kapal tersebut kemudian bergerak turun lagi sejauh 8 meter. \n\nTepat setelah itu, kapal selam mengaktifkan mesin pendorong otomatis yang membuatnya bergerak naik ke atas dengan kecepatan 3 meter setiap menitnya selama 5 menit. \n\nDi manakah posisi kapal selam tersebut sekarang?",
+  "question_image": null,
+  "correct_answer": "-5",
+  "past_labels": [
+   [
+    "INT-04",
+    0.41
+   ],
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ }
+]

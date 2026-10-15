@@ -1,0 +1,282 @@
+[
+ {
+  "id": "ccc39836c9f7",
+  "image": "ccc39836c9f7.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Diketahui a, b, c tiga bilangan asli berurutan ($a \\lt b \\lt c$) dan $b^2 = 16$.\nNilai dari $\\dfrac{a^2b^3c^{-1}}{a^{-2}bc^2}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{1296}{125}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "EXP-02",
+    0.19
+   ],
+   [
+    "Dec-02",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "9412cebf200f",
+  "image": "9412cebf200f.jpeg",
+  "grade": 12,
+  "topic": "Counting Rules",
+  "question": "Sebuah pabrik otomotif membuat plat identifikasi mesin yang terdiri dari 2 huruf lalu diikuti oleh 3 angka.\r\n* Huruf diambil dari himpunan H = {A, B, C, E, I, K, O, T} tanpa pengulangan.\r\n* Syarat pembuatan kode: huruf pertama harus vokal dan huruf kedua harus konsonan.\r\n* Angka disusun dari himpunan N = {1, 2, 3, 4, 5} dengan syarat tidak boleh ada angka yang sama (berulang).\r\nBanyak plat identifikasi mesin yang dapat dibuat adalah ...",
+  "question_image": null,
+  "correct_answer": "960",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.39
+   ],
+   [
+    "OTH-00",
+    0.36
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "f8af786969d7",
+  "image": "f8af786969d7.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Sebuah taman berbentuk persegi panjang memiliki panjang (2x + 3) meter dan lebar (x - 1) meter. Jika keliling taman tersebut adalah 34 meter, maka nilai x yang memenuhi adalah...",
+  "question_image": null,
+  "correct_answer": "5",
+  "past_labels": [
+   [
+    "INT-04",
+    0.19
+   ],
+   [
+    "FRM-01",
+    0.16
+   ],
+   [
+    "OOO-02",
+    0.16
+   ],
+   [
+    "WOP-01",
+    0.08
+   ],
+   [
+    "ALG-04",
+    0.08
+   ],
+   [
+    "ALG-05",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "c33525a20716",
+  "image": "c33525a20716.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Diketahui $x$ dan $y$ adalah bilangan bulat positif yang memenuhi persamaan:\r\n\r\n$\\sqrt{x} + \\sqrt{y} = \\sqrt{180}$\r\n\r\nJika nilai $x = 45$, maka nilai dari $\\sqrt{x \\cdot y}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "45",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.43
+   ],
+   [
+    "EXP-07",
+    0.26
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ALG-06",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "65032a0c547c",
+  "image": "65032a0c547c.jpeg",
+  "grade": 8,
+  "topic": "Exponents",
+  "question": "Diketahui sebuah persamaan $3^x = \\dfrac{1}{27}$. Nilai dari $5^{x+3}$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "1",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.27
+   ],
+   [
+    "EXP-01",
+    0.24
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "EXP-02",
+    0.12
+   ],
+   [
+    "EXP-06",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "2612f03ca26e",
+  "image": "2612f03ca26e.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Hitunglah nilai dari ekspresi eksponen berikut: \r\n$\\left(\\dfrac{1}{4}\\right)^{-2} + 27^{\\frac{2}{3}} - \\left(5^2\\right)^1$",
+  "question_image": null,
+  "correct_answer": "0",
+  "past_labels": [
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "OTH-00",
+    0.2
+   ],
+   [
+    "EXP-04",
+    0.16
+   ],
+   [
+    "EXP-02",
+    0.08
+   ],
+   [
+    "INT-03",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "68f2c0b71596",
+  "image": "68f2c0b71596.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor persekutuan terbesar dari 40, 60, dan 100 adalah… ",
+  "question_image": null,
+  "correct_answer": "20",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.35
+   ],
+   [
+    "FRM-01",
+    0.26
+   ],
+   [
+    "KPF-04",
+    0.17
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "KPF-03",
+    0.09
+   ],
+   [
+    "REL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "f97f584eebc8",
+  "image": "f97f584eebc8.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Seorang arsitektur landscape sedang mendesain taman berbentuk persegi panjang dengan panjang $\\sqrt{180}$ meter dan lebar $\\sqrt{80}$ meter. \r\n\r\nIa ingin memasang pagar pembatas tepat pada garis diagonal taman tersebut. \r\n\r\nMenggunakan Teorema Pythagoras, panjang pagar diagonal tersebut adalah $\\sqrt{(\\sqrt{180})^2 + (\\sqrt{80})^2}$ meter. \r\n\r\nBentuk paling sederhana dari panjang pagar diagonal taman tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "$2\\sqrt{65}$ meter",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.46
+   ],
+   [
+    "EXP-07",
+    0.24
+   ],
+   [
+    "NONE",
+    0.2
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ }
+]

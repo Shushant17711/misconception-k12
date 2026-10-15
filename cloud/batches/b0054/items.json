@@ -1,0 +1,282 @@
+[
+ {
+  "id": "6d8518397c2c",
+  "image": "6d8518397c2c.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Dalam sebuah kompetisi matematika yang terdiri dari 30 soal, aturan penilaiannya adalah: \r\nsetiap jawaban benar mendapat poin 4, jawaban salah mendapat poin -2, dan tidak dijawab mendapat poin -1.\r\n\r\nTim A dan Tim B sama-sama berhasil menjawab 20 soal dengan benar. Namun, karena terburu-buru, Tim A memilih mengosongkan 4 soal dan menebak sisanya yang ternyata salah. \r\nSementara itu, Tim B memilih untuk mengosongkan (tidak menjawab) seluruh sisa soal tersebut.\r\n\r\nBerdasarkan situasi di atas, tim manakah yang memperoleh skor lebih tinggi? Dan berapakah skornya?\r",
+  "question_image": null,
+  "correct_answer": "Tim B, 70\r",
+  "past_labels": [
+   [
+    "NONE",
+    0.34
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "UNT-01",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.11
+   ],
+   [
+    "INT-04",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "e303d0689887",
+  "image": "e303d0689887.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Perpustakaan sekolah memiliki dua jadwal kegiatan. Mobil perpustakaan datang setiap 8 hari sekali, sedangkan petugas mendongeng datang setiap 16 hari sekali. Hari ini kedua kegiatan tersebut berlangsung bersamaan.\n\nJika hari ini adalah tanggal 6 Agustus, pada tanggal berapakah kedua kegiatan tersebut akan berlangsung bersamaan lagi dalam waktu terdekat?",
+  "question_image": null,
+  "correct_answer": "22 Agustus",
+  "past_labels": [
+   [
+    "NONE",
+    0.34
+   ],
+   [
+    "FRM-01",
+    0.2
+   ],
+   [
+    "ANS-01",
+    0.11
+   ],
+   [
+    "KPF-02",
+    0.1
+   ],
+   [
+    "KPF-01",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "6065473fbb65",
+  "image": "6065473fbb65.jpeg",
+  "grade": 9,
+  "topic": "Applications of geometric sequences and series",
+  "question": "Jumlah bakteri dalam sebuah percobaan menjadi $2$ kali lipat setiap jam.  \nPada awal percobaan terdapat $40$ bakteri.  \nSetelah beberapa jam jumlah bakteri menjadi $640$ bakteri.\n\nLama waktu yang diperlukan adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "4 jam",
+  "past_labels": [
+   [
+    "NONE",
+    0.89
+   ],
+   [
+    "WOP-01",
+    0.01
+   ],
+   [
+    "FRM-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ],
+   [
+    "CAL-01",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "94184d74e733",
+  "image": "94184d74e733.jpeg",
+  "grade": 11,
+  "topic": "Correlation",
+  "question": "Sebuah penelitian kecil dilakukan untuk melihat hubungan antara durasi belajar tambahan (jam) dengan peningkatan skor ujian. Data yang diperoleh adalah sebagai berikut:\n\n* item Jam Belajar ($x$): $2, 4, 3, 1$\n* item Peningkatan Skor ($y$): $10, 20, 15, 5$\n\nJika diketahui nilai $SSxx = 5$ dan $SSyy = 125$, maka nilai korelasi product moment ($r$) dari data tersebut adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{25}{\\sqrt{625}}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "STA-01",
+    0.27
+   ],
+   [
+    "WOP-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ],
+   [
+    "CAL-01",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "39daf1666429",
+  "image": "39daf1666429.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Akibat musim kemarau panjang, volume air di sebuah waduk menyusut sebesar 4 cm setiap harinya. Penyusutan ini terjadi secara konstan selama 3 minggu. \n\nPemerintah daerah kemudian menyalakan pompa air darurat untuk mengisi waduk, sehingga air naik 5 cm setiap jamnya selama 12 jam. \n\nBerapakah perubahan total ketinggian air waduk tersebut secara keseluruhan? (gunakan bilangan negatif(-) untuk penyusutan)\n",
+  "question_image": null,
+  "correct_answer": "-24",
+  "past_labels": [
+   [
+    "INT-04",
+    0.41
+   ],
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "MEA-02",
+    0.12
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "067956ad442a",
+  "image": "067956ad442a.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Dalam sebuah lomba lari, seorang pelari telah menempuh jarak $3\\dfrac{5}{8}$ dari total lintasan sepanjang $5\\text{ km}$. Panitia lomba mencatat progres pelari menggunakan alat GPS yang menampilkan jarak tempuh dalam bentuk desimal. Jarak tempuh yang ditampilkan alat GPS tersebut dalam bentuk desimal adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "3625",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "WOP-02",
+    0.2
+   ],
+   [
+    "FRA-05",
+    0.13
+   ],
+   [
+    "OPS-02",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.07
+   ],
+   [
+    "Dec-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "84558d77a24f",
+  "image": "84558d77a24f.jpeg",
+  "grade": 12,
+  "topic": "Counting Rules",
+  "question": "Diberikan himpunan angka {1, 2, 3, 4, 5, 6, 7}. Dari angka-angka tersebut, akan disusun bilangan ganjil yang terdiri dari 4 angka berbeda. Banyak susunan bilangan ganjil yang dapat terbentuk adalah...",
+  "question_image": null,
+  "correct_answer": "480",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.33
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "PRO-04",
+    0.25
+   ],
+   [
+    "FRM-01",
+    0.14
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "79117455ecd5",
+  "image": "79117455ecd5.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Pada sebuah sekolah yang memiliki 80 siswa kelas 8, terdapat pendataan mengenai keikutsertaan OSIS maupun pramuka. \nData menunjukkan:\n\n* Sebanyak 48 siswa aktif sebagai anggota Pramuka.\n* Peluang seorang siswa yang terpilih secara acak aktif di kedua organisasi (OSIS dan Pramuka) adalah 0,15.\n* Peluang seorang siswa yang terpilih secara acak tidak aktif di OSIS maupun Pramuka adalah 0,1.\n\nBerapakah peluang seorang siswa yang terpilih secara acak aktif sebagai anggota OSIS? ",
+  "question_image": null,
+  "correct_answer": "0,45",
+  "past_labels": [
+   [
+    "NONE",
+    0.51
+   ],
+   [
+    "PRO-04",
+    0.13
+   ],
+   [
+    "FRM-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.07
+   ],
+   [
+    "PRO-02",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ }
+]

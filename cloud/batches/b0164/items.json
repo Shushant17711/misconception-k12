@@ -1,0 +1,282 @@
+[
+ {
+  "id": "d65224e19867",
+  "image": "d65224e19867.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor Persekutuan Terbesar dari tiga bilangan berikut: 20, 40, dan 60 adalah…",
+  "question_image": null,
+  "correct_answer": "20",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.44
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "KPF-04",
+    0.1
+   ],
+   [
+    "KPF-03",
+    0.07
+   ],
+   [
+    "REL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "192889c52516",
+  "image": "192889c52516.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah truk mengangkut boks bantuan sosial dengan total berat 18.900 kg. Boks-boks tersebut akan diturunkan secara bertahap setiap harinya dalam jumlah yang sama selama 3 minggu penuh hingga habis. Berat boks yang diturunkan truk tersebut setiap harinya adalah… kg.",
+  "question_image": null,
+  "correct_answer": "900",
+  "past_labels": [
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "ANS-02",
+    0.25
+   ],
+   [
+    "OPS-01",
+    0.2
+   ],
+   [
+    "PV-01",
+    0.12
+   ],
+   [
+    "OPS-02",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "7f13ddffc7d6",
+  "image": "7f13ddffc7d6.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Perhatikan diagram gambar di samping! Berdasarkan data hobi siswa kelas 5 tersebut, selisih banyak siswa yang memiliki hobi olahraga dan membaca adalah . . . orang.",
+  "question_image": "q_7f13ddffc7d6_96ddb428-7686-43ae-a082-b6f47501520f.png",
+  "correct_answer": "0",
+  "past_labels": [
+   [
+    "NONE",
+    0.71
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "fd56c6d12acf",
+  "image": "fd56c6d12acf.jpeg",
+  "grade": 7,
+  "topic": "Angle",
+  "question": "Jika besar β = (4x - 20)° dan ε = 100°, maka besar sudut $\\frac{1}{2}$ α adalah ... ",
+  "question_image": "q_fd56c6d12acf_7c8e574c-d3da-4799-a84c-684941b40035.png",
+  "correct_answer": "50°\n",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.81
+   ],
+   [
+    "NONE",
+    0.06
+   ],
+   [
+    "ANS-02",
+    0.05
+   ],
+   [
+    "ALG-06",
+    0.05
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "78b34a829279",
+  "image": "78b34a829279.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari hasil operasi hitung 25 - (-17) + (-34) - 12 adalah...",
+  "question_image": null,
+  "correct_answer": "-4",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "INT-03",
+    0.23
+   ],
+   [
+    "CAL-01",
+    0.13
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-04",
+    0.07
+   ],
+   [
+    "INT-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "34385e57a684",
+  "image": "34385e57a684.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah wadah berbentuk tabung terbuka (tanpa tutup) memiliki diameter alas $20\\text{ cm}$ dan tinggi $15\\text{ cm}$. Luas permukaan bahan yang dibutuhkan untuk membuat wadah tersebut adalah $\\dots\\text{ cm}^2$.",
+  "question_image": null,
+  "correct_answer": "1.256",
+  "past_labels": [
+   [
+    "NONE",
+    0.53
+   ],
+   [
+    "CAL-01",
+    0.17
+   ],
+   [
+    "MEA-04",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "2e8e71e8233e",
+  "image": "2e8e71e8233e.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Seorang petani mencatat pertumbuhan tinggi tanamannya seperti gambar di samping. \n\nNamun, noda tinta membuat data pada minggu ke-1 tidak terbaca. Petani tersebut ingat bahwa pertambahan tinggi tanaman dari minggu ke-3 ke minggu ke-4 adalah tiga kali lipat dari pertambahan tinggi dari minggu ke-1 ke minggu ke-2. \n\nTinggi tanaman tersebut pada minggu ke-1 adalah . . . .",
+  "question_image": "q_2e8e71e8233e_be118c71-0575-4a05-95b0-5a2e121f12d0.png",
+  "correct_answer": "10 cm",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "ALG-04",
+    0.17
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "7aeee0adb241",
+  "image": "7aeee0adb241.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Garis $y = 2x + 3$ direfleksikan terhadap garis $y = x$, kemudian didilatasikan dengan pusat $O(0,0)$ dan faktor skala $2$. Persamaan bayangan garis tersebut adalah....",
+  "question_image": null,
+  "correct_answer": "$y = \\dfrac{1}{2}x - 3$",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.33
+   ],
+   [
+    "OTH-00",
+    0.3
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.05
+   ],
+   [
+    "OOO-01",
+    0.05
+   ]
+  ]
+ }
+]

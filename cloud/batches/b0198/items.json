@@ -1,0 +1,282 @@
+[
+ {
+  "id": "0e8d6906fb21",
+  "image": "0e8d6906fb21.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Sebuah mobil pemadam kebakaran memiliki tiga tangga dengan ukuran panjang sebagai berikut:\n* Tangga $1 = 3\\sqrt{11}\\text{ m}$\n* Tangga $2 = 4\\sqrt{5}\\text{ m}$\n* Tangga $3 = 2\\sqrt{17}\\text{ m}$\nAgar dapat digunakan dengan aman, petugas harus memilih tangga yang panjangnya lebih dari $8\\text{ m}$ tetapi kurang dari $10\\text{ m}$. Tangga yang memenuhi syarat adalah...",
+  "question_image": null,
+  "correct_answer": "Ketiganya memenuhi syarat",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.45
+   ],
+   [
+    "ANS-01",
+    0.18
+   ],
+   [
+    "EXP-07",
+    0.15
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.03
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "ba0f2d2d4005",
+  "image": "ba0f2d2d4005.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Sebuah akuarium berbentuk balok memiliki volume $600.000$ cm$^3$. \n\nJika panjang dan lebar akuarium berturut-turut $150$ cm dan $80$ cm, maka tinggi akuarium tersebut adalah … cm. ",
+  "question_image": null,
+  "correct_answer": "50",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "MEA-04",
+    0.24
+   ],
+   [
+    "MEA-03",
+    0.24
+   ],
+   [
+    "VIS-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "7cc761a63ec3",
+  "image": "7cc761a63ec3.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah perpustakaan sekolah memiliki total 45.000 koleksi buku fiksi dan non-fiksi. Di antara koleksi tersebut, sebanyak 24.500 buku adalah buku fiksi. Hari ini, perpustakaan menerima kiriman buku fiksi sebanyak 3.200 buku. \n\nSelisih banyaknya buku fiksi dan non-fiksi di perpustakaan sekarang adalah… \n",
+  "question_image": null,
+  "correct_answer": "7.200 buku",
+  "past_labels": [
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "ANS-02",
+    0.21
+   ],
+   [
+    "WOP-01",
+    0.19
+   ],
+   [
+    "OPS-01",
+    0.17
+   ],
+   [
+    "PV-01",
+    0.1
+   ],
+   [
+    "OPS-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "56ba9cd0a179",
+  "image": "56ba9cd0a179.jpeg",
+  "grade": 5,
+  "topic": "Solving daily life problems related to LCM and GCD",
+  "question": "Sebanyak 16 siswa dan 24 siswi SD Ceria akan mengikuti kegiatan pramuka. \n\nMereka akan dibagi menjadi beberapa kelompok. \n\nSetiap kelompok berisi siswa dan siswi sama banyak. Banyak siswi yang ada di setiap kelompok adalah . . . orang.",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.4
+   ],
+   [
+    "KPF-01",
+    0.26
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "CAL-01",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "7b7f9999a4e3",
+  "image": "7b7f9999a4e3.jpeg",
+  "grade": 6,
+  "topic": "Comparison of Fractions",
+  "question": "Andi mencatat berat empat buah buku tulis miliknya:\n* Buku A: 0,35 kg\n* Buku B: 0,301 kg\n* Buku C: 0,30 kg\n* Buku D: 0,305 kg\nBuku tulis manakah yang memiliki bobot paling ringan?",
+  "question_image": null,
+  "correct_answer": "Buku C",
+  "past_labels": [
+   [
+    "Dec-01",
+    0.51
+   ],
+   [
+    "Dec-02",
+    0.26
+   ],
+   [
+    "NONE",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "PV-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "d15d311410fa",
+  "image": "d15d311410fa.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "90.000 - 34.650 + 12.800 = …",
+  "question_image": null,
+  "correct_answer": "68.150",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "OPS-01",
+    0.33
+   ],
+   [
+    "OOO-02",
+    0.12
+   ],
+   [
+    "PV-01",
+    0.06
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "OPS-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "2e5112e1506f",
+  "image": "2e5112e1506f.jpeg",
+  "grade": 7,
+  "topic": "Measures of Dispersion",
+  "question": "Data nilai ujian matematika sekelompok siswa disajikan dalam diagram lingkaran. \nDiketahui total siswa adalah 36 orang. \nBerapakah jangkauan dari banyaknya siswa yang mendapatkan nilai-nilai tersebut?",
+  "question_image": "q_2e5112e1506f_dcc5d532-ac70-417e-bb71-2c3f6c3bc869.png",
+  "correct_answer": "6 siswa",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "WOP-01",
+    0.21
+   ],
+   [
+    "STA-05",
+    0.09
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "STA-04",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "85ab453f8d58",
+  "image": "85ab453f8d58.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Diketahui fungsi $h(x) = 2 \\cdot 5^{x-1}$.\r\nJika nilai $h(p) = 50$ dan $h(q) = 250$, hitunglah nilai dari $h(p + q - 2)$.",
+  "question_image": null,
+  "correct_answer": "1250",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.32
+   ],
+   [
+    "SEQ-01",
+    0.18
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "OTH-00",
+    0.06
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "INT-03",
+    0.06
+   ]
+  ]
+ }
+]

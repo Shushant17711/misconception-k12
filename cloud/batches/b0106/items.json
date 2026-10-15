@@ -1,0 +1,282 @@
+[
+ {
+  "id": "16c3e7c3da6c",
+  "image": "16c3e7c3da6c.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Sebuah toko pakaian menerima kiriman kaos kaki dalam 8 kardus besar. Setiap kardus besar berisi 6 kotak kecil, dan setiap kotak kecil berisi 15 pasang kaos kaki. Jika toko tersebut sudah menjual 220 pasang kaos kaki, berapakah sisa pasang kaos kaki yang belum terjual?",
+  "question_image": null,
+  "correct_answer": "500 pasang",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "WOP-02",
+    0.33
+   ],
+   [
+    "WOP-01",
+    0.1
+   ],
+   [
+    "ANS-01",
+    0.07
+   ],
+   [
+    "OPS-02",
+    0.05
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "23183da30a96",
+  "image": "23183da30a96.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Pak Budi memanen 56 kg buah mangga dan 84 kg buah alpukat. Ia ingin mengemas seluruh buah tersebut ke dalam beberapa keranjang secara merata. Setiap keranjang harus berisi kedua jenis buah dengan berat yang sama banyak tanpa ada buah yang tersisa. Jika Pak Budi berhasil membaginya ke dalam keranjang dengan jumlah maksimal, berat buah alpukat di dalam setiap keranjangnya….Kg",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "ANS-01",
+    0.26
+   ],
+   [
+    "OTH-00",
+    0.12
+   ],
+   [
+    "KPF-02",
+    0.06
+   ],
+   [
+    "KPF-01",
+    0.05
+   ],
+   [
+    "KPF-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "11658938b592",
+  "image": "11658938b592.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f(x) = 2x - 1$, $g(x) = x^2$, dan $h(x) = x + 2$.\r\nTentukan $(f \\circ g \\circ h)(x)$.",
+  "question_image": null,
+  "correct_answer": "$2x^2 + 8x + 7$",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.33
+   ],
+   [
+    "INT-04",
+    0.14
+   ],
+   [
+    "EXP-03",
+    0.14
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "INV-01",
+    0.06
+   ],
+   [
+    "EXP-04",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "ed0eeba483e5",
+  "image": "ed0eeba483e5.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Sebuah balok mainan memiliki ukuran panjang $2\\dfrac{2}{5}\\text{ meter}$, lebar $\\dfrac{13}{15}\\text{ meter}$, dan tinggi $\\dfrac{5}{13}\\text{ meter}$. Volume balok tersebut adalah $\\dots\\text{ m}^3$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{4}{5}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "FRA-06",
+    0.27
+   ],
+   [
+    "ANS-01",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "FRA-05",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "6fb5b8a4abcd",
+  "image": "6fb5b8a4abcd.jpeg",
+  "grade": 9,
+  "topic": "Application of Two-Variable Linear Equation Systems",
+  "question": "Tempat parkir sebuah pusat perbelanjaan memuat sepeda motor dan mobil. Jumlah seluruh kendaraan di tempat parkir adalah 50 unit. Jika jumlah roda seluruh kendaraan tersebut adalah 140 buah, banyaknya sepeda motor di tempat parkir tersebut adalah...",
+  "question_image": null,
+  "correct_answer": "30 unit",
+  "past_labels": [
+   [
+    "NONE",
+    0.77
+   ],
+   [
+    "ANS-01",
+    0.07
+   ],
+   [
+    "Dec-02",
+    0.07
+   ],
+   [
+    "WOP-02",
+    0.04
+   ],
+   [
+    "SIM-01",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "d440e96fbeaa",
+  "image": "d440e96fbeaa.jpeg",
+  "grade": 11,
+  "topic": "Application of Functions",
+  "question": "Proses pembuatan kertas di suatu pabrik melalui dua tahap. Tahap I menggunakan mesin A menghasilkan bahan setengah jadi $m$ mengikuti fungsi $m(x) = 2x - 5$, di mana $x$ adalah kayu (dalam ton). Tahap II menggunakan mesin B menghasilkan kertas jadi $y$ mengikuti fungsi $y(m) = m^2 + 3m - 2$. Jika kayu yang tersedia sebanyak $10\\text{ ton}$, berapa ton kertas jadi yang dihasilkan?",
+  "question_image": null,
+  "correct_answer": "268 ton",
+  "past_labels": [
+   [
+    "NONE",
+    0.94
+   ],
+   [
+    "WOP-01",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "7e4f99cc4bca",
+  "image": "7e4f99cc4bca.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Bilangan kelipatan 9 yang merupakan bilangan ganjil dan nilainya lebih kecil dari 60 adalah…",
+  "question_image": null,
+  "correct_answer": "9, 27, 45",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "WOP-02",
+    0.16
+   ],
+   [
+    "WOP-01",
+    0.13
+   ],
+   [
+    "ANS-01",
+    0.09
+   ],
+   [
+    "OPS-02",
+    0.06
+   ],
+   [
+    "OPS-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "9fe74d59253c",
+  "image": "9fe74d59253c.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Di sebuah turnamen futsal setiap tim bermain sebanyak 10 kali. Aturan penilaian yang digunakan adalah: \r\n* Menang mendapat skor 4 \r\n* Kalah mendapat skor -2 \r\n* Seri mendapat skor -1\r\nTim Garuda berhasil memenangkan 6 pertandingan. Jika Tim Garuda tidak pernah mendapat hasil seri, maka total skor yang diperoleh Tim Garuda adalah… ",
+  "question_image": null,
+  "correct_answer": "16",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "INT-04",
+    0.21
+   ],
+   [
+    "OOO-01",
+    0.1
+   ],
+   [
+    "INT-02",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ }
+]

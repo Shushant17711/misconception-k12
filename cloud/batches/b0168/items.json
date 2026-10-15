@@ -1,0 +1,282 @@
+[
+ {
+  "id": "1ced69520f51",
+  "image": "1ced69520f51.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah toko alat tulis menerima kiriman 84.672 pensil. Pensil tersebut akan dimasukkan ke dalam beberapa kotak dengan jumlah yang sama. Empat siswa memberikan pendapat berikut.\n* Andi: \"Jika ada 288 kotak, setiap kotak berisi 294 pensil.\"\n* Beni: \"Jika ada 294 kotak, setiap kotak berisi 288 pensil.\"\n* Citra: \"Pendapat Andi dan Beni sama-sama benar.\"\n* Dinda: \"Salah satu dari Andi atau Beni pasti salah.\"\nPernyataan yang benar adalah ...",
+  "question_image": null,
+  "correct_answer": "Andi, Beni, dan Citra benar",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "OPS-01",
+    0.29
+   ],
+   [
+    "ANS-01",
+    0.17
+   ],
+   [
+    "PV-01",
+    0.08
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "d47a3723eb22",
+  "image": "d47a3723eb22.jpeg",
+  "grade": 9,
+  "topic": "Application of Two-Variable Linear Equation Systems",
+  "question": "Tujuh tahun yang lalu, jumlah umur seorang ayah dan anaknya adalah 46 tahun. Saat ini, selisih umur ayah dan anak tersebut adalah 24 tahun. Berapakah umur ayah 3 tahun yang akan datang?",
+  "question_image": null,
+  "correct_answer": "45",
+  "past_labels": [
+   [
+    "NONE",
+    0.65
+   ],
+   [
+    "ANS-01",
+    0.11
+   ],
+   [
+    "Dec-02",
+    0.11
+   ],
+   [
+    "WOP-02",
+    0.05
+   ],
+   [
+    "SIM-01",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "82f7dff1c83e",
+  "image": "82f7dff1c83e.jpeg",
+  "grade": 10,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{\\sqrt{15} + \\sqrt{13}}{\\sqrt{15} - \\sqrt{13}}$ dapat dinyatakan sebagai $a + \\sqrt{b}$, dengan $a$ dan $b$ bilangan bulat. Nilai dari $\\dfrac{a}{\\sqrt{b}}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{14\\sqrt{195}}{195}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "EXP-07",
+    0.19
+   ],
+   [
+    "ALG-04",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.12
+   ],
+   [
+    "EXP-04",
+    0.05
+   ],
+   [
+    "FRA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "705de4eed27a",
+  "image": "705de4eed27a.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah benda padat (pejal) berbentuk bola sempurna dengan diameter $20\\text{ cm}$ dibelah menjadi dua bagian yang sama besar. Luas permukaan total dari satu belahan benda tersebut adalah $\\dots\\text{ cm}^2$.",
+  "question_image": null,
+  "correct_answer": "942",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "MEA-04",
+    0.18
+   ],
+   [
+    "VIS-01",
+    0.11
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "ca25b3165f2f",
+  "image": "ca25b3165f2f.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Seorang petani memanen 75 kg buah apel dan 105 kg buah jeruk. Ia ingin memasukkan buah-buahan tersebut ke dalam beberapa keranjang secara merata tanpa ada yang tersisa. Namun setelah diperiksa, terdapat 5 buah apel dan 7 jeruk yang busuk sehingga harus dibuang. Jika setiap keranjang harus memuat buah apel yang sama banyak dan buah jeruk yang sama banyak. Maka jumlah keranjang paling banyak yang dapat disiapkan oleh petani tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.5
+   ],
+   [
+    "ANS-01",
+    0.21
+   ],
+   [
+    "KPF-02",
+    0.08
+   ],
+   [
+    "KPF-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "FRM-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "768cd2330903",
+  "image": "768cd2330903.jpeg",
+  "grade": 12,
+  "topic": "Probability of Compound Events",
+  "question": "Dalam sebuah kantong terdapat 5 bola merah, 4 bola putih, dan 3 bola biru. Dari kantong tersebut diambil 2 bola sekaligus secara acak. Peluang terambilnya kedua bola berwarna merah atau keduanya berwarna putih adalah ....",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{8}{33}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "PRO-04",
+    0.28
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.06
+   ],
+   [
+    "PRO-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "e413e5cae1d0",
+  "image": "e413e5cae1d0.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Disediakan kartu-kartu yang membentuk kata **\"P R O B A B I L I T A S\"**. \nDua kartu diambil secara acak satu per satu tanpa dikembalikan. \n\nPeluang terambilnya **kartu huruf vokal pada pengambilan pertama dan kartu huruf B pada pengambilan kedua** adalah...",
+  "question_image": null,
+  "correct_answer": "$\\frac{5}{66}$",
+  "past_labels": [
+   [
+    "PRO-02",
+    0.33
+   ],
+   [
+    "NONE",
+    0.22
+   ],
+   [
+    "CAL-01",
+    0.19
+   ],
+   [
+    "PRO-04",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "073780aeb18e",
+  "image": "073780aeb18e.jpeg",
+  "grade": 9,
+  "topic": "Angle",
+  "question": "Jika garis $A$ sejajar dengan garis $B$, kemudian dipotong oleh suatu garis, maka nilai $x$ adalah $\\ldots$",
+  "question_image": "q_073780aeb18e_49d7f7ea-7d5f-4e91-ace9-707a12e9a50a.png",
+  "correct_answer": "30",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.76
+   ],
+   [
+    "ALG-06",
+    0.15
+   ],
+   [
+    "NONE",
+    0.04
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "ALG-05",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ }
+]

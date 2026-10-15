@@ -1,0 +1,282 @@
+[
+ {
+  "id": "63175a146582",
+  "image": "63175a146582.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Caca les matematika setiap 12 hari sekali, Nara les matematika 18 hari sekali dan Leo les matematika setiap 20 hari sekali. Jika hari ini mereka pergi les bersama-sama untuk pertama kalinya, berapa hari lagi mereka akan pergi les bersama-sama untuk ketiga kalinya…",
+  "question_image": null,
+  "correct_answer": "360 hari",
+  "past_labels": [
+   [
+    "KPF-02",
+    0.6
+   ],
+   [
+    "ANS-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "KPF-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "6796373515ae",
+  "image": "6796373515ae.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Caca les matematika setiap 12 hari sekali, Nara les matematika 18 hari sekali dan Leo les matematika setiap 20 hari sekali. Jika hari ini mereka pergi les bersama-sama untuk pertama kalinya, berapa hari lagi mereka akan pergi les bersama-sama untuk ketiga kalinya…",
+  "question_image": null,
+  "correct_answer": "360 hari",
+  "past_labels": [
+   [
+    "KPF-02",
+    0.6
+   ],
+   [
+    "ANS-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "KPF-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "71d0bb5b0928",
+  "image": "71d0bb5b0928.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Seorang peneliti mencatat hubungan antara lama jam belajar dan nilai ujian siswa. Hasilnya seperti pada tabel.\n\nDiasumsikan hubungan antara x dan y linear.\n\nPerkiraan nilai siswa jika ia belajar selama 5 jam adalah …",
+  "question_image": "q_71d0bb5b0928_685c7ac2-b0ea-4188-ba61-6c771d51c7ee.png",
+  "correct_answer": "75",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "WOP-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "ef152dea78d1",
+  "image": "ef152dea78d1.jpeg",
+  "grade": 8,
+  "topic": "Measures of Dispersion",
+  "question": "Berikut adalah data suhu udara (dalam $^\\circ\\mathrm{C}$) di suatu kota selama $8$ hari:\n\n$-2,\\, 3,\\, 1,\\, -1,\\, 4,\\, 0,\\, 2,\\, 5$\n\nKuartil kedua $(Q_2)$ dari data suhu tersebut adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$1{,}5$",
+  "past_labels": [
+   [
+    "NONE",
+    0.53
+   ],
+   [
+    "STA-05",
+    0.09
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "STA-04",
+    0.06
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "b33ad9107655",
+  "image": "b33ad9107655.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Diketahui $f(x) = \\dfrac{4x - k}{x - 3}$, dan $f^{-1}$ adalah invers dari $f$, Jika nilai dari $f^{-1}(2) = 1$, maka nilai $k$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "8",
+  "past_labels": [
+   [
+    "ALG-06",
+    0.26
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "INV-01",
+    0.17
+   ],
+   [
+    "ALG-05",
+    0.17
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "ALG-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "68043e6c654b",
+  "image": "68043e6c654b.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Sebuah taman berbentuk persegi panjang memiliki panjang (2x + 3) meter dan lebar (x - 1) meter. Jika keliling taman tersebut adalah 34 meter, maka nilai x yang memenuhi adalah...",
+  "question_image": null,
+  "correct_answer": "5",
+  "past_labels": [
+   [
+    "INT-04",
+    0.19
+   ],
+   [
+    "FRM-01",
+    0.16
+   ],
+   [
+    "OOO-02",
+    0.16
+   ],
+   [
+    "WOP-01",
+    0.08
+   ],
+   [
+    "ALG-04",
+    0.08
+   ],
+   [
+    "ALG-05",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "3724237ea6c4",
+  "image": "3724237ea6c4.jpeg",
+  "grade": 4,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Berdasarkan diagram batang ekstrakurikuler siswa kelas 4, berapa jumlah siswa yang mengikuti ekstrakurikuler paskibra jika total siswa 50 orang?\n",
+  "question_image": "q_3724237ea6c4_4dd692e6-048b-4d0b-b840-d43928cafdad.png",
+  "correct_answer": "9 siswa",
+  "past_labels": [
+   [
+    "NONE",
+    0.66
+   ],
+   [
+    "VIS-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "UNT-01",
+    0.04
+   ],
+   [
+    "RAT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "0ee5abeaed7e",
+  "image": "0ee5abeaed7e.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Jika $x$ dan $y$ adalah bilangan real positif, bentuk paling sederhana dari $\\sqrt{75x^4y^3}$ adalah…\n",
+  "question_image": null,
+  "correct_answer": "$5x^2y\\sqrt{3y}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.43
+   ],
+   [
+    "NONE",
+    0.24
+   ],
+   [
+    "EXP-07",
+    0.17
+   ],
+   [
+    "EXP-02",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ }
+]

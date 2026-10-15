@@ -1,0 +1,282 @@
+[
+ {
+  "id": "6c6baa7d0d3c",
+  "image": "6c6baa7d0d3c.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Sebuah lahan perkebunan seluas 600 hektar ditanami berbagai jenis tanaman. \n\nBerapakah luas lahan yang digunakan untuk menanam kopi?",
+  "question_image": "q_6c6baa7d0d3c_ddcc79d6-4290-45a8-95fe-ef4eeebe7ff3.png",
+  "correct_answer": "50 hektar",
+  "past_labels": [
+   [
+    "NONE",
+    0.66
+   ],
+   [
+    "FRM-01",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.02
+   ],
+   [
+    "RAT-02",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "44d765a65662",
+  "image": "44d765a65662.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Seorang arsitektur landscape sedang mendesain taman berbentuk persegi panjang dengan panjang $\\sqrt{180}$ meter dan lebar $\\sqrt{80}$ meter. \r\n\r\nIa ingin memasang pagar pembatas tepat pada garis diagonal taman tersebut. \r\n\r\nMenggunakan Teorema Pythagoras, panjang pagar diagonal tersebut adalah $\\sqrt{(\\sqrt{180})^2 + (\\sqrt{80})^2}$ meter. \r\n\r\nBentuk paling sederhana dari panjang pagar diagonal taman tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "$2\\sqrt{65}$ meter",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.46
+   ],
+   [
+    "EXP-07",
+    0.24
+   ],
+   [
+    "NONE",
+    0.2
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "62bbd71e2d65",
+  "image": "62bbd71e2d65.jpeg",
+  "grade": 7,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah bola pejal dimasukkan tepat ke dalam sebuah kotak berbentuk kubus tertutup, sehingga kulit bola tersebut menyinggung keenam sisi bagian dalam kubus. \n\nJika diketahui panjang rusuk kubusnya 15 cm , luas permukaan bola yang ada di dalamnya adalah . . . $\\text{cm}^2$.",
+  "question_image": "q_62bbd71e2d65_c441cb0b-ad5d-4d9f-9ff5-04c467acd38b.png",
+  "correct_answer": "706,5",
+  "past_labels": [
+   [
+    "NONE",
+    0.45
+   ],
+   [
+    "VIS-01",
+    0.26
+   ],
+   [
+    "MEA-04",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "55800f273c41",
+  "image": "55800f273c41.jpeg",
+  "grade": 8,
+  "topic": "Measures of Dispersion",
+  "question": "Berikut adalah data suhu udara (dalam $^\\circ\\mathrm{C}$) di suatu kota selama $8$ hari:\n\n$-2,\\, 3,\\, 1,\\, -1,\\, 4,\\, 0,\\, 2,\\, 5$\n\nKuartil kedua $(Q_2)$ dari data suhu tersebut adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$1{,}5$",
+  "past_labels": [
+   [
+    "NONE",
+    0.53
+   ],
+   [
+    "STA-05",
+    0.09
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "STA-04",
+    0.06
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "8d75c1b1ffe4",
+  "image": "8d75c1b1ffe4.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Seorang pengrajin bambu membuat caping berbentuk kerucut dengan diameter $56\\text{ cm}$ dan tinggi $21\\text{ cm}$. Bagian luar caping tersebut akan dicat seluruhnya. Diketahui satu kaleng cat seharga $\\text{Rp}30.000{,}00$ dapat digunakan untuk mengecat permukaan seluas $15.400\\text{ cm}^2$. Jika pengrajin tersebut akan mengecat 30 caping, maka biaya yang diperlukan adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "Rp180.000,00",
+  "past_labels": [
+   [
+    "MEA-04",
+    0.44
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "5e90ce30d132",
+  "image": "5e90ce30d132.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Volume gabungan bangun ruang seperti gambar di samping adalah . . . $\\text{cm}^3$",
+  "question_image": "q_5e90ce30d132_3d2c4f9e-fcde-48a2-9c17-b58a45fa29f6.png",
+  "correct_answer": "1350",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "VIS-01",
+    0.37
+   ],
+   [
+    "MEA-04",
+    0.06
+   ],
+   [
+    "MEA-03",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "ef413a156fb2",
+  "image": "ef413a156fb2.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Seorang siswa sedang berlatih menghitung persamaan garis regresi secara manual. \nIa mencatat data lama menyirami tanaman (X, dalam menit) dan tinggi tanaman (Y, dalam cm) selama 3 hari berturut-turut ke dalam tabel di samping.\n\nLangkah pertama yang harus ia lakukan adalah mencari nilai Rata-rata X dan Rata-rata Y. \nSetelah itu, ia harus menghitung nilai $SS{xy}$ (jumlah dari perkalian selisih tiap titik terhadap rata-ratanya). \n\nNilai $SS{xy}$ dari data tersebut adalah …",
+  "question_image": "q_ef413a156fb2_5e93a0f1-318f-44b5-b073-25d0b8a3f482.png",
+  "correct_answer": "5",
+  "past_labels": [
+   [
+    "NONE",
+    0.51
+   ],
+   [
+    "INT-04",
+    0.2
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "WOP-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "39cf7d8f6d73",
+  "image": "39cf7d8f6d73.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Pak Budi mengolah lahan pertanian miliknya yang seluas $7\\dfrac{1}{2}$ hektar. Sebanyak $\\dfrac{8}{25}$ bagian dari total lahan tersebut ditanami tanaman jagung. Selanjutnya, dari area yang ditanami jagung tersebut, $\\dfrac{7}{9}$ bagian disemprot menggunakan pupuk cair organik. Luas lahan yang disemprot pupuk cair organik adalah...",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{13}{15}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "FRA-06",
+    0.16
+   ],
+   [
+    "OTH-00",
+    0.12
+   ],
+   [
+    "FRA-04",
+    0.12
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "FRA-01",
+    0.03
+   ]
+  ]
+ }
+]

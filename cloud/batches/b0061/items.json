@@ -1,0 +1,282 @@
+[
+ {
+  "id": "11782a0d0b5a",
+  "image": "11782a0d0b5a.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Exponents",
+  "question": "Jika $a^x = 8$ dan $a^y = 32$, dengan $a > 0$, tentukan nilai dari $a^{x+y}$.",
+  "question_image": null,
+  "correct_answer": "256",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "OTH-00",
+    0.3
+   ],
+   [
+    "EXP-01",
+    0.26
+   ],
+   [
+    "EXP-04",
+    0.04
+   ],
+   [
+    "EXP-02",
+    0.04
+   ],
+   [
+    "FRA-03",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "2dd777769785",
+  "image": "2dd777769785.jpeg",
+  "grade": 9,
+  "topic": "Application of Two-Variable Linear Equation Systems",
+  "question": "Di sebuah area parkir terdapat 40 kendaraan yang terdiri atas mobil (beroda 4) dan sepeda motor (beroda 2). Jika petugas parkir menghitung total seluruh roda kendaraan di area tersebut adalah 110 buah, maka banyak sepeda motor yang parkir di tempat tersebut adalah...",
+  "question_image": null,
+  "correct_answer": "25 buah",
+  "past_labels": [
+   [
+    "NONE",
+    0.77
+   ],
+   [
+    "ANS-01",
+    0.07
+   ],
+   [
+    "Dec-02",
+    0.07
+   ],
+   [
+    "WOP-02",
+    0.04
+   ],
+   [
+    "SIM-01",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "82753ea1c956",
+  "image": "82753ea1c956.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Kelipatan Persekutuan Terkecil dari tiga bilangan berikut: 6, 8  dan 9 adalah…",
+  "question_image": null,
+  "correct_answer": "72",
+  "past_labels": [
+   [
+    "NONE",
+    0.4
+   ],
+   [
+    "ANS-01",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "KPF-04",
+    0.07
+   ],
+   [
+    "KPF-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "55c25c9f5656",
+  "image": "55c25c9f5656.jpeg",
+  "grade": 10,
+  "topic": "Exponential Applications (Exponents)",
+  "question": "Sebuah video pendek diunggah ke internet. Pada jam ke-$3$, jumlah penonton video tersebut mencapai $1.600\\text{ orang}$. Pada jam ke-$5$, jumlah penonton melonjak menjadi $6.400\\text{ orang}$. Jika diasumsikan pertumbuhan penonton mengikuti pola eksponensial $f(t) = a \\cdot b^t$, jumlah penonton mula-mula saat video baru diunggah ($t = 0$) adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "200 orang",
+  "past_labels": [
+   [
+    "NONE",
+    0.71
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "Dec-02",
+    0.08
+   ],
+   [
+    "SEQ-01",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "01b1dfb77221",
+  "image": "01b1dfb77221.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Pak Rudi memanen 479 buah jeruk dari kebunnya pada hari Rabu. Keesokan harinya, ia memanen lagi sebanyak 385 buah jeruk. Jika di toko sudah ada 107 buah jeruk yang dipanen sebelumnya. Berapa total buah jeruk yang dipanen oleh Pak Rudi?",
+  "question_image": null,
+  "correct_answer": "971",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "OPS-01",
+    0.23
+   ],
+   [
+    "WOP-02",
+    0.13
+   ],
+   [
+    "WOP-01",
+    0.1
+   ],
+   [
+    "ANS-01",
+    0.07
+   ],
+   [
+    "OPS-02",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "58c9653219c1",
+  "image": "58c9653219c1.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari (−6) × 8 : (−4) × (−3) adalah…",
+  "question_image": null,
+  "correct_answer": "-36",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.59
+   ],
+   [
+    "NONE",
+    0.16
+   ],
+   [
+    "INT-02",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "2fb219c77a2b",
+  "image": "2fb219c77a2b.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Seorang arsitektur landscape sedang mendesain taman berbentuk persegi panjang dengan panjang $\\sqrt{180}$ meter dan lebar $\\sqrt{80}$ meter. \r\n\r\nIa ingin memasang pagar pembatas tepat pada garis diagonal taman tersebut. \r\n\r\nMenggunakan Teorema Pythagoras, panjang pagar diagonal tersebut adalah $\\sqrt{(\\sqrt{180})^2 + (\\sqrt{80})^2}$ meter. \r\n\r\nBentuk paling sederhana dari panjang pagar diagonal taman tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "$2\\sqrt{65}$ meter",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.46
+   ],
+   [
+    "EXP-07",
+    0.24
+   ],
+   [
+    "NONE",
+    0.2
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "3c2da371a0b9",
+  "image": "3c2da371a0b9.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Perhatikan pernyataan-pernyataan berikut.\n(i) voli disukai oleh 36 siswa\n(ii) Bulu tangkis disukai oleh 90 siswa\n(iii) Basket disukai oleh 40 siswa \n(iv) Sepak boleh disukai oleh 140 siswa\n(v) Renang disukai oleh 54 orang\nPernyataan yang benar berdasarkan data di samping adalah …\n",
+  "question_image": "q_3c2da371a0b9_f3fb2bfb-33cd-4033-a504-689dfd56c252.png",
+  "correct_answer": "(i),(ii) dan (v)\n",
+  "past_labels": [
+   [
+    "NONE",
+    0.66
+   ],
+   [
+    "VIS-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "UNT-01",
+    0.04
+   ],
+   [
+    "RAT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ }
+]

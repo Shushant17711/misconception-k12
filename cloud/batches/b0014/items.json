@@ -1,0 +1,282 @@
+[
+ {
+  "id": "5fc0fb6ed24e",
+  "image": "5fc0fb6ed24e.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Leo memiliki kayu sepanjang $\\dfrac{4}{5}$ meter. Kayu tersebut dipotong untuk membuat bingkai foto sepanjang $\\dfrac{1}{4}$ meter dan sisanya dipotong lagi sepanjang $\\dfrac{2}{10}$ meter untuk kerajinan lain. Sisa panjang kayu Leo adalah $\\dots$ meter",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{7}{20}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "ANS-01",
+    0.18
+   ],
+   [
+    "FRA-06",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "FRA-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "429b73d78bf9",
+  "image": "429b73d78bf9.jpeg",
+  "grade": 4,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Perhatikan diagram gambar di samping! Berdasarkan data hobi siswa kelas 5 tersebut, selisih banyak siswa yang memiliki hobi olahraga dan membaca adalah . . . orang.",
+  "question_image": "q_429b73d78bf9_96ddb428-7686-43ae-a082-b6f47501520f.png",
+  "correct_answer": "0",
+  "past_labels": [
+   [
+    "NONE",
+    0.71
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "8728d3a885b3",
+  "image": "8728d3a885b3.jpeg",
+  "grade": 8,
+  "topic": "Measures of Central Tendency",
+  "question": "Jumlah pengunjung sebuah pameran selama enam hari berturut-turut adalah 120, 140, 150, x, 180, dan 190 orang.\n\nJika rata-rata jumlah pengunjung selama enam hari tersebut adalah 160 orang, maka nilai $x$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "180",
+  "past_labels": [
+   [
+    "NONE",
+    0.46
+   ],
+   [
+    "STA-01",
+    0.29
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "STA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "073c965b1dee",
+  "image": "073c965b1dee.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Nara memiliki dua helai pita hias. Pita pertama memiliki panjang 32 cm dan pita kedua memiliki panjang 60 cm. Nara ingin memotong kedua pita tersebut menjadi beberapa bagian yang sama panjang tanpa ada sisa pita yang terbuang. Maka berapa panjang maksimal setiap potongan pita yang diperoleh Nara?",
+  "question_image": null,
+  "correct_answer": "4 cm",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.36
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.1
+   ],
+   [
+    "KPF-02",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "e8e2a62165db",
+  "image": "e8e2a62165db.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah wadah berbentuk tabung terbuka (tanpa tutup) memiliki diameter alas $20\\text{ cm}$ dan tinggi $15\\text{ cm}$. Luas permukaan bahan yang dibutuhkan untuk membuat wadah tersebut adalah $\\dots\\text{ cm}^2$.",
+  "question_image": null,
+  "correct_answer": "1.256",
+  "past_labels": [
+   [
+    "NONE",
+    0.53
+   ],
+   [
+    "CAL-01",
+    0.17
+   ],
+   [
+    "MEA-04",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "725c55c56d43",
+  "image": "725c55c56d43.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{18}{5 + \\sqrt{7}}$ dapat dinyatakan sebagai $a - \\sqrt{7}$ dengan $a$ adalah bilangan bulat. Nilai dari $\\dfrac{3}{\\sqrt{a}}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{3\\sqrt{5}}{5}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "EXP-07",
+    0.24
+   ],
+   [
+    "EXP-04",
+    0.07
+   ],
+   [
+    "ALG-04",
+    0.05
+   ],
+   [
+    "FRA-04",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "b26f32e4e2b9",
+  "image": "b26f32e4e2b9.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Diketahui $f(x) = \\dfrac{4x - k}{x - 3}$, dan $f^{-1}$ adalah invers dari $f$, Jika nilai dari $f^{-1}(2) = 1$, maka nilai $k$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "8",
+  "past_labels": [
+   [
+    "ALG-06",
+    0.26
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "INV-01",
+    0.17
+   ],
+   [
+    "ALG-05",
+    0.17
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "ALG-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "38566d6caa71",
+  "image": "38566d6caa71.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Panjang sisi - sisi suatu segitiga adalah (x+5)cm, (2x-1)cm, dan 11 cm. Besarnya nilai x sehingga segitiga itu adalah segitiga sama sisi ….",
+  "question_image": null,
+  "correct_answer": "6",
+  "past_labels": [
+   [
+    "ANG-02",
+    0.22
+   ],
+   [
+    "WOP-01",
+    0.12
+   ],
+   [
+    "ALG-04",
+    0.12
+   ],
+   [
+    "ALG-05",
+    0.09
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "INT-04",
+    0.07
+   ]
+  ]
+ }
+]

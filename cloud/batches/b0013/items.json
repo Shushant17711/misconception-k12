@@ -1,0 +1,282 @@
+[
+ {
+  "id": "e01536e65964",
+  "image": "e01536e65964.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Diketahui total seluruh siswa di kelas 4 SD Cerdas adalah 70 orang.\n\nJika jumlah siswa yang memiliki hobi paling sedikit digabungkan dengan jumlah siswa yang hobi bermain musik, maka totalnya adalah ... siswa\n",
+  "question_image": "q_e01536e65964_f9b708f0-29b7-49d9-af7b-c94b19260552.png",
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.71
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "2494c60410b3",
+  "image": "2494c60410b3.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Seorang arsitektur landscape sedang mendesain taman berbentuk persegi panjang dengan panjang $\\sqrt{180}$ meter dan lebar $\\sqrt{80}$ meter. \r\n\r\nIa ingin memasang pagar pembatas tepat pada garis diagonal taman tersebut. \r\n\r\nMenggunakan Teorema Pythagoras, panjang pagar diagonal tersebut adalah $\\sqrt{(\\sqrt{180})^2 + (\\sqrt{80})^2}$ meter. \r\n\r\nBentuk paling sederhana dari panjang pagar diagonal taman tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "$2\\sqrt{65}$ meter",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.46
+   ],
+   [
+    "EXP-07",
+    0.24
+   ],
+   [
+    "NONE",
+    0.2
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "76d09597bfcc",
+  "image": "76d09597bfcc.jpeg",
+  "grade": 7,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Perhatikan diagram di samping! \nJika diketahui sebanyak 15 siswa gemar makan mie rebus, maka banyak siswa seluruhnya adalah ... orang.",
+  "question_image": "q_76d09597bfcc_792ffb7a-944a-4e8d-8c03-b1884a1e6bdc.png",
+  "correct_answer": "54 orang",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "CAL-01",
+    0.16
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "0c432fb63813",
+  "image": "0c432fb63813.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Sebuah mobil pemadam kebakaran memiliki tiga tangga dengan ukuran panjang sebagai berikut:\r\n* Tangga $1 = 3\\sqrt{11}\\text{ m}$\r\n* Tangga $2 = 4\\sqrt{5}\\text{ m}$\r\n* Tangga $3 = 2\\sqrt{17}\\text{ m}$\r\nAgar dapat digunakan dengan aman, petugas harus memilih tangga yang panjangnya lebih dari $8\\text{ m}$ tetapi kurang dari $10\\text{ m}$. Tangga yang memenuhi syarat adalah...",
+  "question_image": null,
+  "correct_answer": "Ketiganya memenuhi syarat",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.45
+   ],
+   [
+    "ANS-01",
+    0.18
+   ],
+   [
+    "EXP-07",
+    0.15
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.03
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "99ccde086617",
+  "image": "99ccde086617.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Selisih antara penjualan buku pada hari Senin dan hari Kamis adalah …",
+  "question_image": "q_99ccde086617_29c50fb4-efd1-41c9-8bcb-8deaaa28715f.png",
+  "correct_answer": "20 buku",
+  "past_labels": [
+   [
+    "NONE",
+    0.71
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "f4d5aa780f60",
+  "image": "f4d5aa780f60.jpeg",
+  "grade": 9,
+  "topic": "Application of Two-Variable Linear Equation Systems",
+  "question": "Dua keluarga mengunjungi sebuah museum. Keluarga pertama yang terdiri dari 3 dewasa dan 2 anak-anak membayar total tiket sebesar Rp115.000,00. Keluarga kedua yang terdiri dari 2 dewasa dan 5 anak-anak membayar total tiket sebesar Rp150.000,00. Berapakah total biaya tiket yang harus dibayar oleh sebuah rombongan yang terdiri dari 1 dewasa dan 1 anak-anak?",
+  "question_image": null,
+  "correct_answer": "Rp45.000,00",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "ANS-01",
+    0.4
+   ],
+   [
+    "Dec-02",
+    0.07
+   ],
+   [
+    "WOP-02",
+    0.04
+   ],
+   [
+    "SIM-01",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "c0f4d5ceda00",
+  "image": "c0f4d5ceda00.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk pangkat pecahan yang paling sederhana dari $\\sqrt[3]{a \\times \\sqrt{a}}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$a^{\\frac{1}{2}}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.62
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "EXP-07",
+    0.06
+   ],
+   [
+    "OOO-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "91b7b1d7af8a",
+  "image": "91b7b1d7af8a.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Seorang pengrajin bambu membuat caping berbentuk kerucut dengan diameter $56\\text{ cm}$ dan tinggi $21\\text{ cm}$. Bagian luar caping tersebut akan dicat seluruhnya. Diketahui satu kaleng cat seharga $\\text{Rp}30.000{,}00$ dapat digunakan untuk mengecat permukaan seluas $15.400\\text{ cm}^2$. Jika pengrajin tersebut akan mengecat 30 caping, maka biaya yang diperlukan adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "Rp180.000,00",
+  "past_labels": [
+   [
+    "MEA-04",
+    0.44
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ }
+]

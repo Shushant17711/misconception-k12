@@ -1,0 +1,282 @@
+[
+ {
+  "id": "88ae0e3bd6b5",
+  "image": "88ae0e3bd6b5.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Tentukan nilai logaritma berikut:\r\n$ \\dfrac{^4\\log 16 + {^{27}\\log 81}}{^2\\log \\dfrac{1}{8}} $",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{10}{9}$",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.26
+   ],
+   [
+    "LOG-02",
+    0.19
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "OOO-01",
+    0.12
+   ],
+   [
+    "INT-02",
+    0.12
+   ],
+   [
+    "ALG-06",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "1180a1877ac6",
+  "image": "1180a1877ac6.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Caca les matematika setiap 12 hari sekali, Nara les matematika 18 hari sekali dan Leo les matematika setiap 20 hari sekali. Jika hari ini mereka pergi les bersama-sama untuk pertama kalinya, berapa hari lagi mereka akan pergi les bersama-sama untuk ketiga kalinya…",
+  "question_image": null,
+  "correct_answer": "360 hari",
+  "past_labels": [
+   [
+    "KPF-02",
+    0.6
+   ],
+   [
+    "ANS-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "KPF-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "518523a1ef7d",
+  "image": "518523a1ef7d.jpeg",
+  "grade": 11,
+  "topic": "Function Operations",
+  "question": "Diketahui fungsi $f(x) = \\dfrac{2x+3}{x-1}$ untuk $x \\neq 1$, dan $g(x) = \\dfrac{x-2}{x-1}$ untuk $x \\neq 1$.\n\nJika didefinisikan sebuah fungsi baru $h(x) = (f - g)(x)$, maka nilai dari $h(3)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "4",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "FUN-01",
+    0.27
+   ],
+   [
+    "QUA-02",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "ff7dca5512e4",
+  "image": "ff7dca5512e4.jpeg",
+  "grade": 7,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Diagram lingkaran menunjukkan hobi dari 120 siswa kelas 7. \n\nJika 6 siswa yang hobi Sepak Bola pindah hobi ke Musik, berapakah persentase baru untuk siswa yang hobi Musik?",
+  "question_image": "q_ff7dca5512e4_ed39a567-e549-4515-9dd8-8f18e9cc0d39.png",
+  "correct_answer": "20%",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "UNT-01",
+    0.17
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "a45beeff73ca",
+  "image": "a45beeff73ca.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Sebuah kapal selam mula-mula berada di kedalaman 12 meter di bawah permukaan laut. Kapal tersebut kemudian bergerak turun lagi sejauh 8 meter. \n\nTepat setelah itu, kapal selam mengaktifkan mesin pendorong otomatis yang membuatnya bergerak naik ke atas dengan kecepatan 3 meter setiap menitnya selama 5 menit. \n\nDi manakah posisi kapal selam tersebut sekarang?",
+  "question_image": null,
+  "correct_answer": "-5",
+  "past_labels": [
+   [
+    "INT-04",
+    0.41
+   ],
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "537b4d6eb636",
+  "image": "537b4d6eb636.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Doni membawa motornya ke bengkel untuk mengganti oli. Kapasitas tangki oli motor tersebut adalah $0,7\\text{ L}$. Mesin pengisian oli otomatis di bengkel itu hanya memiliki tombol-tombol berikut:\n\n$\\text{Tombol A: }\\dfrac{13}{20}\\text{ L}$ \n\n$\\text{Tombol B: }\\dfrac{4}{5}\\text{ L}$\n\n$\\text{Tombol C: }\\dfrac{3}{5}\\text{ L}$\n\n$\\text{Tombol D: }\\dfrac{3}{4}\\text{ L}$\n\nUntuk menghindari tangki meluap, teknisi harus memilih tombol dengan volume terbesar yang tidak melebihi $0,7\\text{ L}$. Tombol yang dipilih teknisi adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "Tombol A",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.34
+   ],
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "OTH-00",
+    0.12
+   ],
+   [
+    "CHK-01",
+    0.1
+   ],
+   [
+    "Dec-02",
+    0.04
+   ],
+   [
+    "FRA-05",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "975788c0c51e",
+  "image": "975788c0c51e.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Seorang penjual buah memiliki persediaan 333 buah apel dan 250 buah jeruk di tokonya. Menjelang siang, seorang pembeli datang dan membeli 129 buah apel. Sisa Apel yang belum terjual di toko adalah. . .",
+  "question_image": null,
+  "correct_answer": "204",
+  "past_labels": [
+   [
+    "WOP-02",
+    0.51
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "OPS-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "OPS-02",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "6a48854a78c1",
+  "image": "6a48854a78c1.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Pak Doni membeli 5 kardus mie instan untuk persediaan tokonya. Di dalam setiap kardus terdapat 6 pak besar, dan di dalam setiap pak besar berisi 8 bungkus mie instan. Berapakah jumlah seluruh mie instan yang dibeli oleh Pak Doni?",
+  "question_image": null,
+  "correct_answer": "240 bungkus",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.42
+   ],
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "WOP-02",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ }
+]

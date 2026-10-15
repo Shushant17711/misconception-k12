@@ -1,0 +1,282 @@
+[
+ {
+  "id": "971fe6b337fa",
+  "image": "971fe6b337fa.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Saat ini, umur seorang Ibu adalah 3 kali umur anaknya. Diketahui bahwa 4 tahun yang lalu, jumlah umur mereka berdua adalah 48 tahun. Berapakah umur sang Ibu 5 tahun yang akan datang?",
+  "question_image": null,
+  "correct_answer": "47 tahun",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.45
+   ],
+   [
+    "ALG-06",
+    0.17
+   ],
+   [
+    "ALG-04",
+    0.07
+   ],
+   [
+    "ALG-05",
+    0.06
+   ],
+   [
+    "NONE",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "93c25c614d9d",
+  "image": "93c25c614d9d.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Seorang teknisi mencatat suhu sebuah mesin pendingin turun secara tetap 4 °C setiap 5 menit. Suhu awal mesin 18 °C. Mesin akan otomatis berhenti saat suhu mencapai −30 °C atau lebih rendah. \n\nWaktu paling singkat yang diperlukan hingga mesin berhenti otomatis adalah… ",
+  "question_image": null,
+  "correct_answer": "60 menit",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "INT-04",
+    0.27
+   ],
+   [
+    "OOO-01",
+    0.13
+   ],
+   [
+    "INT-02",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "929f4eea5065",
+  "image": "929f4eea5065.jpeg",
+  "grade": 9,
+  "topic": "Application of Two-Variable Linear Equation Systems",
+  "question": "Tujuh tahun yang lalu, jumlah umur seorang ayah dan anaknya adalah 46 tahun. Saat ini, selisih umur ayah dan anak tersebut adalah 24 tahun. Berapakah umur ayah 3 tahun yang akan datang?",
+  "question_image": null,
+  "correct_answer": "45",
+  "past_labels": [
+   [
+    "NONE",
+    0.65
+   ],
+   [
+    "ANS-01",
+    0.11
+   ],
+   [
+    "Dec-02",
+    0.11
+   ],
+   [
+    "WOP-02",
+    0.05
+   ],
+   [
+    "SIM-01",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "9dc02d16ca0b",
+  "image": "9dc02d16ca0b.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Caca memiliki $5\\text{ kg}$ tepung terigu di dapur. Sebanyak $\\dfrac{4}{15}$ bagian dari tepung tersebut digunakan untuk membuat adonan bakwan. Dari tepung yang digunakan untuk bakwan itu, $\\dfrac{3}{4}$ bagiannya dicampur dengan bumbu rempah.\r\n\r\nBanyak tepung terigu yang dicampur dengan bumbu rempah $\\dots\\text{ kg}$",
+  "question_image": null,
+  "correct_answer": "$1$",
+  "past_labels": [
+   [
+    "NONE",
+    0.49
+   ],
+   [
+    "FRA-06",
+    0.25
+   ],
+   [
+    "WOP-01",
+    0.14
+   ],
+   [
+    "FRA-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "8564a258b923",
+  "image": "8564a258b923.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Dua buah bus antar kota berangkat dari terminal yang sama. Bus Sentosa berangkat setiap 48 menit sekali, sedangkan Bus Jaya berangkat setiap 72 menit sekali. Kedua bus tersebut berangkat bersama-sama untuk pertama kalinya pada pukul 08.00 pagi. Pada pukul berapakah kedua bus tersebut akan berangkat bersama-sama untuk ketiga kalinya?",
+  "question_image": null,
+  "correct_answer": "12.48",
+  "past_labels": [
+   [
+    "KPF-02",
+    0.3
+   ],
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "MEA-02",
+    0.19
+   ],
+   [
+    "KPF-01",
+    0.12
+   ],
+   [
+    "ANS-01",
+    0.05
+   ],
+   [
+    "KPF-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "741273ebd75a",
+  "image": "741273ebd75a.jpeg",
+  "grade": 12,
+  "topic": "Introduction to Geometric Transformation",
+  "question": "Sebuah transformasi geometri pada bidang Kartesius diwakili oleh matriks transformasi $M = \\begin{bmatrix} 0 & -1 \\\\ 1 & 0 \\end{bmatrix}$. Jenis transformasi yang direpresentasikan oleh matriks tersebut adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "Rotasi 90° berlawanan arah jarum jam dengan pusat O (0,0)",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.39
+   ],
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "OTH-00",
+    0.06
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "ALG-04",
+    0.06
+   ],
+   [
+    "COR-01",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "e92742023f9a",
+  "image": "e92742023f9a.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari:\n$100 - 60 : 10 \\times ( -3 ) = $. . .",
+  "question_image": null,
+  "correct_answer": "118",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.62
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "INT-03",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "496ca3e10c4c",
+  "image": "496ca3e10c4c.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Seorang siswa sedang berlatih menghitung persamaan garis regresi secara manual. \n\nIa mencatat data lama menyirami tanaman (X, dalam menit) dan tinggi tanaman (Y, dalam cm) selama 3 hari berturut-turut ke dalam tabel di samping.\n\nBerdasarkan tabel hasil pengamatan, persamaan garis regresi linear yang tepat adalah …",
+  "question_image": "q_496ca3e10c4c_6f2ea46f-c471-4f46-a4d9-f5bb7581f23e.png",
+  "correct_answer": "$\\hat{y} = 2,5x$",
+  "past_labels": [
+   [
+    "NONE",
+    0.51
+   ],
+   [
+    "FRM-01",
+    0.2
+   ],
+   [
+    "WOP-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "INT-04",
+    0.03
+   ],
+   [
+    "WOP-02",
+    0.03
+   ]
+  ]
+ }
+]

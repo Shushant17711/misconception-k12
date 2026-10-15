@@ -1,0 +1,282 @@
+[
+ {
+  "id": "1c677bcecb18",
+  "image": "1c677bcecb18.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Disediakan lima kartu angka yang berisi angka: 4, 1, 8, 5, dan 0. \r\nNara diminta menyusun bilangan puluhan ribu dengan aturan nilai tempat sebagai berikut: \r\n- Angka 4 menempati nilai tempat puluhan ribu \r\n- Angka 1 menempati nilai tempat ribuan \r\nNara menyusun bilangan terbesar yang mungkin dibuat dan bilangan terkecil yang mungkin dibuat. Jika kedua bilangan tersebut ditulis secara berurutan mulai dari yang terbesar, maka pasangan bilangannya adalah… \r",
+  "question_image": null,
+  "correct_answer": "41.850 dan 41.058",
+  "past_labels": [
+   [
+    "PV-01",
+    0.37
+   ],
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "OPS-01",
+    0.14
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "4312f9de4dd4",
+  "image": "4312f9de4dd4.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Caca memiliki $5\\text{ kg}$ tepung terigu di dapur. Sebanyak $\\dfrac{4}{15}$ bagian dari tepung tersebut digunakan untuk membuat adonan bakwan. Dari tepung yang digunakan untuk bakwan itu, $\\dfrac{3}{4}$ bagiannya dicampur dengan bumbu rempah.\r\n\r\nBanyak tepung terigu yang dicampur dengan bumbu rempah $\\dots\\text{ kg}$",
+  "question_image": null,
+  "correct_answer": "$1$",
+  "past_labels": [
+   [
+    "NONE",
+    0.49
+   ],
+   [
+    "FRA-06",
+    0.25
+   ],
+   [
+    "WOP-01",
+    0.14
+   ],
+   [
+    "FRA-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "0016438a7174",
+  "image": "0016438a7174.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Panjang sisi - sisi suatu segitiga adalah (x+5)cm, (2x-1)cm, dan 11 cm. Besarnya nilai x sehingga segitiga itu adalah segitiga sama sisi ….",
+  "question_image": null,
+  "correct_answer": "6",
+  "past_labels": [
+   [
+    "ANG-02",
+    0.22
+   ],
+   [
+    "WOP-01",
+    0.12
+   ],
+   [
+    "ALG-04",
+    0.12
+   ],
+   [
+    "ALG-05",
+    0.09
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "INT-04",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "b6cf5ee528cf",
+  "image": "b6cf5ee528cf.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Jika diketahui persamaan $3^x \\times 3^2 = 81$, maka nilai $x$ yang memenuhi adalah…",
+  "question_image": null,
+  "correct_answer": "2",
+  "past_labels": [
+   [
+    "EXP-06",
+    0.21
+   ],
+   [
+    "ANS-02",
+    0.18
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "EXP-02",
+    0.09
+   ],
+   [
+    "OTH-00",
+    0.07
+   ],
+   [
+    "INT-03",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "065eee0b0f7c",
+  "image": "065eee0b0f7c.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Lampu hias A menyala setiap 8 detik sekali, sedangkan lampu hias B menyala setiap 12 detik sekali. Kedua lampu tersebut menyala bersama-sama untuk pertama kalinya pada pukul 19.00. Hitunglah berapa kali kedua lampu tersebut akan menyala secara bersamaan dalam kurun waktu 2 menit setelah pukul 19.00!",
+  "question_image": null,
+  "correct_answer": "5",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.24
+   ],
+   [
+    "KPF-01",
+    0.22
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "KPF-02",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.11
+   ],
+   [
+    "KPF-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "47378678931c",
+  "image": "47378678931c.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Diagram di samping menunjukkan sebaran ekstrakurikuler siswa kelas 6. Jika total siswa yang mengikuti ekstrakurikuler pramuka dan robotik ada 70 orang, berapakah siswa yang mengikuti ekstrakurikuler olahraga?\n",
+  "question_image": "q_47378678931c_d1caf333-65c9-4d64-8276-99fe7ac2026c.png",
+  "correct_answer": "50 orang\n",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "VIS-01",
+    0.24
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "97a801d6685c",
+  "image": "97a801d6685c.jpeg",
+  "grade": 7,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Volume bangun di samping adalah . . . $\\text{cm}^3$",
+  "question_image": "q_97a801d6685c_c19def7f-428b-4363-9a3c-f06a1b533e0a.png",
+  "correct_answer": "1080",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "MEA-04",
+    0.28
+   ],
+   [
+    "VIS-01",
+    0.11
+   ],
+   [
+    "MEA-03",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "7fd76ba778fc",
+  "image": "7fd76ba778fc.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Data di bawah ini menunjukkan pertumbuhan investasi modal awal (dalam jutaan rupiah) selama beberapa tahun ($t$).\r\n\r\nPada tahun ke-$0$ ($t = 0$), modal awal adalah $\\text{Rp10.000.000,00}$.\r\n\r\nPada tahun ke-$2$ ($t = 2$), modal berkembang menjadi $\\text{Rp14.400.000,00}$.\r\n\r\nJika model pertumbuhan tersebut mengikuti fungsi eksponen $W(t) = M_0 \\cdot (1 + r)^t$, total nilai investasi pada akhir tahun ke-$4$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "Rp20.736.000,00",
+  "past_labels": [
+   [
+    "SEQ-01",
+    0.39
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "OTH-00",
+    0.13
+   ],
+   [
+    "RAT-01",
+    0.13
+   ],
+   [
+    "FUN-01",
+    0.06
+   ],
+   [
+    "EXP-02",
+    0.03
+   ]
+  ]
+ }
+]

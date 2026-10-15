@@ -1,0 +1,282 @@
+[
+ {
+  "id": "90ff54acfd16",
+  "image": "90ff54acfd16.jpeg",
+  "grade": 8,
+  "topic": "Measures of Dispersion",
+  "question": "Diagram batang menunjukkan tinggi tanaman:\n\nSimpangan kuartil adalah …",
+  "question_image": "q_90ff54acfd16_530a1947-445b-496d-9368-0dd86b248958.png",
+  "correct_answer": "1",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "STA-05",
+    0.29
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "STA-04",
+    0.06
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "560566841dba",
+  "image": "560566841dba.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Pak Doni memiliki $6\\dfrac{3}{4}\\text{ liter}$ minyak goreng. Minyak goreng tersebut digunakan untuk menggoreng makanan sebanyak $1\\dfrac{1}{2}\\text{ liter}$. Sisa minyak goreng akan dimasukkan ke dalam beberapa kantong plastik. Jika setiap kantong plastik berisi $\\dfrac{3}{8}\\text{ liter}$ minyak, banyak kantong plastik yang dibutuhkan Pak Doni adalah $\\dots$ kantong",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "WOP-01",
+    0.16
+   ],
+   [
+    "CAL-01",
+    0.14
+   ],
+   [
+    "FRA-06",
+    0.05
+   ],
+   [
+    "FRA-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "bbcb3332d32b",
+  "image": "bbcb3332d32b.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Sebuah balok mainan memiliki ukuran panjang $2\\dfrac{2}{5}\\text{ meter}$, lebar $\\dfrac{13}{15}\\text{ meter}$, dan tinggi $\\dfrac{5}{13}\\text{ meter}$. Volume balok tersebut adalah $\\dots\\text{ m}^3$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{4}{5}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "FRA-06",
+    0.27
+   ],
+   [
+    "ANS-01",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "FRA-05",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "39d7d3008f38",
+  "image": "39d7d3008f38.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Tentukan nilai logaritma berikut:\r\n$ ^3\\log \\dfrac{1}{81} + {^2\\log 64} + {^6\\log 36} $",
+  "question_image": null,
+  "correct_answer": "4",
+  "past_labels": [
+   [
+    "LOG-02",
+    0.32
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ALG-06",
+    0.05
+   ],
+   [
+    "EXP-06",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "ce44afd60762",
+  "image": "ce44afd60762.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Seorang pengrajin bambu membuat caping berbentuk kerucut dengan diameter $56\\text{ cm}$ dan tinggi $21\\text{ cm}$. Bagian luar caping tersebut akan dicat seluruhnya. Diketahui satu kaleng cat seharga $\\text{Rp}30.000{,}00$ dapat digunakan untuk mengecat permukaan seluas $15.400\\text{ cm}^2$. Jika pengrajin tersebut akan mengecat 30 caping, maka biaya yang diperlukan adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "Rp180.000,00",
+  "past_labels": [
+   [
+    "MEA-04",
+    0.44
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "b981cdc4f08e",
+  "image": "b981cdc4f08e.jpeg",
+  "grade": 11,
+  "topic": "Coefficient of Determination",
+  "question": "Seorang guru olahraga mencatat hubungan antara jumlah sesi latihan per minggu (x) dan waktu tempuh lari 100 meter (detik) siswanya (y). Data yang diperoleh adalah sebagai berikut:\n* Sesi Latihan (x): 1, 2, 3, 4\n* Waktu Tempuh (y): 18, 15, 13, 12\nJika diketahui nilai SSxx = 5, SSyy = 21, dan SSxy = −9, maka koefisien determinasi (r²) dari data tersebut adalah ....",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{81}{105}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.85
+   ],
+   [
+    "WOP-01",
+    0.01
+   ],
+   [
+    "FRM-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ],
+   [
+    "CAL-01",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "dd0c9596e0b4",
+  "image": "dd0c9596e0b4.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Lampu hias A menyala setiap 8 detik sekali, sedangkan lampu hias B menyala setiap 12 detik sekali. Kedua lampu tersebut menyala bersama-sama untuk pertama kalinya pada pukul 19.00. Hitunglah berapa kali kedua lampu tersebut akan menyala secara bersamaan dalam kurun waktu 2 menit setelah pukul 19.00!",
+  "question_image": null,
+  "correct_answer": "5",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.24
+   ],
+   [
+    "KPF-01",
+    0.22
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "KPF-02",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.11
+   ],
+   [
+    "KPF-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "16c26846e4be",
+  "image": "16c26846e4be.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Pak Budi memiliki sebidang tanah pertanian. Sebanyak $\\dfrac{2}{5}$ bagian tanah ditanami padi, $\\dfrac{3}{8}$ bagian ditanami jagung, dan sisanya dibuat kolam ikan. Bagian tanah yang dibuat kolam ikan dalam bentuk desimal adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "0,225",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.38
+   ],
+   [
+    "CAL-01",
+    0.23
+   ],
+   [
+    "OPS-02",
+    0.12
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "Dec-02",
+    0.04
+   ],
+   [
+    "FRA-05",
+    0.04
+   ]
+  ]
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": "aa2653d3f963",
+  "image": "aa2653d3f963.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Panitia lomba menyiapkan tiga kotak hadiah yang di dalamnya ada nomor undian misterius. Ciri-ciri nomor di dalam setiap kotak: \r\n- Kotak A: Berisi lima digit angka. Angka puluh ribuannya adalah 6 dan angka ribuannya adalah 7.\r\n- Kotak B: Berisi lima digit angka. Angka puluh ribuannya adalah 6 dan angka ribuannya adalah 4.\r\n- Kotak C: Berisi lima digit angka. Angka puluh ribuannya adalah 7 dan angka ribuannya adalah 1.\r\nJika panitia ingin menyusun kotak mulai dari yang memuat nomor undian paling kecil, urutan tiga kotak yang benar adalah ...\r",
+  "question_image": null,
+  "correct_answer": "Kotak B, Kotak A, Kotak C",
+  "past_labels": [
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "OTH-00",
+    0.22
+   ],
+   [
+    "OPS-01",
+    0.2
+   ],
+   [
+    "PV-01",
+    0.12
+   ],
+   [
+    "ANS-02",
+    0.05
+   ],
+   [
+    "OPS-02",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "2d28c6c2332b",
+  "image": "2d28c6c2332b.jpeg",
+  "grade": 6,
+  "topic": "Operations on Integers",
+  "question": "Jika $12 \\times (-4) + 75 : 3 = x$\nmaka nilai $x$ adalah . . . .",
+  "question_image": null,
+  "correct_answer": "-23",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.37
+   ],
+   [
+    "INT-04",
+    0.2
+   ],
+   [
+    "INT-02",
+    0.18
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "42a35d29eae9",
+  "image": "42a35d29eae9.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Kelompok A ($8$ siswa) rata-rata $75$.  \nKelompok B ($12$ siswa) rata-rata $82{,}5$.\n\nRata-rata gabungan adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "$79{,}5$",
+  "past_labels": [
+   [
+    "NONE",
+    0.46
+   ],
+   [
+    "CAL-01",
+    0.2
+   ],
+   [
+    "STA-01",
+    0.12
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "STA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "521f53da0d05",
+  "image": "521f53da0d05.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah truk mengangkut boks bantuan sosial dengan total berat 18.900 kg. Boks-boks tersebut akan diturunkan secara bertahap setiap harinya dalam jumlah yang sama selama 3 minggu penuh hingga habis. Berat boks yang diturunkan truk tersebut setiap harinya adalah… kg.",
+  "question_image": null,
+  "correct_answer": "900",
+  "past_labels": [
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "ANS-02",
+    0.25
+   ],
+   [
+    "OPS-01",
+    0.2
+   ],
+   [
+    "PV-01",
+    0.12
+   ],
+   [
+    "OPS-02",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "54d1a5393d5c",
+  "image": "54d1a5393d5c.jpeg",
+  "grade": 7,
+  "topic": "Applications of Linear Equations in One Variable",
+  "question": "Seorang pedagang membeli 4 lusin buku tulis dengan harga total tertentu. \nJika ia membayar dengan uang Rp200.000,00 dan mendapat kembalian Rp8.000,00, berapakah harga 1 buku tulis tersebut? ",
+  "question_image": null,
+  "correct_answer": "Rp4.000,00",
+  "past_labels": [
+   [
+    "NONE",
+    0.71
+   ],
+   [
+    "WOP-01",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OOO-02",
+    0.04
+   ],
+   [
+    "ALG-03",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "f8b3c6add8aa",
+  "image": "f8b3c6add8aa.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Total siswa yang memilih ekstrakurikuler olahraga adalah …\n",
+  "question_image": "q_f8b3c6add8aa_82adb361-2ba0-4fc3-a1dc-59c866f5274b.png",
+  "correct_answer": "260",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "ANS-02",
+    0.15
+   ],
+   [
+    "PV-01",
+    0.15
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "7be6ab3587ac",
+  "image": "7be6ab3587ac.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Diketahui fungsi\r\n\r\n$f(x) = \\dfrac{2^x \\cdot 2^{x+3}}{2^{x-3}}$\r\n\r\nTentukan nilai $f(3) - f(-3)$.",
+  "question_image": null,
+  "correct_answer": "504",
+  "past_labels": [
+   [
+    "NONE",
+    0.25
+   ],
+   [
+    "INT-03",
+    0.19
+   ],
+   [
+    "EXP-05",
+    0.19
+   ],
+   [
+    "SEQ-01",
+    0.13
+   ],
+   [
+    "FUN-01",
+    0.09
+   ],
+   [
+    "OTH-00",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "d5fffe11d06e",
+  "image": "d5fffe11d06e.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Hitunglah nilai dari ekspresi eksponen berikut: \r\n$\\left(\\dfrac{1}{4}\\right)^{-2} + 27^{\\frac{2}{3}} - \\left(5^2\\right)^1$",
+  "question_image": null,
+  "correct_answer": "0",
+  "past_labels": [
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "OTH-00",
+    0.2
+   ],
+   [
+    "EXP-04",
+    0.16
+   ],
+   [
+    "EXP-02",
+    0.08
+   ],
+   [
+    "INT-03",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.04
+   ]
+  ]
+ }
+]

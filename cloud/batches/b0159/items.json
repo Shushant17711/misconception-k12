@@ -1,0 +1,282 @@
+[
+ {
+  "id": "559906cae777",
+  "image": "559906cae777.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Volume bangun ruang di samping adalah . . . $\\text{cm}^3$",
+  "question_image": "q_559906cae777_5df1a278-c69f-4575-8ef6-c61d9e02d27c.png",
+  "correct_answer": "2600",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "VIS-01",
+    0.37
+   ],
+   [
+    "MEA-04",
+    0.06
+   ],
+   [
+    "MEA-03",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "d836a0e7d128",
+  "image": "d836a0e7d128.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari $\\dfrac{15p^5q^{-3}}{3p^2q} \\times (q^2)^3$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$5p^3q^2$",
+  "past_labels": [
+   [
+    "EXP-02",
+    0.32
+   ],
+   [
+    "OTH-00",
+    0.18
+   ],
+   [
+    "INT-04",
+    0.16
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "INT-03",
+    0.05
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "472764b7a440",
+  "image": "472764b7a440.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Sebuah minimarket memiliki program poin hadiah bagi para anggotanya. Setiap belanja kelipatan 10.000,00, anggota mendapat tambahan 5 poin. Jika anggota mengembalikan barang yang rusak (retur), poin dipotong sebesar 8 poin per item barang. Seorang anggota bernama Ani memiliki saldo awal 120 poin. Dalam minggu ini, Ani berbelanja total senilai Rp180.000,00, namun ia mengembalikan 3 item barang yang rusak. Di akhir minggu, Ani menukarkan 65 poin miliknya dengan sebuah cangkir souvenir. Maka sisa poin Ani sekarang adalah…",
+  "question_image": null,
+  "correct_answer": "121",
+  "past_labels": [
+   [
+    "NONE",
+    0.34
+   ],
+   [
+    "WOP-01",
+    0.16
+   ],
+   [
+    "CAL-01",
+    0.16
+   ],
+   [
+    "OOO-01",
+    0.11
+   ],
+   [
+    "INT-04",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "b5bb05e910c4",
+  "image": "b5bb05e910c4.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Nilai rata-rata (mean) tinggi badan siswa tersebut menggunakan Rataan Sementara = 167 adalah …",
+  "question_image": "q_b5bb05e910c4_3a7b8d9c-0fef-43dd-ba9c-048148132e7f.png",
+  "correct_answer": "168,5 cm",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "CAL-01",
+    0.17
+   ],
+   [
+    "STA-01",
+    0.1
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "STA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "89c48519e900",
+  "image": "89c48519e900.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Faktor dari 24 yang merupakan bilangan ganjil adalah…",
+  "question_image": null,
+  "correct_answer": "1 dan 3",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "WOP-02",
+    0.16
+   ],
+   [
+    "WOP-01",
+    0.13
+   ],
+   [
+    "ANS-01",
+    0.09
+   ],
+   [
+    "OPS-02",
+    0.06
+   ],
+   [
+    "OPS-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "38fe7020b2e4",
+  "image": "38fe7020b2e4.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Ibu membeli 18 buah jeruk dan 24 buah manggis. Ibu ingin membagikan buah-buahan tersebut ke dalam beberapa kantong plastik untuk diberikan kepada tetangga. Setiap kantong plastik harus berisi buah jeruk dan buah manggis dalam jumlah yang sama banyak. Maka jumlah kantong plastik paling banyak yang harus disiapkan oleh Ibu adalah…",
+  "question_image": null,
+  "correct_answer": "6",
+  "past_labels": [
+   [
+    "NONE",
+    0.51
+   ],
+   [
+    "ANS-01",
+    0.11
+   ],
+   [
+    "KPF-02",
+    0.1
+   ],
+   [
+    "KPF-01",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.06
+   ],
+   [
+    "FRM-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "83d756bee71a",
+  "image": "83d756bee71a.jpeg",
+  "grade": 11,
+  "topic": "Residuals",
+  "question": "Sebuah toko kue memodelkan tren penjualan produk barunya dengan persamaan regresi $\\hat{y} = 2x + 1$, di mana $x$ adalah hari promosi dan $\\hat{y}$ adalah jumlah kue yang terjual.\n\nToko tersebut mencatat data penjualan aktual selama 3 hari pertama sebagai berikut:\n\n* Hari ke-1 ($x=1$): Terjual 4 kue\n* Hari ke-2 ($x=2$): Terjual 3 kue\n* Hari ke-3 ($x=3$): Terjual 8 kue\n\nJumlah Kuadrat Residu dari ketiga data penjualan tersebut terhadap model regresinya adalah ...",
+  "question_image": null,
+  "correct_answer": "6",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.63
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "EXP-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "3690a5b89e66",
+  "image": "3690a5b89e66.jpeg",
+  "grade": 6,
+  "topic": "Conversion of Rational Numbers",
+  "question": "Perhatikan beberapa pasangan bilangan berikut!.\nPasangan bilangan yang benar ditunjukkan oleh nomor . . .\n",
+  "question_image": "q_3690a5b89e66_3b8e25fb-5b09-4c61-a107-3ccd36e056f9.png",
+  "correct_answer": "Semua benar\n",
+  "past_labels": [
+   [
+    "NONE",
+    0.75
+   ],
+   [
+    "Dec-02",
+    0.1
+   ],
+   [
+    "OPS-02",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ }
+]

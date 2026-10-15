@@ -1,0 +1,282 @@
+[
+ {
+  "id": "723a599a98f8",
+  "image": "723a599a98f8.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Nilai rata-rata produksi baju harian menggunakan Rataan Sementara = 135 adalah …",
+  "question_image": "q_723a599a98f8_2a6264a9-76bb-4fbd-8e7c-91cde4188ad1.png",
+  "correct_answer": "140,33",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "VIS-01",
+    0.29
+   ],
+   [
+    "STA-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "STA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "1dd2fcdd51ae",
+  "image": "1dd2fcdd51ae.jpeg",
+  "grade": 9,
+  "topic": "Area of Flat Shapes",
+  "question": "Luas bangun di samping adalah ….",
+  "question_image": "q_1dd2fcdd51ae_d81e90ae-699f-435c-a242-cb1a34d2c0ac.png",
+  "correct_answer": "$276\\ \\text{cm}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "ANS-01",
+    0.22
+   ],
+   [
+    "MEA-04",
+    0.22
+   ],
+   [
+    "VIS-01",
+    0.14
+   ],
+   [
+    "WOP-01",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "91ad683c254d",
+  "image": "91ad683c254d.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Sebuah laboratorium penelitian biologi mengamati pertumbuhan amoeba. Mula-mula terdapat $2^3$ amoeba di dalam wadah pengamatan. Setiap satu jam, setiap amoeba membelah diri menjadi dua. Jumlah total amoeba setelah waktu pengamatan berjalan selama $5\\text{ jam}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$2^8$",
+  "past_labels": [
+   [
+    "SEQ-01",
+    0.35
+   ],
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.04
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "4ba29abf5b49",
+  "image": "4ba29abf5b49.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Diketahui fungsi\r\n\r\n$f(x) = \\dfrac{2^x \\cdot 2^{x+3}}{2^{x-3}}$\r\n\r\nTentukan nilai $f(3) - f(-3)$.",
+  "question_image": null,
+  "correct_answer": "504",
+  "past_labels": [
+   [
+    "NONE",
+    0.25
+   ],
+   [
+    "INT-03",
+    0.19
+   ],
+   [
+    "EXP-05",
+    0.19
+   ],
+   [
+    "SEQ-01",
+    0.13
+   ],
+   [
+    "FUN-01",
+    0.09
+   ],
+   [
+    "OTH-00",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "319493e6a823",
+  "image": "319493e6a823.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Tentukan hasil dari\n$\\dfrac{8}{25} + \\left(\\dfrac{10}{25} - \\dfrac{8}{25}\\right)$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{2}{5}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.42
+   ],
+   [
+    "OOO-02",
+    0.3
+   ],
+   [
+    "FRA-06",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "FRA-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "0d97252d0e76",
+  "image": "0d97252d0e76.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Di dalam sebuah kantong terdapat 5 bola merah dan beberapa bola biru. Peluang terambilnya satu bola merah adalah $\\frac{1}{3}$ . \n\nJika dilakukan pengambilan dua bola satu per satu dengan pengembalian, peluang terambilnya **bola pertama biru dan bola kedua juga biru** adalah...",
+  "question_image": null,
+  "correct_answer": "$\\frac{4}{9}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "PRO-04",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "PRO-02",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "7dabf0b2c369",
+  "image": "7dabf0b2c369.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Ibu membeli tepung terigu sebanyak $2\\dfrac{10}{8}\\text{ kg}$ untuk membuat kue di dapur. Saat ditimbang menggunakan timbangan digital, berat tepung terigu tersebut muncul dalam bentuk bilangan desimal. Angka desimal yang tertera pada layar timbangan adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "3,25",
+  "past_labels": [
+   [
+    "FRA-05",
+    0.38
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "ANS-01",
+    0.2
+   ],
+   [
+    "Dec-02",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "363fe488d7e4",
+  "image": "363fe488d7e4.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah tabung memiliki jari-jari awal $7\\text{ cm}$ dan tinggi $14\\text{ cm}$. Jika jari-jari tabung tersebut diperbesar menjadi 2 kali semula, sedangkan tingginya dipotong menjadi $\\dfrac{1}{2}$ kali semula, selisih luas permukaan total tabung setelah diubah dibanding sebelum diubah adalah $\\dots\\text{ cm}^2$.",
+  "question_image": null,
+  "correct_answer": "924",
+  "past_labels": [
+   [
+    "MEA-04",
+    0.37
+   ],
+   [
+    "FRM-01",
+    0.29
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ }
+]

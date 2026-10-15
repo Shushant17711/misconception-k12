@@ -1,0 +1,282 @@
+[
+ {
+  "id": "a6e61fdeba8e",
+  "image": "a6e61fdeba8e.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Sebuah es batu bersuhu -6℃ dikeluarkan dari kulkas. \r\nSetiap 3 menit, suhu es batu naik sebesar 2℃. \r\n\r\nSuhu es batu setelah 15 menit adalah . . .\r",
+  "question_image": null,
+  "correct_answer": "4",
+  "past_labels": [
+   [
+    "NONE",
+    0.48
+   ],
+   [
+    "WOP-01",
+    0.16
+   ],
+   [
+    "OOO-01",
+    0.11
+   ],
+   [
+    "INT-04",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "d972765f7d71",
+  "image": "d972765f7d71.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Sebuah toko online memberikan diskon member $15\\%$ dari harga awal, dilanjutkan potongan ongkir tetap $\\text{Rp}10.000$ dari total setelah diskon.\nNyatakan total harga akhir sebagai fungsi komposisi dari harga awal $x$.",
+  "question_image": null,
+  "correct_answer": "$H(x) = 0,85x - 10.000$",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "RAT-02",
+    0.28
+   ],
+   [
+    "WOP-02",
+    0.09
+   ],
+   [
+    "ANS-02",
+    0.09
+   ],
+   [
+    "FUN-01",
+    0.05
+   ],
+   [
+    "INV-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "24d9d5b9ef46",
+  "image": "24d9d5b9ef46.jpeg",
+  "grade": 7,
+  "topic": "Measures of Dispersion",
+  "question": "Data nilai ujian matematika 5 siswa adalah: \n70, 85, 80, 75, 90. \n\nJika setiap nilai tersebut dikalikan 2 lalu dikurangi 10, berapakah jangkauan data yang baru?",
+  "question_image": null,
+  "correct_answer": "40",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "STA-05",
+    0.11
+   ],
+   [
+    "VIS-01",
+    0.1
+   ],
+   [
+    "STA-04",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "43e813946e41",
+  "image": "43e813946e41.jpeg",
+  "grade": 12,
+  "topic": "Permutation",
+  "question": "Seorang nasabah bank ingin membuat kode PIN ATM yang terdiri dari 4 angka berbeda dari digit 1, 2, 3, 4, 5, 6, 7. Jika digit pertama harus berupa angka ganjil, banyaknya PIN yang dapat dibuat adalah ...",
+  "question_image": null,
+  "correct_answer": "480",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.58
+   ],
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "1e7cd3b00110",
+  "image": "1e7cd3b00110.jpeg",
+  "grade": 11,
+  "topic": "Function Operations",
+  "question": "Diketahui fungsi $f(x) = x + 3$, $g(x) = x - 1$, dan $h(x) = 2x$.\nHasil dari operasi hitung $(f + g \\times h)(x)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$2x^2 - x + 3$",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "FUN-01",
+    0.23
+   ],
+   [
+    "OOO-01",
+    0.19
+   ],
+   [
+    "QUA-02",
+    0.09
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "8bff66255a60",
+  "image": "8bff66255a60.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Seorang pedagang buah memiliki persediaan 850 gram buah jeruk. Ia menjual 325 gram jeruk pada pagi hari dan 105 gram jeruk pada sore hari. Jika sisa jeruk tersebut dibungkus kembali ke dalam 4 kantong plastik dengan berat yang sama, Berat pada setiap kantong plastik adalah…gram",
+  "question_image": null,
+  "correct_answer": "105",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "OPS-02",
+    0.18
+   ],
+   [
+    "WOP-02",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "ANS-01",
+    0.05
+   ],
+   [
+    "OPS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "be99462451d7",
+  "image": "be99462451d7.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Pak Budi mengolah lahan pertanian miliknya yang seluas $7\\dfrac{1}{2}$ hektar. Sebanyak $\\dfrac{8}{25}$ bagian dari total lahan tersebut ditanami tanaman jagung. Selanjutnya, dari area yang ditanami jagung tersebut, $\\dfrac{7}{9}$ bagian disemprot menggunakan pupuk cair organik. Luas lahan yang disemprot pupuk cair organik adalah...",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{13}{15}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "FRA-06",
+    0.16
+   ],
+   [
+    "OTH-00",
+    0.12
+   ],
+   [
+    "FRA-04",
+    0.12
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "FRA-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "b5497dc011ca",
+  "image": "b5497dc011ca.jpeg",
+  "grade": 11,
+  "topic": "Function Operations",
+  "question": "Sebuah kebun berbentuk persegi panjang memiliki fungsi panjang $f(x) = 2x + 10$ (dalam meter). Pemilik kebun tidak mengetahui fungsi lebarnya, namun pihak pengelola kawasan menginformasikan bahwa fungsi keliling untuk seluruh kapling di blok tersebut mengikuti rumus $k(x) = 6x + 30$ (dalam meter), dengan $x$ adalah variabel desain tata ruang. Jika pada hari ini keliling kebun tersebut diukur secara langsung dan menunjukkan angka tepat $90\\text{ meter}$, berapakah luas total hamparan kebun tersebut?",
+  "question_image": null,
+  "correct_answer": "$450\\text{ m}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "FUN-01",
+    0.15
+   ],
+   [
+    "QUA-02",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ }
+]

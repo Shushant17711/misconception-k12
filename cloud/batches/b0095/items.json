@@ -1,0 +1,282 @@
+[
+ {
+  "id": "416f6a9848aa",
+  "image": "416f6a9848aa.jpeg",
+  "grade": 11,
+  "topic": "Types of Functions",
+  "question": "Diberikan tiga fungsi berikut:\r\n\r\n(I) $f: \\mathbb{R} \\to \\mathbb{R}$ dengan $f(x) = 5x - 2$\r\n\r\n(II) $g: \\mathbb{R} \\to [1, \\infty)$ dengan $g(x) = |x| + 1$\r\n\r\n(III) $h: [0, \\infty) \\to \\mathbb{R}$ dengan $h(x) = x^2 + 3$\r\n\r\nSifat fungsi untuk masing-masing fungsi tersebut secara berturut-turut adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "Bijektif, surjektif, injektif",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.68
+   ],
+   [
+    "ANS-01",
+    0.14
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "CHK-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "56a7e48bf4f0",
+  "image": "56a7e48bf4f0.jpeg",
+  "grade": 9,
+  "topic": "Angle",
+  "question": "Jika garis $A$ sejajar dengan garis $B$, kemudian dipotong oleh suatu garis, maka nilai $x$ adalah $\\ldots$",
+  "question_image": "q_56a7e48bf4f0_49d7f7ea-7d5f-4e91-ace9-707a12e9a50a.png",
+  "correct_answer": "30",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.76
+   ],
+   [
+    "ALG-06",
+    0.15
+   ],
+   [
+    "NONE",
+    0.04
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "ALG-05",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "542a56007089",
+  "image": "542a56007089.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Kelipatan Persekutuan Terkecil dari bilangan 42 dan 45 adalah…",
+  "question_image": null,
+  "correct_answer": "630",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.42
+   ],
+   [
+    "NONE",
+    0.25
+   ],
+   [
+    "KPF-01",
+    0.15
+   ],
+   [
+    "KPF-04",
+    0.06
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "KPF-03",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "dfdf24c38c24",
+  "image": "dfdf24c38c24.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor persekutuan terbesar dari 40, 60, dan 100 adalah… ",
+  "question_image": null,
+  "correct_answer": "20",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.35
+   ],
+   [
+    "FRM-01",
+    0.26
+   ],
+   [
+    "KPF-04",
+    0.17
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "KPF-03",
+    0.09
+   ],
+   [
+    "REL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "3d106962bb72",
+  "image": "3d106962bb72.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Toko “Segar” mencatat total penjualan buah sebanyak 200 kg dalam satu hari. \n\nBerapakah persentase penjualan untuk buah Anggur?",
+  "question_image": "q_3d106962bb72_ce1e890b-499b-4e00-a18c-afc93d3dec51.png",
+  "correct_answer": "20%",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "VIS-01",
+    0.24
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "289f6f95845b",
+  "image": "289f6f95845b.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "$2,45 - 1\\dfrac{1}{4}$\nHasil dari operasi hitung di atas dalam bentuk pecahan biasa yang paling sederhana adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{6}{5}$",
+  "past_labels": [
+   [
+    "Dec-02",
+    0.23
+   ],
+   [
+    "INT-04",
+    0.18
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.13
+   ],
+   [
+    "FRA-05",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "d0ec486e8417",
+  "image": "d0ec486e8417.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Caca les matematika setiap 12 hari sekali, Nara les matematika 18 hari sekali dan Leo les matematika setiap 20 hari sekali. Jika hari ini mereka pergi les bersama-sama untuk pertama kalinya, berapa hari lagi mereka akan pergi les bersama-sama untuk ketiga kalinya…",
+  "question_image": null,
+  "correct_answer": "360 hari",
+  "past_labels": [
+   [
+    "KPF-02",
+    0.6
+   ],
+   [
+    "ANS-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "KPF-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "71f965cdba63",
+  "image": "71f965cdba63.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Caca les matematika setiap 12 hari sekali, Nara les matematika 18 hari sekali dan Leo les matematika setiap 20 hari sekali. Jika hari ini mereka pergi les bersama-sama untuk pertama kalinya, berapa hari lagi mereka akan pergi les bersama-sama untuk ketiga kalinya…",
+  "question_image": null,
+  "correct_answer": "360 hari",
+  "past_labels": [
+   [
+    "KPF-02",
+    0.6
+   ],
+   [
+    "ANS-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "KPF-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ }
+]

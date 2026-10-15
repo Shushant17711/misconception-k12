@@ -1,0 +1,282 @@
+[
+ {
+  "id": "b9bd50f5ce62",
+  "image": "b9bd50f5ce62.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Pak Doni memiliki $6\\dfrac{3}{4}\\text{ liter}$ minyak goreng. Minyak goreng tersebut digunakan untuk menggoreng makanan sebanyak $1\\dfrac{1}{2}\\text{ liter}$. Sisa minyak goreng akan dimasukkan ke dalam beberapa kantong plastik. Jika setiap kantong plastik berisi $\\dfrac{3}{8}\\text{ liter}$ minyak, banyak kantong plastik yang dibutuhkan Pak Doni adalah $\\dots$ kantong",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "WOP-01",
+    0.16
+   ],
+   [
+    "CAL-01",
+    0.14
+   ],
+   [
+    "FRA-06",
+    0.05
+   ],
+   [
+    "FRA-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "2813552b0d06",
+  "image": "2813552b0d06.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Tentukan hasil akhir dari operasi hitung bilangan berpangkat berikut: $\\dfrac{32^{\\frac{3}{5}} \\times 3^2}{16^0 + \\left(\\frac{1}{3}\\right)^2}$",
+  "question_image": null,
+  "correct_answer": "64,8",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.3
+   ],
+   [
+    "EXP-04",
+    0.14
+   ],
+   [
+    "REL-01",
+    0.14
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "EXP-02",
+    0.07
+   ],
+   [
+    "INT-03",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "8899f080156f",
+  "image": "8899f080156f.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Perhatikan data di samping. Jika siswa yang dinyatakan lulus adalah mereka yang memiliki nilai di atas 79, maka banyak siswa yang belum lulus adalah …. orang.",
+  "question_image": "q_8899f080156f_42304acd-337d-4bd4-a93d-83a048479b45.png",
+  "correct_answer": "35",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "WOP-01",
+    0.2
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "f3292479fc32",
+  "image": "f3292479fc32.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor Persekutuan Terbesar dari tiga bilangan berikut: 16, 24, dan 32 adalah…",
+  "question_image": null,
+  "correct_answer": "8",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.37
+   ],
+   [
+    "NONE",
+    0.28
+   ],
+   [
+    "KPF-03",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.13
+   ],
+   [
+    "KPF-04",
+    0.03
+   ],
+   [
+    "REL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "1ffb0d94022a",
+  "image": "1ffb0d94022a.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "$f : x \\to x + 2$ dan $h : x \\to x^2 - 2$.\r\nJika $(f \\circ g \\circ h)(x) = 2x^2 + 4$, maka $g(x) = \\dots$",
+  "question_image": null,
+  "correct_answer": "$2x + 6$",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.24
+   ],
+   [
+    "INV-01",
+    0.23
+   ],
+   [
+    "ALG-04",
+    0.2
+   ],
+   [
+    "FRM-01",
+    0.1
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "EXP-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "46c1826dd608",
+  "image": "46c1826dd608.jpeg",
+  "grade": 11,
+  "topic": "Value and Form of a Function",
+  "question": "Diketahui fungsi:\n$f(x) \\begin{cases} 3x + 1 & \\text{untuk } x < 2 \\\\ x^2 - 1 & \\text{untuk } x \\geqslant 2 \\end{cases}$\nNilai dari $f(-3) + f(4)$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "7",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.25
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.15
+   ],
+   [
+    "INT-04",
+    0.15
+   ],
+   [
+    "EXP-03",
+    0.1
+   ],
+   [
+    "NONE",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "adc9542e4c77",
+  "image": "adc9542e4c77.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{\\sqrt{9} + 7}{5 - \\sqrt{8}}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{10\\left(5 + 2\\sqrt{2}\\right)}{17}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "EXP-07",
+    0.14
+   ],
+   [
+    "EXP-04",
+    0.12
+   ],
+   [
+    "ALG-04",
+    0.12
+   ],
+   [
+    "VIS-01",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.09
+   ]
+  ]
+ },
+ {
+  "id": "cf0a3ccc473a",
+  "image": "cf0a3ccc473a.jpeg",
+  "grade": 10,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk $\\dfrac{2\\sqrt{5} + \\sqrt{2}}{\\sqrt{2} - \\sqrt{5}}$ dapat disederhanakan menjadi $\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\sqrt{10} - 4$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.18
+   ],
+   [
+    "ALG-04",
+    0.17
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "INT-04",
+    0.14
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "EXP-07",
+    0.08
+   ]
+  ]
+ }
+]

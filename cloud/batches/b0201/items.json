@@ -1,0 +1,282 @@
+[
+ {
+  "id": "ef5eb076ed33",
+  "image": "ef5eb076ed33.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Dari diagram gambar di samping, selisih banyak buku pada toko buku Graha Media dan Media Ilmu adalah . . . .",
+  "question_image": "q_ef5eb076ed33_289b413e-1ced-441e-b325-cf0d26b7d9ed.png",
+  "correct_answer": "625 buku",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "VIS-01",
+    0.31
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.02
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "d79d2e70b95f",
+  "image": "d79d2e70b95f.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah gudang memiliki persediaan 85.000 kotak susu. Gudang tersebut menyalurkan bantuan susu ke Kecamatan A sebanyak 27.500 dan ke Kecamatan B sebanyak 34.850 kotak. Sisa susu yang ada di gudang tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "22.650 kotak",
+  "past_labels": [
+   [
+    "OPS-01",
+    0.67
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "PV-01",
+    0.06
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "OPS-02",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "f68b5086c364",
+  "image": "f68b5086c364.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Tante Linda membeli $\\dfrac{5}{6}\\text{ kg}$ telur. Kemudian ia menggunakan $\\dfrac{1}{3}\\text{ kg}$ telur untuk membuat kue dan membeli lagi sebanyak $\\dfrac{1}{6}\\text{ kg}$ telur untuk persediaan. Berat telur Tante Linda sekarang dalam bentuk paling sederhana adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{2}{3}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "FRA-01",
+    0.18
+   ],
+   [
+    "FRA-06",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "6f83df132f57",
+  "image": "6f83df132f57.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Seorang pengrajin bambu membuat caping berbentuk kerucut dengan diameter $56\\text{ cm}$ dan tinggi $21\\text{ cm}$. Bagian luar caping tersebut akan dicat seluruhnya. Diketahui satu kaleng cat seharga $\\text{Rp}30.000{,}00$ dapat digunakan untuk mengecat permukaan seluas $15.400\\text{ cm}^2$. Jika pengrajin tersebut akan mengecat 30 caping, maka biaya yang diperlukan adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "Rp180.000,00",
+  "past_labels": [
+   [
+    "MEA-04",
+    0.44
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "FRM-01",
+    0.15
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "9a699845b967",
+  "image": "9a699845b967.jpeg",
+  "grade": 8,
+  "topic": "Angle",
+  "question": "Jika besar  α = (3x + 10)°  dan β = (2x + 40)°, maka nilai x adalah... ",
+  "question_image": "q_9a699845b967_4d5a3273-e3d1-4e97-bbd1-0bc354a36cef.png",
+  "correct_answer": "30",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.76
+   ],
+   [
+    "ANS-02",
+    0.1
+   ],
+   [
+    "ALG-06",
+    0.1
+   ],
+   [
+    "NONE",
+    0.03
+   ],
+   [
+    "ALG-05",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "fb590a4ae1bf",
+  "image": "fb590a4ae1bf.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Sebuah jajar genjang memiliki panjang alas sebesar $2\\sqrt{5} - \\sqrt{2}$ dan tinggi sebesar $t\\text{ cm}$. Jika luas daerah jajar genjang tersebut adalah $9\\text{ cm}$, hitunglah tinggi $t$ dari jajar genjang tersebut dalam bentuk penyebut rasional yang paling sederhana!",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{2\\sqrt{5} + \\sqrt{2}}{2}$",
+  "past_labels": [
+   [
+    "FRA-04",
+    0.29
+   ],
+   [
+    "NONE",
+    0.25
+   ],
+   [
+    "EXP-07",
+    0.21
+   ],
+   [
+    "EXP-04",
+    0.06
+   ],
+   [
+    "ALG-04",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "6989f082753b",
+  "image": "6989f082753b.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari $5\\sqrt{27} - 3\\sqrt{12} + \\sqrt{48}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$13\\sqrt{3}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.52
+   ],
+   [
+    "EXP-07",
+    0.21
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "4c69c8fc95f2",
+  "image": "4c69c8fc95f2.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Diketahui $x$ dan $y$ adalah bilangan bulat positif yang memenuhi persamaan:\n\n$\\sqrt{x} + \\sqrt{y} = \\sqrt{180}$\n\nJika nilai $x = 45$, maka nilai dari $\\sqrt{x \\cdot y}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "45",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.43
+   ],
+   [
+    "EXP-07",
+    0.26
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ALG-06",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ }
+]

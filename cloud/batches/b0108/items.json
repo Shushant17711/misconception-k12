@@ -1,0 +1,282 @@
+[
+ {
+  "id": "840fb891fd31",
+  "image": "840fb891fd31.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Kelipatan Persekutuan Terkecil dari bilangan 42 dan 45 adalah…",
+  "question_image": null,
+  "correct_answer": "630",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.42
+   ],
+   [
+    "NONE",
+    0.25
+   ],
+   [
+    "KPF-01",
+    0.15
+   ],
+   [
+    "KPF-04",
+    0.06
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "KPF-03",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "7055ef91d58a",
+  "image": "7055ef91d58a.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah tabung memiliki jari-jari awal $7\\text{ cm}$ dan tinggi $14\\text{ cm}$. Jika jari-jari tabung tersebut diperbesar menjadi 2 kali semula, sedangkan tingginya dipotong menjadi $\\dfrac{1}{2}$ kali semula, selisih luas permukaan total tabung setelah diubah dibanding sebelum diubah adalah $\\dots\\text{ cm}^2$.",
+  "question_image": null,
+  "correct_answer": "924",
+  "past_labels": [
+   [
+    "MEA-04",
+    0.37
+   ],
+   [
+    "FRM-01",
+    0.29
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "31134a67754c",
+  "image": "31134a67754c.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Pada tes penerimaan siswa baru, Nara diberikan 10 soal untuk diselesaikan dengan ketentuan skor: \n\n* benar = 5\n* salah = -1\n* tidak menjawab = 0\n\nJika Nara mengerjakan 8 soal dan hanya 6 soal bernilai benar, berapa total skor yang diperoleh Nara?",
+  "question_image": null,
+  "correct_answer": "28",
+  "past_labels": [
+   [
+    "NONE",
+    0.29
+   ],
+   [
+    "WOP-02",
+    0.27
+   ],
+   [
+    "WOP-01",
+    0.14
+   ],
+   [
+    "OOO-01",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.08
+   ],
+   [
+    "INT-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "17afbbbf8f08",
+  "image": "17afbbbf8f08.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Diketahui fungsi eksponen $f(x) = 3^{2x+1} - 5$.\r\nJika nilai fungsi di titik $x = a$ adalah $22$, maka nilai dari $f(a^2 - 2a)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{14}{3}$",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.27
+   ],
+   [
+    "EXP-02",
+    0.22
+   ],
+   [
+    "SEQ-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "02d42b2a26ad",
+  "image": "02d42b2a26ad.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari (−6) × 8 : (−4) × (−3) adalah…",
+  "question_image": null,
+  "correct_answer": "-36",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.59
+   ],
+   [
+    "NONE",
+    0.16
+   ],
+   [
+    "INT-02",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "83b2e6466da3",
+  "image": "83b2e6466da3.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Jika jarak bilangan m ke titik 0 adalah 6 satuan, dan jarak bilangan n ke titik 0 adalah 4 satuan, maka nilai dari m-n adalah…",
+  "question_image": "q_83b2e6466da3_db9c6ab6-0a37-4979-98a5-16c61d5a7285.png",
+  "correct_answer": "-10",
+  "past_labels": [
+   [
+    "NONE",
+    0.48
+   ],
+   [
+    "INT-04",
+    0.18
+   ],
+   [
+    "VIS-01",
+    0.12
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "c0869de3409f",
+  "image": "c0869de3409f.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari $\\dfrac{a^6 \\times (b^2)^3}{b^4 \\times a^2}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$a^4b^2$",
+  "past_labels": [
+   [
+    "EXP-02",
+    0.32
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "OTH-00",
+    0.18
+   ],
+   [
+    "INT-03",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "87f266b67a39",
+  "image": "87f266b67a39.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Jika $a^b = c$, maka ${^a\\log c} = b$ dan diketahui $2^{x+3} = 64$, tentukan nilai $x$ yang memenuhi persamaan tersebut!",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "ALG-06",
+    0.31
+   ],
+   [
+    "EXP-06",
+    0.31
+   ],
+   [
+    "LOG-02",
+    0.12
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ }
+]

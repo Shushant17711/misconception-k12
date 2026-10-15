@@ -1,0 +1,282 @@
+[
+ {
+  "id": "64773159cdb2",
+  "image": "64773159cdb2.jpeg",
+  "grade": 6,
+  "topic": "Speed",
+  "question": "$50 \\text{ m/menit} = \\dots \\text{ km/jam}$",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "MEA-02",
+    0.5
+   ],
+   [
+    "Dec-02",
+    0.28
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "6a82469027e3",
+  "image": "6a82469027e3.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari operasi hitung -24 + 72 : (-6) x 3 - (-15) adalah…",
+  "question_image": null,
+  "correct_answer": "-45",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.35
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "INT-04",
+    0.24
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "166453bbd784",
+  "image": "166453bbd784.jpeg",
+  "grade": 8,
+  "topic": "Angle",
+  "question": "Dua jalan, Jalan Mawar dan Jalan Melati, dibangun sejajar dengan arah barat–timur. \nSeorang kurir berjalan dari Jalan Mawar menuju Jalan Melati melalui sebuah titik belok di tengah (membentuk jalur zig-zag). \nDi titik belok itu, arah jalur membentuk sudut. \n\nJika jalur dari Jalan Mawar membentuk sudut 35° terhadap arah jalan, dan jalur menuju Jalan Melati membentuk sudut 48° terhadap arah jalan (pada sisi yang sama), maka besar sudut pada titik belok tersebut adalah ...",
+  "question_image": "q_166453bbd784_aa4cceb9-0714-4df8-951f-95d0effa41d0.png",
+  "correct_answer": "$83^{\\circ}$",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.57
+   ],
+   [
+    "ANS-02",
+    0.26
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "ALG-06",
+    0.06
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "87c33169f501",
+  "image": "87c33169f501.jpeg",
+  "grade": 9,
+  "topic": "Application of Two-Variable Linear Equation Systems",
+  "question": "Keliling sebuah persegi panjang 80 cm. Jika selisih panjang dan lebarnya 12 cm, luasnya adalah ….",
+  "question_image": null,
+  "correct_answer": "$364\\text{ cm}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.6
+   ],
+   [
+    "WOP-02",
+    0.2
+   ],
+   [
+    "ANS-01",
+    0.07
+   ],
+   [
+    "Dec-02",
+    0.07
+   ],
+   [
+    "SIM-01",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "23b6c24e871f",
+  "image": "23b6c24e871f.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Pak Doni membeli 5 kardus mie instan untuk persediaan tokonya. Di dalam setiap kardus terdapat 6 pak besar, dan di dalam setiap pak besar berisi 8 bungkus mie instan. Berapakah jumlah seluruh mie instan yang dibeli oleh Pak Doni?",
+  "question_image": null,
+  "correct_answer": "240 bungkus",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.42
+   ],
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "WOP-02",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "3b1b5b753b5a",
+  "image": "3b1b5b753b5a.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Dalam sebuah seleksi beasiswa yang diikuti oleh 50 siswa, panitia mencatat kriteria kepemilikan sertifikat sebagai berikut:\n\n* Sebanyak 25 siswa memiliki sertifikat prestasi akademik.\n* Sejumlah siswa memiliki sertifikat prestasi non-akademik.\n* 8 siswa diketahui memiliki kedua jenis sertifikat tersebut.\n\nJika peluang terpilihnya seorang siswa yang memiliki sertifikat prestasi akademik atau non-akademik adalah 0,64, maka berapakah jumlah siswa yang hanya memiliki sertifikat prestasi non-akademik saja?",
+  "question_image": null,
+  "correct_answer": "7",
+  "past_labels": [
+   [
+    "NONE",
+    0.26
+   ],
+   [
+    "CAL-01",
+    0.22
+   ],
+   [
+    "FRM-01",
+    0.22
+   ],
+   [
+    "PRO-04",
+    0.11
+   ],
+   [
+    "PRO-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "5c1b8e737bba",
+  "image": "5c1b8e737bba.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "$$\\frac{4^x \\times 4^5}{4^3} = 4^2 \\times 4^0$$\nBerapakah nilai $x$ yang memenuhi persamaan tersebut?",
+  "question_image": null,
+  "correct_answer": "0",
+  "past_labels": [
+   [
+    "EXP-06",
+    0.32
+   ],
+   [
+    "EXP-02",
+    0.15
+   ],
+   [
+    "INT-04",
+    0.13
+   ],
+   [
+    "CAL-01",
+    0.11
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "e8660253689a",
+  "image": "e8660253689a.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Pak Doni memiliki $6\\dfrac{3}{4}\\text{ liter}$ minyak goreng. Minyak goreng tersebut digunakan untuk menggoreng makanan sebanyak $1\\dfrac{1}{2}\\text{ liter}$. Sisa minyak goreng akan dimasukkan ke dalam beberapa kantong plastik. Jika setiap kantong plastik berisi $\\dfrac{3}{8}\\text{ liter}$ minyak, banyak kantong plastik yang dibutuhkan Pak Doni adalah $\\dots$ kantong",
+  "question_image": null,
+  "correct_answer": "14",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "WOP-01",
+    0.16
+   ],
+   [
+    "CAL-01",
+    0.14
+   ],
+   [
+    "FRA-06",
+    0.05
+   ],
+   [
+    "FRA-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ }
+]

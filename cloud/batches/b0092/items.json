@@ -1,0 +1,282 @@
+[
+ {
+  "id": "5ca35d93c5f5",
+  "image": "5ca35d93c5f5.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari $\\dfrac{a^6 \\times (b^2)^3}{b^4 \\times a^2}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$a^4b^2$",
+  "past_labels": [
+   [
+    "EXP-02",
+    0.32
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "OTH-00",
+    0.18
+   ],
+   [
+    "INT-03",
+    0.05
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "9fff81cf97d4",
+  "image": "9fff81cf97d4.jpeg",
+  "grade": 11,
+  "topic": "Application of Functions",
+  "question": "Seorang salesman mendapatkan gaji pokok Rp2.000.000 ditambah bonus sebesar 5% dari total omset penjualannya bulan itu. Total omset penjualan salesman tersebut jika ia menerima gaji total sebesar Rp4.500.000 adalah Rp… .",
+  "question_image": null,
+  "correct_answer": "50.000.000",
+  "past_labels": [
+   [
+    "NONE",
+    0.94
+   ],
+   [
+    "WOP-01",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "131045ee30fc",
+  "image": "131045ee30fc.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Diketahui $f(x) = \\dfrac{ax + b}{2x - 5}, x \\neq \\dfrac{5}{2}$, dan $f^{-1}$ adalah invers dari $f$,\r\n\r\nJika $f^{-1}(x) = \\dfrac{5x - 3}{2x + 7}, x \\neq -\\dfrac{7}{2}$, maka nilai dari $a + b = \\dots$",
+  "question_image": null,
+  "correct_answer": "-10",
+  "past_labels": [
+   [
+    "INT-04",
+    0.34
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "INV-01",
+    0.17
+   ],
+   [
+    "ALG-06",
+    0.11
+   ],
+   [
+    "ALG-04",
+    0.06
+   ],
+   [
+    "NONE",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "2fdbad4bbf67",
+  "image": "2fdbad4bbf67.jpeg",
+  "grade": 7,
+  "topic": "Application of Integers",
+  "question": "Di sebuah kompleks perumahan yang jalannya berbentuk garis lurus, posisi rumah-rumah diukur berdasarkan jaraknya dari pos satpam. Pos satpam ditetapkan sebagai titik nol. Rumah yang berada di sebelah kanan pos satpam dinyatakan dengan bilangan positif, sedangkan di sebelah kiri dinyatakan dengan bilangan negatif.  \n\nDiketahui informasi posisi rumah sebagai berikut:\n1. Rumah Adi berada tepat di titik (-3)\n2. Rumah Beni berada di sebelah kanan rumah Adi sejauh 5 rumah.\n3. Rumah Cici berada di sebelah kiri rumah Beni sejauh 4 rumah.\nBerdasarkan informasi di atas, bilangan bulat yang tepat untuk menyatakan posisi rumah Cici dari pos satpam adalah...",
+  "question_image": null,
+  "correct_answer": "-2",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.46
+   ],
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "INT-04",
+    0.12
+   ],
+   [
+    "INT-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "971627af4c14",
+  "image": "971627af4c14.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah kerucut memiliki jari-jari alas $7\\text{ cm}$ dan tinggi $t = 24\\text{ cm}$. Luas permukaan total kerucut tersebut adalah $\\dots\\text{ cm}^2$.",
+  "question_image": null,
+  "correct_answer": "704",
+  "past_labels": [
+   [
+    "NONE",
+    0.46
+   ],
+   [
+    "CAL-01",
+    0.14
+   ],
+   [
+    "ANS-01",
+    0.13
+   ],
+   [
+    "MEA-04",
+    0.12
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "61803464257a",
+  "image": "61803464257a.jpeg",
+  "grade": 12,
+  "topic": "Counting Rules",
+  "question": "Sebuah pabrik otomotif membuat plat identifikasi mesin yang terdiri dari 2 huruf lalu diikuti oleh 3 angka.\r\n* Huruf diambil dari himpunan H = {A, B, C, E, I, K, O, T} tanpa pengulangan.\r\n* Syarat pembuatan kode: huruf pertama harus vokal dan huruf kedua harus konsonan.\r\n* Angka disusun dari himpunan N = {1, 2, 3, 4, 5} dengan syarat tidak boleh ada angka yang sama (berulang).\r\nBanyak plat identifikasi mesin yang dapat dibuat adalah ...",
+  "question_image": null,
+  "correct_answer": "960",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.39
+   ],
+   [
+    "OTH-00",
+    0.36
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "ca6cfac913bf",
+  "image": "ca6cfac913bf.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Seorang penjual buah memiliki persediaan 333 buah apel dan 250 buah jeruk di tokonya. Menjelang siang, seorang pembeli datang dan membeli 129 buah apel. Sisa Apel yang belum terjual di toko adalah. . .",
+  "question_image": null,
+  "correct_answer": "204",
+  "past_labels": [
+   [
+    "WOP-02",
+    0.51
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "OPS-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "OPS-02",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "440ef59e7f78",
+  "image": "440ef59e7f78.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari:\n$100 - 60 : 10 \\times ( -3 ) = $. . .",
+  "question_image": null,
+  "correct_answer": "118",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.62
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "INT-03",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ }
+]

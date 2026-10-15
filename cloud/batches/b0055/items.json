@@ -1,0 +1,282 @@
+[
+ {
+  "id": "0c8b45f4780d",
+  "image": "0c8b45f4780d.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Jika $12 \\times (-4) + 75 : 3 = x$\nmaka nilai $x$ adalah . . . .",
+  "question_image": null,
+  "correct_answer": "-23",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.37
+   ],
+   [
+    "INT-04",
+    0.2
+   ],
+   [
+    "INT-02",
+    0.18
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "bd84b7abfb34",
+  "image": "bd84b7abfb34.jpeg",
+  "grade": 7,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Luas permukaan limas di samping apabila diketahui alasnya berbentuk belah ketupat dengan panjang diagonalnya 24 cm dan 18 cm adalah …. $\\text{cm}^2$",
+  "question_image": "q_bd84b7abfb34_8a066c2b-abb8-4d5a-8145-ab9aa9a91ef1.png",
+  "correct_answer": "576",
+  "past_labels": [
+   [
+    "VIS-01",
+    0.36
+   ],
+   [
+    "MEA-04",
+    0.27
+   ],
+   [
+    "NONE",
+    0.25
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "cf87811c6b34",
+  "image": "cf87811c6b34.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari (−6) × 8 : (−4) × (−3) adalah…",
+  "question_image": null,
+  "correct_answer": "-36",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.59
+   ],
+   [
+    "NONE",
+    0.16
+   ],
+   [
+    "INT-02",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "48629df7cdf9",
+  "image": "48629df7cdf9.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Titik $B(-2, 3)$ dirotasikan sebesar $180^\\circ$ dengan pusat $O(0, 0)$, kemudian dilanjutkan dengan dilatasi yang berpusat di $O(0, 0)$ dengan faktor skala $k = -2$. Jika bayangan akhir yang terbentuk adalah $B''(p, q)$, maka nilai dari $2p - q$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "-14",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.33
+   ],
+   [
+    "CAL-01",
+    0.25
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "OTH-00",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.05
+   ],
+   [
+    "OOO-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "aac7cedc3c98",
+  "image": "aac7cedc3c98.jpeg",
+  "grade": 7,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Luas permukaan limas di samping apabila diketahui alasnya berbentuk belah ketupat dengan panjang diagonalnya 24 cm dan 18 cm adalah …. $\\text{cm}^2$",
+  "question_image": "q_aac7cedc3c98_8a066c2b-abb8-4d5a-8145-ab9aa9a91ef1.png",
+  "correct_answer": "576",
+  "past_labels": [
+   [
+    "VIS-01",
+    0.36
+   ],
+   [
+    "MEA-04",
+    0.27
+   ],
+   [
+    "NONE",
+    0.25
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "b12001799cde",
+  "image": "b12001799cde.jpeg",
+  "grade": 8,
+  "topic": "Measures of Dispersion",
+  "question": "Berikut adalah data suhu udara (dalam $^\\circ\\mathrm{C}$) di suatu kota selama $8$ hari:\n\n$-2,\\, 3,\\, 1,\\, -1,\\, 4,\\, 0,\\, 2,\\, 5$\n\nKuartil kedua $(Q_2)$ dari data suhu tersebut adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$1{,}5$",
+  "past_labels": [
+   [
+    "NONE",
+    0.53
+   ],
+   [
+    "STA-05",
+    0.09
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "STA-04",
+    0.06
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "4d41c4036f4e",
+  "image": "4d41c4036f4e.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Caca memiliki $5\\text{ kg}$ tepung terigu di dapur. Sebanyak $\\dfrac{4}{15}$ bagian dari tepung tersebut digunakan untuk membuat adonan bakwan. Dari tepung yang digunakan untuk bakwan itu, $\\dfrac{3}{4}$ bagiannya dicampur dengan bumbu rempah.\n\nBanyak tepung terigu yang dicampur dengan bumbu rempah $\\dots\\text{ kg}$",
+  "question_image": null,
+  "correct_answer": "$1$",
+  "past_labels": [
+   [
+    "NONE",
+    0.49
+   ],
+   [
+    "FRA-06",
+    0.25
+   ],
+   [
+    "WOP-01",
+    0.14
+   ],
+   [
+    "FRA-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "269ed0bc1e76",
+  "image": "269ed0bc1e76.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Diketahui selisih antara tabungan Hana dengan tabungan Doni adalah Rp2.000.\n\nJika Doni menabung lebih sedikit dari Hana, dan jumlah tabungan Doni dan Citra adalah Rp12.000, maka total tabungan Citra adalah …",
+  "question_image": "q_269ed0bc1e76_1901a05c-f410-4f98-a292-708af1df5ce2.png",
+  "correct_answer": "Rp4.000",
+  "past_labels": [
+   [
+    "NONE",
+    0.53
+   ],
+   [
+    "WOP-01",
+    0.24
+   ],
+   [
+    "WOP-02",
+    0.11
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.02
+   ],
+   [
+    "RAT-02",
+    0.01
+   ]
+  ]
+ }
+]

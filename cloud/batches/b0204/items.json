@@ -1,0 +1,282 @@
+[
+ {
+  "id": "1885ce05f126",
+  "image": "1885ce05f126.jpeg",
+  "grade": 7,
+  "topic": "Angle",
+  "question": "Dua garis sejajar m dan n dipotong oleh garis transversal.\nBesar ∠C adalah ...  \n",
+  "question_image": "q_1885ce05f126_acc1f01f-7b5c-4c60-bf70-92b8f2721373.png",
+  "correct_answer": "$52,5^{\\circ}$",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.57
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "ANS-02",
+    0.06
+   ],
+   [
+    "ALG-06",
+    0.06
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "79a3efc91197",
+  "image": "79a3efc91197.jpeg",
+  "grade": 10,
+  "topic": "Logarithm Operation",
+  "question": "Tentukan nilai logaritma berikut:\n$\\dfrac{^{25}\\log 125 +\\ ^{2}\\log 5 \\cdot\\ ^{5}\\log 4}{^{2}\\log 10 -\\ ^{2}\\log 20}$",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{7}{2}$",
+  "past_labels": [
+   [
+    "LOG-02",
+    0.32
+   ],
+   [
+    "OOO-01",
+    0.28
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "INT-02",
+    0.08
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "e6d7bcfe0a38",
+  "image": "e6d7bcfe0a38.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari $5\\sqrt{27} - 3\\sqrt{12} + \\sqrt{48}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$13\\sqrt{3}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.52
+   ],
+   [
+    "EXP-07",
+    0.21
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "1db509a277ac",
+  "image": "1db509a277ac.jpeg",
+  "grade": 7,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Perhatikan gambar di samping. Jika tinggi segitiga TAB 15 cm, maka luas permukaan bangun di samping adalah . . . $\\text{cm}^2$",
+  "question_image": "q_1db509a277ac_2f753132-e422-41f1-ad91-b7e0947c05d3.png",
+  "correct_answer": "169",
+  "past_labels": [
+   [
+    "NONE",
+    0.45
+   ],
+   [
+    "VIS-01",
+    0.26
+   ],
+   [
+    "MEA-04",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "165924551798",
+  "image": "165924551798.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Ibu Guru memiliki 36 buah pensil. Pensil-pensil tersebut akan dibagikan ke dalam beberapa kotak pensil (lebih dari satu) sehingga setiap kotak berisi pensil dalam jumlah yang sama banyak tanpa ada pensil yang tersisa. Kemungkinan banyaknya kotak pensil yang dapat dibuat oleh Ibu Guru…Kotak",
+  "question_image": null,
+  "correct_answer": "2, 3, 4, 6, 9, 12, 18, atau 36",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "ANS-01",
+    0.29
+   ],
+   [
+    "KPF-04",
+    0.13
+   ],
+   [
+    "WOP-02",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "cf728df8ab24",
+  "image": "cf728df8ab24.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Pada sebuah sekolah yang memiliki 80 siswa kelas 8, terdapat pendataan mengenai keikutsertaan OSIS maupun pramuka. \nData menunjukkan:\n\n* Sebanyak 48 siswa aktif sebagai anggota Pramuka.\n* Peluang seorang siswa yang terpilih secara acak aktif di kedua organisasi (OSIS dan Pramuka) adalah 0,15.\n* Peluang seorang siswa yang terpilih secara acak tidak aktif di OSIS maupun Pramuka adalah 0,1.\n\nBerapakah peluang seorang siswa yang terpilih secara acak aktif sebagai anggota OSIS? ",
+  "question_image": null,
+  "correct_answer": "0,45",
+  "past_labels": [
+   [
+    "NONE",
+    0.51
+   ],
+   [
+    "PRO-04",
+    0.13
+   ],
+   [
+    "FRM-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.07
+   ],
+   [
+    "PRO-02",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "b8f07c0e702f",
+  "image": "b8f07c0e702f.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "$f^{-1}(x)$ dan $g^{-1}(x)$ masing-masing menyatakan invers dari $f(x)$ dan $g(x)$. Jika $f(x) = 2x^3 + 1$ dan $g(x) = (3x + 2)^{\\frac{1}{5}}$ serta $(g^{-1} \\circ f^{-1})(a) = 10$, maka nilai $a$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "17",
+  "past_labels": [
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "EXP-04",
+    0.2
+   ],
+   [
+    "ALG-06",
+    0.16
+   ],
+   [
+    "FUN-01",
+    0.09
+   ],
+   [
+    "INV-01",
+    0.07
+   ],
+   [
+    "RAT-02",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "417b2d49d8df",
+  "image": "417b2d49d8df.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Sebuah dadu dan sebuah koin dilempar bersama-sama. \nPeluang munculnya **mata dadu faktor dari 6 dan sisi angka pada koin** adalah...",
+  "question_image": null,
+  "correct_answer": "$\\frac{1}{3}$",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.33
+   ],
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "FRM-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.07
+   ],
+   [
+    "PRO-02",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ }
+]

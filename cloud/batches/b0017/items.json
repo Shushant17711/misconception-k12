@@ -1,0 +1,282 @@
+[
+ {
+  "id": "8e0edb1f940d",
+  "image": "8e0edb1f940d.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari $2\\sqrt{6} \\times \\sqrt{8} - \\sqrt{75}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$3\\sqrt{3}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.53
+   ],
+   [
+    "EXP-07",
+    0.27
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "b90cc197fe97",
+  "image": "b90cc197fe97.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Total pengunjung perpustakaan selama 8 hari adalah 100 orang. \n\nBerdasarkan diagram tersebut, selisih banyaknya pengunjung antara hari yang paling banyak dikunjungi dengan hari ke-8 adalah …",
+  "question_image": "q_b90cc197fe97_3f3205a9-79a7-4355-8221-8e67ff5eb60a.png",
+  "correct_answer": "12",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "WOP-01",
+    0.23
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "bc75f5f3034b",
+  "image": "bc75f5f3034b.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Diketahui tiga bilangan bulat berbeda p, q, r, memenuhi operasi hitung campuran berikut: \r\n\r\np x (q + r) = -24 \r\n\r\nJika p = 6 dan q = -9, maka nilai dari p - q x r adalah…",
+  "question_image": null,
+  "correct_answer": "51",
+  "past_labels": [
+   [
+    "INT-04",
+    0.27
+   ],
+   [
+    "NONE",
+    0.22
+   ],
+   [
+    "ALG-06",
+    0.17
+   ],
+   [
+    "OOO-01",
+    0.13
+   ],
+   [
+    "INT-02",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "3baee0f04f4b",
+  "image": "3baee0f04f4b.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Nilai rata-rata produksi baju harian menggunakan Rataan Sementara = 135 adalah …",
+  "question_image": "q_3baee0f04f4b_2a6264a9-76bb-4fbd-8e7c-91cde4188ad1.png",
+  "correct_answer": "140,33",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "VIS-01",
+    0.29
+   ],
+   [
+    "STA-01",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "STA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "da0a4385b60b",
+  "image": "da0a4385b60b.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Diagram lingkaran menunjukkan hobi dari 120 siswa kelas 7. \n\nJika 6 siswa yang hobi Sepak Bola pindah hobi ke Musik, berapakah persentase baru untuk siswa yang hobi Musik?",
+  "question_image": "q_da0a4385b60b_ed39a567-e549-4515-9dd8-8f18e9cc0d39.png",
+  "correct_answer": "20%",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "UNT-01",
+    0.17
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "6ba9fb787f9d",
+  "image": "6ba9fb787f9d.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Diketahui suatu deret aritmatika bernilai negatif dengan $a = -24$ dan beda $b = 4$. Jika jumlah $n$ suku pertama dari deret tersebut adalah $\\text{S}_n = 0$, tentukan nilai dari $n$!",
+  "question_image": null,
+  "correct_answer": "13",
+  "past_labels": [
+   [
+    "SEQ-02",
+    0.27
+   ],
+   [
+    "NOT-01",
+    0.23
+   ],
+   [
+    "NONE",
+    0.22
+   ],
+   [
+    "CAL-01",
+    0.12
+   ],
+   [
+    "FRM-01",
+    0.09
+   ],
+   [
+    "REL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "d26e5ea389d1",
+  "image": "d26e5ea389d1.jpeg",
+  "grade": 8,
+  "topic": "Exponents",
+  "question": "Hasil dari \n\n$(0{,}2)^{-3} + (-0{,}5)^{-2} - 7^{0}$\n\nadalah …",
+  "question_image": null,
+  "correct_answer": "128",
+  "past_labels": [
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "INT-04",
+    0.19
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "EXP-01",
+    0.1
+   ],
+   [
+    "EXP-02",
+    0.05
+   ],
+   [
+    "FRM-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "514395368e4d",
+  "image": "514395368e4d.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Exponents",
+  "question": "Diketahui $3^{2a} = 5$.\nTentukan nilai dari $9^a \\times 3^{-a}$.",
+  "question_image": null,
+  "correct_answer": "$\\sqrt{5}$",
+  "past_labels": [
+   [
+    "EXP-01",
+    0.39
+   ],
+   [
+    "EXP-02",
+    0.22
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.11
+   ],
+   [
+    "EXP-04",
+    0.06
+   ],
+   [
+    "FRA-03",
+    0.06
+   ]
+  ]
+ }
+]

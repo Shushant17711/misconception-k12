@@ -1,0 +1,282 @@
+[
+ {
+  "id": "49660c7cdfab",
+  "image": "49660c7cdfab.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Diketahui $x$ dan $y$ adalah bilangan bulat positif yang memenuhi persamaan:\n\n$\\sqrt{x} + \\sqrt{y} = \\sqrt{180}$\n\nJika nilai $x = 45$, maka nilai dari $\\sqrt{x \\cdot y}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "45",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.43
+   ],
+   [
+    "EXP-07",
+    0.26
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ALG-06",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "017d3feee80b",
+  "image": "017d3feee80b.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Diketahui $f(x) = \\dfrac{4x - k}{x - 3}$, dan $f^{-1}$ adalah invers dari $f$, Jika nilai dari $f^{-1}(2) = 1$, maka nilai $k$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "8",
+  "past_labels": [
+   [
+    "ALG-06",
+    0.26
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "INV-01",
+    0.17
+   ],
+   [
+    "ALG-05",
+    0.17
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "ALG-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "a6fcc062fd1b",
+  "image": "a6fcc062fd1b.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah tempat penyimpanan gabah (silo) berbentuk gabungan tabung dan kerucut di bagian atasnya. jari-jari alas tabung sekaligus jari-jari alas kerucut adalah 7 m, tinggi tabung 10 m, dan tinggi kerucut 24 m.\nSilo tersebut akan dilapisi cat pelindung pada seluruh permukaan luarnya, kecuali bagian alas tabung yang menempel ke tanah. Tentukan luas permukaan yang perlu dicat!\n",
+  "question_image": null,
+  "correct_answer": "$990\\text{ m}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "UNT-01",
+    0.15
+   ],
+   [
+    "MEA-04",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "FRM-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "657c07a856af",
+  "image": "657c07a856af.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Leo memiliki 36 buah pulpen biru dan 48 buah pulpen hitam. Ia ingin mengemas pulpen-pulpen tersebut ke dalam beberapa kotak hadiah untuk dibagikan kepada teman-temannya. Semua kotak berisi pulpen biru sama banyak dan pulpen hitam sama banyak. Banyak pulpen biru yang ada di dalam masing-masing kotak tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.38
+   ],
+   [
+    "KPF-01",
+    0.17
+   ],
+   [
+    "ANS-02",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "NONE",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "692900afc19c",
+  "image": "692900afc19c.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Sebuah segitiga siku-siku memiliki panjang sisi siku-siku $\\sqrt{18}\\text{ cm}$ dan $\\sqrt{32}\\text{ cm}$. Jika diketahui sisi miringnya $\\sqrt{50}\\text{ cm}$, maka keliling segitiga tersebut adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$12\\sqrt{2}\\text{ cm}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.52
+   ],
+   [
+    "EXP-07",
+    0.26
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "OOO-01",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "ca478fee58b3",
+  "image": "ca478fee58b3.jpeg",
+  "grade": 11,
+  "topic": "Equation of the Regression Line",
+  "question": "Seorang pemilik kedai kopi mencatat hubungan antara suhu udara harian ($x$ dalam $^\\circ\\text{C}$) dengan jumlah gelas kopi dingin yang terjual ($y$). \n\nPersamaan garis regresi yang didapat adalah $\\hat{y} = 150 + 8x$. \nData observasi yang dimiliki berada pada rentang suhu $20^\\circ\\text{C}$ hingga $35^\\circ\\text{C}$. \nJika besok suhu udara diperkirakan mencapai $32^\\circ\\text{C}$, maka perkiraan jumlah kopi yang terjual dan jenis prediksinya (interpolasi/ekstrapolasi) adalah ...",
+  "question_image": null,
+  "correct_answer": "406 gelas, Interpolasi ",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "WOP-02",
+    0.24
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "INT-04",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "980b754a44dc",
+  "image": "980b754a44dc.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Caca membeli makanan kucing untuk persediaan selama 10 hari. Ia membeli 14 kardus makanan kucing, yang mana setiap kardus berisi 12 kemasan makanan kucing. Total makanan kucing yang dibeli oleh Caca adalah… kemasan",
+  "question_image": null,
+  "correct_answer": "168",
+  "past_labels": [
+   [
+    "WOP-02",
+    0.41
+   ],
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "PV-01",
+    0.12
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "af13e6cf7fb1",
+  "image": "af13e6cf7fb1.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Diketahui $f(x) = \\dfrac{ax + b}{2x - 5}, x \\neq \\dfrac{5}{2}$, dan $f^{-1}$ adalah invers dari $f$,\n\nJika $f^{-1}(x) = \\dfrac{5x - 3}{2x + 7}, x \\neq -\\dfrac{7}{2}$, maka nilai dari $a + b = \\dots$",
+  "question_image": null,
+  "correct_answer": "-10",
+  "past_labels": [
+   [
+    "INT-04",
+    0.34
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "INV-01",
+    0.17
+   ],
+   [
+    "ALG-06",
+    0.11
+   ],
+   [
+    "ALG-04",
+    0.06
+   ],
+   [
+    "NONE",
+    0.04
+   ]
+  ]
+ }
+]

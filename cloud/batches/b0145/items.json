@@ -1,0 +1,282 @@
+[
+ {
+  "id": "03c8a9cece93",
+  "image": "03c8a9cece93.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Sebuah dadu dan sebuah koin dilempar bersama-sama. \nPeluang munculnya **mata dadu faktor dari 6 dan sisi angka pada koin** adalah...",
+  "question_image": null,
+  "correct_answer": "$\\frac{1}{3}$",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.33
+   ],
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "FRM-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.07
+   ],
+   [
+    "PRO-02",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "5c90284708ed",
+  "image": "5c90284708ed.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Diketahui $x$ dan $y$ adalah bilangan bulat positif yang memenuhi persamaan:\r\n\r\n$\\sqrt{x} + \\sqrt{y} = \\sqrt{180}$\r\n\r\nJika nilai $x = 45$, maka nilai dari $\\sqrt{x \\cdot y}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "45",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.43
+   ],
+   [
+    "EXP-07",
+    0.26
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ALG-06",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "116ab037cd20",
+  "image": "116ab037cd20.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari operasi $\\frac{(a^2 \\times b^3)^4}{a^5 \\times b^7}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$a^3 \\times b^5$",
+  "past_labels": [
+   [
+    "NONE",
+    0.42
+   ],
+   [
+    "EXP-02",
+    0.17
+   ],
+   [
+    "OTH-00",
+    0.16
+   ],
+   [
+    "INT-03",
+    0.04
+   ],
+   [
+    "INT-04",
+    0.03
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "78ec8760047c",
+  "image": "78ec8760047c.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Ibu memiliki persediaan beras sebanyak $2\\dfrac{1}{4}\\text{ kg}$. Untuk makan siang dan makan malam, total Ibu menggunakan beras sebanyak $1\\dfrac{2}{5}\\text{ kg}$. Karena khawatir kurang, Ibu membeli lagi beras sebanyak $\\dfrac{3}{10}\\text{ kg}$. Persediaan beras Ibu sekarang adalah .... (nyatakan dalam pecahan campuran)",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{3}{20}$",
+  "past_labels": [
+   [
+    "FRA-01",
+    0.38
+   ],
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "FRA-06",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "05d860d113bc",
+  "image": "05d860d113bc.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Rata-rata nilai sekelompok siswa adalah 7,5. \nJika 4 orang siswa dengan rata-rata 8,25 dikeluarkan dari kelompok tersebut, rata-ratanya menjadi 7,3. \nBerapa banyak siswa dalam kelompok semula? ",
+  "question_image": null,
+  "correct_answer": "19 siswa",
+  "past_labels": [
+   [
+    "NONE",
+    0.4
+   ],
+   [
+    "WOP-01",
+    0.33
+   ],
+   [
+    "STA-01",
+    0.1
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "STA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "5ff23335e0d6",
+  "image": "5ff23335e0d6.jpeg",
+  "grade": 8,
+  "topic": "Probability of an Event",
+  "question": "Dina melakukan percobaan melempar sebuah koin dalam tiga sesi dan mencatat munculnya sisi Gambar sebagai berikut:\n\nSesi 1 (15 lemparan): muncul Gambar 4 kali.\nSesi 2 (20 lemparan): muncul Gambar 10 kali.\nSesi 3 (15 lemparan): muncul Gambar 6 kali.\n\nPeluang munculnya sisi Gambar dari keseluruhan percobaan Dina adalah …\n",
+  "question_image": null,
+  "correct_answer": "$0,4$",
+  "past_labels": [
+   [
+    "NONE",
+    0.53
+   ],
+   [
+    "FRM-01",
+    0.18
+   ],
+   [
+    "PRO-04",
+    0.13
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "58f6ea7fd414",
+  "image": "58f6ea7fd414.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "$$\\frac{4^x \\times 4^5}{4^3} = 4^2 \\times 4^0$$\nBerapakah nilai $x$ yang memenuhi persamaan tersebut?",
+  "question_image": null,
+  "correct_answer": "0",
+  "past_labels": [
+   [
+    "EXP-06",
+    0.32
+   ],
+   [
+    "EXP-02",
+    0.15
+   ],
+   [
+    "INT-04",
+    0.13
+   ],
+   [
+    "CAL-01",
+    0.11
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "168226a807c9",
+  "image": "168226a807c9.jpeg",
+  "grade": 6,
+  "topic": "Speed",
+  "question": "$4 \\text{ m/detik} = \\dots \\text{ km/jam}$",
+  "question_image": null,
+  "correct_answer": "14,4",
+  "past_labels": [
+   [
+    "MEA-02",
+    0.57
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "Dec-02",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ }
+]

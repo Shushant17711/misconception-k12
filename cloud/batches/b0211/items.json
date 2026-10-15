@@ -1,0 +1,282 @@
+[
+ {
+  "id": "3a30d24748ab",
+  "image": "3a30d24748ab.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f(x) = 2x - 1$, $g(x) = x^2$, dan $h(x) = x + 2$.\r\nTentukan $(f \\circ g \\circ h)(x)$.",
+  "question_image": null,
+  "correct_answer": "$2x^2 + 8x + 7$",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.33
+   ],
+   [
+    "INT-04",
+    0.14
+   ],
+   [
+    "EXP-03",
+    0.14
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "INV-01",
+    0.06
+   ],
+   [
+    "EXP-04",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "7c13f1a9a3a4",
+  "image": "7c13f1a9a3a4.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Pak Doni membeli 5 kardus mie instan untuk persediaan tokonya. Di dalam setiap kardus terdapat 6 pak besar, dan di dalam setiap pak besar berisi 8 bungkus mie instan. Berapakah jumlah seluruh mie instan yang dibeli oleh Pak Doni?",
+  "question_image": null,
+  "correct_answer": "240 bungkus",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.42
+   ],
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "WOP-02",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "OPS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "155dc51d8f01",
+  "image": "155dc51d8f01.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Sebuah kapal selam mula-mula berada di kedalaman 12 meter di bawah permukaan laut. Kapal tersebut kemudian bergerak turun lagi sejauh 8 meter. \n\nTepat setelah itu, kapal selam mengaktifkan mesin pendorong otomatis yang membuatnya bergerak naik ke atas dengan kecepatan 3 meter setiap menitnya selama 5 menit. \n\nDi manakah posisi kapal selam tersebut sekarang?",
+  "question_image": null,
+  "correct_answer": "-5",
+  "past_labels": [
+   [
+    "INT-04",
+    0.41
+   ],
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "df60769bf831",
+  "image": "df60769bf831.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah koperasi memiliki kas awal sebesar Rp75.000. Koperasi mengeluarkan uang sebesar Rp24.500 untuk perlengkapan kantor dan Rp16.850 untuk membayar listrik. Koperasi menerima setoran dari hasil penjualan barang sebesar Rp31.200. Saldo kas koperasi saat ini adalah…",
+  "question_image": null,
+  "correct_answer": "Rp64.850",
+  "past_labels": [
+   [
+    "OPS-01",
+    0.43
+   ],
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "PV-01",
+    0.08
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "077462c8283a",
+  "image": "077462c8283a.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Dalam sebuah uji coba laboratorium, suhu awal cairan kimia adalah -8°C. Cairan tersebut dipanaskan sehingga suhunya naik sebesar 4°C setiap 3 menit. Setelah 15 menit dipanaskan, terjadi gangguan mesin yang menyebabkan suhu cairan turun sebesar 18°C. Suhu akhir cairan tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "-6°C",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "OOO-01",
+    0.13
+   ],
+   [
+    "INT-04",
+    0.11
+   ],
+   [
+    "INT-02",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "06ae6c730c5a",
+  "image": "06ae6c730c5a.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari $5\\sqrt{27} - 3\\sqrt{12} + \\sqrt{48}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$13\\sqrt{3}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.52
+   ],
+   [
+    "EXP-07",
+    0.21
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "6a625563ec65",
+  "image": "6a625563ec65.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f(x) = 2x - 7$ dan $g(x) = 2x$, maka $(f \\circ g)^{-1}(x)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{x + 7}{4}$",
+  "past_labels": [
+   [
+    "INV-01",
+    0.3
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "FUN-01",
+    0.12
+   ],
+   [
+    "EXP-04",
+    0.07
+   ],
+   [
+    "RAT-02",
+    0.07
+   ],
+   [
+    "ALG-04",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "e0ce387edb1d",
+  "image": "e0ce387edb1d.jpeg",
+  "grade": 5,
+  "topic": "GCD",
+  "question": "Faktor Persekutuan Terbesar dari pasangan bilangan 35 dan 45 adalah…",
+  "question_image": null,
+  "correct_answer": "5",
+  "past_labels": [
+   [
+    "KPF-01",
+    0.28
+   ],
+   [
+    "NONE",
+    0.24
+   ],
+   [
+    "FRM-01",
+    0.23
+   ],
+   [
+    "REL-01",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.06
+   ],
+   [
+    "KPF-03",
+    0.05
+   ]
+  ]
+ }
+]

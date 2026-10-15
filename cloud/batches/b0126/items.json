@@ -1,0 +1,282 @@
+[
+ {
+  "id": "04c49ad9b389",
+  "image": "04c49ad9b389.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Volume gabungan bangun ruang seperti gambar di samping adalah . . . $\\text{cm}^3$",
+  "question_image": "q_04c49ad9b389_3d2c4f9e-fcde-48a2-9c17-b58a45fa29f6.png",
+  "correct_answer": "1350",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "VIS-01",
+    0.37
+   ],
+   [
+    "MEA-04",
+    0.06
+   ],
+   [
+    "MEA-03",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "f00b62474989",
+  "image": "f00b62474989.jpeg",
+  "grade": 7,
+  "topic": "Angle",
+  "question": "Jika α = (x + 25)° dan β = (2x - 15)°, maka nilai α+β adalah... \n",
+  "question_image": "q_f00b62474989_0fcb8b25-b20b-435f-9c2f-a616662bb31e.png",
+  "correct_answer": "130°\n",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.86
+   ],
+   [
+    "NONE",
+    0.04
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "ALG-06",
+    0.04
+   ],
+   [
+    "ALG-05",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "c944e8574767",
+  "image": "c944e8574767.jpeg",
+  "grade": 11,
+  "topic": "Function Operations",
+  "question": "Diketahui fungsi $f(x) = x + 3$, $g(x) = x - 1$, dan $h(x) = 2x$.\nHasil dari operasi hitung $(f + g \\times h)(x)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$2x^2 - x + 3$",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "FUN-01",
+    0.23
+   ],
+   [
+    "OOO-01",
+    0.19
+   ],
+   [
+    "QUA-02",
+    0.09
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "c9285bc652ef",
+  "image": "c9285bc652ef.jpeg",
+  "grade": 10,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{\\sqrt{15} + \\sqrt{13}}{\\sqrt{15} - \\sqrt{13}}$ dapat dinyatakan sebagai $a + \\sqrt{b}$, dengan $a$ dan $b$ bilangan bulat. Nilai dari $\\dfrac{a}{\\sqrt{b}}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{14\\sqrt{195}}{195}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "EXP-07",
+    0.19
+   ],
+   [
+    "ALG-04",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.12
+   ],
+   [
+    "EXP-04",
+    0.05
+   ],
+   [
+    "FRA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "182638f3bd7b",
+  "image": "182638f3bd7b.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah tangki penampung gas di pabrik berbentuk kapsul. Panjang total tangki tersebut adalah $28\\text{ m}$ dan diameternya $14\\text{ m}$. Jika permukaan luar seluruh tangki akan dicat ulang dengan biaya $\\text{Rp}20.000\\text{ per m}^2$, hitunglah total biaya yang diperlukan untuk mengecat tangki tersebut!",
+  "question_image": "q_182638f3bd7b_3a84fd9c-d6ec-4e96-9a08-978e65446eef.png",
+  "correct_answer": "Rp24.640.000",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "MEA-04",
+    0.23
+   ],
+   [
+    "VIS-01",
+    0.14
+   ],
+   [
+    "FRM-01",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "748a13554bd7",
+  "image": "748a13554bd7.jpeg",
+  "grade": 8,
+  "topic": "Measures of Central Tendency",
+  "question": "Data jumlah pengunjung sebuah pameran selama beberapa hari disajikan pada tabel berikut.\n\nJika rata-rata jumlah pengunjung adalah 55 orang, maka nilai $x$ adalah $\\ldots$",
+  "question_image": "q_748a13554bd7_432ddafb-a523-47de-9bcf-3e85afedaca7.png",
+  "correct_answer": "4",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "STA-01",
+    0.3
+   ],
+   [
+    "STA-04",
+    0.25
+   ],
+   [
+    "WOP-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "a01a00de6701",
+  "image": "a01a00de6701.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Data pekerjaan orang tua dari 240 siswa di SMP CoLearn ditunjukkan oleh diagram lingkaran.\n\nBerapakah jumlah orang tua siswa yang bekerja sebagai petani? ",
+  "question_image": "q_a01a00de6701_ae31a63c-4403-4604-a0a1-2ffbb0f5b228.png",
+  "correct_answer": "10 orang",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "UNT-01",
+    0.27
+   ],
+   [
+    "VIS-01",
+    0.18
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "06f75cd979ee",
+  "image": "06f75cd979ee.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Pak Budi memiliki 117 ikan lele, Pak Sudi memiliki 105 ikan lele dan Pak Jaya memiliki 242 ikan lele. Semua ikan lele dipanen dari kolam dan kemudian akan dijual ke pasar. Berapa keseluruhan ikan lele yang akan dijual ke pasar? \n",
+  "question_image": null,
+  "correct_answer": "464",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "ANS-01",
+    0.17
+   ],
+   [
+    "WOP-02",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.03
+   ],
+   [
+    "OPS-01",
+    0.02
+   ]
+  ]
+ }
+]

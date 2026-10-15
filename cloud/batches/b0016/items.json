@@ -1,0 +1,282 @@
+[
+ {
+  "id": "8e36b27760a9",
+  "image": "8e36b27760a9.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Seorang perajin mainan ingin melapisi 2 buah bola bekel dengan lapisan karet khusus agar tidak licin. Masing-masing bola bekel tersebut memiliki diameter $14\\text{ cm}$. Perajin tersebut membeli satu paket gel karet yang diklaim dapat melapisi permukaan benda hingga total luas $1300\\text{ cm}^2$. Jika perajin ingin mengetahui sisa kapasitas gel karet yang tidak terpakai setelah kedua bola selesai dilapisi, berapakah sisa luas yang tersedia? (Gunakan $\\pi = \\dfrac{22}{7}$)",
+  "question_image": null,
+  "correct_answer": "$68\\text{ cm}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.46
+   ],
+   [
+    "MEA-04",
+    0.24
+   ],
+   [
+    "EXP-01",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "267df8af227b",
+  "image": "267df8af227b.jpeg",
+  "grade": 6,
+  "topic": "Integer Value",
+  "question": "Empat kota di dunia memiliki suhu udara sebagai berikut.\n- Kota A memiliki suhu $5^{\\circ}$C di bawah nol.\n- Kota B memiliki $2^{\\circ}$C di atas nol.\n- Kota C memiliki suhu $7^{\\circ}$C lebih dingin dari Kota A. \n- Kota D memiliki suhu $5^{\\circ}$C lebih hangat dari kota B.\nUrutan kota dari yang memiliki suhu paling dingin ke yang paling hangat adalah . . .",
+  "question_image": null,
+  "correct_answer": "Kota C, Kota A, Kota B, Kota D",
+  "past_labels": [
+   [
+    "NONE",
+    0.84
+   ],
+   [
+    "INT-04",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "d6b8012f4264",
+  "image": "d6b8012f4264.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Tentukan nilai logaritma berikut:\r\n$ \\dfrac{^4\\log 16 + {^{27}\\log 81}}{^2\\log \\dfrac{1}{8}} $",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{10}{9}$",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.26
+   ],
+   [
+    "LOG-02",
+    0.19
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "OOO-01",
+    0.12
+   ],
+   [
+    "INT-02",
+    0.12
+   ],
+   [
+    "ALG-06",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "27e4e181a861",
+  "image": "27e4e181a861.jpeg",
+  "grade": 11,
+  "topic": "Application of Functions",
+  "question": "Suatu kebocoran minyak di laut membentuk luapan berbentuk lingkaran. Radius luapan minyak bertambah terhadap waktu $t$ (jam) dengan fungsi $r(t) = 3t\\text{ meter}$. Luas luapan minyak dinyatakan oleh $A(r) = \\pi r^2$. Luas luapan minyak setelah $4\\text{ jam}$ adalah $\\dots$ (nyatakan dalam bentuk $\\pi$)",
+  "question_image": null,
+  "correct_answer": "$144\\pi\\text{ m}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.92
+   ],
+   [
+    "WOP-01",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "988027468e52",
+  "image": "988027468e52.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Ahmad, Budi, dan Cici menyusun kartu nilai tempat sehingga membentuk bilangan sebagai berikut: \n- Ahmad: 4 puluhan ribu, 5 ratusan, 2 ribuan, 8 satuan \n- Budi: 4 puluhan ribu, 2 ribuan, 5 puluhan, 8 satuan \n- Cici: 4 puluhan ribu, 5 ribuan, 2 ratusan, 8 puluhan \nUrutan bilangan dari yang terkecil sampai terbesar adalah milik… \n",
+  "question_image": null,
+  "correct_answer": "Budi, Ahmad, Cici",
+  "past_labels": [
+   [
+    "PV-01",
+    0.4
+   ],
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "OPS-01",
+    0.11
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "OPS-02",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "86894d42e35f",
+  "image": "86894d42e35f.jpeg",
+  "grade": 10,
+  "topic": "Measures of Central Tendency",
+  "question": "Jumlah pengunjung sebuah taman kota selama 8 hari pertama memiliki rata-rata 120 orang per hari.\n\nPada hari ke-9, jumlah pengunjung dicatat sehingga rata-rata pengunjung selama 9 hari menjadi 124 orang per hari.\n\nJumlah pengunjung pada hari ke-9 adalah ....",
+  "question_image": null,
+  "correct_answer": "156",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "STA-01",
+    0.34
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "VIS-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "STA-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "d648963e907e",
+  "image": "d648963e907e.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{18}{5 + \\sqrt{7}}$ dapat dinyatakan sebagai $a - \\sqrt{7}$ dengan $a$ adalah bilangan bulat. Nilai dari $\\dfrac{3}{\\sqrt{a}}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{3\\sqrt{5}}{5}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "EXP-07",
+    0.24
+   ],
+   [
+    "EXP-04",
+    0.07
+   ],
+   [
+    "ALG-04",
+    0.05
+   ],
+   [
+    "FRA-04",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "9bcedeed11bc",
+  "image": "9bcedeed11bc.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Perhatikan tabel penjualan buku di 4 toko berikut!\nAngka pada nilai tempat ratusan Toko Buku Jaya tertutup huruf A. Jika diketahui penjualan Toko Buku Jaya lebih banyak dari Toko Cahaya, tetapi lebih sedikit dari Toko Damai, maka toko yang berada di urutan kedua terbanyak adalah… ",
+  "question_image": "q_9bcedeed11bc_7dfcbaad-cd95-4401-b5fb-049ac3403213.png",
+  "correct_answer": "Toko Damai",
+  "past_labels": [
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "ANS-01",
+    0.19
+   ],
+   [
+    "OPS-01",
+    0.17
+   ],
+   [
+    "PV-01",
+    0.1
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.04
+   ]
+  ]
+ }
+]

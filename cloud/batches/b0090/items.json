@@ -1,0 +1,282 @@
+[
+ {
+  "id": "3f25f9c6e39c",
+  "image": "3f25f9c6e39c.jpeg",
+  "grade": 12,
+  "topic": "Probability of Compound Events",
+  "question": "Dari 40 siswa di suatu kelas, 25 siswa menyukai Matematika, 20 siswa menyukai Fisika, 10 siswa menyukai keduanya, dan 5 siswa tidak menyukai keduanya. Jika dipilih satu siswa secara acak, peluang terpilih siswa yang hanya menyukai Matematika atau hanya menyukai Fisika adalah ....",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{5}{8}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "SET-01",
+    0.19
+   ],
+   [
+    "PRO-04",
+    0.11
+   ],
+   [
+    "CAL-01",
+    0.06
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "PRO-02",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "ccb4b019ef6c",
+  "image": "ccb4b019ef6c.jpeg",
+  "grade": 6,
+  "topic": "Rational Number Operations",
+  "question": "Ibu sedang bersiap membuat kue kering. \n\nDi dalam wadah adonan, sudah terdapat tepung terigu sebanyak $\\frac{1}{2}$ kg. \n\nKarena merasa kurang, ibu menuangkan tepung lagi sebanyak $\\frac{2}{3}$ bagian dari isi kemasan plastik yang beratnya $\\frac{3}{4}$ kg. \n\nSetelah adonan selesai diaduk, ibu mengambil $\\frac{1}{5}$ kg adonan tersebut untuk digoreng menjadi bakwan. \n\nSisa tepung dalam wadah adonan ibu sekarang adalah . . . .",
+  "question_image": null,
+  "correct_answer": "$\\frac{4}{5} \\text{ kg}$",
+  "past_labels": [
+   [
+    "FRA-06",
+    0.43
+   ],
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "CAL-01",
+    0.07
+   ],
+   [
+    "FRA-03",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "e792aeb10d01",
+  "image": "e792aeb10d01.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah yayasan sosial mendistribusikan 54.000 paket sembako menggunakan rombongan mobil bak terbuka. Yayasan tersebut memiliki 12 mobil bak terbuka yang selalu berangkat bersama-sama. Setiap mobil dapat memuat 75 paket sembako dalam sekali jalan. \r\n\r\nJika semua paket sembako akan didistribusikan, maka rombongan mobil bak tersebut harus bolak-balik sebanyak…\r",
+  "question_image": null,
+  "correct_answer": "60 kali",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "WOP-01",
+    0.17
+   ],
+   [
+    "OPS-01",
+    0.14
+   ],
+   [
+    "PV-01",
+    0.08
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "3df56897d725",
+  "image": "3df56897d725.jpeg",
+  "grade": 8,
+  "topic": "Arithmetic Sequences and Series",
+  "question": "Diketahui barisan aritmatika berikut:\nx, 15, y, 29,....\nTentukan nilai dari suku ke-10 pada barisan tersebut!\n",
+  "question_image": null,
+  "correct_answer": "71",
+  "past_labels": [
+   [
+    "SEQ-02",
+    0.42
+   ],
+   [
+    "CAL-01",
+    0.17
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "FRM-01",
+    0.1
+   ],
+   [
+    "REL-01",
+    0.08
+   ],
+   [
+    "SIM-01",
+    0.08
+   ]
+  ]
+ },
+ {
+  "id": "b130c53f3bde",
+  "image": "b130c53f3bde.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Disediakan lima kartu angka yang berisi angka: 4, 1, 8, 5, dan 0. \r\nNara diminta menyusun bilangan puluhan ribu dengan aturan nilai tempat sebagai berikut: \r\n- Angka 4 menempati nilai tempat puluhan ribu \r\n- Angka 1 menempati nilai tempat ribuan \r\nNara menyusun bilangan terbesar yang mungkin dibuat dan bilangan terkecil yang mungkin dibuat. Jika kedua bilangan tersebut ditulis secara berurutan mulai dari yang terbesar, maka pasangan bilangannya adalah… \r",
+  "question_image": null,
+  "correct_answer": "41.850 dan 41.058",
+  "past_labels": [
+   [
+    "PV-01",
+    0.37
+   ],
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "OPS-01",
+    0.14
+   ],
+   [
+    "ANS-02",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "b09335347802",
+  "image": "b09335347802.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk paling sederhana dari pecahan $\\frac{12}{\\sqrt{7} + \\sqrt{3}}$ adalah…",
+  "question_image": null,
+  "correct_answer": "$3(\\sqrt{7} - \\sqrt{3})$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.41
+   ],
+   [
+    "ALG-04",
+    0.23
+   ],
+   [
+    "EXP-07",
+    0.21
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "57bffbf53493",
+  "image": "57bffbf53493.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah kerucut memiliki jari-jari alas $7\\text{ cm}$ dan tinggi $t = 24\\text{ cm}$. Luas permukaan total kerucut tersebut adalah $\\dots\\text{ cm}^2$.",
+  "question_image": null,
+  "correct_answer": "704",
+  "past_labels": [
+   [
+    "NONE",
+    0.46
+   ],
+   [
+    "CAL-01",
+    0.14
+   ],
+   [
+    "ANS-01",
+    0.13
+   ],
+   [
+    "MEA-04",
+    0.12
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "b28b467777a0",
+  "image": "b28b467777a0.jpeg",
+  "grade": 12,
+  "topic": "Permutation",
+  "question": "Suatu kelompok belajar terdiri dari 6 siswa (3 laki-laki dan 3 perempuan) akan melakukan presentasi bergantian. Guru menetapkan aturan bahwa siswa laki-laki dan perempuan harus tampil berselang-seling (L-P-L-P-L-P atau P-L-P-L-P-L). Banyak susunan urutan presentasi yang dapat dibentuk adalah ...",
+  "question_image": null,
+  "correct_answer": "72",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.45
+   ],
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ }
+]

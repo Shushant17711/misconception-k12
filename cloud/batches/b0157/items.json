@@ -1,0 +1,282 @@
+[
+ {
+  "id": "47f1e87a372b",
+  "image": "47f1e87a372b.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Nara memiliki 90 butir telur ayam dari peternakannya. Telur-telur tersebut akan dibagikan kepada Leo dan 2 teman lainnya. Jika setiap orang mendapatkan telur dengan jumlah yang sama. Maka telur yang didapatkan oleh Leo adalah…",
+  "question_image": null,
+  "correct_answer": "30",
+  "past_labels": [
+   [
+    "WOP-02",
+    0.33
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "WOP-01",
+    0.19
+   ],
+   [
+    "OPS-02",
+    0.16
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "OPS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "393394f02c67",
+  "image": "393394f02c67.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f(x) = \\dfrac{x - 1}{x + 1}$ dan $g(x) = 3x$.\r\nJumlah semua nilai $x$ yang mungkin sehingga $f(g(x)) = g(f(x))$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{4}{3}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "FRA-06",
+    0.19
+   ],
+   [
+    "FUN-01",
+    0.1
+   ],
+   [
+    "INV-01",
+    0.08
+   ],
+   [
+    "EXP-04",
+    0.06
+   ],
+   [
+    "RAT-02",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "a6d5a4736061",
+  "image": "a6d5a4736061.jpeg",
+  "grade": 9,
+  "topic": "Area of Flat Shapes",
+  "question": "Luas bangun di samping adalah ….",
+  "question_image": "q_a6d5a4736061_edb27b6a-6ce3-47c3-a048-24704d90dd3e.png",
+  "correct_answer": "$120\\ \\text{cm}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.46
+   ],
+   [
+    "VIS-01",
+    0.38
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "MEA-04",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "3e465ecd8888",
+  "image": "3e465ecd8888.jpeg",
+  "grade": 4,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Total seluruh buku yang terjual di Toko Pintar dari hari Senin sampai dengan hari Rabu adalah …",
+  "question_image": "q_3e465ecd8888_d614f07c-b132-42e3-920b-f276a1be333c.png",
+  "correct_answer": "80 buku",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "VIS-01",
+    0.21
+   ],
+   [
+    "WOP-01",
+    0.2
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "276d3671a2e7",
+  "image": "276d3671a2e7.jpeg",
+  "grade": 9,
+  "topic": "Application of Two-Variable Linear Equation Systems",
+  "question": "Dua keluarga mengunjungi sebuah museum. Keluarga pertama yang terdiri dari 3 dewasa dan 2 anak-anak membayar total tiket sebesar Rp115.000,00. Keluarga kedua yang terdiri dari 2 dewasa dan 5 anak-anak membayar total tiket sebesar Rp150.000,00. Berapakah total biaya tiket yang harus dibayar oleh sebuah rombongan yang terdiri dari 1 dewasa dan 1 anak-anak?",
+  "question_image": null,
+  "correct_answer": "Rp45.000,00",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "ANS-01",
+    0.4
+   ],
+   [
+    "Dec-02",
+    0.07
+   ],
+   [
+    "WOP-02",
+    0.04
+   ],
+   [
+    "SIM-01",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "ec2e243ce0ee",
+  "image": "ec2e243ce0ee.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Toko “Segar” mencatat total penjualan buah sebanyak 200 kg dalam satu hari. \n\nBerapakah persentase penjualan untuk buah Anggur?",
+  "question_image": "q_ec2e243ce0ee_ce1e890b-499b-4e00-a18c-afc93d3dec51.png",
+  "correct_answer": "20%",
+  "past_labels": [
+   [
+    "NONE",
+    0.55
+   ],
+   [
+    "VIS-01",
+    0.24
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "UNT-01",
+    0.03
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "a538c9ecaf06",
+  "image": "a538c9ecaf06.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Tentukan hasil dari operasi hitung berikut dalam bentuk pecahan campuran\n\n$$ \\dfrac{3}{4} + \\dfrac{1}{2} : \\dfrac{2}{3} = $$",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{1}{2}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "FRA-01",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.12
+   ],
+   [
+    "CAL-01",
+    0.12
+   ],
+   [
+    "FRA-06",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "6db276b8747b",
+  "image": "6db276b8747b.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Dua buah jam di kamar Caca diatur untuk berdering secara berkala. Jam A berdering setiap 45 menit sekali, sedangkan jam B berdering setiap 60 menit sekali. Jika kedua jam beker tersebut berdering bersama-sama untuk pertama kalinya pada pukul 09.15. Kedua jam beker tersebut akan berdering bersama-sama untuk kedua kalinya pada pukul ….",
+  "question_image": null,
+  "correct_answer": "12.15",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "KPF-01",
+    0.22
+   ],
+   [
+    "ANS-01",
+    0.11
+   ],
+   [
+    "KPF-02",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "MEA-02",
+    0.07
+   ]
+  ]
+ }
+]

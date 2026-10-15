@@ -1,0 +1,282 @@
+[
+ {
+  "id": "3433d301a003",
+  "image": "3433d301a003.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Sebuah kapal selam mula-mula berada di kedalaman 12 meter di bawah permukaan laut. Kapal tersebut kemudian bergerak turun lagi sejauh 8 meter. \n\nTepat setelah itu, kapal selam mengaktifkan mesin pendorong otomatis yang membuatnya bergerak naik ke atas dengan kecepatan 3 meter setiap menitnya selama 5 menit. \n\nDi manakah posisi kapal selam tersebut sekarang?",
+  "question_image": null,
+  "correct_answer": "-5",
+  "past_labels": [
+   [
+    "INT-04",
+    0.41
+   ],
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "dd7bf3ff80e0",
+  "image": "dd7bf3ff80e0.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Nara memiliki 90 butir telur ayam dari peternakannya. Telur-telur tersebut akan dibagikan kepada Leo dan 2 teman lainnya. Jika setiap orang mendapatkan telur dengan jumlah yang sama. Maka telur yang didapatkan oleh Leo adalah…",
+  "question_image": null,
+  "correct_answer": "30",
+  "past_labels": [
+   [
+    "WOP-02",
+    0.33
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "WOP-01",
+    0.19
+   ],
+   [
+    "OPS-02",
+    0.16
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "OPS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "3056459bc0da",
+  "image": "3056459bc0da.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Nilai $Q_1$ dari data histogram tersebut adalah...",
+  "question_image": "q_3056459bc0da_13e309c9-6635-4996-a8df-69896426f9f1.png",
+  "correct_answer": "49,5\n",
+  "past_labels": [
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "VIS-01",
+    0.23
+   ],
+   [
+    "Dec-02",
+    0.18
+   ],
+   [
+    "STA-05",
+    0.07
+   ],
+   [
+    "STA-04",
+    0.05
+   ],
+   [
+    "FRM-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "17b6cbfc705d",
+  "image": "17b6cbfc705d.jpeg",
+  "grade": 12,
+  "topic": "Counting Rules",
+  "question": "Sebuah bank membuat kode PIN transaksi ATM yang terdiri dari 6 digit angka, nol tidak termasuk. Manajemen bank menetapkan aturan keamanan bahwa angka pertama dan angka terakhir pada PIN tersebut harus merupakan bilangan genap, dan angka boleh berulang pada posisi mana pun. Banyaknya variasi kode PIN yang dapat dibentuk adalah...",
+  "question_image": null,
+  "correct_answer": "104.976",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.43
+   ],
+   [
+    "OTH-00",
+    0.28
+   ],
+   [
+    "FRM-01",
+    0.18
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "32e948a3fc76",
+  "image": "32e948a3fc76.jpeg",
+  "grade": 7,
+  "topic": "Applications of LCM and GCD",
+  "question": "Toko Maju Jaya menerima kiriman beras setiap 12 hari sekali dan kiriman minyak goreng setiap 18 hari sekali. Pada hari Selasa, toko tersebut menerima kiriman beras dan minyak goreng secara bersamaan untuk pertama kalinya. Pada hari apakah toko tersebut akan menerima kiriman beras dan minyak goreng bersamaan untuk kedua kalinya?",
+  "question_image": null,
+  "correct_answer": "Rabu",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.26
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.19
+   ],
+   [
+    "KPF-01",
+    0.17
+   ],
+   [
+    "KPF-02",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "4b91105f0e13",
+  "image": "4b91105f0e13.jpeg",
+  "grade": 10,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{6}{\\sqrt{5} - \\sqrt{2}}$ dapat dinyatakan sebagai $a\\left(\\sqrt{b} + \\sqrt{c}\\right)$, dengan $a$, $b$, dan $c$ bilangan bulat.\r\n\r\nJika $b > c$, maka nilai $\\dfrac{b}{\\sqrt{c}}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{5\\sqrt{2}}{2}$",
+  "past_labels": [
+   [
+    "ALG-04",
+    0.2
+   ],
+   [
+    "OTH-00",
+    0.17
+   ],
+   [
+    "ANS-01",
+    0.16
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "EXP-07",
+    0.1
+   ],
+   [
+    "EXP-04",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "ecce8ad63ea2",
+  "image": "ecce8ad63ea2.jpeg",
+  "grade": 7,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Luas permukaan limas dengan alas persegi panjang di samping adalah …. $\\text{cm}^2$",
+  "question_image": "q_ecce8ad63ea2_2f6df60c-e40c-4664-90b2-c9400d6675ae.png",
+  "correct_answer": "564",
+  "past_labels": [
+   [
+    "NONE",
+    0.53
+   ],
+   [
+    "MEA-04",
+    0.27
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "2021f7af6b23",
+  "image": "2021f7af6b23.jpeg",
+  "grade": 11,
+  "topic": "Types of Functions",
+  "question": "Dalam sebuah ulangan remedial matematika, seorang guru mengumumkan bahwa nilai yang diberikan akan berkisar dari 60 sampai 100, dengan setiap siswa mendapatkan nilai berupa bilangan bulat. Banyak siswa yang mengikuti ulangan remedial ini adalah 42 orang. Jika f memetakan setiap siswa ke nilai ulangannya, maka sifat fungsi f yang mungkin terjadi (yaitu tidak mustahil terjadi, tergantung bagaimana nilai didistribusikan ke siswa) adalah . . .",
+  "question_image": null,
+  "correct_answer": "Surjektif",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.64
+   ],
+   [
+    "CHK-01",
+    0.16
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "ANS-02",
+    0.03
+   ]
+  ]
+ }
+]

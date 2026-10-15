@@ -1,0 +1,282 @@
+[
+ {
+  "id": "52848ceb1672",
+  "image": "52848ceb1672.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Hasil dari $\\dfrac{5}{6} + \\dfrac{1}{4} - \\dfrac{1}{3}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{3}{4}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.56
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "FRA-06",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "FRA-01",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "8023bc163a46",
+  "image": "8023bc163a46.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Sebuah kapal selam mula-mula berada di kedalaman 12 meter di bawah permukaan laut. Kapal tersebut kemudian bergerak turun lagi sejauh 8 meter. \n\nTepat setelah itu, kapal selam mengaktifkan mesin pendorong otomatis yang membuatnya bergerak naik ke atas dengan kecepatan 3 meter setiap menitnya selama 5 menit. \n\nDi manakah posisi kapal selam tersebut sekarang?",
+  "question_image": null,
+  "correct_answer": "-5",
+  "past_labels": [
+   [
+    "INT-04",
+    0.41
+   ],
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ],
+   [
+    "WOP-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "5bf42a98cafd",
+  "image": "5bf42a98cafd.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari $\\left(\\dfrac{2a^5b^{-5}}{32a^9b^{-1}}\\right)^{-1}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$(2ab)^4$",
+  "past_labels": [
+   [
+    "ALG-04",
+    0.25
+   ],
+   [
+    "NONE",
+    0.2
+   ],
+   [
+    "OTH-00",
+    0.16
+   ],
+   [
+    "INT-03",
+    0.15
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "9397c172d28c",
+  "image": "9397c172d28c.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari:\n$100 - 60 : 10 \\times ( -3 ) = $. . .",
+  "question_image": null,
+  "correct_answer": "118",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.62
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "INT-03",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "f280bcb0c819",
+  "image": "f280bcb0c819.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Perubahan suhu $(^\\circ\\text{C})$ di suatu kota selama beberapa hari dicatat pada tabel berikut.\n\nRagam data tersebut adalah $\\ldots$",
+  "question_image": "q_f280bcb0c819_dcf1cfc8-1786-4170-a828-bb3d5669b2e8.png",
+  "correct_answer": "3,2",
+  "past_labels": [
+   [
+    "STA-04",
+    0.38
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "STA-05",
+    0.07
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "36b3caea82d4",
+  "image": "36b3caea82d4.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Exponents",
+  "question": "Jika $a^x = 8$ dan $a^y = 32$, dengan $a > 0$, tentukan nilai dari $a^{x+y}$.",
+  "question_image": null,
+  "correct_answer": "256",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "OTH-00",
+    0.3
+   ],
+   [
+    "EXP-01",
+    0.26
+   ],
+   [
+    "EXP-04",
+    0.04
+   ],
+   [
+    "EXP-02",
+    0.04
+   ],
+   [
+    "FRA-03",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "7746581590c2",
+  "image": "7746581590c2.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah kerucut memiliki jari-jari alas $7\\text{ cm}$ dan tinggi $t = 24\\text{ cm}$. Luas permukaan total kerucut tersebut adalah $\\dots\\text{ cm}^2$.",
+  "question_image": null,
+  "correct_answer": "704",
+  "past_labels": [
+   [
+    "NONE",
+    0.46
+   ],
+   [
+    "CAL-01",
+    0.14
+   ],
+   [
+    "ANS-01",
+    0.13
+   ],
+   [
+    "MEA-04",
+    0.12
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "4bea5036228b",
+  "image": "4bea5036228b.jpeg",
+  "grade": 9,
+  "topic": "Operations of Exponents",
+  "question": "Bentuk sederhana dari $\\frac{a^{-3} \\times a^5}{a^{-4}}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$a^6$",
+  "past_labels": [
+   [
+    "INT-03",
+    0.4
+   ],
+   [
+    "NONE",
+    0.16
+   ],
+   [
+    "INT-04",
+    0.12
+   ],
+   [
+    "FRA-03",
+    0.1
+   ],
+   [
+    "EXP-02",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.04
+   ]
+  ]
+ }
+]

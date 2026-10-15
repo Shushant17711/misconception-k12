@@ -1,0 +1,282 @@
+[
+ {
+  "id": "a76b64017d04",
+  "image": "a76b64017d04.jpeg",
+  "grade": 7,
+  "topic": "Angle",
+  "question": "Dua garis sejajar dipotong oleh sebuah garis transversal.\nBesar sudut yang lebih besar di antara keduanya adalah ...\n",
+  "question_image": "q_a76b64017d04_b3f425df-37df-4449-9ffd-94631596de3a.png",
+  "correct_answer": "$94^{\\circ}$",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.81
+   ],
+   [
+    "NONE",
+    0.06
+   ],
+   [
+    "ANS-02",
+    0.05
+   ],
+   [
+    "ALG-06",
+    0.05
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "3a8f655ed910",
+  "image": "3a8f655ed910.jpeg",
+  "grade": 11,
+  "topic": "Application of Functions",
+  "question": "Suatu kebocoran minyak di laut membentuk luapan berbentuk lingkaran. Radius luapan minyak bertambah terhadap waktu $t$ (jam) dengan fungsi $r(t) = 3t\\text{ meter}$. Luas luapan minyak dinyatakan oleh $A(r) = \\pi r^2$. Luas luapan minyak setelah $4\\text{ jam}$ adalah $\\dots$ (nyatakan dalam bentuk $\\pi$)",
+  "question_image": null,
+  "correct_answer": "$144\\pi\\text{ m}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.92
+   ],
+   [
+    "WOP-01",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "b8282a9cbe2a",
+  "image": "b8282a9cbe2a.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Ibu memiliki persediaan gula pasir di dapur sebanyak $3\\dfrac{1}{3}\\text{ kg}$. Ibu menggunakan $\\dfrac{3}{5}$ bagian dari seluruh gula pasir tersebut untuk membuat adonan kue bolu.\r\n\r\nBanyaknya gula pasir yang digunakan Ibu untuk membuat kue bolu adalah...",
+  "question_image": null,
+  "correct_answer": "$2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "FRA-06",
+    0.27
+   ],
+   [
+    "WOP-01",
+    0.16
+   ],
+   [
+    "FRA-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "91567bd5e3ed",
+  "image": "91567bd5e3ed.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Diketahui selisih antara tabungan Hana dengan tabungan Doni adalah Rp2.000.\n\nJika Doni menabung lebih sedikit dari Hana, dan jumlah tabungan Doni dan Citra adalah Rp12.000, maka total tabungan Citra adalah …",
+  "question_image": "q_91567bd5e3ed_1901a05c-f410-4f98-a292-708af1df5ce2.png",
+  "correct_answer": "Rp4.000",
+  "past_labels": [
+   [
+    "NONE",
+    0.53
+   ],
+   [
+    "WOP-01",
+    0.24
+   ],
+   [
+    "WOP-02",
+    0.11
+   ],
+   [
+    "VIS-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.02
+   ],
+   [
+    "RAT-02",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "f93b1296062a",
+  "image": "f93b1296062a.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Titik $A(a, b)$ dicerminkan terhadap garis $x = 2$, kemudian dilanjutkan dengan translasi oleh matriks $T = \\begin{pmatrix} -3 \\\\ 4 \\end{pmatrix}$. Jika koordinat bayangan akhir titik tersebut adalah $A''(1, 7)$, maka nilai dari $a + b$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.46
+   ],
+   [
+    "INT-04",
+    0.16
+   ],
+   [
+    "ALG-06",
+    0.15
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "5d688cc41eb4",
+  "image": "5d688cc41eb4.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{\\sqrt{20} - \\sqrt{15}}{\\sqrt{5} + \\sqrt{4}}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$10 - 4\\sqrt{5} - 5\\sqrt{3} + 2\\sqrt{15}$",
+  "past_labels": [
+   [
+    "FRA-04",
+    0.18
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "ALG-03",
+    0.16
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "EXP-07",
+    0.1
+   ],
+   [
+    "EXP-04",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "71df466c9c9c",
+  "image": "71df466c9c9c.jpeg",
+  "grade": 12,
+  "topic": "Probability of Compound Events",
+  "question": "Dari satu set kartu bridge lengkap (52 kartu) diambil satu kartu secara acak. Peluang terambilnya kartu bergambar Hati (Heart) atau kartu bergambar tokoh (King, Queen, Jack) adalah .... (nyatakan nilai dalam bentuk paling sederhana)",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{11}{26}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "PRO-04",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "PRO-02",
+    0.08
+   ],
+   [
+    "OTH-00",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "aa47bc98a703",
+  "image": "aa47bc98a703.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Panjang sisi - sisi suatu segitiga adalah (x+5)cm, (2x-1)cm, dan 11 cm. Besarnya nilai x sehingga segitiga itu adalah segitiga sama sisi ….",
+  "question_image": null,
+  "correct_answer": "6",
+  "past_labels": [
+   [
+    "ANG-02",
+    0.22
+   ],
+   [
+    "WOP-01",
+    0.12
+   ],
+   [
+    "ALG-04",
+    0.12
+   ],
+   [
+    "ALG-05",
+    0.09
+   ],
+   [
+    "NONE",
+    0.08
+   ],
+   [
+    "INT-04",
+    0.07
+   ]
+  ]
+ }
+]

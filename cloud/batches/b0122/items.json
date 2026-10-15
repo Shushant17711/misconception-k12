@@ -1,0 +1,282 @@
+[
+ {
+  "id": "dcce7f0a3a8d",
+  "image": "dcce7f0a3a8d.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk sederhana dari $\\sqrt[3]{\\dfrac{54}{64}}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{3}{4}\\sqrt[3]{2}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.38
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "OTH-00",
+    0.16
+   ],
+   [
+    "EXP-07",
+    0.13
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "4ff8f977d00a",
+  "image": "4ff8f977d00a.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk paling sederhana dari pecahan $\\frac{12}{\\sqrt{7} + \\sqrt{3}}$ adalah…",
+  "question_image": null,
+  "correct_answer": "$3(\\sqrt{7} - \\sqrt{3})$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.41
+   ],
+   [
+    "ALG-04",
+    0.23
+   ],
+   [
+    "EXP-07",
+    0.21
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "a1b879d25508",
+  "image": "a1b879d25508.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Sebuah mainan berbentuk balok memiliki panjang $20$ cm, lebarnya $5$ cm lebih pendek dari panjangnya dan tingginya $\\frac{1}{3}$ dari lebarnya. \n\nVolume mainan tersebut adalah . . . cm$^3$.",
+  "question_image": null,
+  "correct_answer": "1500",
+  "past_labels": [
+   [
+    "NONE",
+    0.64
+   ],
+   [
+    "VIS-01",
+    0.09
+   ],
+   [
+    "MEA-04",
+    0.07
+   ],
+   [
+    "MEA-03",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "25e0394b1301",
+  "image": "25e0394b1301.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Perhatikan persamaan linear berikut!\r\n\r\n$\\dfrac{3x - 1}{2} - \\dfrac{x + 3}{3} = x + 1$\r\n\r\nJika penyelesaian dari persamaan tersebut adalah $x$, maka nilai $2x - 5$ adalah...",
+  "question_image": null,
+  "correct_answer": "25",
+  "past_labels": [
+   [
+    "ALG-05",
+    0.37
+   ],
+   [
+    "ALG-04",
+    0.3
+   ],
+   [
+    "FRA-04",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "NONE",
+    0.03
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "82efa35f5253",
+  "image": "82efa35f5253.jpeg",
+  "grade": 10,
+  "topic": "Measures of Dispersion",
+  "question": "Nilai Kuartil Bawah $Q_1$ dari data adalah...",
+  "question_image": "q_82efa35f5253_8e42d7e8-213d-45ab-8e47-477f3dde87a0.png",
+  "correct_answer": "3,67",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "CAL-01",
+    0.2
+   ],
+   [
+    "STA-05",
+    0.07
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "STA-04",
+    0.05
+   ],
+   [
+    "FRM-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "5ffdeae8ec4c",
+  "image": "5ffdeae8ec4c.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Berat badan seekor kucing peliharaan tercatat 2,625 kg pada timbangan digital dokter hewan. Berat kucing jika dinyatakan sebagai pecahan campuran paling sederhana adalah…",
+  "question_image": null,
+  "correct_answer": "$2\\dfrac{5}{8}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "OTH-00",
+    0.23
+   ],
+   [
+    "Dec-02",
+    0.14
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "FRA-05",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "70d53d9d90ef",
+  "image": "70d53d9d90ef.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f(x) = 2x - 7$ dan $g(x) = 2x$, maka $(f \\circ g)^{-1}(x)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{x + 7}{4}$",
+  "past_labels": [
+   [
+    "INV-01",
+    0.3
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "FUN-01",
+    0.12
+   ],
+   [
+    "EXP-04",
+    0.07
+   ],
+   [
+    "RAT-02",
+    0.07
+   ],
+   [
+    "ALG-04",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "6483f6d76cba",
+  "image": "6483f6d76cba.jpeg",
+  "grade": 9,
+  "topic": "Application of Two-Variable Linear Equation Systems",
+  "question": "Di sebuah toko alat tulis, 2 buku tulis dan 4 pulpen seharga Rp17.000,00. Sedangkan 4 buku tulis dan 2 pulpen seharga Rp19.000,00. Jika harga sebuah buku tulis adalah x rupiah dan harga sebuah pulpen adalah y rupiah, maka harga masing - masing 1 buku tulis dan 1 pulpen adalah ....",
+  "question_image": null,
+  "correct_answer": "Rp3.500,00 & Rp2.500,00",
+  "past_labels": [
+   [
+    "NONE",
+    0.45
+   ],
+   [
+    "Dec-02",
+    0.3
+   ],
+   [
+    "SIM-01",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.05
+   ],
+   [
+    "WOP-02",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.0
+   ]
+  ]
+ }
+]

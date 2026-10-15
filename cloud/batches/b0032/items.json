@@ -1,0 +1,282 @@
+[
+ {
+  "id": "4e887573951c",
+  "image": "4e887573951c.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Sebuah botol berisi $\\dfrac{9}{10}$ liter air. Leo meminum $\\dfrac{2}{10}$ liter, lalu ia mengisi kembali botol tersebut sebanyak $\\dfrac{3}{10}$ liter. Berapa liter air yang ada di dalam botol sekarang?",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{10}{10}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.49
+   ],
+   [
+    "CAL-01",
+    0.21
+   ],
+   [
+    "FRA-06",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.07
+   ],
+   [
+    "FRA-01",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "bc04b5cf0de9",
+  "image": "bc04b5cf0de9.jpeg",
+  "grade": 6,
+  "topic": "Rational Number Operations",
+  "question": "Ibu sedang bersiap membuat kue kering. \n\nDi dalam wadah adonan, sudah terdapat tepung terigu sebanyak $\\frac{1}{2}$ kg. \n\nKarena merasa kurang, ibu menuangkan tepung lagi sebanyak $\\frac{2}{3}$ bagian dari isi kemasan plastik yang beratnya $\\frac{3}{4}$ kg. \n\nSetelah adonan selesai diaduk, ibu mengambil $\\frac{1}{5}$ kg adonan tersebut untuk digoreng menjadi bakwan. \n\nSisa tepung dalam wadah adonan ibu sekarang adalah . . . .",
+  "question_image": null,
+  "correct_answer": "$\\frac{4}{5} \\text{ kg}$",
+  "past_labels": [
+   [
+    "FRA-06",
+    0.43
+   ],
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "CAL-01",
+    0.07
+   ],
+   [
+    "FRA-03",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "0fc2f20f8608",
+  "image": "0fc2f20f8608.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Sebuah balok mainan memiliki ukuran panjang $2\\dfrac{2}{5}\\text{ meter}$, lebar $\\dfrac{13}{15}\\text{ meter}$, dan tinggi $\\dfrac{5}{13}\\text{ meter}$. Volume balok tersebut adalah $\\dots\\text{ m}^3$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{4}{5}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.38
+   ],
+   [
+    "FRA-06",
+    0.27
+   ],
+   [
+    "ANS-01",
+    0.1
+   ],
+   [
+    "CAL-01",
+    0.1
+   ],
+   [
+    "FRA-05",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "bf6ecaa7d76b",
+  "image": "bf6ecaa7d76b.jpeg",
+  "grade": 7,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Data pekerjaan orang tua dari 240 siswa di SMP CoLearn ditunjukkan oleh diagram lingkaran.\n\nBerapakah jumlah orang tua siswa yang bekerja sebagai petani? ",
+  "question_image": "q_bf6ecaa7d76b_ae31a63c-4403-4604-a0a1-2ffbb0f5b228.png",
+  "correct_answer": "10 orang",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "UNT-01",
+    0.27
+   ],
+   [
+    "VIS-01",
+    0.18
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "889eb4f559be",
+  "image": "889eb4f559be.jpeg",
+  "grade": 7,
+  "topic": "Introduction to LCM and GCD",
+  "question": "Lampu hias A menyala setiap 8 detik sekali, sedangkan lampu hias B menyala setiap 12 detik sekali. Kedua lampu tersebut menyala bersama-sama untuk pertama kalinya pada pukul 19.00. Hitunglah berapa kali kedua lampu tersebut akan menyala secara bersamaan dalam kurun waktu 2 menit setelah pukul 19.00!",
+  "question_image": null,
+  "correct_answer": "5",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.24
+   ],
+   [
+    "KPF-01",
+    0.22
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "KPF-02",
+    0.15
+   ],
+   [
+    "CAL-01",
+    0.11
+   ],
+   [
+    "KPF-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "ef76728fd13f",
+  "image": "ef76728fd13f.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Diketahui $f(x) = \\dfrac{ax + b}{2x - 5}, x \\neq \\dfrac{5}{2}$, dan $f^{-1}$ adalah invers dari $f$,\r\n\r\nJika $f^{-1}(x) = \\dfrac{5x - 3}{2x + 7}, x \\neq -\\dfrac{7}{2}$, maka nilai dari $a + b = \\dots$",
+  "question_image": null,
+  "correct_answer": "-10",
+  "past_labels": [
+   [
+    "INT-04",
+    0.34
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "INV-01",
+    0.17
+   ],
+   [
+    "ALG-06",
+    0.11
+   ],
+   [
+    "ALG-04",
+    0.06
+   ],
+   [
+    "NONE",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "9e3ed6785fd4",
+  "image": "9e3ed6785fd4.jpeg",
+  "grade": 9,
+  "topic": "Introduction to Three-Dimensional Shapes",
+  "question": "Perhatikan dua kegiatan berikut!\r\n(1) Melapisi permukaan luar sebuah globe (bola dunia) dengan lapisan pernis pelindung, \r\n(2) Mengisi balon berbentuk bola dengan udara hingga mengembang penuh.\r\n\r\nKedua kegiatan tersebut masing-masing berkaitan dengan konsep yang berbeda (luas permukaan dan volume). Meskipun begitu, unsur bola yang dibutuhkan untuk menghitung kedua konsep tersebut ternyata sama. Unsur yang dimaksud adalah... \r",
+  "question_image": null,
+  "correct_answer": "Jari-jari Bola",
+  "past_labels": [
+   [
+    "NONE",
+    0.74
+   ],
+   [
+    "FRM-01",
+    0.07
+   ],
+   [
+    "MEA-05",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.03
+   ],
+   [
+    "MEA-04",
+    0.03
+   ],
+   [
+    "MEA-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "62ab3687f0d5",
+  "image": "62ab3687f0d5.jpeg",
+  "grade": 7,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Diketahui luas permukaan suatu bola 1.256 $\\text{ cm}^2$.\n\nPanjang diameter bola tersebut adalah $\\dots \\text{ cm. }$ $(\\pi = 3,14)$",
+  "question_image": null,
+  "correct_answer": "20",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "MEA-04",
+    0.23
+   ],
+   [
+    "VIS-01",
+    0.14
+   ],
+   [
+    "FRM-01",
+    0.08
+   ],
+   [
+    "CAL-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ }
+]

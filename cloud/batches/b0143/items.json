@@ -1,0 +1,282 @@
+[
+ {
+  "id": "f97875afdbd7",
+  "image": "f97875afdbd7.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Berat badan seekor kucing peliharaan tercatat 2,625 kg pada timbangan digital dokter hewan. Berat kucing jika dinyatakan sebagai pecahan campuran paling sederhana adalah…",
+  "question_image": null,
+  "correct_answer": "$2\\dfrac{5}{8}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "OTH-00",
+    0.23
+   ],
+   [
+    "Dec-02",
+    0.14
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "FRA-05",
+    0.04
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "0ff8e6e96261",
+  "image": "0ff8e6e96261.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Dalam sebuah seleksi tim olimpiade sekolah yang diikuti oleh 60 siswa, terdapat dua bidang uji yaitu Matematika dan Fisika.\nData yang diperoleh adalah sebagai berikut:\n\n* Sebanyak 36 siswa dinyatakan lulus pada uji Matematika.\n* Peluang seorang siswa yang terpilih secara acak dinyatakan lulus pada kedua bidang uji tersebut adalah 0,2.\n* Peluang seorang siswa yang terpilih secara acak dinyatakan lulus uji Matematika atau Fisika adalah 0,8.\n\nBerapakah peluang seorang siswa yang terpilih secara acak dinyatakan lulus pada uji Fisika? ",
+  "question_image": null,
+  "correct_answer": "0,4",
+  "past_labels": [
+   [
+    "NONE",
+    0.43
+   ],
+   [
+    "FRM-01",
+    0.22
+   ],
+   [
+    "PRO-04",
+    0.11
+   ],
+   [
+    "CAL-01",
+    0.06
+   ],
+   [
+    "PRO-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "89b8dd8a8164",
+  "image": "89b8dd8a8164.jpeg",
+  "grade": 10,
+  "topic": "Rationalizing the Denominator",
+  "question": "Rasionalkan bentuk berikut ini: \r\n$\\dfrac{8}{\\sqrt[3]{a^2}}$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{8\\sqrt[3]{a}}{a}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.29
+   ],
+   [
+    "EXP-07",
+    0.22
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "FRM-01",
+    0.1
+   ],
+   [
+    "VIS-01",
+    0.1
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "ce22b523dab2",
+  "image": "ce22b523dab2.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Tentukan nilai logaritma berikut:\r\n$ \\dfrac{^4\\log 16 + {^{27}\\log 81}}{^2\\log \\dfrac{1}{8}} $",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{10}{9}$",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.26
+   ],
+   [
+    "LOG-02",
+    0.19
+   ],
+   [
+    "NONE",
+    0.17
+   ],
+   [
+    "OOO-01",
+    0.12
+   ],
+   [
+    "INT-02",
+    0.12
+   ],
+   [
+    "ALG-06",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "d15f8fff3f17",
+  "image": "d15f8fff3f17.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari hasil operasi hitung 25 - (-17) + (-34) - 12 adalah...",
+  "question_image": null,
+  "correct_answer": "-4",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "INT-03",
+    0.23
+   ],
+   [
+    "CAL-01",
+    0.13
+   ],
+   [
+    "OOO-01",
+    0.09
+   ],
+   [
+    "INT-04",
+    0.07
+   ],
+   [
+    "INT-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "3b94d632d429",
+  "image": "3b94d632d429.jpeg",
+  "grade": 4,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Dari diagram gambar di samping, selisih banyak buku pada toko buku Graha Media dan Media Ilmu adalah . . . .",
+  "question_image": "q_3b94d632d429_289b413e-1ced-441e-b325-cf0d26b7d9ed.png",
+  "correct_answer": "625 buku",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "VIS-01",
+    0.31
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "UNT-01",
+    0.02
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "b03bc6d5546a",
+  "image": "b03bc6d5546a.jpeg",
+  "grade": 11,
+  "topic": "Value and Form of a Function",
+  "question": "Diketahui fungsi rasional $f(x) = \\dfrac{2x^2-x-3}{x+1}$ untuk $x \\neq -1$. Jika nilai $f(a) = 5$, maka nilai dari $3a - 2$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "10",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.43
+   ],
+   [
+    "OOO-01",
+    0.17
+   ],
+   [
+    "EXP-03",
+    0.11
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "dd3d08bba6d3",
+  "image": "dd3d08bba6d3.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Sebuah gudang memiliki persediaan 85.000 kotak susu. Gudang tersebut menyalurkan bantuan susu ke Kecamatan A sebanyak 27.500 dan ke Kecamatan B sebanyak 34.850 kotak. Sisa susu yang ada di gudang tersebut adalah…",
+  "question_image": null,
+  "correct_answer": "22.650 kotak",
+  "past_labels": [
+   [
+    "OPS-01",
+    0.67
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "PV-01",
+    0.06
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "OPS-02",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ }
+]

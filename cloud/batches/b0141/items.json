@@ -1,0 +1,282 @@
+[
+ {
+  "id": "eb3cc9ba9850",
+  "image": "eb3cc9ba9850.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Paman tukang kayu memiliki sebuah balok kayu utuh dengan ukuran panjang 20 cm, lebar 15 cm, dan tinggi 10 cm.\n \nUntuk membuat sebuah hiasan, Paman melubangi bagian tengah balok kayu tersebut. \n\nLubang yang dibuat Paman berbentuk kubus dengan panjang rusuk 5 cm. \n\nVolume kayu Paman yang tersisa sekarang adalah . . . $\\text{cm}^3$",
+  "question_image": null,
+  "correct_answer": "2875",
+  "past_labels": [
+   [
+    "NONE",
+    0.37
+   ],
+   [
+    "UNT-01",
+    0.23
+   ],
+   [
+    "VIS-01",
+    0.11
+   ],
+   [
+    "MEA-04",
+    0.08
+   ],
+   [
+    "MEA-03",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "c67fd86dec37",
+  "image": "c67fd86dec37.jpeg",
+  "grade": 9,
+  "topic": "Applications of geometric sequences and series",
+  "question": "Seorang petani menanam $3$ tanaman pada minggu pertama.  \n\nSetiap minggu jumlah tanaman yang ditanam menjadi $3$ kali lipat dari minggu sebelumnya.  \n\nJika petani tersebut menanam selama $4$ minggu, jumlah seluruh tanaman yang telah ditanam adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "120",
+  "past_labels": [
+   [
+    "NONE",
+    0.91
+   ],
+   [
+    "WOP-01",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "92d5df362aae",
+  "image": "92d5df362aae.jpeg",
+  "grade": 9,
+  "topic": "Application of Two-Variable Linear Equation Systems",
+  "question": "Tujuh tahun yang lalu, jumlah umur seorang ayah dan anaknya adalah 46 tahun. Saat ini, selisih umur ayah dan anak tersebut adalah 24 tahun. Berapakah umur ayah 3 tahun yang akan datang?",
+  "question_image": null,
+  "correct_answer": "45",
+  "past_labels": [
+   [
+    "NONE",
+    0.65
+   ],
+   [
+    "ANS-01",
+    0.11
+   ],
+   [
+    "Dec-02",
+    0.11
+   ],
+   [
+    "WOP-02",
+    0.05
+   ],
+   [
+    "SIM-01",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "10a854219cfe",
+  "image": "10a854219cfe.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah tempat penyimpanan gabah (silo) berbentuk gabungan tabung dan kerucut di bagian atasnya. jari-jari alas tabung sekaligus jari-jari alas kerucut adalah 7 m, tinggi tabung 10 m, dan tinggi kerucut 24 m.\nSilo tersebut akan dilapisi cat pelindung pada seluruh permukaan luarnya, kecuali bagian alas tabung yang menempel ke tanah. Tentukan luas permukaan yang perlu dicat!\n",
+  "question_image": null,
+  "correct_answer": "$990\\text{ m}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "OTH-00",
+    0.15
+   ],
+   [
+    "UNT-01",
+    0.15
+   ],
+   [
+    "MEA-04",
+    0.13
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "FRM-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "7211ba517791",
+  "image": "7211ba517791.jpeg",
+  "grade": 6,
+  "topic": "Speed",
+  "question": "$50 \\text{ m/menit} = \\dots \\text{ km/jam}$",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "MEA-02",
+    0.5
+   ],
+   [
+    "Dec-02",
+    0.28
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "be1721a42c93",
+  "image": "be1721a42c93.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah benda padat (pejal) berbentuk bola sempurna dengan diameter $20\\text{ cm}$ dibelah menjadi dua bagian yang sama besar. Luas permukaan total dari satu belahan benda tersebut adalah $\\dots\\text{ cm}^2$.",
+  "question_image": null,
+  "correct_answer": "942",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "MEA-04",
+    0.18
+   ],
+   [
+    "VIS-01",
+    0.11
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "ede7fbea2a2b",
+  "image": "ede7fbea2a2b.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Logarithms",
+  "question": "Nilai dari $\\dfrac{^2\\log^2 32 - \\text{dari } {^2\\log^2 2}}{^2\\log 64}$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "4",
+  "past_labels": [
+   [
+    "LOG-02",
+    0.32
+   ],
+   [
+    "NONE",
+    0.19
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-02",
+    0.13
+   ],
+   [
+    "ALG-06",
+    0.05
+   ],
+   [
+    "EXP-06",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "51ec9942ed32",
+  "image": "51ec9942ed32.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Perhatikan persamaan linear berikut!\n\n$\\dfrac{3x - 1}{2} - \\dfrac{x + 3}{3} = x + 1$\n\nJika penyelesaian dari persamaan tersebut adalah $x$, maka nilai $2x - 5$ adalah...",
+  "question_image": null,
+  "correct_answer": "25",
+  "past_labels": [
+   [
+    "ALG-05",
+    0.37
+   ],
+   [
+    "ALG-04",
+    0.3
+   ],
+   [
+    "FRA-04",
+    0.09
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "NONE",
+    0.03
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ }
+]

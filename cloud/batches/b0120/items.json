@@ -1,0 +1,282 @@
+[
+ {
+  "id": "4dd2f8eb160d",
+  "image": "4dd2f8eb160d.jpeg",
+  "grade": 8,
+  "topic": "Operations of Exponents",
+  "question": "Sederhanakan bentuk aljabar berpangkat berikut menjadi bentuk pangkat positif: $\\dfrac{\\left(a^{-3} \\cdot b^2\\right)}{a^{-11} \\cdot b^4}$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{a^8}{b^2}$",
+  "past_labels": [
+   [
+    "INT-04",
+    0.29
+   ],
+   [
+    "EXP-02",
+    0.19
+   ],
+   [
+    "INT-03",
+    0.17
+   ],
+   [
+    "NONE",
+    0.1
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "e78cc742ecad",
+  "image": "e78cc742ecad.jpeg",
+  "grade": 8,
+  "topic": "Measures of Central Tendency",
+  "question": "Banyak buku yang dipinjam dari perpustakaan selama lima minggu berturut-turut adalah:\n\n$\\\n110,\\;130,\\;x,\\;160,\\;\\text{dan }180$\n\n\nJika rata-rata jumlah buku yang dipinjam selama lima minggu tersebut adalah $150$ buku, maka nilai $x$ adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "170",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "ALG-04",
+    0.22
+   ],
+   [
+    "STA-01",
+    0.14
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "eec8056d565f",
+  "image": "eec8056d565f.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Caca membeli satu kantong tepung terigu. Sebanyak $\\dfrac{4}{15}$ bagian digunakan untuk membuat mendoan dan $\\dfrac{6}{15}$ bagian digunakan untuk membuat bakwan. Total tepung terigu yang Caca gunakan adalah $\\ldots$ bagian",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{10}{15}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "WOP-01",
+    0.29
+   ],
+   [
+    "FRA-06",
+    0.09
+   ],
+   [
+    "FRA-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "13b7d1a85325",
+  "image": "13b7d1a85325.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Dalam rangka bakti sosial, seluruh siswa kelas 4 yang berjumlah 25 anak sepakat untuk mengumpulkan buku cerita bekas. Setiap anak membawa 2 ikat besar buku. Jika di dalam setiap ikat besar tersebut terdapat lagi 5 buah buku cerita, total seluruh buku cerita yang berhasil dikumpulkan oleh kelas tersebut untuk didonasikan adalah…",
+  "question_image": null,
+  "correct_answer": "250",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.39
+   ],
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "WOP-02",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "OPS-02",
+    0.03
+   ],
+   [
+    "OPS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "925dbca2c0a5",
+  "image": "925dbca2c0a5.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Sebuah permainan papan memiliki aturan perubahan skor sebagai berikut:\r\n* Petak Merah: Skor dikalikan dengan -2.\r\n* Petak Biru: Skor dibagi dengan -3.\r\nDika memulai permainan dengan skor -36. Dika berada di petak awal dan wajib melangkah tepat 2 kali. \r\n\r\nJika Dika melangkah ke petak biru, kemudian dilanjutkan ke petak merah, skor akhir yang diperoleh Dika adalah… ",
+  "question_image": null,
+  "correct_answer": "-24",
+  "past_labels": [
+   [
+    "INT-02",
+    0.44
+   ],
+   [
+    "NONE",
+    0.28
+   ],
+   [
+    "WOP-02",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.07
+   ],
+   [
+    "INT-04",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "86128e4626da",
+  "image": "86128e4626da.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{\\sqrt{20} - \\sqrt{15}}{\\sqrt{5} + \\sqrt{4}}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$10 - 4\\sqrt{5} - 5\\sqrt{3} + 2\\sqrt{15}$",
+  "past_labels": [
+   [
+    "FRA-04",
+    0.18
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "ALG-03",
+    0.16
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "EXP-07",
+    0.1
+   ],
+   [
+    "EXP-04",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "2c944e62d4dc",
+  "image": "2c944e62d4dc.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Ahmad, Budi, dan Cici menyusun kartu nilai tempat sehingga membentuk bilangan sebagai berikut: \r\n- Ahmad: 4 puluhan ribu, 5 ratusan, 2 ribuan, 8 satuan \r\n- Budi: 4 puluhan ribu, 2 ribuan, 5 puluhan, 8 satuan \r\n- Cici: 4 puluhan ribu, 5 ribuan, 2 ratusan, 8 puluhan \r\nUrutan bilangan dari yang terkecil sampai terbesar adalah milik… \r",
+  "question_image": null,
+  "correct_answer": "Budi, Ahmad, Cici",
+  "past_labels": [
+   [
+    "PV-01",
+    0.4
+   ],
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "OPS-01",
+    0.11
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "OPS-02",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "eeafd64120c1",
+  "image": "eeafd64120c1.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Sebuah toko online memberikan diskon member $15\\%$ dari harga awal, dilanjutkan potongan ongkir tetap $\\text{Rp}10.000$ dari total setelah diskon.\r\nNyatakan total harga akhir sebagai fungsi komposisi dari harga awal $x$.",
+  "question_image": null,
+  "correct_answer": "$H(x) = 0,85x - 10.000$",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "RAT-02",
+    0.28
+   ],
+   [
+    "WOP-02",
+    0.09
+   ],
+   [
+    "ANS-02",
+    0.09
+   ],
+   [
+    "FUN-01",
+    0.05
+   ],
+   [
+    "INV-01",
+    0.04
+   ]
+  ]
+ }
+]

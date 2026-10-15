@@ -1,0 +1,282 @@
+[
+ {
+  "id": "d1eb29e5f529",
+  "image": "d1eb29e5f529.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Sebuah lahan kosong memiliki luas terukur yang dinyatakan dengan desimal $0,48$ bagian dari total area. Saat diubah menjadi bentuk pecahan biasa paling sederhana $\\dfrac{p}{q}$, nilai pembilang $p$ dan penyebut $q$ dijadikan sebagai ukuran panjang dan lebar sebuah persegi panjang (dalam meter). Keliling persegi panjang tersebut adalah$\\dots\\text{ meter}$",
+  "question_image": null,
+  "correct_answer": "74",
+  "past_labels": [
+   [
+    "ANS-01",
+    0.2
+   ],
+   [
+    "Dec-02",
+    0.15
+   ],
+   [
+    "FRM-01",
+    0.12
+   ],
+   [
+    "FRA-04",
+    0.12
+   ],
+   [
+    "MEA-01",
+    0.12
+   ],
+   [
+    "NONE",
+    0.1
+   ]
+  ]
+ },
+ {
+  "id": "a083d7cd3b8d",
+  "image": "a083d7cd3b8d.jpeg",
+  "grade": 8,
+  "topic": "Angle",
+  "question": "Dua jalan, Jalan Mawar dan Jalan Melati, dibangun sejajar dengan arah barat–timur. \nSeorang kurir berjalan dari Jalan Mawar menuju Jalan Melati melalui sebuah titik belok di tengah (membentuk jalur zig-zag). \nDi titik belok itu, arah jalur membentuk sudut. \n\nJika jalur dari Jalan Mawar membentuk sudut 35° terhadap arah jalan, dan jalur menuju Jalan Melati membentuk sudut 48° terhadap arah jalan (pada sisi yang sama), maka besar sudut pada titik belok tersebut adalah ...",
+  "question_image": "q_a083d7cd3b8d_aa4cceb9-0714-4df8-951f-95d0effa41d0.png",
+  "correct_answer": "$83^{\\circ}$",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.57
+   ],
+   [
+    "ANS-02",
+    0.26
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "ALG-06",
+    0.06
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "af1bd44e902d",
+  "image": "af1bd44e902d.jpeg",
+  "grade": 5,
+  "topic": "Operations on Whole Numbers Up to 100,000",
+  "question": "Diketahui: \r\nY = 3.600 : 48 \r\nX = 63.750 : Y\r\n\r\nNilai yang tepat untuk menggantikan huruf X adalah…",
+  "question_image": null,
+  "correct_answer": "850",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "PV-01",
+    0.2
+   ],
+   [
+    "OPS-02",
+    0.16
+   ],
+   [
+    "OPS-01",
+    0.13
+   ],
+   [
+    "ANS-02",
+    0.03
+   ],
+   [
+    "ANS-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "8bc237be6243",
+  "image": "8bc237be6243.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Jika $f(x) = \\dfrac{1}{x - 4}$ dan $f^{-1}$ invers dari $f$, maka $f^{-1}(x) = 2$ untuk nilai $x$ sama dengan$\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{1}{2}$",
+  "past_labels": [
+   [
+    "INV-01",
+    0.52
+   ],
+   [
+    "ALG-06",
+    0.18
+   ],
+   [
+    "FUN-01",
+    0.12
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "ALG-04",
+    0.04
+   ],
+   [
+    "NONE",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "a8fc9d009d99",
+  "image": "a8fc9d009d99.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Dalam sebuah lomba lari, seorang pelari telah menempuh jarak $3\\dfrac{5}{8}$ dari total lintasan sepanjang $5\\text{ km}$. Panitia lomba mencatat progres pelari menggunakan alat GPS yang menampilkan jarak tempuh dalam bentuk desimal. Jarak tempuh yang ditampilkan alat GPS tersebut dalam bentuk desimal adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "3,625",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "WOP-02",
+    0.2
+   ],
+   [
+    "FRA-05",
+    0.13
+   ],
+   [
+    "OPS-02",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.07
+   ],
+   [
+    "Dec-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "7883dfc804a8",
+  "image": "7883dfc804a8.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Sebuah kardus besar berbentuk balok berukuran $40$ cm , $30$ cm , $20$ cm akan diisi dengan kotak-kotak kapur kecil berbentuk balok yang ukurannya $4 \\text{ cm} \\times 3 \\text{ cm} \\times 2 \\text{ cm}$. \n\nMaksimal banyak kotak kapur yang bisa masuk ke dalam kardus besar tersebut adalah . . . kotak.",
+  "question_image": null,
+  "correct_answer": "1000",
+  "past_labels": [
+   [
+    "NONE",
+    0.64
+   ],
+   [
+    "VIS-01",
+    0.09
+   ],
+   [
+    "MEA-04",
+    0.07
+   ],
+   [
+    "MEA-03",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "92444f0ec10c",
+  "image": "92444f0ec10c.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Exponents",
+  "question": "Jika $a^x = 8$ dan $a^y = 32$, dengan $a > 0$, tentukan nilai dari $a^{x+y}$.",
+  "question_image": null,
+  "correct_answer": "256",
+  "past_labels": [
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "OTH-00",
+    0.3
+   ],
+   [
+    "EXP-01",
+    0.26
+   ],
+   [
+    "EXP-04",
+    0.04
+   ],
+   [
+    "EXP-02",
+    0.04
+   ],
+   [
+    "FRA-03",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "6cce312ce4df",
+  "image": "6cce312ce4df.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari (−6) × 8 : (−4) × (−3) adalah…",
+  "question_image": null,
+  "correct_answer": "-36",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.59
+   ],
+   [
+    "NONE",
+    0.16
+   ],
+   [
+    "INT-02",
+    0.09
+   ],
+   [
+    "CAL-01",
+    0.08
+   ],
+   [
+    "INT-04",
+    0.04
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ }
+]

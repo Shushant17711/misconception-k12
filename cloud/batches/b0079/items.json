@@ -1,0 +1,282 @@
+[
+ {
+  "id": "9c2d161c2a4d",
+  "image": "9c2d161c2a4d.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Pak Budi mengolah lahan pertanian miliknya yang seluas $7\\dfrac{1}{2}$ hektar. Sebanyak $\\dfrac{8}{25}$ bagian dari total lahan tersebut ditanami tanaman jagung. Selanjutnya, dari area yang ditanami jagung tersebut, $\\dfrac{7}{9}$ bagian disemprot menggunakan pupuk cair organik. Luas lahan yang disemprot pupuk cair organik adalah...",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{13}{15}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.44
+   ],
+   [
+    "FRA-06",
+    0.16
+   ],
+   [
+    "OTH-00",
+    0.12
+   ],
+   [
+    "FRA-04",
+    0.12
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "FRA-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "5a24fad5f0a7",
+  "image": "5a24fad5f0a7.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Diketahui fungsi eksponen $f(x) = 3^{2x+1} - 5$.\r\nJika nilai fungsi di titik $x = a$ adalah $22$, maka nilai dari $f(a^2 - 2a)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$-\\dfrac{14}{3}$",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.27
+   ],
+   [
+    "EXP-02",
+    0.22
+   ],
+   [
+    "SEQ-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "c17036865c7b",
+  "image": "c17036865c7b.jpeg",
+  "grade": 9,
+  "topic": "Surface Area of a Geometric Solid",
+  "question": "Sebuah benda padat (pejal) berbentuk bola sempurna dengan diameter $20\\text{ cm}$ dibelah menjadi dua bagian yang sama besar. Luas permukaan total dari satu belahan benda tersebut adalah $\\dots\\text{ cm}^2$.",
+  "question_image": null,
+  "correct_answer": "942",
+  "past_labels": [
+   [
+    "NONE",
+    0.54
+   ],
+   [
+    "MEA-04",
+    0.18
+   ],
+   [
+    "VIS-01",
+    0.11
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "OTH-00",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "b5552115923a",
+  "image": "b5552115923a.jpeg",
+  "grade": 10,
+  "topic": "Operations of Exponents",
+  "question": "Diketahui $2^x = 5$. Tentukan nilai dari:\n$$\\dfrac{8^{x+1} + 4^{2x}}{2^{3x}}$$",
+  "question_image": null,
+  "correct_answer": "13",
+  "past_labels": [
+   [
+    "ALG-04",
+    0.28
+   ],
+   [
+    "NONE",
+    0.23
+   ],
+   [
+    "EXP-01",
+    0.14
+   ],
+   [
+    "EXP-02",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.05
+   ],
+   [
+    "INT-03",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "f189d362d93a",
+  "image": "f189d362d93a.jpeg",
+  "grade": 12,
+  "topic": "Introduction to Geometric Transformation",
+  "question": "Sebuah robot penyelamat mini berada pada koordinat awal A (-3,4) di dalam sebuah gedung reruntuhan yang dipetakan secara digital. Robot tersebut diperintahkan bergerak sejauh 6 satuan ke kanan (timur), lalu dilanjutkan 2 satuan ke bawah (selatan) hingga tiba di titik B. Dari titik B, pusat kendali mengaktifkan fitur otomatis yang mencerminkan posisi robot terhadap garis y = -x untuk menuju titik evakuasi C. Koordinat dari titik evakuasi C tersebut adalah...",
+  "question_image": null,
+  "correct_answer": "(-2,-3)",
+  "past_labels": [
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "FRM-01",
+    0.22
+   ],
+   [
+    "COR-01",
+    0.22
+   ],
+   [
+    "OTH-00",
+    0.06
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "ALG-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "6e0da799ba44",
+  "image": "6e0da799ba44.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Titik $A(a, b)$ dicerminkan terhadap garis $x = 2$, kemudian dilanjutkan dengan translasi oleh matriks $T = \\begin{pmatrix} -3 \\\\ 4 \\end{pmatrix}$. Jika koordinat bayangan akhir titik tersebut adalah $A''(1, 7)$, maka nilai dari $a + b$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "3",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.46
+   ],
+   [
+    "INT-04",
+    0.16
+   ],
+   [
+    "ALG-06",
+    0.15
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "96db6fecf21b",
+  "image": "96db6fecf21b.jpeg",
+  "grade": 10,
+  "topic": "Exponential Applications (Exponents)",
+  "question": "Seorang pasien disuntik obat sebanyak 200 mg. Setiap 4 jam, dosis obat di dalam tubuh pasien akan meluruh dan tersisa 50% dari dosis jam sebelumnya. Sisa obat yang ada di dalam tubuh pasien setelah 12 jam adalah...",
+  "question_image": null,
+  "correct_answer": "25 mg",
+  "past_labels": [
+   [
+    "NONE",
+    0.65
+   ],
+   [
+    "SEQ-01",
+    0.2
+   ],
+   [
+    "CAL-01",
+    0.06
+   ],
+   [
+    "Dec-02",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "968640759087",
+  "image": "968640759087.jpeg",
+  "grade": 7,
+  "topic": "Application of Integers",
+  "question": "Dalam sebuah sesi latihan selam, kedalaman posisi penyelam diukur dari permukaan air kolam yang ditetapkan sebagai titik nol. Posisi di atas permukaan air dinyatakan dengan bilangan positif, sedangkan kedalaman di bawah permukaan air dinyatakan dengan bilangan negatif.\n\nTiga penyelam mencatat posisi mereka sebagai berikut:\n* Penyelam A: Berada pada posisi 1 meter di bawah permukaan air.\n* Penyelam B: Berada pada posisi 5 meter di bawah permukaan air.\nSeorang penyelam ketiga, Penyelam C, berada di antara Penyelam A dan Penyelam B. Diketahui pula bahwa posisi Penyelam C tepat berada di tengah-tengah antara posisi Penyelam A dan Penyelam B pada garis bilangan. Bilangan bulat yang menunjukkan posisi penyelam C adalah…",
+  "question_image": null,
+  "correct_answer": "-3",
+  "past_labels": [
+   [
+    "NONE",
+    0.66
+   ],
+   [
+    "WOP-01",
+    0.12
+   ],
+   [
+    "INT-04",
+    0.12
+   ],
+   [
+    "INT-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ }
+]

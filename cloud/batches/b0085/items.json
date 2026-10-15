@@ -1,0 +1,282 @@
+[
+ {
+  "id": "f0b0a58a7e0a",
+  "image": "f0b0a58a7e0a.jpeg",
+  "grade": 6,
+  "topic": "Integer Value",
+  "question": "Empat buah kapal selam berada pada posisi kedalaman berikut.\n- Kapal W berada di 220m di bawah permukaan laut, lalu naik sejauh 70m.\n- Kapal X berada di 55m di bawah permukaan laut lalu turun lagi 25m.\n- Kapal Y berada di -210m dan tetap di posisi tersebut.\n- Kapal Z berada di 300m di bawah permukaan laut lalu naik 175m.\nKapal selam yang berada paling dekat dengan permukaan laut adalah . . . .",
+  "question_image": null,
+  "correct_answer": "Kapal X",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "INT-04",
+    0.32
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "82cd5e8773c4",
+  "image": "82cd5e8773c4.jpeg",
+  "grade": 11,
+  "topic": "Function Operations",
+  "question": "Diketahui $f(x) = x + 2$ dan $g(x) = x^2 - 4$. Tentukan bentuk paling sederhana dari $\\left(\\dfrac{g}{f}\\right)(x)$.",
+  "question_image": null,
+  "correct_answer": "$x - 2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.66
+   ],
+   [
+    "QUA-02",
+    0.2
+   ],
+   [
+    "FUN-01",
+    0.08
+   ],
+   [
+    "OOO-01",
+    0.04
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "791aee123acd",
+  "image": "791aee123acd.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Tentukan hasil dari operasi hitung berikut dalam bentuk pecahan campuran\n\n$$ \\dfrac{3}{4} + \\dfrac{1}{2} : \\dfrac{2}{3} = $$",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{1}{2}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "FRA-01",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.12
+   ],
+   [
+    "CAL-01",
+    0.12
+   ],
+   [
+    "FRA-06",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "e153c8381e23",
+  "image": "e153c8381e23.jpeg",
+  "grade": 7,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Diagram lingkaran menunjukkan hobi dari 120 siswa kelas 7. \n\nJika 6 siswa yang hobi Sepak Bola pindah hobi ke Musik, berapakah persentase baru untuk siswa yang hobi Musik?",
+  "question_image": "q_e153c8381e23_ed39a567-e549-4515-9dd8-8f18e9cc0d39.png",
+  "correct_answer": "20%",
+  "past_labels": [
+   [
+    "NONE",
+    0.61
+   ],
+   [
+    "UNT-01",
+    0.17
+   ],
+   [
+    "VIS-01",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "RAT-02",
+    0.02
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "786d32986fb8",
+  "image": "786d32986fb8.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{\\sqrt{20} - \\sqrt{15}}{\\sqrt{5} + \\sqrt{4}}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$10 - 4\\sqrt{5} - 5\\sqrt{3} + 2\\sqrt{15}$",
+  "past_labels": [
+   [
+    "FRA-04",
+    0.18
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "ALG-03",
+    0.16
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "EXP-07",
+    0.1
+   ],
+   [
+    "EXP-04",
+    0.07
+   ]
+  ]
+ },
+ {
+  "id": "1fe52a8ec576",
+  "image": "1fe52a8ec576.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "Sebuah laboratorium mengukur kadar zat besi dalam sampel tanah menggunakan komputer. Layar komputer menampilkan hasil analisis dalam bentuk nilai tempat desimal, yaitu: 2 persepuluhan, 2 perseratusan, dan  5 perseribu. Peneliti harus mencatat kadar zat besi tersebut ke dalam laporan dalam bentuk pecahan biasa paling sederhana. Bentuk pecahan biasa paling sederhana yang harus dicatat oleh peneliti adalah...",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{9}{40}$",
+  "past_labels": [
+   [
+    "Dec-02",
+    0.23
+   ],
+   [
+    "CAL-01",
+    0.22
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.13
+   ],
+   [
+    "FRA-05",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "fed87526cc2f",
+  "image": "fed87526cc2f.jpeg",
+  "grade": 11,
+  "topic": "Function Composition",
+  "question": "Diketahui $f : x \\to x + 2$ dan $h : x \\to x^2 - 2$.\r\nJika $(f \\circ g \\circ h)(x) = 2x^2 + 4$, maka $(h^{-1} \\circ g^{-1} \\circ f^{-1})(x)$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\sqrt{\\dfrac{x - 4}{2}}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.26
+   ],
+   [
+    "NONE",
+    0.21
+   ],
+   [
+    "FUN-01",
+    0.18
+   ],
+   [
+    "INV-01",
+    0.17
+   ],
+   [
+    "RAT-02",
+    0.04
+   ],
+   [
+    "ALG-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "c438ceeed8e3",
+  "image": "c438ceeed8e3.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Nara membeli pita merah sepanjang 18 meter, pita biru sepanjang 24 meter, dan pita kuning sepanjang 30 meter. Nara ingin mengetahui panjang paling kecil yang merupakan kelipatan ketiga panjang pita tersebut…",
+  "question_image": null,
+  "correct_answer": "360",
+  "past_labels": [
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "CAL-01",
+    0.18
+   ],
+   [
+    "ANS-01",
+    0.14
+   ],
+   [
+    "KPF-01",
+    0.14
+   ],
+   [
+    "KPF-03",
+    0.14
+   ],
+   [
+    "KPF-04",
+    0.06
+   ]
+  ]
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": "d488286c1a8a",
+  "image": "d488286c1a8a.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Seorang teknisi mencatat suhu sebuah mesin pendingin turun secara tetap 4 °C setiap 5 menit. Suhu awal mesin 18 °C. Mesin akan otomatis berhenti saat suhu mencapai −30 °C atau lebih rendah. \n\nWaktu paling singkat yang diperlukan hingga mesin berhenti otomatis adalah… ",
+  "question_image": null,
+  "correct_answer": "60 menit",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "INT-04",
+    0.27
+   ],
+   [
+    "OOO-01",
+    0.13
+   ],
+   [
+    "INT-02",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "WOP-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "c47aee362bf8",
+  "image": "c47aee362bf8.jpeg",
+  "grade": 10,
+  "topic": "Exponential Function",
+  "question": "Diketahui fungsi $h(x) = 2 \\cdot 5^{x-1}$.\r\nJika nilai $h(p) = 50$ dan $h(q) = 250$, hitunglah nilai dari $h(p + q - 2)$.",
+  "question_image": null,
+  "correct_answer": "1250",
+  "past_labels": [
+   [
+    "FUN-01",
+    0.32
+   ],
+   [
+    "SEQ-01",
+    0.18
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "OTH-00",
+    0.06
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "INT-03",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "75d8b43851c4",
+  "image": "75d8b43851c4.jpeg",
+  "grade": 6,
+  "topic": "Comparison of Fractions",
+  "question": "Diberikan empat buah bilangan desimal sebagai berikut:\n0,375 ; 0,335 ; 0,308 ; 0,35\nTanda yang tepat untuk mengurutkan keempat bilangan tersebut dari nilai yang terbesar ke terkecil adalah ...\n",
+  "question_image": null,
+  "correct_answer": "0,375 > 0,35 > 0,335 > 0,308",
+  "past_labels": [
+   [
+    "Dec-01",
+    0.56
+   ],
+   [
+    "Dec-02",
+    0.28
+   ],
+   [
+    "NONE",
+    0.04
+   ],
+   [
+    "ANS-01",
+    0.03
+   ],
+   [
+    "VIS-01",
+    0.03
+   ],
+   [
+    "PV-01",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "3597940d6bef",
+  "image": "3597940d6bef.jpeg",
+  "grade": 5,
+  "topic": "Volume of a Geometric Shape",
+  "question": "Volume gabungan bangun ruang seperti gambar di samping adalah . . . $\\text{cm}^3$",
+  "question_image": "q_3597940d6bef_ef650de8-cd47-4936-8684-655d5100e9aa.png",
+  "correct_answer": "1152",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "CAL-01",
+    0.19
+   ],
+   [
+    "VIS-01",
+    0.09
+   ],
+   [
+    "MEA-04",
+    0.07
+   ],
+   [
+    "MEA-03",
+    0.07
+   ],
+   [
+    "WOP-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "2cc58177dddc",
+  "image": "2cc58177dddc.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Ibu memiliki persediaan gula sebanyak $1\\dfrac{1}{2}\\text{ kg}$. Sebanyak $0{,}5\\text{ kg}$ gula tersebut digunakan untuk membuat kue. Kemudian, Ibu membeli lagi gula sebanyak $\\dfrac{3}{4}\\text{ kg}$. Berat persediaan gula Ibu sekarang jika dinyatakan dalam bentuk desimal adalah $\\dots\\text{ kg}$",
+  "question_image": null,
+  "correct_answer": "1,75",
+  "past_labels": [
+   [
+    "NONE",
+    0.69
+   ],
+   [
+    "OPS-02",
+    0.1
+   ],
+   [
+    "FRA-06",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "FRA-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "cd939d7b849c",
+  "image": "cd939d7b849c.jpeg",
+  "grade": 12,
+  "topic": "Composition of Geometric Transformation",
+  "question": "Sebuah titik $P(x, y)$ dicerminkan terhadap garis $y = -2$, kemudian dilanjutkan dengan rotasi sebesar $90^\\circ$ berlawanan arah jarum jam dengan pusat $O(0, 0)$. Jika koordinat bayangan akhir titik tersebut adalah $P''(4, 3)$, maka koordinat titik asal $P$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "(3,0)",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.46
+   ],
+   [
+    "OTH-00",
+    0.18
+   ],
+   [
+    "COR-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "INT-04",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "b4fa6189a2d9",
+  "image": "b4fa6189a2d9.jpeg",
+  "grade": 8,
+  "topic": "Probability of Compound Events",
+  "question": "Sebuah dadu dan sebuah koin dilempar bersama-sama. \nPeluang munculnya **mata dadu faktor dari 6 dan sisi angka pada koin** adalah...",
+  "question_image": null,
+  "correct_answer": "$\\frac{1}{3}$",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.33
+   ],
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "FRM-01",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.07
+   ],
+   [
+    "PRO-02",
+    0.07
+   ],
+   [
+    "OTH-00",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "6b40d3937edc",
+  "image": "6b40d3937edc.jpeg",
+  "grade": 6,
+  "topic": "Fraction Conversion",
+  "question": "$2,45 - 1\\dfrac{1}{4}$\nHasil dari operasi hitung di atas dalam bentuk pecahan biasa yang paling sederhana adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{6}{5}$",
+  "past_labels": [
+   [
+    "Dec-02",
+    0.23
+   ],
+   [
+    "INT-04",
+    0.18
+   ],
+   [
+    "NONE",
+    0.15
+   ],
+   [
+    "ANS-01",
+    0.13
+   ],
+   [
+    "FRA-05",
+    0.07
+   ],
+   [
+    "CAL-01",
+    0.05
+   ]
+  ]
+ }
+]

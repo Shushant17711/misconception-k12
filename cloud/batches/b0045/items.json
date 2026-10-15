@@ -1,0 +1,282 @@
+[
+ {
+  "id": "648446edb28d",
+  "image": "648446edb28d.jpeg",
+  "grade": 8,
+  "topic": "Measures of Central Tendency",
+  "question": "Rata-rata nilai pada tabel tersebut adalah 7.\n\nNilai a adalah …",
+  "question_image": "q_648446edb28d_b19b9a1f-0db8-4ed2-b16b-9d6ee88cdf14.png",
+  "correct_answer": "25",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "ALG-05",
+    0.22
+   ],
+   [
+    "STA-01",
+    0.14
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "VIS-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "c55b19ded817",
+  "image": "c55b19ded817.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Caca les matematika setiap 12 hari sekali, Nara les matematika 18 hari sekali dan Leo les matematika setiap 20 hari sekali. Jika hari ini mereka pergi les bersama-sama untuk pertama kalinya, berapa hari lagi mereka akan pergi les bersama-sama untuk ketiga kalinya…",
+  "question_image": null,
+  "correct_answer": "360 hari",
+  "past_labels": [
+   [
+    "KPF-02",
+    0.6
+   ],
+   [
+    "ANS-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "KPF-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "172db804e6cd",
+  "image": "172db804e6cd.jpeg",
+  "grade": 12,
+  "topic": "Counting Rules",
+  "question": "Diberikan himpunan angka {1, 2, 3, 4, 5, 6, 7}. Dari angka-angka tersebut, akan disusun bilangan ganjil yang terdiri dari 4 angka berbeda. Banyak susunan bilangan ganjil yang dapat terbentuk adalah...",
+  "question_image": null,
+  "correct_answer": "480",
+  "past_labels": [
+   [
+    "OTH-00",
+    0.33
+   ],
+   [
+    "NONE",
+    0.27
+   ],
+   [
+    "PRO-04",
+    0.25
+   ],
+   [
+    "FRM-01",
+    0.14
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "e7ff0cdecdb3",
+  "image": "e7ff0cdecdb3.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari:\n$100 - 60 : 10 \\times ( -3 ) = $. . .",
+  "question_image": null,
+  "correct_answer": "118",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.62
+   ],
+   [
+    "NONE",
+    0.12
+   ],
+   [
+    "INT-03",
+    0.1
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "625aa1fe4fbf",
+  "image": "625aa1fe4fbf.jpeg",
+  "grade": 7,
+  "topic": "Application of Integers",
+  "question": "Dalam sebuah sesi latihan selam, kedalaman posisi penyelam diukur dari permukaan air kolam yang ditetapkan sebagai titik nol. Posisi di atas permukaan air dinyatakan dengan bilangan positif, sedangkan kedalaman di bawah permukaan air dinyatakan dengan bilangan negatif.\n\nTiga penyelam mencatat posisi mereka sebagai berikut:\n* Penyelam A: Berada pada posisi 1 meter di bawah permukaan air.\n* Penyelam B: Berada pada posisi 5 meter di bawah permukaan air.\nSeorang penyelam ketiga, Penyelam C, berada di antara Penyelam A dan Penyelam B. Diketahui pula bahwa posisi Penyelam C tepat berada di tengah-tengah antara posisi Penyelam A dan Penyelam B pada garis bilangan. Bilangan bulat yang menunjukkan posisi penyelam C adalah…",
+  "question_image": null,
+  "correct_answer": "-3",
+  "past_labels": [
+   [
+    "NONE",
+    0.66
+   ],
+   [
+    "WOP-01",
+    0.12
+   ],
+   [
+    "INT-04",
+    0.12
+   ],
+   [
+    "INT-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "9f3a1a03ecf4",
+  "image": "9f3a1a03ecf4.jpeg",
+  "grade": 12,
+  "topic": "Introduction to Geometric Transformation",
+  "question": "Sebuah transformasi geometri pada bidang Kartesius diwakili oleh matriks transformasi $M = \\begin{bmatrix} 0 & -1 \\\\ 1 & 0 \\end{bmatrix}$. Jenis transformasi yang direpresentasikan oleh matriks tersebut adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "Rotasi 90° berlawanan arah jarum jam dengan pusat O (0,0)",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.39
+   ],
+   [
+    "NONE",
+    0.35
+   ],
+   [
+    "OTH-00",
+    0.06
+   ],
+   [
+    "INT-04",
+    0.06
+   ],
+   [
+    "ALG-04",
+    0.06
+   ],
+   [
+    "COR-01",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "c4852d013733",
+  "image": "c4852d013733.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Sebuah minimarket memiliki program poin hadiah bagi para anggotanya. Setiap belanja kelipatan 10.000,00, anggota mendapat tambahan 5 poin. Jika anggota mengembalikan barang yang rusak (retur), poin dipotong sebesar 8 poin per item barang. Seorang anggota bernama Ani memiliki saldo awal 120 poin. Dalam minggu ini, Ani berbelanja total senilai Rp180.000,00, namun ia mengembalikan 3 item barang yang rusak. Di akhir minggu, Ani menukarkan 65 poin miliknya dengan sebuah cangkir souvenir. Maka sisa poin Ani sekarang adalah…",
+  "question_image": null,
+  "correct_answer": "121",
+  "past_labels": [
+   [
+    "NONE",
+    0.34
+   ],
+   [
+    "WOP-01",
+    0.16
+   ],
+   [
+    "CAL-01",
+    0.16
+   ],
+   [
+    "OOO-01",
+    0.11
+   ],
+   [
+    "INT-04",
+    0.09
+   ],
+   [
+    "INT-02",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "bcd77248950f",
+  "image": "bcd77248950f.jpeg",
+  "grade": 7,
+  "topic": "Angle",
+  "question": "Jika besar  α = (3x + 10)°  dan β = (2x + 40)°, maka nilai x adalah... ",
+  "question_image": "q_bcd77248950f_4d5a3273-e3d1-4e97-bbd1-0bc354a36cef.png",
+  "correct_answer": "30",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.76
+   ],
+   [
+    "ANS-02",
+    0.1
+   ],
+   [
+    "ALG-06",
+    0.1
+   ],
+   [
+    "NONE",
+    0.03
+   ],
+   [
+    "ALG-05",
+    0.01
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ }
+]

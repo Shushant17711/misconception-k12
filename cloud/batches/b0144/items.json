@@ -1,0 +1,282 @@
+[
+ {
+  "id": "bc79e74cdc95",
+  "image": "bc79e74cdc95.jpeg",
+  "grade": 8,
+  "topic": "Probability of an Event",
+  "question": "Sebuah dadu dilempar sebanyak 40 kali. \nHasil yang tercatat: mata 1 muncul 7 kali, mata 2 muncul 6 kali, mata 3 muncul 5 kali, mata 4 muncul 8 kali, dan mata 5 muncul 6 kali. \n\nPeluang empirik munculnya mata dadu 6 adalah ...",
+  "question_image": null,
+  "correct_answer": "$\\frac{1}{5}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.34
+   ],
+   [
+    "ANS-02",
+    0.25
+   ],
+   [
+    "PRO-04",
+    0.19
+   ],
+   [
+    "FRM-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.05
+   ],
+   [
+    "ANS-01",
+    0.05
+   ]
+  ]
+ },
+ {
+  "id": "104c000528e2",
+  "image": "104c000528e2.jpeg",
+  "grade": 6,
+  "topic": "Integer Value",
+  "question": "Empat kota di dunia memiliki suhu udara sebagai berikut.\n- Kota A memiliki suhu $5^{\\circ}$C di bawah nol.\n- Kota B memiliki $2^{\\circ}$C di atas nol.\n- Kota C memiliki suhu $7^{\\circ}$C lebih dingin dari Kota A. \n- Kota D memiliki suhu $5^{\\circ}$C lebih hangat dari kota B.\nUrutan kota dari yang memiliki suhu paling dingin ke yang paling hangat adalah . . .",
+  "question_image": null,
+  "correct_answer": "Kota C, Kota A, Kota B, Kota D",
+  "past_labels": [
+   [
+    "NONE",
+    0.84
+   ],
+   [
+    "INT-04",
+    0.1
+   ],
+   [
+    "FRM-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "4e98c23c5476",
+  "image": "4e98c23c5476.jpeg",
+  "grade": 7,
+  "topic": "Angle",
+  "question": "Besar sudut δ = (5x + 5)° dan ε = (2x + 35)°. \nNilai dari besar sudut yang berpelurus dengan sudut δ adalah ... ",
+  "question_image": "q_4e98c23c5476_605c4341-7c5b-4bd6-971f-e6610d549ee5.png",
+  "correct_answer": "75°\n",
+  "past_labels": [
+   [
+    "ANG-01",
+    0.77
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "ANS-02",
+    0.06
+   ],
+   [
+    "ALG-06",
+    0.06
+   ],
+   [
+    "ALG-05",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "385d1cf62650",
+  "image": "385d1cf62650.jpeg",
+  "grade": 7,
+  "topic": "Operations on Integers",
+  "question": "Hasil dari operasi hitung -24 + 72 : (-6) x 3 - (-15) adalah…",
+  "question_image": null,
+  "correct_answer": "-45",
+  "past_labels": [
+   [
+    "OOO-01",
+    0.35
+   ],
+   [
+    "NONE",
+    0.3
+   ],
+   [
+    "INT-04",
+    0.24
+   ],
+   [
+    "INT-02",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.01
+   ],
+   [
+    "WOP-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "f19e6839157d",
+  "image": "f19e6839157d.jpeg",
+  "grade": 7,
+  "topic": "Measures of Dispersion",
+  "question": "Data nilai ujian matematika 5 siswa adalah: \n70, 85, 80, 75, 90. \n\nJika setiap nilai tersebut dikalikan 2 lalu dikurangi 10, berapakah jangkauan data yang baru?",
+  "question_image": null,
+  "correct_answer": "40",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "STA-05",
+    0.11
+   ],
+   [
+    "VIS-01",
+    0.1
+   ],
+   [
+    "STA-04",
+    0.07
+   ],
+   [
+    "FRM-01",
+    0.06
+   ],
+   [
+    "CAL-01",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "270ef9ca6222",
+  "image": "270ef9ca6222.jpeg",
+  "grade": 5,
+  "topic": "Applications of LCM and GCD",
+  "question": "Caca les matematika setiap 12 hari sekali, Nara les matematika 18 hari sekali dan Leo les matematika setiap 20 hari sekali. Jika hari ini mereka pergi les bersama-sama untuk pertama kalinya, berapa hari lagi mereka akan pergi les bersama-sama untuk ketiga kalinya…",
+  "question_image": null,
+  "correct_answer": "360 hari",
+  "past_labels": [
+   [
+    "KPF-02",
+    0.6
+   ],
+   [
+    "ANS-01",
+    0.15
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "KPF-01",
+    0.05
+   ],
+   [
+    "CAL-01",
+    0.03
+   ],
+   [
+    "FRM-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "314efb5508cb",
+  "image": "314efb5508cb.jpeg",
+  "grade": 11,
+  "topic": "Residuals",
+  "question": "Diberikan persamaan garis regresi untuk memprediksi nilai ujian siswa berdasarkan lama waktu belajar (dalam jam) adalah $\\hat{y} = 5x + 50$.\n\nSeorang siswa bernama Budi belajar selama 4 jam dan mendapatkan nilai ujian asli sebesar 80.\n\nBerapakah nilai kuadrat residu dari data observasi milik Budi tersebut?",
+  "question_image": null,
+  "correct_answer": "100",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.43
+   ],
+   [
+    "NONE",
+    0.31
+   ],
+   [
+    "EXP-01",
+    0.21
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ],
+   [
+    "ANS-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "8fdaf306febb",
+  "image": "8fdaf306febb.jpeg",
+  "grade": 12,
+  "topic": "Introduction to Geometric Transformation",
+  "question": "Persamaan bayangan dari garis 2x - y + 4 = 0 oleh dilatasi dengan pusat P(1, 2) dan faktor skala 2 adalah...",
+  "question_image": null,
+  "correct_answer": "2x - y + 8 =0",
+  "past_labels": [
+   [
+    "FRM-01",
+    0.29
+   ],
+   [
+    "OTH-00",
+    0.17
+   ],
+   [
+    "INT-04",
+    0.17
+   ],
+   [
+    "ALG-04",
+    0.17
+   ],
+   [
+    "NONE",
+    0.14
+   ],
+   [
+    "COR-01",
+    0.04
+   ]
+  ]
+ }
+]

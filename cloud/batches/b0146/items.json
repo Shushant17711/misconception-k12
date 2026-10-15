@@ -1,0 +1,282 @@
+[
+ {
+  "id": "8b1867cd5f24",
+  "image": "8b1867cd5f24.jpeg",
+  "grade": 9,
+  "topic": "Area of Flat Shapes",
+  "question": "Luas bangun di samping adalah ….",
+  "question_image": "q_8b1867cd5f24_edb27b6a-6ce3-47c3-a048-24704d90dd3e.png",
+  "correct_answer": "$120\\ \\text{cm}^2$",
+  "past_labels": [
+   [
+    "NONE",
+    0.46
+   ],
+   [
+    "VIS-01",
+    0.38
+   ],
+   [
+    "ANS-01",
+    0.06
+   ],
+   [
+    "MEA-04",
+    0.06
+   ],
+   [
+    "WOP-01",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "bc72fe2429a2",
+  "image": "bc72fe2429a2.jpeg",
+  "grade": 9,
+  "topic": "Linear Equation in One Variable",
+  "question": "Jika $3(2x - 5) + 4 = 5(x + 3) - 2$ mempunyai penyelesaian $x = p$, maka nilai $4p + 7$ adalah $\\dots$",
+  "question_image": null,
+  "correct_answer": "103",
+  "past_labels": [
+   [
+    "ALG-04",
+    0.27
+   ],
+   [
+    "OPS-01",
+    0.19
+   ],
+   [
+    "WOP-01",
+    0.1
+   ],
+   [
+    "ALG-05",
+    0.08
+   ],
+   [
+    "NONE",
+    0.07
+   ],
+   [
+    "INT-04",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "dd9182fa9ce9",
+  "image": "dd9182fa9ce9.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Ibu Guru memiliki 36 buah pensil. Pensil-pensil tersebut akan dibagikan ke dalam beberapa kotak pensil (lebih dari satu) sehingga setiap kotak berisi pensil dalam jumlah yang sama banyak tanpa ada pensil yang tersisa. Kemungkinan banyaknya kotak pensil yang dapat dibuat oleh Ibu Guru…Kotak",
+  "question_image": null,
+  "correct_answer": "2, 3, 4, 6, 9, 12, 18, atau 36",
+  "past_labels": [
+   [
+    "NONE",
+    0.36
+   ],
+   [
+    "ANS-01",
+    0.29
+   ],
+   [
+    "KPF-04",
+    0.13
+   ],
+   [
+    "WOP-02",
+    0.08
+   ],
+   [
+    "WOP-01",
+    0.06
+   ],
+   [
+    "OPS-02",
+    0.03
+   ]
+  ]
+ },
+ {
+  "id": "0ddc2cb31a1d",
+  "image": "0ddc2cb31a1d.jpeg",
+  "grade": 7,
+  "topic": "Application of Integers",
+  "question": "Di sebuah kompleks perumahan yang jalannya berbentuk garis lurus, posisi rumah-rumah diukur berdasarkan jaraknya dari pos satpam. Pos satpam ditetapkan sebagai titik nol. Rumah yang berada di sebelah kanan pos satpam dinyatakan dengan bilangan positif, sedangkan di sebelah kiri dinyatakan dengan bilangan negatif.  \n\nDiketahui informasi posisi rumah sebagai berikut:\n1. Rumah Adi berada tepat di titik (-3)\n2. Rumah Beni berada di sebelah kanan rumah Adi sejauh 5 rumah.\n3. Rumah Cici berada di sebelah kiri rumah Beni sejauh 4 rumah.\nBerdasarkan informasi di atas, bilangan bulat yang tepat untuk menyatakan posisi rumah Cici dari pos satpam adalah...",
+  "question_image": null,
+  "correct_answer": "-2",
+  "past_labels": [
+   [
+    "WOP-01",
+    0.46
+   ],
+   [
+    "NONE",
+    0.32
+   ],
+   [
+    "INT-04",
+    0.12
+   ],
+   [
+    "INT-01",
+    0.06
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "870f101a356c",
+  "image": "870f101a356c.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Ibu memiliki persediaan gula sebanyak $1\\dfrac{1}{2}\\text{ kg}$. Sebanyak $0{,}5\\text{ kg}$ gula tersebut digunakan untuk membuat kue. Kemudian, Ibu membeli lagi gula sebanyak $\\dfrac{3}{4}\\text{ kg}$. Berat persediaan gula Ibu sekarang jika dinyatakan dalam bentuk desimal adalah $\\dots\\text{ kg}$",
+  "question_image": null,
+  "correct_answer": "1,75",
+  "past_labels": [
+   [
+    "NONE",
+    0.69
+   ],
+   [
+    "OPS-02",
+    0.1
+   ],
+   [
+    "FRA-06",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.04
+   ],
+   [
+    "FRA-01",
+    0.03
+   ],
+   [
+    "CAL-01",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "6e2c1c9038bd",
+  "image": "6e2c1c9038bd.jpeg",
+  "grade": 11,
+  "topic": "Inverse Function",
+  "question": "Diketahui $f(x) = \\dfrac{ax + b}{2x - 5}, x \\neq \\dfrac{5}{2}$, dan $f^{-1}$ adalah invers dari $f$,\n\nJika $f^{-1}(x) = \\dfrac{5x - 3}{2x + 7}, x \\neq -\\dfrac{7}{2}$, maka nilai dari $a + b = \\dots$",
+  "question_image": null,
+  "correct_answer": "-10",
+  "past_labels": [
+   [
+    "INT-04",
+    0.34
+   ],
+   [
+    "FRM-01",
+    0.17
+   ],
+   [
+    "INV-01",
+    0.17
+   ],
+   [
+    "ALG-06",
+    0.11
+   ],
+   [
+    "ALG-04",
+    0.06
+   ],
+   [
+    "NONE",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "9b2090242ca2",
+  "image": "9b2090242ca2.jpeg",
+  "grade": 4,
+  "topic": "Whole Number Operations up to 10,000",
+  "question": "Faktor dari 24 yang merupakan bilangan ganjil adalah…",
+  "question_image": null,
+  "correct_answer": "1 dan 3",
+  "past_labels": [
+   [
+    "NONE",
+    0.47
+   ],
+   [
+    "WOP-02",
+    0.16
+   ],
+   [
+    "WOP-01",
+    0.13
+   ],
+   [
+    "ANS-01",
+    0.09
+   ],
+   [
+    "OPS-02",
+    0.06
+   ],
+   [
+    "OPS-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "3b91a47dff7f",
+  "image": "3b91a47dff7f.jpeg",
+  "grade": 12,
+  "topic": "Counting Rules",
+  "question": "Sebuah bank membuat kode PIN transaksi ATM yang terdiri dari 6 digit angka, nol tidak termasuk. Manajemen bank menetapkan aturan keamanan bahwa angka pertama dan angka terakhir pada PIN tersebut harus merupakan bilangan genap, dan angka boleh berulang pada posisi mana pun. Banyaknya variasi kode PIN yang dapat dibentuk adalah...",
+  "question_image": null,
+  "correct_answer": "104.976",
+  "past_labels": [
+   [
+    "PRO-04",
+    0.43
+   ],
+   [
+    "OTH-00",
+    0.28
+   ],
+   [
+    "FRM-01",
+    0.18
+   ],
+   [
+    "NONE",
+    0.09
+   ],
+   [
+    "ANS-01",
+    0.0
+   ],
+   [
+    "CAL-01",
+    0.0
+   ]
+  ]
+ }
+]

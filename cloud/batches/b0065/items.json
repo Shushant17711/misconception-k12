@@ -1,0 +1,282 @@
+[
+ {
+  "id": "98746b7eb0df",
+  "image": "98746b7eb0df.jpeg",
+  "grade": 6,
+  "topic": "Fraction operations",
+  "question": "Tentukan hasil dari operasi hitung berikut dalam bentuk pecahan campuran\r\n\r\n$$ \\dfrac{3}{4} + \\dfrac{1}{2} : \\dfrac{2}{3} = $$",
+  "question_image": null,
+  "correct_answer": "$1\\dfrac{1}{2}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.39
+   ],
+   [
+    "FRA-01",
+    0.23
+   ],
+   [
+    "ANS-01",
+    0.12
+   ],
+   [
+    "CAL-01",
+    0.12
+   ],
+   [
+    "FRA-06",
+    0.05
+   ],
+   [
+    "WOP-01",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "028a9b67b3d6",
+  "image": "028a9b67b3d6.jpeg",
+  "grade": 8,
+  "topic": "Rationalizing the Denominator",
+  "question": "Bentuk sederhana dari $\\dfrac{\\sqrt{9} + 7}{5 - \\sqrt{8}}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{10\\left(5 + 2\\sqrt{2}\\right)}{17}$",
+  "past_labels": [
+   [
+    "NONE",
+    0.33
+   ],
+   [
+    "EXP-07",
+    0.14
+   ],
+   [
+    "EXP-04",
+    0.12
+   ],
+   [
+    "ALG-04",
+    0.12
+   ],
+   [
+    "VIS-01",
+    0.1
+   ],
+   [
+    "OOO-01",
+    0.09
+   ]
+  ]
+ },
+ {
+  "id": "97f7eccca98a",
+  "image": "97f7eccca98a.jpeg",
+  "grade": 10,
+  "topic": "Introduction to Exponents",
+  "question": "Sebuah sinyal radio memiliki kekuatan awal $2^5$ satuan. Setiap kali melewati satu penghalang tembok, kekuatan sinyal dikalikan dengan faktor $2^{-2}$. Jika sinyal tersebut melewati 3 penghalang tembok, kekuatan sinyal setelahnya adalah $\\ldots$",
+  "question_image": null,
+  "correct_answer": "$\\dfrac{1}{2}$",
+  "past_labels": [
+   [
+    "EXP-01",
+    0.56
+   ],
+   [
+    "NONE",
+    0.13
+   ],
+   [
+    "OTH-00",
+    0.11
+   ],
+   [
+    "EXP-04",
+    0.06
+   ],
+   [
+    "EXP-02",
+    0.06
+   ],
+   [
+    "FRA-03",
+    0.06
+   ]
+  ]
+ },
+ {
+  "id": "500a6e096406",
+  "image": "500a6e096406.jpeg",
+  "grade": 5,
+  "topic": "Data Presentation and Interpretation",
+  "question": "Jika ekstrakurikuler basket diikuti oleh 12 siswa, banyak siswa yang mengikuti ekstrakurikuler paskibra adalah ....",
+  "question_image": "q_500a6e096406_dd6cd752-e9aa-4def-9ce9-48fb6126c083.png",
+  "correct_answer": "28 siswa",
+  "past_labels": [
+   [
+    "NONE",
+    0.41
+   ],
+   [
+    "VIS-01",
+    0.18
+   ],
+   [
+    "UNT-01",
+    0.15
+   ],
+   [
+    "FRA-04",
+    0.13
+   ],
+   [
+    "WOP-01",
+    0.05
+   ],
+   [
+    "RAT-02",
+    0.02
+   ]
+  ]
+ },
+ {
+  "id": "dcfdfb30a12d",
+  "image": "dcfdfb30a12d.jpeg",
+  "grade": 7,
+  "topic": "Application of Integers",
+  "question": "Sebuah mal memiliki lantai di atas tanah dan beberapa lantai di bawah tanah (basement). Lantai dasar dinyatakan sebagai titik nol. \nRiko berada di tempat parkir yang terletak 4 lantai di bawah lantai dasar. Karena ada barang yang tertinggal di lantai yang lebih bawah, Riko harus turun sejauh 2 lantai. \n\nJika posisi Riko digambarkan pada garis bilangan vertikal, bilangan bulat yang tepat untuk menunjukkan posisi akhir Riko sekarang adalah… \n",
+  "question_image": null,
+  "correct_answer": "-6",
+  "past_labels": [
+   [
+    "NONE",
+    0.42
+   ],
+   [
+    "INT-04",
+    0.39
+   ],
+   [
+    "WOP-01",
+    0.11
+   ],
+   [
+    "INT-01",
+    0.05
+   ],
+   [
+    "OTH-00",
+    0.0
+   ],
+   [
+    "FRM-01",
+    0.0
+   ]
+  ]
+ },
+ {
+  "id": "9b1df27ccb6a",
+  "image": "9b1df27ccb6a.jpeg",
+  "grade": 5,
+  "topic": "LCM",
+  "question": "Kelipatan Persekutuan Terkecil dari bilangan 42 dan 45 adalah…",
+  "question_image": null,
+  "correct_answer": "630",
+  "past_labels": [
+   [
+    "CAL-01",
+    0.42
+   ],
+   [
+    "NONE",
+    0.25
+   ],
+   [
+    "KPF-01",
+    0.15
+   ],
+   [
+    "KPF-04",
+    0.06
+   ],
+   [
+    "ANS-01",
+    0.04
+   ],
+   [
+    "KPF-03",
+    0.04
+   ]
+  ]
+ },
+ {
+  "id": "83affc2289b8",
+  "image": "83affc2289b8.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Bentuk pangkat pecahan yang paling sederhana dari $\\sqrt[3]{a \\times \\sqrt{a}}$ adalah...",
+  "question_image": null,
+  "correct_answer": "$a^{\\frac{1}{2}}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.62
+   ],
+   [
+    "NONE",
+    0.11
+   ],
+   [
+    "ANS-01",
+    0.08
+   ],
+   [
+    "VIS-01",
+    0.08
+   ],
+   [
+    "EXP-07",
+    0.06
+   ],
+   [
+    "OOO-01",
+    0.01
+   ]
+  ]
+ },
+ {
+  "id": "80e9f7332cb6",
+  "image": "80e9f7332cb6.jpeg",
+  "grade": 8,
+  "topic": "Operations on Radicals",
+  "question": "Hasil dari $5\\sqrt{27} - 3\\sqrt{12} + \\sqrt{48}$ adalah$\\dots$",
+  "question_image": null,
+  "correct_answer": "$13\\sqrt{3}$",
+  "past_labels": [
+   [
+    "EXP-04",
+    0.52
+   ],
+   [
+    "EXP-07",
+    0.21
+   ],
+   [
+    "NONE",
+    0.18
+   ],
+   [
+    "OOO-01",
+    0.02
+   ],
+   [
+    "OTH-00",
+    0.01
+   ],
+   [
+    "ANS-01",
+    0.01
+   ]
+  ]
+ }
+]
